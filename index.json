@@ -1,0 +1,25 @@
+{
+  "formatVersion": 1,
+  "packs": [
+    {
+      "id": "qc-montreal",
+      "name": "Grand Montréal",
+      "country": "Canada",
+      "region": "Québec",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -74.267609,
+        45.295617,
+        -73.292601,
+        45.850315
+      ],
+      "zoneCount": 98,
+      "downloadBytes": 1163361,
+      "installedBytes": 4026103,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-1.0.0/qc-montreal-1.0.0.zip",
+      "sha256": "6ec0a3a686ff06d7212852b99d6b65350ea23cc4a109e39e80eddf3b98f3d5c9"
+    }
+  ]
+}
