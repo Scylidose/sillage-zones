@@ -6,20 +6,20 @@
       "name": "Vallespir",
       "country": "France",
       "region": "Occitanie",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
-        2.723042,
+        2.649191,
         42.411604,
-        2.865989,
-        42.547922
+        2.932942,
+        42.547933
       ],
-      "zoneCount": 4,
-      "downloadBytes": 146501,
-      "installedBytes": 456919,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-vallespir-1.0.1/fr-vallespir-1.0.1.zip",
-      "sha256": "7655c55c0ac6271641ea8f2c2a0826198061ed3dc95fe8a50d0d26cb881300d5"
+      "zoneCount": 10,
+      "downloadBytes": 172113,
+      "installedBytes": 536404,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-vallespir-1.1.0/fr-vallespir-1.1.0.zip",
+      "sha256": "77905af2ba4e9bf4f83bb35a8358a62a6609670168e94e72c75cd4b9fb2dec3a"
     },
     {
       "id": "qc-montreal",
