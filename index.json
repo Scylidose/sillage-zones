@@ -2,6 +2,26 @@
   "formatVersion": 1,
   "packs": [
     {
+      "id": "fr-vallespir",
+      "name": "Vallespir",
+      "country": "France",
+      "region": "Occitanie",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        2.723042,
+        42.411604,
+        2.865989,
+        42.547922
+      ],
+      "zoneCount": 4,
+      "downloadBytes": 146473,
+      "installedBytes": 456777,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-vallespir-1.0.0/fr-vallespir-1.0.0.zip",
+      "sha256": "3718d9b0af2173deb5ee33e52045555df99e5f0678e820c9f76ac5543dd35f7d"
+    },
+    {
       "id": "qc-montreal",
       "name": "Grand Montréal",
       "country": "Canada",
