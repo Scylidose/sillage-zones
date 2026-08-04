@@ -1,6 +1,6 @@
 # Vallespir
 
-Pack `fr-vallespir` · version 1.0.0 · grille 200 m · France › Occitanie
+Pack `fr-vallespir` · version 1.0.1 · grille 200 m · France › Occitanie
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -10,7 +10,7 @@ Pack `fr-vallespir` · version 1.0.0 · grille 200 m · France › Occitanie
 |---|---:|
 | Cellules du territoire | 4 804 |
 | dont restreintes (aéroport, militaire, prison) | 0 |
-| Cellules écartées comme eau | 0 |
+| Cellules retirées par le masque d'eau | 49 |
 | Villes | 4 |
 | Arrondissements et quartiers | 0 |
 | Îles | 0 |
@@ -18,14 +18,14 @@ Pack `fr-vallespir` · version 1.0.0 · grille 200 m · France › Occitanie
 
 Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'est comptée qu'une fois dans le total du territoire, mais apparaît dans chacune des zones ci-dessous.
 
-« Écartées comme eau » ne compte que les cellules d'eau tombant dans un polygone de zone : les frontières sont rognées sur la rive, donc l'essentiel du fleuve n'a jamais appartenu à personne.
+« Retirées par le masque d'eau » est mesuré au moment du rognage, par `build_water_mask.py`. Il ne peut pas être recalculé depuis le pack : les frontières y sont déjà découpées sur la rive, donc ces cellules sont hors des polygones et un recomptage les trouverait toutes à zéro — ce qui se lirait, à tort, comme « pas d'eau ici ».
 
 ### Lire les colonnes
 
 | Colonne | Ce que c'est |
 |---|---|
-| **Brut** | cellules dans le polygone, avant toute exclusion |
-| **Eau** | parmi elles, écartées comme plan d'eau — elles n'appartiennent à aucune zone |
+| **Brut** | cellules du polygone d'origine, avant toute exclusion |
+| **Eau** | parmi elles, retirées par le masque d'eau — elles n'appartiennent à aucune zone |
 | **Sans eau** | ce que publie `cell-totals.json` |
 | **Restr.** | parmi elles, dans un aéroport, une zone militaire ou une prison |
 | **Comptées** | le dénominateur réel de l'app : sans eau − restreintes |
@@ -34,10 +34,10 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
 |---|---:|---:|---:|---:|---:|---:|
-| Maureillas-las-Illas | 1 946 | 0 | 1 946 | 0 | **1 946** | 5 |
-| Céret | 1 736 | 0 | 1 736 | 0 | **1 736** |  |
-| Le Boulou | 646 | 0 | 646 | 0 | **646** |  |
-| Saint-Jean-Pla-de-Corts | 476 | 0 | 476 | 0 | **476** |  |
+| Maureillas-las-Illas | 1 947 | 1 | 1 946 | 0 | **1 946** | 5 |
+| Céret | 1 745 | 9 | 1 736 | 0 | **1 736** |  |
+| Le Boulou | 670 | 24 | 646 | 0 | **646** |  |
+| Saint-Jean-Pla-de-Corts | 491 | 15 | 476 | 0 | **476** |  |
 
 ## Parcs (13)
 

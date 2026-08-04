@@ -1,6 +1,6 @@
 # Grand Montréal
 
-Pack `qc-montreal` · version 1.0.1 · grille 200 m · Canada › Québec
+Pack `qc-montreal` · version 1.0.2 · grille 200 m · Canada › Québec
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -10,7 +10,7 @@ Pack `qc-montreal` · version 1.0.1 · grille 200 m · Canada › Québec
 |---|---:|
 | Cellules du territoire | 140 402 |
 | dont restreintes (aéroport, militaire, prison) | 2 322 |
-| Cellules écartées comme eau | 1 299 |
+| Cellules retirées par le masque d'eau | 18 491 |
 | Villes | 54 |
 | Arrondissements et quartiers | 44 |
 | Îles | 3 |
@@ -18,14 +18,14 @@ Pack `qc-montreal` · version 1.0.1 · grille 200 m · Canada › Québec
 
 Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'est comptée qu'une fois dans le total du territoire, mais apparaît dans chacune des zones ci-dessous.
 
-« Écartées comme eau » ne compte que les cellules d'eau tombant dans un polygone de zone : les frontières sont rognées sur la rive, donc l'essentiel du fleuve n'a jamais appartenu à personne.
+« Retirées par le masque d'eau » est mesuré au moment du rognage, par `build_water_mask.py`. Il ne peut pas être recalculé depuis le pack : les frontières y sont déjà découpées sur la rive, donc ces cellules sont hors des polygones et un recomptage les trouverait toutes à zéro — ce qui se lirait, à tort, comme « pas d'eau ici ».
 
 ### Lire les colonnes
 
 | Colonne | Ce que c'est |
 |---|---|
-| **Brut** | cellules dans le polygone, avant toute exclusion |
-| **Eau** | parmi elles, écartées comme plan d'eau — elles n'appartiennent à aucune zone |
+| **Brut** | cellules du polygone d'origine, avant toute exclusion |
+| **Eau** | parmi elles, retirées par le masque d'eau — elles n'appartiennent à aucune zone |
 | **Sans eau** | ce que publie `cell-totals.json` |
 | **Restr.** | parmi elles, dans un aéroport, une zone militaire ou une prison |
 | **Comptées** | le dénominateur réel de l'app : sans eau − restreintes |
@@ -44,60 +44,60 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
 |---|---:|---:|---:|---:|---:|---:|
-| Mirabel | 24 772 | 0 | 24 772 | 1 018 | **23 754** |  |
-| Montreal | 18 582 | 0 | 18 582 | 243 | **18 339** | 36 |
-| Laval | 12 495 | 0 | 12 495 | 24 | **12 471** | 3 |
-| Terrebonne | 7 978 | 0 | 7 978 | 25 | **7 953** | 3 |
-| Longueuil | 5 897 | 0 | 5 897 | 218 | **5 679** | 2 |
-| Mascouche | 5 489 | 0 | 5 489 | 0 | **5 489** |  |
-| Sainte-Anne-des-Plaines | 4 840 | 1 | 4 839 | 91 | **4 748** | 1 |
-| Varennes | 4 799 | 0 | 4 799 | 0 | **4 799** | 3 |
-| Saint-Jérôme | 4 670 | 1 | 4 669 | 0 | **4 669** | 2 |
-| Vaudreuil-Dorion | 3 694 | 0 | 3 694 | 0 | **3 694** | 2 |
-| Boucherville | 3 588 | 0 | 3 588 | 0 | **3 588** | 2 |
-| Saint-Eustache | 3 584 | 0 | 3 584 | 0 | **3 584** |  |
-| Repentigny | 3 104 | 0 | 3 104 | 0 | **3 104** | 1 |
-| Oka | 2 899 | 0 | 2 899 | 0 | **2 899** |  |
-| Saint-Constant | 2 879 | 0 | 2 879 | 0 | **2 879** | 1 |
-| Blainville | 2 807 | 0 | 2 807 | 248 | **2 559** | 1 |
-| Kahnawake | 2 525 | 0 | 2 525 | 0 | **2 525** |  |
-| Brossard | 2 300 | 0 | 2 300 | 0 | **2 300** | 2 |
-| La Prairie | 2 225 | 1 | 2 224 | 0 | **2 224** | 2 |
-| Saint-Bruno-de-Montarville | 2 166 | 0 | 2 166 | 87 | **2 079** | 1 |
-| Saint-Joseph-du-Lac | 2 105 | 0 | 2 105 | 0 | **2 105** |  |
-| Châteauguay | 1 815 | 0 | 1 815 | 0 | **1 815** |  |
-| Boisbriand | 1 441 | 0 | 1 441 | 0 | **1 441** |  |
-| Notre-Dame-de-l'Île-Perrot | 1 418 | 0 | 1 418 | 0 | **1 418** | 1 |
-| Dorval | 1 068 | 0 | 1 068 | 368 | **700** | 1 |
-| Pointe-Claire | 961 | 0 | 961 | 0 | **961** | 1 |
-| Candiac | 877 | 0 | 877 | 0 | **877** | 1 |
-| Dollard-Des-Ormeaux | 757 | 0 | 757 | 0 | **757** | 1 |
-| Montréal-Est | 634 | 0 | 634 | 0 | **634** |  |
-| Beaconsfield | 560 | 0 | 560 | 0 | **560** |  |
-| Rosemère | 555 | 0 | 555 | 0 | **555** |  |
-| Sainte-Anne-de-Bellevue | 534 | 0 | 534 | 0 | **534** |  |
-| Kirkland | 491 | 0 | 491 | 0 | **491** | 1 |
+| Mirabel | 24 876 | 104 | 24 772 | 1 018 | **23 754** |  |
+| Montreal | 22 454 | 3 872 | 18 582 | 243 | **18 339** | 36 |
+| Laval | 13 495 | 1 000 | 12 495 | 24 | **12 471** | 3 |
+| Terrebonne | 8 232 | 254 | 7 978 | 25 | **7 953** | 3 |
+| Longueuil | 6 238 | 341 | 5 897 | 218 | **5 679** | 2 |
+| Mascouche | 5 528 | 39 | 5 489 | 0 | **5 489** |  |
+| Sainte-Anne-des-Plaines | 4 851 | 12 | 4 839 | 91 | **4 748** | 1 |
+| Varennes | 4 852 | 53 | 4 799 | 0 | **4 799** | 3 |
+| Saint-Jérôme | 4 751 | 82 | 4 669 | 0 | **4 669** | 2 |
+| Vaudreuil-Dorion | 4 682 | 988 | 3 694 | 0 | **3 694** | 2 |
+| Boucherville | 4 182 | 594 | 3 588 | 0 | **3 588** | 2 |
+| Saint-Eustache | 3 710 | 126 | 3 584 | 0 | **3 584** |  |
+| Repentigny | 3 656 | 552 | 3 104 | 0 | **3 104** | 1 |
+| Oka | 4 413 | 1 514 | 2 899 | 0 | **2 899** |  |
+| Saint-Constant | 2 881 | 2 | 2 879 | 0 | **2 879** | 1 |
+| Blainville | 2 842 | 35 | 2 807 | 248 | **2 559** | 1 |
+| Kahnawake | 3 136 | 611 | 2 525 | 0 | **2 525** |  |
+| Brossard | 2 761 | 461 | 2 300 | 0 | **2 300** | 2 |
+| La Prairie | 2 664 | 440 | 2 224 | 0 | **2 224** | 2 |
+| Saint-Bruno-de-Montarville | 2 216 | 50 | 2 166 | 87 | **2 079** | 1 |
+| Saint-Joseph-du-Lac | 2 120 | 15 | 2 105 | 0 | **2 105** |  |
+| Châteauguay | 2 848 | 1 033 | 1 815 | 0 | **1 815** |  |
+| Boisbriand | 1 525 | 84 | 1 441 | 0 | **1 441** |  |
+| Notre-Dame-de-l'Île-Perrot | 3 517 | 2 099 | 1 418 | 0 | **1 418** | 1 |
+| Dorval | 1 453 | 385 | 1 068 | 368 | **700** | 1 |
+| Pointe-Claire | 1 790 | 829 | 961 | 0 | **961** | 1 |
+| Candiac | 977 | 100 | 877 | 0 | **877** | 1 |
+| Dollard-Des-Ormeaux | 764 | 7 | 757 | 0 | **757** | 1 |
+| Montréal-Est | 712 | 78 | 634 | 0 | **634** |  |
+| Beaconsfield | 1 095 | 535 | 560 | 0 | **560** |  |
+| Rosemère | 624 | 69 | 555 | 0 | **555** |  |
+| Sainte-Anne-de-Bellevue | 563 | 29 | 534 | 0 | **534** |  |
+| Kirkland | 492 | 1 | 491 | 0 | **491** | 1 |
 | Sainte-Thérèse | 479 | 0 | 479 | 0 | **479** |  |
-| Sainte-Catherine | 477 | 0 | 477 | 0 | **477** | 1 |
-| Sainte-Marthe-sur-le-Lac | 432 | 0 | 432 | 0 | **432** |  |
+| Sainte-Catherine | 693 | 216 | 477 | 0 | **477** | 1 |
+| Sainte-Marthe-sur-le-Lac | 671 | 239 | 432 | 0 | **432** |  |
 | Mont-Royal | 390 | 0 | 390 | 0 | **390** |  |
 | Delson | 389 | 0 | 389 | 0 | **389** |  |
-| Saint-Lambert | 381 | 0 | 381 | 0 | **381** | 1 |
-| Senneville | 370 | 0 | 370 | 0 | **370** |  |
-| Pincourt | 363 | 0 | 363 | 0 | **363** |  |
+| Saint-Lambert | 504 | 123 | 381 | 0 | **381** | 1 |
+| Senneville | 928 | 558 | 370 | 0 | **370** |  |
+| Pincourt | 483 | 120 | 363 | 0 | **363** |  |
 | Côte-Saint-Luc | 352 | 0 | 352 | 0 | **352** |  |
-| Deux-Montagnes | 315 | 0 | 315 | 0 | **315** |  |
-| Lorraine | 307 | 0 | 307 | 0 | **307** |  |
-| Baie-D'Urfé | 304 | 0 | 304 | 0 | **304** | 1 |
-| Ville de l'Île-Perrot | 275 | 0 | 275 | 0 | **275** |  |
-| Pointe-Calumet | 237 | 0 | 237 | 0 | **237** |  |
-| Bois-des-Filion | 231 | 0 | 231 | 0 | **231** |  |
+| Deux-Montagnes | 368 | 53 | 315 | 0 | **315** |  |
+| Lorraine | 311 | 4 | 307 | 0 | **307** |  |
+| Baie-D'Urfé | 383 | 79 | 304 | 0 | **304** | 1 |
+| Ville de l'Île-Perrot | 487 | 212 | 275 | 0 | **275** |  |
+| Pointe-Calumet | 593 | 356 | 237 | 0 | **237** |  |
+| Bois-des-Filion | 251 | 20 | 231 | 0 | **231** |  |
 | Westmount | 202 | 0 | 202 | 0 | **202** |  |
-| Charlemagne | 107 | 0 | 107 | 0 | **107** |  |
+| Charlemagne | 116 | 9 | 107 | 0 | **107** |  |
 | Hampstead | 92 | 0 | 92 | 0 | **92** |  |
 | Montréal-Ouest | 71 | 0 | 71 | 0 | **71** |  |
-| Vaudreuil-sur-le-Lac | 67 | 0 | 67 | 0 | **67** |  |
-| Terrasse-Vaudreuil | 56 | 0 | 56 | 0 | **56** |  |
+| Vaudreuil-sur-le-Lac | 144 | 77 | 67 | 0 | **67** |  |
+| Terrasse-Vaudreuil | 62 | 6 | 56 | 0 | **56** |  |
 
 ## Arrondissements et quartiers (44)
 
@@ -106,36 +106,36 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Saint-Hubert | longueuil | 3 372 | 4 | 3 368 | 218 | **3 150** | 1 |
 | Duvernay | laval | 2 464 | 155 | 2 309 | 0 | **2 309** |  |
 | Le Vieux-Longueuil | longueuil | 2 623 | 337 | 2 286 | 0 | **2 286** | 2 |
-| Saint-Laurent | montreal | 2 186 | 0 | 2 186 | 194 | **1 992** | 3 |
-| Pointe-aux-Trembles-Rivieres-des-Prairies | montreal | 2 181 | 0 | 2 181 | 6 | **2 175** | 2 |
+| Saint-Laurent | montreal | 2 190 | 4 | 2 186 | 194 | **1 992** | 3 |
+| Pointe-aux-Trembles-Rivieres-des-Prairies | montreal | 2 520 | 339 | 2 181 | 6 | **2 175** | 2 |
 | Chomedey | laval | 2 096 | 56 | 2 040 | 0 | **2 040** | 1 |
 | Saint-François | laval | 2 072 | 249 | 1 823 | 12 | **1 811** |  |
-| Pierrefonds--Roxboro | montreal | 1 381 | 0 | 1 381 | 0 | **1 381** |  |
-| Mercier-Hochelaga-Maisonneuve | montreal | 1 298 | 0 | 1 298 | 47 | **1 251** | 3 |
+| Pierrefonds--Roxboro | montreal | 1 668 | 287 | 1 381 | 0 | **1 381** |  |
+| Mercier-Hochelaga-Maisonneuve | montreal | 1 396 | 98 | 1 298 | 47 | **1 251** | 3 |
 | Auteuil | laval | 1 328 | 77 | 1 251 | 0 | **1 251** |  |
-| Ahuntsic-Cartierville | montreal | 1 239 | 1 | 1 238 | 0 | **1 238** | 4 |
-| L'Ile-Bizard--Sainte-Genevieve | montreal | 1 194 | 0 | 1 194 | 0 | **1 194** | 1 |
+| Ahuntsic-Cartierville | montreal | 1 305 | 67 | 1 238 | 0 | **1 238** | 4 |
+| L'Ile-Bizard--Sainte-Genevieve | montreal | 1 812 | 618 | 1 194 | 0 | **1 194** | 1 |
 | Sainte-Dorothée | laval | 1 184 | 74 | 1 110 | 0 | **1 110** |  |
 | Cote-des-Neiges--Notre-Dame-de-Grace | montreal | 1 084 | 0 | 1 084 | 0 | **1 084** |  |
 | Fabreville | laval | 1 181 | 122 | 1 059 | 0 | **1 059** |  |
-| Lachine | montreal | 907 | 0 | 907 | 0 | **907** | 2 |
+| Lachine | montreal | 1 125 | 218 | 907 | 0 | **907** | 2 |
 | Sainte-Rose | laval | 890 | 48 | 842 | 0 | **842** |  |
-| Villeray-Saint-Michel-Parc-Extension | montreal | 831 | 0 | 831 | 0 | **831** | 2 |
-| LaSalle | montreal | 827 | 0 | 827 | 0 | **827** | 2 |
+| Villeray-Saint-Michel-Parc-Extension | montreal | 839 | 8 | 831 | 0 | **831** | 2 |
+| LaSalle | montreal | 1 250 | 423 | 827 | 0 | **827** | 2 |
 | Rosemont--La-Petite-Patrie | montreal | 810 | 0 | 810 | 0 | **810** | 4 |
-| Ville-Marie | montreal | 800 | 0 | 800 | 0 | **800** | 2 |
-| Sud-Ouest | montreal | 798 | 0 | 798 | 0 | **798** | 4 |
+| Ville-Marie | montreal | 1 094 | 294 | 800 | 0 | **800** | 2 |
+| Sud-Ouest | montreal | 915 | 117 | 798 | 0 | **798** | 4 |
 | Vimont | laval | 710 | 2 | 708 | 0 | **708** | 1 |
-| Anjou | montreal | 702 | 0 | 702 | 0 | **702** | 1 |
+| Anjou | montreal | 705 | 3 | 702 | 0 | **702** | 1 |
 | St-Leonard | montreal | 691 | 0 | 691 | 0 | **691** | 1 |
-| Montreal-Nord | montreal | 563 | 0 | 563 | 0 | **563** |  |
-| Verdun--Ile-des-Soeurs | montreal | 482 | 0 | 482 | 0 | **482** | 2 |
+| Montreal-Nord | montreal | 638 | 75 | 563 | 0 | **563** |  |
+| Verdun--Ile-des-Soeurs | montreal | 1 071 | 589 | 482 | 0 | **482** | 2 |
 | Laval-des-Rapides | laval | 492 | 38 | 454 | 0 | **454** | 1 |
-| Plateau-Mont-Royal | montreal | 413 | 0 | 413 | 0 | **413** | 3 |
+| Plateau-Mont-Royal | montreal | 416 | 3 | 413 | 0 | **413** | 3 |
 | Saint-Vincent-de-Paul | laval | 401 | 0 | 401 | 12 | **389** | 1 |
 | Greenfield Park | longueuil | 246 | 0 | 246 | 0 | **246** |  |
 | Laval-Ouest | laval | 259 | 54 | 205 | 0 | **205** |  |
-| Outremont | montreal | 197 | 0 | 197 | 0 | **197** |  |
+| Outremont | montreal | 198 | 1 | 197 | 0 | **197** |  |
 | Secteur L | brossard | 192 | 1 | 191 | 0 | **191** |  |
 | Pont-Viau | laval | 181 | 16 | 165 | 0 | **165** |  |
 | Secteur R | brossard | 147 | 2 | 145 | 0 | **145** |  |
@@ -152,7 +152,7 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
 |---|---:|---:|---:|---:|---:|---:|
-| Parc Jean-Drapeau | 110 | 0 | 110 | 0 | **110** | 1 |
+| Parc Jean-Drapeau | 135 | 25 | 110 | 0 | **110** | 1 |
 
 ## Parcs (86)
 
@@ -261,7 +261,7 @@ Cellules soustraites du dénominateur de leur zone : on ne peut pas demander à 
 | **Total déclaré** | **19 695** |
 | dont dans une zone de ce territoire | 2 322 |
 
-Le jeu de données couvre plus large que le territoire — il est produit à l'échelle de la province. Seules les cellules tombant dans une zone d'ici pèsent sur un pourcentage.
+Le jeu de données couvre plus large que le territoire — il est produit à une échelle supérieure. Seules les cellules tombant dans une zone d'ici pèsent sur un pourcentage.
 
 ### Zones concernées
 
