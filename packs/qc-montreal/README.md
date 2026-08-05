@@ -1,6 +1,6 @@
 # Grand Montréal
 
-Pack `qc-montreal` · version 1.0.2 · grille 200 m · Canada › Québec
+Pack `qc-montreal` · version 1.0.3 · grille 200 m · Canada › Québec
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -14,7 +14,7 @@ Pack `qc-montreal` · version 1.0.2 · grille 200 m · Canada › Québec
 | Villes | 54 |
 | Arrondissements et quartiers | 44 |
 | Îles | 3 |
-| Parcs | 86 |
+| Parcs | 73 |
 
 Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'est comptée qu'une fois dans le total du territoire, mais apparaît dans chacune des zones ci-dessous.
 
@@ -45,10 +45,10 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
 |---|---:|---:|---:|---:|---:|---:|
 | Mirabel | 24 876 | 104 | 24 772 | 1 018 | **23 754** |  |
-| Montreal | 22 454 | 3 872 | 18 582 | 243 | **18 339** | 36 |
-| Laval | 13 495 | 1 000 | 12 495 | 24 | **12 471** | 3 |
+| Montreal | 22 454 | 3 872 | 18 582 | 243 | **18 339** | 38 |
+| Laval | 13 495 | 1 000 | 12 495 | 24 | **12 471** | 4 |
 | Terrebonne | 8 232 | 254 | 7 978 | 25 | **7 953** | 3 |
-| Longueuil | 6 238 | 341 | 5 897 | 218 | **5 679** | 2 |
+| Longueuil | 6 238 | 341 | 5 897 | 218 | **5 679** | 3 |
 | Mascouche | 5 528 | 39 | 5 489 | 0 | **5 489** |  |
 | Sainte-Anne-des-Plaines | 4 851 | 12 | 4 839 | 91 | **4 748** | 1 |
 | Varennes | 4 852 | 53 | 4 799 | 0 | **4 799** | 3 |
@@ -62,7 +62,7 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Blainville | 2 842 | 35 | 2 807 | 248 | **2 559** | 1 |
 | Kahnawake | 3 136 | 611 | 2 525 | 0 | **2 525** |  |
 | Brossard | 2 761 | 461 | 2 300 | 0 | **2 300** | 2 |
-| La Prairie | 2 664 | 440 | 2 224 | 0 | **2 224** | 2 |
+| La Prairie | 2 664 | 440 | 2 224 | 0 | **2 224** | 1 |
 | Saint-Bruno-de-Montarville | 2 216 | 50 | 2 166 | 87 | **2 079** | 1 |
 | Saint-Joseph-du-Lac | 2 120 | 15 | 2 105 | 0 | **2 105** |  |
 | Châteauguay | 2 848 | 1 033 | 1 815 | 0 | **1 815** |  |
@@ -76,7 +76,7 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Beaconsfield | 1 095 | 535 | 560 | 0 | **560** |  |
 | Rosemère | 624 | 69 | 555 | 0 | **555** |  |
 | Sainte-Anne-de-Bellevue | 563 | 29 | 534 | 0 | **534** |  |
-| Kirkland | 492 | 1 | 491 | 0 | **491** | 1 |
+| Kirkland | 492 | 1 | 491 | 0 | **491** |  |
 | Sainte-Thérèse | 479 | 0 | 479 | 0 | **479** |  |
 | Sainte-Catherine | 693 | 216 | 477 | 0 | **477** | 1 |
 | Sainte-Marthe-sur-le-Lac | 671 | 239 | 432 | 0 | **432** |  |
@@ -106,12 +106,12 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Saint-Hubert | longueuil | 3 372 | 4 | 3 368 | 218 | **3 150** | 1 |
 | Duvernay | laval | 2 464 | 155 | 2 309 | 0 | **2 309** |  |
 | Le Vieux-Longueuil | longueuil | 2 623 | 337 | 2 286 | 0 | **2 286** | 2 |
-| Saint-Laurent | montreal | 2 190 | 4 | 2 186 | 194 | **1 992** | 3 |
+| Saint-Laurent | montreal | 2 190 | 4 | 2 186 | 194 | **1 992** | 2 |
 | Pointe-aux-Trembles-Rivieres-des-Prairies | montreal | 2 520 | 339 | 2 181 | 6 | **2 175** | 2 |
 | Chomedey | laval | 2 096 | 56 | 2 040 | 0 | **2 040** | 1 |
 | Saint-François | laval | 2 072 | 249 | 1 823 | 12 | **1 811** |  |
 | Pierrefonds--Roxboro | montreal | 1 668 | 287 | 1 381 | 0 | **1 381** |  |
-| Mercier-Hochelaga-Maisonneuve | montreal | 1 396 | 98 | 1 298 | 47 | **1 251** | 3 |
+| Mercier-Hochelaga-Maisonneuve | montreal | 1 396 | 98 | 1 298 | 47 | **1 251** | 4 |
 | Auteuil | laval | 1 328 | 77 | 1 251 | 0 | **1 251** |  |
 | Ahuntsic-Cartierville | montreal | 1 305 | 67 | 1 238 | 0 | **1 238** | 4 |
 | L'Ile-Bizard--Sainte-Genevieve | montreal | 1 812 | 618 | 1 194 | 0 | **1 194** | 1 |
@@ -123,13 +123,13 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Villeray-Saint-Michel-Parc-Extension | montreal | 839 | 8 | 831 | 0 | **831** | 2 |
 | LaSalle | montreal | 1 250 | 423 | 827 | 0 | **827** | 2 |
 | Rosemont--La-Petite-Patrie | montreal | 810 | 0 | 810 | 0 | **810** | 4 |
-| Ville-Marie | montreal | 1 094 | 294 | 800 | 0 | **800** | 2 |
-| Sud-Ouest | montreal | 915 | 117 | 798 | 0 | **798** | 4 |
+| Ville-Marie | montreal | 1 094 | 294 | 800 | 0 | **800** | 3 |
+| Sud-Ouest | montreal | 915 | 117 | 798 | 0 | **798** | 3 |
 | Vimont | laval | 710 | 2 | 708 | 0 | **708** | 1 |
 | Anjou | montreal | 705 | 3 | 702 | 0 | **702** | 1 |
 | St-Leonard | montreal | 691 | 0 | 691 | 0 | **691** | 1 |
 | Montreal-Nord | montreal | 638 | 75 | 563 | 0 | **563** |  |
-| Verdun--Ile-des-Soeurs | montreal | 1 071 | 589 | 482 | 0 | **482** | 2 |
+| Verdun--Ile-des-Soeurs | montreal | 1 071 | 589 | 482 | 0 | **482** | 4 |
 | Laval-des-Rapides | laval | 492 | 38 | 454 | 0 | **454** | 1 |
 | Plateau-Mont-Royal | montreal | 416 | 3 | 413 | 0 | **413** | 3 |
 | Saint-Vincent-de-Paul | laval | 401 | 0 | 401 | 12 | **389** | 1 |
@@ -154,100 +154,89 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 |---|---:|---:|---:|---:|---:|---:|
 | Parc Jean-Drapeau | 135 | 25 | 110 | 0 | **110** | 1 |
 
-## Parcs (86)
+## Parcs (73)
 
 Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte — ce que l'app énumère pour un défi. Les défis « parc » demandent au moins 10 cellules.
 
-| Parc | Cellules |
-|---|---:|
-| Parc Michel Chartrand | 86 |
-| Parc Jean-Drapeau | 84 |
-| Parc de la Cité | 53 |
-| Parc Angrignon | 42 |
-| Jardin botanique de Montréal | 41 |
-| Parc Le Rocher | 37 |
-| Parc du Canal-de-Lachine | 33 |
-| Parc Frédéric-Back | 33 |
-| Parc Maisonneuve | 31 |
-| Récré-O-Parc de Sainte-Catherine | 27 |
-| Parc naturel des Ruisseaux | 27 |
-| Parc récréotouristique de Saint-Lin-Laurentides | 24 |
-| Parc olympique | 23 |
-| Parc Marie-Victorin | 23 |
-| Parc Saint-Charles | 22 |
-| Parc multifonctionnel | 22 |
-| Parc | 21 |
-| Parc Terra Cotta | 20 |
-| Centre de la nature | 20 |
-| Parc Jarry | 19 |
-| Parc Marcel-Laurin | 18 |
-| Parc du Centenaire | 17 |
-| Parc de l'Honorable-George-O'Reilly | 16 |
-| Parc La Fontaine | 15 |
-| Parc de la Promenade-Bellerive | 15 |
-| Vieux-Port | 15 |
-| Parc | 15 |
-| Parc Bernard-Landry | 15 |
-| Parc-Nature Harwood | 13 |
-| Parc de l'Île-Lebel | 12 |
-| Parc | 12 |
-| Parc du Boisé de la Volière | 12 |
-| Parc Marcelin-Wilson | 12 |
-| Parc Sandy Beach | 11 |
-| Parc Équestre | 11 |
-| Parc des Rapides | 11 |
-| Parc Arthur-Therrien | 10 |
-| Parc de Lausanne | 10 |
-| Parc des Écluses | 10 |
-| Parc de la Voie maritime | 10 |
-| Parc de l'Aqueduc | 10 |
-| Parc du Père-Marquette ⚠️ | 9 |
-| Parc Pierre-Laporte ⚠️ | 9 |
-| Parc ⚠️ | 9 |
-| Parc des Hirondelles ⚠️ | 8 |
-| Parc Jeanne-Mance ⚠️ | 8 |
-| Parc Thomas-Chapais ⚠️ | 8 |
-| Parc Pasquale-Gattuso ⚠️ | 8 |
-| Parc Fritz ⚠️ | 8 |
-| Parc Philippe-Laheurte ⚠️ | 8 |
-| Parc Champlain ⚠️ | 8 |
-| Parc de la Traversée ⚠️ | 8 |
-| Parc Lucie-F.-Roussel ⚠️ | 7 |
-| Terrains du centre communautaire Sarto-Desnoyers ⚠️ | 7 |
-| Parc Henri-Julien ⚠️ | 7 |
-| Parc Angora ⚠️ | 7 |
-| Parc René-Lévesque ⚠️ | 7 |
-| Parc du Boisé-Du-Pays-Brûlé ⚠️ | 7 |
-| Parc Marie-Victorin ⚠️ | 7 |
-| Parc LaSalle ⚠️ | 7 |
-| Parc d'Anjou-sur-le-Lac ⚠️ | 7 |
-| Parc Sir-Wilfrid-Laurier ⚠️ | 6 |
-| Parc de la Terre ⚠️ | 6 |
-| Parc Félix-Leclerc ⚠️ | 6 |
-| Parc Ahuntsic ⚠️ | 6 |
-| Parc Eugène-Dostie ⚠️ | 6 |
-| Parc historique Pointe-du-Moulin ⚠️ | 6 |
-| Parc Delorme ⚠️ | 6 |
-| Parc Ignace-Bourget ⚠️ | 6 |
-| Parc du Bois-Franc ⚠️ | 6 |
-| Parc des Méandres ⚠️ | 6 |
-| Parc de la Commune ⚠️ | 6 |
-| Parc ⚠️ | 6 |
-| Parc des Bénévoles ⚠️ | 6 |
-| Parc Jacques-Locas ⚠️ | 6 |
-| Parc Esther-Blondin ⚠️ | 5 |
-| Parc Émilie-Gamelin ⚠️ | 5 |
-| Parc Maynard-Ferguson ⚠️ | 5 |
-| Le Boutillier Park ⚠️ | 5 |
-| Parc du Ruisseau ⚠️ | 5 |
-| Parc naturel de Rivière-à-Gagnon ⚠️ | 5 |
-| Parc ⚠️ | 5 |
-| Grand Parc Urbain ⚠️ | 5 |
-| Parc Edmour-J.-Harvey ⚠️ | 5 |
-| Parc Étienne-Desmarteau ⚠️ | 4 |
-| Parc de la Coulée ⚠️ | 4 |
+« Zone » est celle qui contient le plus de cellules du parc : un parc à cheval sur deux villes n'est rattaché qu'à une seule.
 
-⚠️ 45 parc(s) sous le seuil de 10 cellules : ils ne peuvent pas servir de cible à un défi.
+| Parc | Zone | Cellules |
+|---|---|---:|
+| Parc Michel Chartrand | Longueuil › Le Vieux-Longueuil | 86 |
+| Parc Jean-Drapeau | Montreal › Ville-Marie › Parc Jean-Drapeau | 84 |
+| Parc de la Cité | Longueuil › Saint-Hubert | 53 |
+| Parc Angrignon | Montreal › Sud-Ouest | 42 |
+| Jardin botanique de Montréal | Montreal › Rosemont--La-Petite-Patrie | 41 |
+| Parc Frédéric-Back | Montreal › Villeray-Saint-Michel-Parc-Extension | 33 |
+| Parc du Canal-de-Lachine | Montreal › Sud-Ouest | 32 |
+| Parc Maisonneuve | Montreal › Rosemont--La-Petite-Patrie | 31 |
+| Récré-O-Parc de Sainte-Catherine | Sainte-Catherine | 27 |
+| Parc olympique | Montreal › Mercier-Hochelaga-Maisonneuve | 23 |
+| Parc Marie-Victorin | Saint-Bruno-de-Montarville | 23 |
+| Parc Saint-Charles | Varennes | 22 |
+| Parc multifonctionnel | Saint-Constant | 22 |
+| Parc | Terrebonne | 21 |
+| Parc Terra Cotta | Pointe-Claire | 20 |
+| Centre de la nature | Laval › Saint-Vincent-de-Paul | 20 |
+| Parc Jarry | Montreal › Villeray-Saint-Michel-Parc-Extension | 19 |
+| Parc Marcel-Laurin | Montreal › Saint-Laurent | 18 |
+| Parc du Centenaire | Dollard-Des-Ormeaux | 17 |
+| Parc de l'Honorable-George-O'Reilly | Montreal › Verdun--Ile-des-Soeurs | 16 |
+| Parc La Fontaine | Montreal › Plateau-Mont-Royal | 15 |
+| Parc de la Promenade-Bellerive | Montreal › Mercier-Hochelaga-Maisonneuve | 15 |
+| Vieux-Port | Montreal › Ville-Marie | 15 |
+| Parc Bernard-Landry | Laval › Laval-des-Rapides | 15 |
+| Parc-Nature Harwood | Vaudreuil-Dorion | 13 |
+| Parc de l'Île-Lebel | Repentigny | 12 |
+| Parc | Varennes | 12 |
+| Parc Marcelin-Wilson | Montreal › Ahuntsic-Cartierville | 12 |
+| Parc Équestre | Blainville | 11 |
+| Parc des Rapides | Montreal › LaSalle | 11 |
+| Parc Arthur-Therrien | Montreal › Verdun--Ile-des-Soeurs | 10 |
+| Parc de Lausanne | Laval › Vimont | 10 |
+| Parc de la Voie maritime | Saint-Lambert | 10 |
+| Parc de l'Aqueduc | Montreal › Verdun--Ile-des-Soeurs | 10 |
+| Parc du Père-Marquette ⚠️ | Montreal › Rosemont--La-Petite-Patrie | 9 |
+| Parc Pierre-Laporte ⚠️ | Boucherville | 9 |
+| Parc ⚠️ | Montreal › Ville-Marie | 9 |
+| Parc ⚠️ | Vaudreuil-Dorion | 9 |
+| Parc des Hirondelles ⚠️ | Montreal › Ahuntsic-Cartierville | 8 |
+| Parc Jeanne-Mance ⚠️ | Montreal › Plateau-Mont-Royal | 8 |
+| Parc Thomas-Chapais ⚠️ | Montreal › Mercier-Hochelaga-Maisonneuve | 8 |
+| Parc Pasquale-Gattuso ⚠️ | Montreal › Pointe-aux-Trembles-Rivieres-des-Prairies | 8 |
+| Parc Fritz ⚠️ | Baie-D'Urfé | 8 |
+| Parc Philippe-Laheurte ⚠️ | Montreal › Saint-Laurent | 8 |
+| Parc Champlain ⚠️ | Candiac | 8 |
+| Parc de la Traversée ⚠️ | Montreal › Pointe-aux-Trembles-Rivieres-des-Prairies | 8 |
+| Terrains du centre communautaire Sarto-Desnoyers ⚠️ | Dorval | 7 |
+| Parc Henri-Julien ⚠️ | Montreal › Ahuntsic-Cartierville | 7 |
+| Parc Angora ⚠️ | Terrebonne | 7 |
+| Parc René-Lévesque ⚠️ | Montreal › Lachine | 7 |
+| Parc du Boisé-Du-Pays-Brûlé ⚠️ | Boucherville | 7 |
+| Parc Marie-Victorin ⚠️ | Longueuil › Le Vieux-Longueuil | 7 |
+| Parc LaSalle ⚠️ | Montreal › Lachine | 7 |
+| Parc d'Anjou-sur-le-Lac ⚠️ | Montreal › Anjou | 7 |
+| Parc Sir-Wilfrid-Laurier ⚠️ | Montreal › Plateau-Mont-Royal | 6 |
+| Parc de la Terre ⚠️ | Brossard | 6 |
+| Parc Félix-Leclerc ⚠️ | Montreal › Mercier-Hochelaga-Maisonneuve | 6 |
+| Parc Ahuntsic ⚠️ | Montreal › Ahuntsic-Cartierville | 6 |
+| Parc Eugène-Dostie ⚠️ | Montreal › L'Ile-Bizard--Sainte-Genevieve | 6 |
+| Parc historique Pointe-du-Moulin ⚠️ | Notre-Dame-de-l'Île-Perrot | 6 |
+| Parc Delorme ⚠️ | Montreal › St-Leonard | 6 |
+| Parc Ignace-Bourget ⚠️ | Montreal › Sud-Ouest | 6 |
+| Parc des Méandres ⚠️ | Sainte-Anne-des-Plaines | 6 |
+| Parc de la Commune ⚠️ | Varennes | 6 |
+| Parc Jacques-Locas ⚠️ | Saint-Jérôme | 6 |
+| Parc Esther-Blondin ⚠️ | Terrebonne | 5 |
+| Parc Émilie-Gamelin ⚠️ | La Prairie | 5 |
+| Parc Maynard-Ferguson ⚠️ | Montreal › Verdun--Ile-des-Soeurs | 5 |
+| Le Boutillier Park ⚠️ | Laval › Chomedey | 5 |
+| Parc naturel de Rivière-à-Gagnon ⚠️ | Saint-Jérôme | 5 |
+| Parc ⚠️ | Montreal › LaSalle | 5 |
+| Grand Parc Urbain ⚠️ | Brossard | 5 |
+| Parc Étienne-Desmarteau ⚠️ | Montreal › Rosemont--La-Petite-Patrie | 4 |
+
+⚠️ 39 parc(s) sous le seuil de 10 cellules : ils ne peuvent pas servir de cible à un défi.
 
 ## Zones restreintes
 

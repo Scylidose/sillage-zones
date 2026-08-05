@@ -6,7 +6,7 @@
       "name": "Vallespir",
       "country": "France",
       "region": "Occitanie",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -16,17 +16,17 @@
         42.547933
       ],
       "zoneCount": 10,
-      "downloadBytes": 172113,
-      "installedBytes": 536404,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-vallespir-1.1.0/fr-vallespir-1.1.0.zip",
-      "sha256": "77905af2ba4e9bf4f83bb35a8358a62a6609670168e94e72c75cd4b9fb2dec3a"
+      "downloadBytes": 172813,
+      "installedBytes": 537258,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-vallespir-1.1.1/fr-vallespir-1.1.1.zip",
+      "sha256": "ee110b16ff9d0caf9466c0c5b56ef0cb9578b3d9f97a28bd6367621221611ed5"
     },
     {
       "id": "qc-montreal",
       "name": "Grand Montréal",
       "country": "Canada",
       "region": "Québec",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -36,10 +36,10 @@
         45.850315
       ],
       "zoneCount": 98,
-      "downloadBytes": 1164830,
-      "installedBytes": 4028087,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-1.0.2/qc-montreal-1.0.2.zip",
-      "sha256": "9a4402cbdae5b9b732dccdc018d2074b7f00e9f694834370797509b10547719f"
+      "downloadBytes": 1170066,
+      "installedBytes": 4044715,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-1.0.3/qc-montreal-1.0.3.zip",
+      "sha256": "94176b59f8fd3221b771389f584f42c13dc8416e8a3925e75f38ac57466ca48f"
     }
   ]
 }
