@@ -26,20 +26,20 @@
       "name": "Grand Montréal",
       "country": "Canada",
       "region": "Québec",
-      "version": "1.0.3",
+      "version": "1.1.0",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
         -74.267609,
-        45.295617,
-        -73.292601,
-        45.850315
+        45.229006,
+        -73.06187,
+        45.980915
       ],
-      "zoneCount": 98,
-      "downloadBytes": 1170066,
-      "installedBytes": 4044715,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-1.0.3/qc-montreal-1.0.3.zip",
-      "sha256": "94176b59f8fd3221b771389f584f42c13dc8416e8a3925e75f38ac57466ca48f"
+      "zoneCount": 128,
+      "downloadBytes": 1514399,
+      "installedBytes": 5145887,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-1.1.0/qc-montreal-1.1.0.zip",
+      "sha256": "1add5217822f9454bd5d4b34de5f6aea2f91f02c738435e72cd40aa39b15c8d6"
     }
   ]
 }
