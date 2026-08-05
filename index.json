@@ -22,6 +22,86 @@
       "sha256": "ee110b16ff9d0caf9466c0c5b56ef0cb9578b3d9f97a28bd6367621221611ed5"
     },
     {
+      "id": "qc-couronne-nord",
+      "name": "Couronne Nord",
+      "country": "Canada",
+      "region": "Québec",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -74.267609,
+        45.458361,
+        -73.284867,
+        45.943536
+      ],
+      "zoneCount": 21,
+      "downloadBytes": 623465,
+      "installedBytes": 1997565,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-couronne-nord-1.0.0/qc-couronne-nord-1.0.0.zip",
+      "sha256": "74a02b8f0a185513067f819ade511e74e5ed475038e8e8e7cfc494cae98b10fa"
+    },
+    {
+      "id": "qc-couronne-sud",
+      "name": "Couronne Sud",
+      "country": "Canada",
+      "region": "Québec",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -73.972841,
+        45.229006,
+        -73.06187,
+        45.980915
+      ],
+      "zoneCount": 30,
+      "downloadBytes": 575381,
+      "installedBytes": 1825553,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-couronne-sud-1.0.0/qc-couronne-sud-1.0.0.zip",
+      "sha256": "ff9f4453588493e4e71f58a27823037105fadd79fec154da77c5e44c0d5dc9f1"
+    },
+    {
+      "id": "qc-laval",
+      "name": "Laval",
+      "country": "Canada",
+      "region": "Québec",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -73.89012,
+        45.51213,
+        -73.529124,
+        45.69965
+      ],
+      "zoneCount": 15,
+      "downloadBytes": 468096,
+      "installedBytes": 1485937,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-laval-1.0.0/qc-laval-1.0.0.zip",
+      "sha256": "bda534b686eac1483add457ecf5ed47312273e0ae2f726ae4bba49174e23a53b"
+    },
+    {
+      "id": "qc-longueuil",
+      "name": "Agglomération de Longueuil",
+      "country": "Canada",
+      "region": "Québec",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -73.52771,
+        45.413087,
+        -73.292601,
+        45.656689
+      ],
+      "zoneCount": 16,
+      "downloadBytes": 445678,
+      "installedBytes": 1414261,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-longueuil-1.0.0/qc-longueuil-1.0.0.zip",
+      "sha256": "77518614427c634ef30dd30e9213bfed4ec48e75ae17e7a6e5f8f45799d43e92"
+    },
+    {
       "id": "qc-montreal",
       "name": "Grand Montréal",
       "country": "Canada",
@@ -40,6 +120,46 @@
       "installedBytes": 5145887,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-1.1.0/qc-montreal-1.1.0.zip",
       "sha256": "1add5217822f9454bd5d4b34de5f6aea2f91f02c738435e72cd40aa39b15c8d6"
+    },
+    {
+      "id": "qc-montreal-ile",
+      "name": "Montréal (île)",
+      "country": "Canada",
+      "region": "Québec",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -73.976396,
+        45.402188,
+        -73.476144,
+        45.704232
+      ],
+      "zoneCount": 35,
+      "downloadBytes": 642621,
+      "installedBytes": 2062932,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-ile-1.0.0/qc-montreal-ile-1.0.0.zip",
+      "sha256": "49603e134a3b5425496aab19a1f2dd448b39bd2bce1df108aef6b88bd630553d"
+    },
+    {
+      "id": "qc-vaudreuil-soulanges",
+      "name": "Vaudreuil-Soulanges",
+      "country": "Canada",
+      "region": "Québec",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -74.242579,
+        45.294653,
+        -73.852028,
+        45.484697
+      ],
+      "zoneCount": 11,
+      "downloadBytes": 502946,
+      "installedBytes": 1594056,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-vaudreuil-soulanges-1.0.0/qc-vaudreuil-soulanges-1.0.0.zip",
+      "sha256": "d5e25d479501f08f8dc298cd7e1b85e6953858b204be91322f1b8a0982ce2abd"
     }
   ]
 }
