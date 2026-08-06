@@ -4,6 +4,10 @@
     {
       "id": "fr-vallespir",
       "name": "Vallespir",
+      "groups": [
+        "France",
+        "Occitanie"
+      ],
       "country": "France",
       "region": "Occitanie",
       "version": "1.1.1",
@@ -24,6 +28,11 @@
     {
       "id": "qc-couronne-nord",
       "name": "Couronne Nord",
+      "groups": [
+        "Canada",
+        "Québec",
+        "Grand Montréal"
+      ],
       "country": "Canada",
       "region": "Québec",
       "version": "1.0.0",
@@ -44,6 +53,11 @@
     {
       "id": "qc-couronne-sud",
       "name": "Couronne Sud",
+      "groups": [
+        "Canada",
+        "Québec",
+        "Grand Montréal"
+      ],
       "country": "Canada",
       "region": "Québec",
       "version": "1.0.0",
@@ -64,6 +78,11 @@
     {
       "id": "qc-laval",
       "name": "Laval",
+      "groups": [
+        "Canada",
+        "Québec",
+        "Grand Montréal"
+      ],
       "country": "Canada",
       "region": "Québec",
       "version": "1.0.0",
@@ -84,6 +103,11 @@
     {
       "id": "qc-longueuil",
       "name": "Agglomération de Longueuil",
+      "groups": [
+        "Canada",
+        "Québec",
+        "Grand Montréal"
+      ],
       "country": "Canada",
       "region": "Québec",
       "version": "1.0.0",
@@ -102,28 +126,13 @@
       "sha256": "77518614427c634ef30dd30e9213bfed4ec48e75ae17e7a6e5f8f45799d43e92"
     },
     {
-      "id": "qc-montreal",
-      "name": "Grand Montréal",
-      "country": "Canada",
-      "region": "Québec",
-      "version": "1.1.0",
-      "formatVersion": 1,
-      "cellSizeM": 200,
-      "bbox": [
-        -74.267609,
-        45.229006,
-        -73.06187,
-        45.980915
-      ],
-      "zoneCount": 128,
-      "downloadBytes": 1514399,
-      "installedBytes": 5145887,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-1.1.0/qc-montreal-1.1.0.zip",
-      "sha256": "1add5217822f9454bd5d4b34de5f6aea2f91f02c738435e72cd40aa39b15c8d6"
-    },
-    {
       "id": "qc-montreal-ile",
       "name": "Montréal (île)",
+      "groups": [
+        "Canada",
+        "Québec",
+        "Grand Montréal"
+      ],
       "country": "Canada",
       "region": "Québec",
       "version": "1.0.0",
@@ -144,6 +153,11 @@
     {
       "id": "qc-vaudreuil-soulanges",
       "name": "Vaudreuil-Soulanges",
+      "groups": [
+        "Canada",
+        "Québec",
+        "Grand Montréal"
+      ],
       "country": "Canada",
       "region": "Québec",
       "version": "1.0.0",
