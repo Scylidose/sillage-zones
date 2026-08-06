@@ -27,7 +27,7 @@
     },
     {
       "id": "qc-couronne-nord",
-      "name": "Couronne Nord",
+      "name": "Couronne Nord (Laurentides–Lanaudière)",
       "groups": [
         "Canada",
         "Québec",
@@ -35,7 +35,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -45,14 +45,14 @@
         45.943536
       ],
       "zoneCount": 21,
-      "downloadBytes": 623465,
-      "installedBytes": 1997565,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-couronne-nord-1.0.0/qc-couronne-nord-1.0.0.zip",
-      "sha256": "74a02b8f0a185513067f819ade511e74e5ed475038e8e8e7cfc494cae98b10fa"
+      "downloadBytes": 623496,
+      "installedBytes": 1997593,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-couronne-nord-1.0.1/qc-couronne-nord-1.0.1.zip",
+      "sha256": "9da5a37f55a2608b8d52aca15aa86d6903cd425a1c4124eb4939dbb00d572615"
     },
     {
       "id": "qc-couronne-sud",
-      "name": "Couronne Sud",
+      "name": "Couronne Sud (Montérégie)",
       "groups": [
         "Canada",
         "Québec",
@@ -60,7 +60,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -70,10 +70,10 @@
         45.980915
       ],
       "zoneCount": 30,
-      "downloadBytes": 575381,
-      "installedBytes": 1825553,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-couronne-sud-1.0.0/qc-couronne-sud-1.0.0.zip",
-      "sha256": "ff9f4453588493e4e71f58a27823037105fadd79fec154da77c5e44c0d5dc9f1"
+      "downloadBytes": 575393,
+      "installedBytes": 1825568,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-couronne-sud-1.0.1/qc-couronne-sud-1.0.1.zip",
+      "sha256": "4e3cd2c9699b97c5f48bca3dd414cf62735b44811e0d6ee248bf31ae6e7bbaa7"
     },
     {
       "id": "qc-laval",
@@ -152,7 +152,7 @@
     },
     {
       "id": "qc-vaudreuil-soulanges",
-      "name": "Vaudreuil-Soulanges",
+      "name": "Vaudreuil-Soulanges (Montérégie)",
       "groups": [
         "Canada",
         "Québec",
@@ -160,7 +160,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -170,10 +170,10 @@
         45.484697
       ],
       "zoneCount": 11,
-      "downloadBytes": 502946,
-      "installedBytes": 1594056,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-vaudreuil-soulanges-1.0.0/qc-vaudreuil-soulanges-1.0.0.zip",
-      "sha256": "d5e25d479501f08f8dc298cd7e1b85e6953858b204be91322f1b8a0982ce2abd"
+      "downloadBytes": 502960,
+      "installedBytes": 1594071,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-vaudreuil-soulanges-1.0.1/qc-vaudreuil-soulanges-1.0.1.zip",
+      "sha256": "72ff6465560d4d7abe5591980cca56aafeb864614e0ebd29e06689d4cae33119"
     }
   ]
 }

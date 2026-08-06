@@ -1,6 +1,6 @@
-# Vaudreuil-Soulanges
+# Vaudreuil-Soulanges (Montérégie)
 
-Pack `qc-vaudreuil-soulanges` · version 1.0.0 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-vaudreuil-soulanges` · version 1.0.1 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
