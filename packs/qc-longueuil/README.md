@@ -1,6 +1,6 @@
 # Agglomération de Longueuil
 
-Pack `qc-longueuil` · version 1.1.0 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-longueuil` · version 1.2.0 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -34,27 +34,27 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
 |---|---:|---:|---:|---:|---:|---:|
-| Longueuil | 6 238 | 341 | 5 897 | 218 | **5 679** | 86 |
-| Boucherville | 4 182 | 594 | 3 588 | 0 | **3 588** | 40 |
-| Brossard | 2 300 | 1 | 2 299 | 0 | **2 299** | 47 |
-| Saint-Bruno-de-Montarville | 2 216 | 50 | 2 166 | 87 | **2 079** | 21 |
-| Saint-Lambert | 504 | 123 | 381 | 0 | **381** | 13 |
+| Longueuil | 6 238 | 341 | 5 897 | 218 | **5 679** | 229 |
+| Boucherville | 4 182 | 594 | 3 588 | 0 | **3 588** | 86 |
+| Brossard | 2 300 | 1 | 2 299 | 0 | **2 299** | 128 |
+| Saint-Bruno-de-Montarville | 2 216 | 50 | 2 166 | 87 | **2 079** | 37 |
+| Saint-Lambert | 504 | 123 | 381 | 0 | **381** | 39 |
 
 ## Arrondissements et quartiers (11)
 
 | Zone | Ville | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
 |---|---|---:|---:|---:|---:|---:|---:|
-| Saint-Hubert | longueuil | 3 371 | 4 | 3 367 | 218 | **3 149** | 32 |
-| Le Vieux-Longueuil | longueuil | 2 621 | 337 | 2 284 | 0 | **2 284** | 48 |
-| Greenfield Park | longueuil | 246 | 0 | 246 | 0 | **246** | 6 |
-| Secteur L | brossard | 192 | 1 | 191 | 0 | **191** | 5 |
-| Secteur R | brossard | 147 | 2 | 145 | 0 | **145** | 3 |
-| Secteur M | brossard | 87 | 0 | 87 | 0 | **87** | 3 |
-| Secteur O | brossard | 79 | 0 | 79 | 0 | **79** | 4 |
+| Saint-Hubert | longueuil | 3 371 | 4 | 3 367 | 218 | **3 149** | 81 |
+| Le Vieux-Longueuil | longueuil | 2 621 | 337 | 2 284 | 0 | **2 284** | 132 |
+| Greenfield Park | longueuil | 246 | 0 | 246 | 0 | **246** | 16 |
+| Secteur L | brossard | 192 | 1 | 191 | 0 | **191** | 24 |
+| Secteur R | brossard | 147 | 2 | 145 | 0 | **145** | 6 |
+| Secteur M | brossard | 87 | 0 | 87 | 0 | **87** | 16 |
+| Secteur O | brossard | 79 | 0 | 79 | 0 | **79** | 13 |
 | Secteur J | brossard | 61 | 0 | 61 | 0 | **61** |  |
-| Secteur N | brossard | 59 | 0 | 59 | 0 | **59** | 1 |
+| Secteur N | brossard | 59 | 0 | 59 | 0 | **59** | 6 |
 | Secteur I | brossard | 55 | 1 | 54 | 0 | **54** | 1 |
-| Secteur E | brossard | 19 | 0 | 19 | 0 | **19** |  |
+| Secteur E | brossard | 19 | 0 | 19 | 0 | **19** | 1 |
 
 ## Parcs (522)
 

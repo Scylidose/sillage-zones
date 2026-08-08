@@ -1,6 +1,6 @@
 # Couronne Sud (Montérégie)
 
-Pack `qc-couronne-sud` · version 1.1.0 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-couronne-sud` · version 1.2.0 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -34,36 +34,36 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
 |---|---:|---:|---:|---:|---:|---:|
-| Varennes | 4 852 | 53 | 4 799 | 0 | **4 799** | 18 |
-| Verchères | 3 725 | 0 | 3 725 | 0 | **3 725** | 4 |
-| Saint-Jean-Baptiste | 3 702 | 17 | 3 685 | 0 | **3 685** | 1 |
-| Beauharnois | 3 422 | 5 | 3 417 | 0 | **3 417** | 9 |
-| Contrecœur | 3 345 | 2 | 3 343 | 0 | **3 343** | 6 |
-| Carignan | 3 168 | 0 | 3 168 | 0 | **3 168** | 9 |
-| Saint-Philippe | 3 127 | 0 | 3 127 | 0 | **3 127** | 1 |
-| Saint-Constant | 2 881 | 2 | 2 879 | 0 | **2 879** | 16 |
-| Saint-Isidore | 2 631 | 0 | 2 631 | 0 | **2 631** | 2 |
-| Kahnawake | 3 136 | 611 | 2 525 | 0 | **2 525** | 4 |
-| Sainte-Julie | 2 446 | 0 | 2 446 | 126 | **2 320** | 18 |
-| Saint-Mathias-sur-Richelieu | 2 409 | 0 | 2 409 | 5 | **2 404** | 3 |
-| Mercier | 2 323 | 5 | 2 318 | 0 | **2 318** | 6 |
-| La Prairie | 2 225 | 1 | 2 224 | 0 | **2 224** | 17 |
-| Mont-Saint-Hilaire | 2 243 | 19 | 2 224 | 0 | **2 224** | 12 |
-| Saint-Mathieu-de-Beloeil | 2 011 | 0 | 2 011 | 15 | **1 996** | 1 |
-| Saint-Amable | 1 884 | 0 | 1 884 | 0 | **1 884** | 5 |
-| Saint-Basile-le-Grand | 1 834 | 0 | 1 834 | 14 | **1 820** | 8 |
-| Châteauguay | 2 848 | 1 033 | 1 815 | 0 | **1 815** | 34 |
-| Calixa-Lavallée | 1 683 | 0 | 1 683 | 0 | **1 683** | 1 |
-| Saint-Mathieu | 1 590 | 0 | 1 590 | 0 | **1 590** | 1 |
-| Richelieu | 1 572 | 0 | 1 572 | 0 | **1 572** | 2 |
-| Chambly | 1 261 | 0 | 1 261 | 0 | **1 261** | 21 |
-| Beloeil | 1 237 | 0 | 1 237 | 0 | **1 237** | 15 |
-| Candiac | 977 | 100 | 877 | 0 | **877** | 12 |
-| Léry | 518 | 0 | 518 | 0 | **518** | 1 |
-| Sainte-Catherine | 693 | 216 | 477 | 0 | **477** | 12 |
-| Delson | 389 | 0 | 389 | 0 | **389** | 6 |
-| Otterburn Park | 269 | 0 | 269 | 0 | **269** | 10 |
-| McMasterville | 156 | 0 | 156 | 0 | **156** | 3 |
+| Varennes | 4 852 | 53 | 4 799 | 0 | **4 799** | 22 |
+| Verchères | 3 725 | 0 | 3 725 | 0 | **3 725** | 10 |
+| Saint-Jean-Baptiste | 3 702 | 17 | 3 685 | 0 | **3 685** | 4 |
+| Beauharnois | 3 422 | 5 | 3 417 | 0 | **3 417** | 20 |
+| Contrecœur | 3 345 | 2 | 3 343 | 0 | **3 343** | 23 |
+| Carignan | 3 168 | 0 | 3 168 | 0 | **3 168** | 23 |
+| Saint-Philippe | 3 127 | 0 | 3 127 | 0 | **3 127** | 6 |
+| Saint-Constant | 2 881 | 2 | 2 879 | 0 | **2 879** | 29 |
+| Saint-Isidore | 2 631 | 0 | 2 631 | 0 | **2 631** | 5 |
+| Kahnawake | 3 136 | 611 | 2 525 | 0 | **2 525** | 12 |
+| Sainte-Julie | 2 446 | 0 | 2 446 | 126 | **2 320** | 35 |
+| Saint-Mathias-sur-Richelieu | 2 409 | 0 | 2 409 | 5 | **2 404** | 4 |
+| Mercier | 2 323 | 5 | 2 318 | 0 | **2 318** | 9 |
+| La Prairie | 2 225 | 1 | 2 224 | 0 | **2 224** | 39 |
+| Mont-Saint-Hilaire | 2 243 | 19 | 2 224 | 0 | **2 224** | 27 |
+| Saint-Mathieu-de-Beloeil | 2 011 | 0 | 2 011 | 15 | **1 996** | 5 |
+| Saint-Amable | 1 884 | 0 | 1 884 | 0 | **1 884** | 18 |
+| Saint-Basile-le-Grand | 1 834 | 0 | 1 834 | 14 | **1 820** | 24 |
+| Châteauguay | 2 848 | 1 033 | 1 815 | 0 | **1 815** | 63 |
+| Calixa-Lavallée | 1 683 | 0 | 1 683 | 0 | **1 683** | 2 |
+| Saint-Mathieu | 1 590 | 0 | 1 590 | 0 | **1 590** | 4 |
+| Richelieu | 1 572 | 0 | 1 572 | 0 | **1 572** | 9 |
+| Chambly | 1 261 | 0 | 1 261 | 0 | **1 261** | 48 |
+| Beloeil | 1 237 | 0 | 1 237 | 0 | **1 237** | 52 |
+| Candiac | 977 | 100 | 877 | 0 | **877** | 22 |
+| Léry | 518 | 0 | 518 | 0 | **518** | 5 |
+| Sainte-Catherine | 693 | 216 | 477 | 0 | **477** | 25 |
+| Delson | 389 | 0 | 389 | 0 | **389** | 14 |
+| Otterburn Park | 269 | 0 | 269 | 0 | **269** | 14 |
+| McMasterville | 156 | 0 | 156 | 0 | **156** | 8 |
 
 ## Parcs (587)
 

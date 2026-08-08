@@ -1,6 +1,6 @@
 # Vaudreuil-Soulanges (Montérégie)
 
-Pack `qc-vaudreuil-soulanges` · version 1.1.0 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-vaudreuil-soulanges` · version 1.2.0 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -42,14 +42,14 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
 |---|---:|---:|---:|---:|---:|---:|
-| Les Cèdres | 3 919 | 0 | 3 919 | 21 | **3 898** | 6 |
-| Vaudreuil-Dorion | 4 682 | 988 | 3 694 | 0 | **3 694** | 30 |
-| Saint-Lazare | 3 386 | 0 | 3 386 | 5 | **3 381** | 10 |
-| Notre-Dame-de-l'Île-Perrot | 3 517 | 2 099 | 1 418 | 0 | **1 418** | 9 |
-| Hudson | 1 097 | 0 | 1 097 | 0 | **1 097** | 8 |
-| Pincourt | 483 | 120 | 363 | 0 | **363** | 7 |
-| Ville de l'Île-Perrot | 487 | 212 | 275 | 0 | **275** | 5 |
-| Pointe-des-Cascades | 131 | 0 | 131 | 0 | **131** | 3 |
+| Les Cèdres | 3 919 | 0 | 3 919 | 21 | **3 898** | 16 |
+| Vaudreuil-Dorion | 4 682 | 988 | 3 694 | 0 | **3 694** | 69 |
+| Saint-Lazare | 3 386 | 0 | 3 386 | 5 | **3 381** | 22 |
+| Notre-Dame-de-l'Île-Perrot | 3 517 | 2 099 | 1 418 | 0 | **1 418** | 19 |
+| Hudson | 1 097 | 0 | 1 097 | 0 | **1 097** | 11 |
+| Pincourt | 483 | 120 | 363 | 0 | **363** | 17 |
+| Ville de l'Île-Perrot | 487 | 212 | 275 | 0 | **275** | 11 |
+| Pointe-des-Cascades | 131 | 0 | 131 | 0 | **131** | 5 |
 | Vaudreuil-sur-le-Lac | 144 | 77 | 67 | 0 | **67** | 1 |
 | Terrasse-Vaudreuil | 62 | 6 | 56 | 0 | **56** | 1 |
 | L'Île-Cadieux | 28 | 0 | 28 | 0 | **28** |  |
@@ -70,24 +70,24 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc nature de la Tourbière-du-Bordelais ⚠️ | Saint-Lazare | 9 |
 | Réserve écologique des Îles-Avelle-Wight-et-Hiam ⚠️ | Vaudreuil-Dorion | 9 |
 | Réserve naturelle du Marécage-des-Chenaux-de-Vaudreuil ⚠️ | Vaudreuil-Dorion | 9 |
-| Parc historique Pointe-du-Moulin ⚠️ | Notre-Dame-de-l'Île-Perrot | 6 |
+| Parc historique Pointe-du-Moulin ⚠️ | Notre-Dame-de-l'Île-Perrot › Île Perrot | 6 |
 | Parc de Hudson (3) ⚠️ | Hudson | 6 |
 | Parc de Dorion-Gardens ⚠️ | Vaudreuil-Dorion | 4 |
-| Parc Olympique ⚠️ | Pincourt | 4 |
+| Parc Olympique ⚠️ | Pincourt › Île Perrot | 4 |
 | Parc Saint-Robert ⚠️ | Saint-Lazare | 4 |
-| Parc Michel-Martin ⚠️ | Ville de l'Île-Perrot | 3 |
-| Parc des Hirondelles (2) ⚠️ | Notre-Dame-de-l'Île-Perrot | 3 |
-| Parc des Éperviers ⚠️ | Notre-Dame-de-l'Île-Perrot | 3 |
+| Parc Michel-Martin ⚠️ | Ville de l'Île-Perrot › Île Perrot | 3 |
+| Parc des Hirondelles (2) ⚠️ | Notre-Dame-de-l'Île-Perrot › Île Perrot | 3 |
+| Parc des Éperviers ⚠️ | Notre-Dame-de-l'Île-Perrot › Île Perrot | 3 |
 | Parc nature de l'Île-aux-Tourtes ⚠️ | Vaudreuil-Dorion | 3 |
 | Parc Thompson ⚠️ | Hudson | 3 |
-| Parc de la Famille ⚠️ | Ville de l'Île-Perrot | 2 |
-| Parc Shamrock ⚠️ | Pincourt | 2 |
-| Parc Donat-Bouthillier ⚠️ | Terrasse-Vaudreuil | 2 |
+| Parc de la Famille ⚠️ | Ville de l'Île-Perrot › Île Perrot | 2 |
+| Parc Shamrock ⚠️ | Pincourt › Île Perrot | 2 |
+| Parc Donat-Bouthillier ⚠️ | Terrasse-Vaudreuil › Île Perrot | 2 |
 | Parc Bédard ⚠️ | Saint-Lazare | 2 |
 | Parc des Cèdres (2) ⚠️ | Les Cèdres | 2 |
 | Parc de Pointe-des-Cascades ⚠️ | Pointe-des-Cascades | 2 |
 | Parc Saint-Thomas ⚠️ | Hudson | 2 |
-| Parc des Mésanges (3) ⚠️ | Notre-Dame-de-l'Île-Perrot | 2 |
+| Parc des Mésanges (3) ⚠️ | Notre-Dame-de-l'Île-Perrot › Île Perrot | 2 |
 | Parc Paul-Gérin-Lajoie ⚠️ | Vaudreuil-Dorion | 2 |
 | Parc de l'Île-Bray ⚠️ | Vaudreuil-Dorion | 2 |
 | Parc Saint-Pierre (5) ⚠️ | Pointe-des-Cascades | 2 |
@@ -101,14 +101,14 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc du Grand-Pré ⚠️ | Saint-Lazare | 1 |
 | Parc de la Vallée-Chaline ⚠️ | Saint-Lazare | 1 |
 | Parc Benson ⚠️ | Hudson | 1 |
-| Parc Taillon ⚠️ | Pincourt | 1 |
+| Parc Taillon ⚠️ | Pincourt › Île Perrot | 1 |
 | Parc Castonguay ⚠️ | Vaudreuil-Dorion | 1 |
 | Parc de Cedarbrook ⚠️ | Saint-Lazare | 1 |
 | Parc de Saddlebrook ⚠️ | Saint-Lazare | 1 |
-| Parc Carrefour Notre-Dame ⚠️ | Notre-Dame-de-l'Île-Perrot | 1 |
+| Parc Carrefour Notre-Dame ⚠️ | Notre-Dame-de-l'Île-Perrot › Île Perrot | 1 |
 | Parc Saint-Jean-Baptiste (2) ⚠️ | Vaudreuil-Dorion | 1 |
 | Parc de la Belle-Plage ⚠️ | Vaudreuil-Dorion | 1 |
-| Parc 22e Avenue ⚠️ | Ville de l'Île-Perrot | 1 |
+| Parc 22e Avenue ⚠️ | Ville de l'Île-Perrot › Île Perrot | 1 |
 | Parc Saint-Michel (2) ⚠️ | Vaudreuil-Dorion | 1 |
 | Parc Lorne-Worsley (2) ⚠️ | Vaudreuil-Dorion | 1 |
 | Parc du Ruisselet ⚠️ | Vaudreuil-Dorion | 1 |
@@ -116,17 +116,17 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Marier ⚠️ | Vaudreuil-Dorion | 1 |
 | Parc des Pins (4) ⚠️ | Saint-Lazare | 1 |
 | Parc Champlain (4) ⚠️ | Les Cèdres | 1 |
-| Parc des Fauvettes ⚠️ | Notre-Dame-de-l'Île-Perrot | 1 |
+| Parc des Fauvettes ⚠️ | Notre-Dame-de-l'Île-Perrot › Île Perrot | 1 |
 | Parc de Vaudreuil-sur-le-Lac ⚠️ | Vaudreuil-sur-le-Lac | 1 |
 | Parc des Cèdres (4) ⚠️ | Les Cèdres | 1 |
-| Parc des Martins-Pêcheurs ⚠️ | Notre-Dame-de-l'Île-Perrot | 1 |
-| Parc des Mouettes ⚠️ | Notre-Dame-de-l'Île-Perrot | 1 |
-| Parc des Tourterelles ⚠️ | Notre-Dame-de-l'Île-Perrot | 1 |
-| Parc des Citoyens (2) ⚠️ | Ville de l'Île-Perrot | 1 |
-| Parc des Colibris ⚠️ | Ville de l'Île-Perrot | 1 |
-| Parc Bellevue ⚠️ | Pincourt | 1 |
-| Parc Rousseau ⚠️ | Pincourt | 1 |
-| Parc de Pincourt (3) ⚠️ | Pincourt | 1 |
+| Parc des Martins-Pêcheurs ⚠️ | Notre-Dame-de-l'Île-Perrot › Île Perrot | 1 |
+| Parc des Mouettes ⚠️ | Notre-Dame-de-l'Île-Perrot › Île Perrot | 1 |
+| Parc des Tourterelles ⚠️ | Notre-Dame-de-l'Île-Perrot › Île Perrot | 1 |
+| Parc des Citoyens (2) ⚠️ | Ville de l'Île-Perrot › Île Perrot | 1 |
+| Parc des Colibris ⚠️ | Ville de l'Île-Perrot › Île Perrot | 1 |
+| Parc Bellevue ⚠️ | Pincourt › Île Perrot | 1 |
+| Parc Rousseau ⚠️ | Pincourt › Île Perrot | 1 |
+| Parc de Pincourt (3) ⚠️ | Pincourt › Île Perrot | 1 |
 | Parc de la Rhapsodie ⚠️ | Saint-Lazare | 1 |
 | Parc de Vaudreuil-Dorion (3) ⚠️ | Vaudreuil-Dorion | 1 |
 | Parc de Bel-Air ⚠️ | Vaudreuil-Dorion | 1 |
@@ -140,7 +140,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Royal Oak Tennis Club ⚠️ | Hudson | 1 |
 | Parc de Hudson ⚠️ | Hudson | 1 |
 | Parc Saint-Féréol ⚠️ | Les Cèdres | 1 |
-| Parc du Suroît ⚠️ | Pincourt | 1 |
+| Parc du Suroît ⚠️ | Pincourt › Île Perrot | 1 |
 | Parc Daoust ⚠️ | Les Cèdres | 1 |
 
 95 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.

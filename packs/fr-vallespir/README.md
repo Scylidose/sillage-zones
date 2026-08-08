@@ -1,6 +1,6 @@
 # Vallespir
 
-Pack `fr-vallespir` · version 1.2.0 · grille 200 m · France › Occitanie
+Pack `fr-vallespir` · version 1.3.0 · grille 200 m · France › Occitanie
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -34,16 +34,16 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
 |---|---:|---:|---:|---:|---:|---:|
-| Maureillas-las-Illas | 1 947 | 1 | 1 946 | 0 | **1 946** | 11 |
-| Céret | 1 745 | 9 | 1 736 | 0 | **1 736** | 12 |
-| Reynès | 1 274 | 0 | 1 274 | 0 | **1 274** | 2 |
-| L'Albère | 748 | 0 | 748 | 0 | **748** | 6 |
-| Le Boulou | 671 | 24 | 647 | 0 | **647** | 1 |
+| Maureillas-las-Illas | 1 947 | 1 | 1 946 | 0 | **1 946** | 15 |
+| Céret | 1 745 | 9 | 1 736 | 0 | **1 736** | 17 |
+| Reynès | 1 274 | 0 | 1 274 | 0 | **1 274** | 3 |
+| L'Albère | 748 | 0 | 748 | 0 | **748** | 8 |
+| Le Boulou | 671 | 24 | 647 | 0 | **647** | 8 |
 | Vivès | 521 | 0 | 521 | 0 | **521** | 6 |
-| Saint-Jean-Pla-de-Corts | 491 | 15 | 476 | 0 | **476** | 6 |
-| Taillet | 463 | 0 | 463 | 0 | **463** | 1 |
+| Saint-Jean-Pla-de-Corts | 491 | 15 | 476 | 0 | **476** | 10 |
+| Taillet | 463 | 0 | 463 | 0 | **463** | 2 |
 | Les Cluses | 404 | 0 | 404 | 0 | **404** |  |
-| Le Perthus | 195 | 0 | 195 | 0 | **195** | 3 |
+| Le Perthus | 195 | 0 | 195 | 0 | **195** | 5 |
 
 ## Parcs (75)
 

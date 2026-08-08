@@ -1,6 +1,6 @@
 # Laval
 
-Pack `qc-laval` · version 1.1.0 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-laval` · version 1.2.0 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -34,25 +34,25 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
 |---|---:|---:|---:|---:|---:|---:|
-| Laval | 13 495 | 1 000 | 12 495 | 24 | **12 471** | 166 |
+| Laval | 13 495 | 1 000 | 12 495 | 24 | **12 471** | 351 |
 
 ## Arrondissements et quartiers (14)
 
 | Zone | Ville | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
 |---|---|---:|---:|---:|---:|---:|---:|
-| Duvernay | laval | 2 464 | 155 | 2 309 | 0 | **2 309** | 19 |
-| Chomedey | laval | 2 096 | 56 | 2 040 | 0 | **2 040** | 38 |
-| Saint-François | laval | 2 072 | 249 | 1 823 | 12 | **1 811** | 8 |
-| Auteuil | laval | 1 328 | 77 | 1 251 | 0 | **1 251** | 11 |
-| Sainte-Dorothée | laval | 1 184 | 74 | 1 110 | 0 | **1 110** | 15 |
-| Fabreville | laval | 1 182 | 122 | 1 060 | 0 | **1 060** | 18 |
-| Sainte-Rose | laval | 890 | 48 | 842 | 0 | **842** | 20 |
-| Vimont | laval | 711 | 2 | 709 | 0 | **709** | 10 |
-| Laval-des-Rapides | laval | 492 | 38 | 454 | 0 | **454** | 10 |
-| Saint-Vincent-de-Paul | laval | 402 | 0 | 402 | 12 | **390** | 3 |
-| Laval-Ouest | laval | 259 | 54 | 205 | 0 | **205** | 6 |
-| Pont-Viau | laval | 181 | 16 | 165 | 0 | **165** | 5 |
-| Laval-sur-le-Lac | laval | 129 | 31 | 98 | 0 | **98** | 1 |
+| Duvernay | laval | 2 464 | 155 | 2 309 | 0 | **2 309** | 39 |
+| Chomedey | laval | 2 096 | 56 | 2 040 | 0 | **2 040** | 70 |
+| Saint-François | laval | 2 072 | 249 | 1 823 | 12 | **1 811** | 13 |
+| Auteuil | laval | 1 328 | 77 | 1 251 | 0 | **1 251** | 21 |
+| Sainte-Dorothée | laval | 1 184 | 74 | 1 110 | 0 | **1 110** | 41 |
+| Fabreville | laval | 1 182 | 122 | 1 060 | 0 | **1 060** | 38 |
+| Sainte-Rose | laval | 890 | 48 | 842 | 0 | **842** | 37 |
+| Vimont | laval | 711 | 2 | 709 | 0 | **709** | 19 |
+| Laval-des-Rapides | laval | 492 | 38 | 454 | 0 | **454** | 29 |
+| Saint-Vincent-de-Paul | laval | 402 | 0 | 402 | 12 | **390** | 18 |
+| Laval-Ouest | laval | 259 | 54 | 205 | 0 | **205** | 10 |
+| Pont-Viau | laval | 181 | 16 | 165 | 0 | **165** | 12 |
+| Laval-sur-le-Lac | laval | 129 | 31 | 98 | 0 | **98** | 2 |
 | Îles-Laval | laval | 56 | 28 | 28 | 0 | **28** | 2 |
 
 ## Parcs (354)

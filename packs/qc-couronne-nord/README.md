@@ -1,6 +1,6 @@
 # Couronne Nord (Laurentides–Lanaudière)
 
-Pack `qc-couronne-nord` · version 1.1.0 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-couronne-nord` · version 1.2.0 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -34,27 +34,27 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
 |---|---:|---:|---:|---:|---:|---:|
-| Mirabel | 24 772 | 1 | 24 771 | 1 018 | **23 753** | 44 |
-| Terrebonne | 8 232 | 254 | 7 978 | 25 | **7 953** | 69 |
-| Mascouche | 5 528 | 39 | 5 489 | 0 | **5 489** | 23 |
-| L'Assomption | 5 099 | 4 | 5 095 | 0 | **5 095** | 19 |
-| Sainte-Anne-des-Plaines | 4 840 | 1 | 4 839 | 91 | **4 748** | 9 |
-| Saint-Jérôme | 4 670 | 1 | 4 669 | 0 | **4 669** | 33 |
-| Saint-Eustache | 3 710 | 126 | 3 584 | 0 | **3 584** | 15 |
-| Repentigny | 3 656 | 552 | 3 104 | 0 | **3 104** | 37 |
-| Oka | 4 413 | 1 514 | 2 899 | 0 | **2 899** | 2 |
-| Blainville | 2 842 | 35 | 2 807 | 248 | **2 559** | 33 |
-| Saint-Joseph-du-Lac | 2 120 | 15 | 2 105 | 0 | **2 105** | 3 |
-| Saint-Sulpice | 1 863 | 0 | 1 863 | 0 | **1 863** | 1 |
-| Boisbriand | 1 525 | 84 | 1 441 | 0 | **1 441** | 19 |
-| Rosemère | 624 | 69 | 555 | 0 | **555** | 11 |
-| Sainte-Thérèse | 479 | 0 | 479 | 0 | **479** | 14 |
-| Sainte-Marthe-sur-le-Lac | 432 | 1 | 431 | 0 | **431** | 7 |
-| Deux-Montagnes | 368 | 53 | 315 | 0 | **315** | 4 |
-| Lorraine | 311 | 4 | 307 | 0 | **307** | 7 |
-| Pointe-Calumet | 593 | 356 | 237 | 0 | **237** | 2 |
-| Bois-des-Filion | 251 | 20 | 231 | 0 | **231** | 4 |
-| Charlemagne | 116 | 9 | 107 | 0 | **107** | 5 |
+| Mirabel | 24 772 | 1 | 24 771 | 1 018 | **23 753** | 92 |
+| Terrebonne | 8 232 | 254 | 7 978 | 25 | **7 953** | 130 |
+| Mascouche | 5 528 | 39 | 5 489 | 0 | **5 489** | 37 |
+| L'Assomption | 5 099 | 4 | 5 095 | 0 | **5 095** | 33 |
+| Sainte-Anne-des-Plaines | 4 840 | 1 | 4 839 | 91 | **4 748** | 17 |
+| Saint-Jérôme | 4 670 | 1 | 4 669 | 0 | **4 669** | 79 |
+| Saint-Eustache | 3 710 | 126 | 3 584 | 0 | **3 584** | 34 |
+| Repentigny | 3 656 | 552 | 3 104 | 0 | **3 104** | 82 |
+| Oka | 4 413 | 1 514 | 2 899 | 0 | **2 899** | 8 |
+| Blainville | 2 842 | 35 | 2 807 | 248 | **2 559** | 55 |
+| Saint-Joseph-du-Lac | 2 120 | 15 | 2 105 | 0 | **2 105** | 12 |
+| Saint-Sulpice | 1 863 | 0 | 1 863 | 0 | **1 863** | 2 |
+| Boisbriand | 1 525 | 84 | 1 441 | 0 | **1 441** | 41 |
+| Rosemère | 624 | 69 | 555 | 0 | **555** | 26 |
+| Sainte-Thérèse | 479 | 0 | 479 | 0 | **479** | 33 |
+| Sainte-Marthe-sur-le-Lac | 432 | 1 | 431 | 0 | **431** | 19 |
+| Deux-Montagnes | 368 | 53 | 315 | 0 | **315** | 14 |
+| Lorraine | 311 | 4 | 307 | 0 | **307** | 28 |
+| Pointe-Calumet | 593 | 356 | 237 | 0 | **237** | 4 |
+| Bois-des-Filion | 251 | 20 | 231 | 0 | **231** | 16 |
+| Charlemagne | 116 | 9 | 107 | 0 | **107** | 8 |
 
 ## Parcs (772)
 
