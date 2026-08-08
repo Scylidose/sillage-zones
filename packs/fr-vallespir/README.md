@@ -1,6 +1,6 @@
 # Vallespir
 
-Pack `fr-vallespir` · version 1.1.1 · grille 200 m · France › Occitanie
+Pack `fr-vallespir` · version 1.2.0 · grille 200 m · France › Occitanie
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -14,7 +14,7 @@ Pack `fr-vallespir` · version 1.1.1 · grille 200 m · France › Occitanie
 | Villes | 10 |
 | Arrondissements et quartiers | 0 |
 | Îles | 0 |
-| Parcs | 12 |
+| Parcs | 75 |
 
 Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'est comptée qu'une fois dans le total du territoire, mais apparaît dans chacune des zones ci-dessous.
 
@@ -34,37 +34,77 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
 |---|---:|---:|---:|---:|---:|---:|
-| Maureillas-las-Illas | 1 947 | 1 | 1 946 | 0 | **1 946** | 6 |
-| Céret | 1 745 | 9 | 1 736 | 0 | **1 736** | 1 |
-| Reynès | 1 274 | 0 | 1 274 | 0 | **1 274** | 1 |
-| L'Albère | 748 | 0 | 748 | 0 | **748** |  |
-| Le Boulou | 671 | 24 | 647 | 0 | **647** |  |
-| Vivès | 521 | 0 | 521 | 0 | **521** | 2 |
-| Saint-Jean-Pla-de-Corts | 491 | 15 | 476 | 0 | **476** |  |
-| Taillet | 463 | 0 | 463 | 0 | **463** |  |
+| Maureillas-las-Illas | 1 947 | 1 | 1 946 | 0 | **1 946** | 11 |
+| Céret | 1 745 | 9 | 1 736 | 0 | **1 736** | 12 |
+| Reynès | 1 274 | 0 | 1 274 | 0 | **1 274** | 2 |
+| L'Albère | 748 | 0 | 748 | 0 | **748** | 6 |
+| Le Boulou | 671 | 24 | 647 | 0 | **647** | 1 |
+| Vivès | 521 | 0 | 521 | 0 | **521** | 6 |
+| Saint-Jean-Pla-de-Corts | 491 | 15 | 476 | 0 | **476** | 6 |
+| Taillet | 463 | 0 | 463 | 0 | **463** | 1 |
 | Les Cluses | 404 | 0 | 404 | 0 | **404** |  |
-| Le Perthus | 195 | 0 | 195 | 0 | **195** | 2 |
+| Le Perthus | 195 | 0 | 195 | 0 | **195** | 3 |
 
-## Parcs (12)
+## Parcs (75)
 
-Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte — ce que l'app énumère pour un défi. Les défis « parc » demandent au moins 10 cellules.
+Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte — ce que l'app énumère pour un défi. Le pack livre tous les parcs, la zone les affiche tous ; seuls ceux de 10 à 125 cellules peuvent servir de cible à un défi « parc ».
 
 « Zone » est celle qui contient le plus de cellules du parc : un parc à cheval sur deux villes n'est rattaché qu'à une seule.
 
 | Parc | Zone | Cellules |
 |---|---|---:|
-| Forêt de Maureillas-las-Illas (4) | Maureillas-las-Illas | 181 |
-| Forêt du Perthus (2) | Le Perthus | 165 |
+| Forêt de Maureillas-las-Illas (5) ⚠️ | Maureillas-las-Illas | 2 674 |
+| Forêt de l'Albère (4) ⚠️ | L'Albère | 872 |
+| Forêt de Taillet ⚠️ | Taillet | 714 |
+| Forêt de Maureillas-las-Illas (4) ⚠️ | Maureillas-las-Illas | 181 |
+| Forêt de Vivès (5) ⚠️ | Vivès | 171 |
+| Forêt du Perthus (3) ⚠️ | Le Perthus | 165 |
 | Forêt de Céret | Céret | 108 |
 | Forêt de Maureillas-las-Illas (3) | Maureillas-las-Illas | 75 |
 | Forêt de Maureillas-las-Illas (2) | Maureillas-las-Illas | 61 |
 | Forêt de Vivès | Vivès | 59 |
-| Forêt de Maureillas-las-Illas (5) | Maureillas-las-Illas | 36 |
+| Forêt de Maureillas-las-Illas (8) | Maureillas-las-Illas | 36 |
 | Forêt de Reynès | Reynès | 33 |
 | Forêt du Perthus | Le Perthus | 27 |
+| Forêt de Maureillas-las-Illas (7) | Maureillas-las-Illas | 23 |
 | Forêt de Maureillas-las-Illas | Maureillas-las-Illas | 21 |
-| Forêt de Maureillas-las-Illas (6) | Maureillas-las-Illas | 21 |
+| Forêt de Maureillas-las-Illas (9) | Maureillas-las-Illas | 21 |
 | Forêt de Vivès (2) | Vivès | 18 |
+| Bois de Saint-Jean-Pla-de-Corts | Saint-Jean-Pla-de-Corts | 12 |
+| Forêt de l'Albère (7) | L'Albère | 12 |
+| Forêt de Céret (2) | Céret | 10 |
+| Forêt de Reynès (2) | Reynès | 10 |
+| Forêt du Boulou ⚠️ | Le Boulou | 9 |
+| Bois de Saint-Jean-Pla-de-Corts (6) ⚠️ | Saint-Jean-Pla-de-Corts | 6 |
+| Bois de Céret (8) ⚠️ | Céret | 6 |
+| Forêt de l'Albère (3) ⚠️ | L'Albère | 6 |
+| Forêt du Perthus (4) ⚠️ | Le Perthus | 6 |
+| Forêt de l'Albère ⚠️ | L'Albère | 5 |
+| Bois de Céret ⚠️ | Céret | 5 |
+| Forêt de l'Albère (2) ⚠️ | L'Albère | 4 |
+| Bois de Céret (3) ⚠️ | Céret | 4 |
+| Forêt de Vivès (6) ⚠️ | Vivès | 4 |
+| Parc du château d'Aubiry ⚠️ | Céret | 3 |
+| Forêt de Vivès (3) ⚠️ | Vivès | 3 |
+| Bois de Saint-Jean-Pla-de-Corts (2) ⚠️ | Saint-Jean-Pla-de-Corts | 3 |
+| Bois de Céret (4) ⚠️ | Céret | 3 |
+| Forêt de Maureillas-las-Illas (12) ⚠️ | Maureillas-las-Illas | 3 |
+| Forêt de l'Albère (8) ⚠️ | L'Albère | 3 |
+| Aire de Loisirs du Prat de la Farga ⚠️ | Maureillas-las-Illas | 2 |
+| Bois de Saint-Jean-Pla-de-Corts (3) ⚠️ | Saint-Jean-Pla-de-Corts | 2 |
+| Bois de Céret (2) ⚠️ | Céret | 2 |
+| Bois de Maureillas-las-Illas ⚠️ | Maureillas-las-Illas | 2 |
+| Bois de Saint-Jean-Pla-de-Corts (4) ⚠️ | Saint-Jean-Pla-de-Corts | 1 |
+| Bois de Saint-Jean-Pla-de-Corts (5) ⚠️ | Céret | 1 |
+| Bois de Saint-Jean-Pla-de-Corts (7) ⚠️ | Saint-Jean-Pla-de-Corts | 1 |
+| Bois de Céret (5) ⚠️ | Céret | 1 |
+| Bois de Céret (6) ⚠️ | Céret | 1 |
+| Bois de Céret (7) ⚠️ | Céret | 1 |
+| Forêt de Vivès (4) ⚠️ | Vivès | 1 |
+
+27 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
+
+⚠️ 60 parc(s) hors de la fenêtre 10–125 cellules (54 trop petit(s), 6 trop grand(s)) : affichés sur la carte, mais ils ne peuvent pas servir de cible à un défi.
 
 ## Zones restreintes
 
