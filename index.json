@@ -20,6 +20,7 @@
         42.547933
       ],
       "zoneCount": 10,
+      "parkCount": 75,
       "downloadBytes": 220870,
       "installedBytes": 688279,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-vallespir-1.3.0/fr-vallespir-1.3.0.zip",
@@ -45,6 +46,7 @@
         45.943536
       ],
       "zoneCount": 21,
+      "parkCount": 772,
       "downloadBytes": 709412,
       "installedBytes": 2351577,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-couronne-nord-1.2.0/qc-couronne-nord-1.2.0.zip",
@@ -70,6 +72,7 @@
         45.980915
       ],
       "zoneCount": 30,
+      "parkCount": 587,
       "downloadBytes": 643488,
       "installedBytes": 2097784,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-couronne-sud-1.2.0/qc-couronne-sud-1.2.0.zip",
@@ -95,6 +98,7 @@
         45.69965
       ],
       "zoneCount": 15,
+      "parkCount": 354,
       "downloadBytes": 507378,
       "installedBytes": 1653076,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-laval-1.2.0/qc-laval-1.2.0.zip",
@@ -120,6 +124,7 @@
         45.656689
       ],
       "zoneCount": 16,
+      "parkCount": 522,
       "downloadBytes": 504413,
       "installedBytes": 1670690,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-longueuil-1.2.0/qc-longueuil-1.2.0.zip",
@@ -145,6 +150,7 @@
         45.704232
       ],
       "zoneCount": 35,
+      "parkCount": 1552,
       "downloadBytes": 804361,
       "installedBytes": 2815527,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-ile-1.2.0/qc-montreal-ile-1.2.0.zip",
@@ -170,6 +176,7 @@
         45.484697
       ],
       "zoneCount": 11,
+      "parkCount": 175,
       "downloadBytes": 521357,
       "installedBytes": 1670922,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-vaudreuil-soulanges-1.2.0/qc-vaudreuil-soulanges-1.2.0.zip",
