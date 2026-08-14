@@ -2,6 +2,31 @@
   "formatVersion": 1,
   "packs": [
     {
+      "id": "es-malaga",
+      "name": "Province de Málaga",
+      "groups": [
+        "Espagne",
+        "Andalousie"
+      ],
+      "country": "Espagne",
+      "region": "Andalousie",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -5.611777,
+        36.310352,
+        -3.765967,
+        37.282445
+      ],
+      "zoneCount": 103,
+      "parkCount": 4589,
+      "downloadBytes": 1393082,
+      "installedBytes": 5108334,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-malaga-1.0.0/es-malaga-1.0.0.zip",
+      "sha256": "3309ff73f270d33c6652c46c5c24a9aa63567b28ad72de3f002d6e94d014c69b"
+    },
+    {
       "id": "fr-pyrenees-orientales",
       "name": "Pyrénées-Orientales",
       "groups": [
@@ -25,6 +50,31 @@
       "installedBytes": 9900535,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-pyrenees-orientales-1.0.0/fr-pyrenees-orientales-1.0.0.zip",
       "sha256": "6eb46b4f0fa660814444d3247ec9484c95727536815f5090fdfd020bc73085b0"
+    },
+    {
+      "id": "it-verona",
+      "name": "Province de Vérone",
+      "groups": [
+        "Italie",
+        "Vénétie"
+      ],
+      "country": "Italie",
+      "region": "Vénétie",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        10.623103,
+        45.053067,
+        11.491357,
+        45.826852
+      ],
+      "zoneCount": 98,
+      "parkCount": 6866,
+      "downloadBytes": 2867515,
+      "installedBytes": 10395928,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/it-verona-1.0.0/it-verona-1.0.0.zip",
+      "sha256": "83dd61a00ca31a3a906920b83eae7b818c30ea9a454c3154897ac6bf025e5b13"
     },
     {
       "id": "qc-couronne-nord",
