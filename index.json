@@ -155,6 +155,32 @@
       "sha256": "9dd087ca24ed77cb43833aded4b737c77d9f28631a5dfb2ac10927f6bfb46a85"
     },
     {
+      "id": "qc-levis",
+      "name": "Lévis (Chaudière-Appalaches)",
+      "groups": [
+        "Canada",
+        "Québec",
+        "Grand Québec"
+      ],
+      "country": "Canada",
+      "region": "Québec",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -71.503861,
+        46.572183,
+        -70.993781,
+        46.833248
+      ],
+      "zoneCount": 11,
+      "parkCount": 230,
+      "downloadBytes": 280982,
+      "installedBytes": 913849,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-levis-1.0.0/qc-levis-1.0.0.zip",
+      "sha256": "55c34bc9ec670dac17d859bfe7cfe04fe2e66f2e73f63b6cc75525ef88abd663"
+    },
+    {
       "id": "qc-longueuil",
       "name": "Agglomération de Longueuil",
       "groups": [
@@ -205,6 +231,32 @@
       "installedBytes": 2815527,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-ile-1.2.0/qc-montreal-ile-1.2.0.zip",
       "sha256": "209d31c1134bd2d83d7d706503209668b1f6360b7f91d28c3734555884382ed0"
+    },
+    {
+      "id": "qc-quebec-agglo",
+      "name": "Agglomération de Québec",
+      "groups": [
+        "Canada",
+        "Québec",
+        "Grand Québec"
+      ],
+      "country": "Canada",
+      "region": "Québec",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -71.606307,
+        46.71336,
+        -71.143041,
+        46.98068
+      ],
+      "zoneCount": 9,
+      "parkCount": 478,
+      "downloadBytes": 399421,
+      "installedBytes": 1354321,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-quebec-agglo-1.0.0/qc-quebec-agglo-1.0.0.zip",
+      "sha256": "be127d289ef59a95f51bf1400be5ac4ad1bebe3c6945246582a97789ac65c53b"
     },
     {
       "id": "qc-vaudreuil-soulanges",
