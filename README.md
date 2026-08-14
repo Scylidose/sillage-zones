@@ -15,7 +15,7 @@ correction — or a whole new city — reaches users without an app release.
 | Path | What it is |
 |---|---|
 | `index.json` | The catalogue the app reads. Everything the download screen shows comes from it, so a pack can be listed, sized and located without downloading anything. |
-| `packs/<id>/` | The pack files, in clear. A boundary correction is a readable diff here. |
+| `packs/<country>/<region>/<id>/` | The pack files, in clear, nested under the group path its `pack.json` declares. A boundary correction is a readable diff here. The nesting is for browsing only: the app reads `index.json` and the absolute URL of each entry, never these paths, so they can be reorganised without breaking any installed version. |
 | Releases | `pack.zip` per version — what the app actually downloads. |
 
 ## Pack format
@@ -42,7 +42,7 @@ breaks them:
 
 ## Contributing a correction
 
-Edit the GeoJSON under `packs/<id>/`, bump `version` in its `pack.json`, and
+Edit the GeoJSON under the pack's directory, bump `version` in its `pack.json`, and
 open a pull request. Note that `cell-totals.json` and `restricted-cells.json`
 are *derived* from the geometry: changing a boundary without regenerating them
 leaves the zone measured against the old shape. The generator scripts live in
