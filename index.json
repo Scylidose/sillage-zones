@@ -10,7 +10,7 @@
       ],
       "country": "Espagne",
       "region": "Andalousie",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -21,10 +21,10 @@
       ],
       "zoneCount": 103,
       "parkCount": 4589,
-      "downloadBytes": 1393082,
-      "installedBytes": 5108334,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-malaga-1.0.0/es-malaga-1.0.0.zip",
-      "sha256": "3309ff73f270d33c6652c46c5c24a9aa63567b28ad72de3f002d6e94d014c69b"
+      "downloadBytes": 1680094,
+      "installedBytes": 6143418,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-malaga-1.1.0/es-malaga-1.1.0.zip",
+      "sha256": "16aed8a83e843ddf57f8e4f54a4b056bf8575b151e5c4b918766d41a462b1c88"
     },
     {
       "id": "fr-pyrenees-orientales",
