@@ -1,6 +1,6 @@
 # Agglomération de Québec
 
-Pack `qc-quebec-agglo` · version 1.0.0 · grille 200 m · Canada › Québec › Grand Québec
+Pack `qc-quebec-agglo` · version 1.0.1 · grille 200 m · Canada › Québec › Grand Québec
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
