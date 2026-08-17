@@ -10,6 +10,7 @@ Pack `qc-vaudreuil-soulanges` · version 1.2.1 · grille 200 m · Canada › Qu�
 |---|---:|
 | Cellules du territoire | 14 434 |
 | dont restreintes (aéroport, militaire, prison) | 26 |
+| dont sans chemin (aucune voie à moins de 60 m) | 3 420 |
 | Cellules retirées par le masque d'eau | 3 502 |
 | Villes | 11 |
 | Arrondissements et quartiers | 0 |
@@ -29,6 +30,7 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 | **Sans eau** | ce que publie `cell-totals.json` |
 | **Restr.** | parmi elles, dans un aéroport, une zone militaire ou une prison |
 | **Comptées** | le dénominateur réel de l'app : sans eau − restreintes |
+| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
 
 ## Îles
 
@@ -40,19 +42,19 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 
 ## Villes (11)
 
-| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
-|---|---:|---:|---:|---:|---:|---:|
-| Les Cèdres | 3 919 | 0 | 3 919 | 21 | **3 898** | 16 |
-| Vaudreuil-Dorion | 4 682 | 988 | 3 694 | 0 | **3 694** | 69 |
-| Saint-Lazare | 3 386 | 0 | 3 386 | 5 | **3 381** | 22 |
-| Notre-Dame-de-l'Île-Perrot | 3 517 | 2 099 | 1 418 | 0 | **1 418** | 19 |
-| Hudson | 1 097 | 0 | 1 097 | 0 | **1 097** | 11 |
-| Pincourt | 483 | 120 | 363 | 0 | **363** | 17 |
-| Ville de l'Île-Perrot | 487 | 212 | 275 | 0 | **275** | 11 |
-| Pointe-des-Cascades | 131 | 0 | 131 | 0 | **131** | 5 |
-| Vaudreuil-sur-le-Lac | 144 | 77 | 67 | 0 | **67** | 1 |
-| Terrasse-Vaudreuil | 62 | 6 | 56 | 0 | **56** | 1 |
-| L'Île-Cadieux | 28 | 0 | 28 | 0 | **28** |  |
+| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Les Cèdres | 3 919 | 0 | 3 919 | 21 | **3 898** | 1 393 (36 %) | 16 |
+| Vaudreuil-Dorion | 4 682 | 988 | 3 694 | 0 | **3 694** | 903 (24 %) | 69 |
+| Saint-Lazare | 3 386 | 0 | 3 386 | 5 | **3 381** | 578 (17 %) | 22 |
+| Notre-Dame-de-l'Île-Perrot | 3 517 | 2 099 | 1 418 | 0 | **1 418** | 313 (22 %) | 19 |
+| Hudson | 1 097 | 0 | 1 097 | 0 | **1 097** | 186 (17 %) | 11 |
+| Pincourt | 483 | 120 | 363 | 0 | **363** | 6 (2 %) | 17 |
+| Ville de l'Île-Perrot | 487 | 212 | 275 | 0 | **275** | 23 (8 %) | 11 |
+| Pointe-des-Cascades | 131 | 0 | 131 | 0 | **131** | 14 (11 %) | 5 |
+| Vaudreuil-sur-le-Lac | 144 | 77 | 67 | 0 | **67** | 4 (6 %) | 1 |
+| Terrasse-Vaudreuil | 62 | 6 | 56 | 0 | **56** |  | 1 |
+| L'Île-Cadieux | 28 | 0 | 28 | 0 | **28** |  |  |
 
 ## Parcs (175)
 

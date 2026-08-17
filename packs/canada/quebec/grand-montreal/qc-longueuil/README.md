@@ -10,6 +10,7 @@ Pack `qc-longueuil` · version 1.2.1 · grille 200 m · Canada › Québec › G
 |---|---:|
 | Cellules du territoire | 14 331 |
 | dont restreintes (aéroport, militaire, prison) | 305 |
+| dont sans chemin (aucune voie à moins de 60 m) | 2 526 |
 | Cellules retirées par le masque d'eau | 1 109 |
 | Villes | 5 |
 | Arrondissements et quartiers | 11 |
@@ -29,32 +30,33 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 | **Sans eau** | ce que publie `cell-totals.json` |
 | **Restr.** | parmi elles, dans un aéroport, une zone militaire ou une prison |
 | **Comptées** | le dénominateur réel de l'app : sans eau − restreintes |
+| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
 
 ## Villes (5)
 
-| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
-|---|---:|---:|---:|---:|---:|---:|
-| Longueuil | 6 238 | 341 | 5 897 | 218 | **5 679** | 229 |
-| Boucherville | 4 182 | 594 | 3 588 | 0 | **3 588** | 86 |
-| Brossard | 2 300 | 1 | 2 299 | 0 | **2 299** | 128 |
-| Saint-Bruno-de-Montarville | 2 216 | 50 | 2 166 | 87 | **2 079** | 37 |
-| Saint-Lambert | 504 | 123 | 381 | 0 | **381** | 39 |
+| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Longueuil | 6 238 | 341 | 5 897 | 218 | **5 679** | 798 (14 %) | 229 |
+| Boucherville | 4 182 | 594 | 3 588 | 0 | **3 588** | 999 (28 %) | 86 |
+| Brossard | 2 300 | 1 | 2 299 | 0 | **2 299** | 337 (15 %) | 128 |
+| Saint-Bruno-de-Montarville | 2 216 | 50 | 2 166 | 87 | **2 079** | 390 (19 %) | 37 |
+| Saint-Lambert | 504 | 123 | 381 | 0 | **381** | 2 (1 %) | 39 |
 
 ## Arrondissements et quartiers (11)
 
-| Zone | Ville | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
-|---|---|---:|---:|---:|---:|---:|---:|
-| Saint-Hubert | longueuil | 3 371 | 4 | 3 367 | 218 | **3 149** | 81 |
-| Le Vieux-Longueuil | longueuil | 2 621 | 337 | 2 284 | 0 | **2 284** | 132 |
-| Greenfield Park | longueuil | 246 | 0 | 246 | 0 | **246** | 16 |
-| Secteur L | brossard | 192 | 1 | 191 | 0 | **191** | 24 |
-| Secteur R | brossard | 147 | 2 | 145 | 0 | **145** | 6 |
-| Secteur M | brossard | 87 | 0 | 87 | 0 | **87** | 16 |
-| Secteur O | brossard | 79 | 0 | 79 | 0 | **79** | 13 |
-| Secteur J | brossard | 61 | 0 | 61 | 0 | **61** |  |
-| Secteur N | brossard | 59 | 0 | 59 | 0 | **59** | 6 |
-| Secteur I | brossard | 55 | 1 | 54 | 0 | **54** | 1 |
-| Secteur E | brossard | 19 | 0 | 19 | 0 | **19** | 1 |
+| Zone | Ville | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
+|---|---|---:|---:|---:|---:|---:|---:|---:|
+| Saint-Hubert | longueuil | 3 371 | 4 | 3 367 | 218 | **3 149** | 716 (23 %) | 81 |
+| Le Vieux-Longueuil | longueuil | 2 621 | 337 | 2 284 | 0 | **2 284** | 82 (4 %) | 132 |
+| Greenfield Park | longueuil | 246 | 0 | 246 | 0 | **246** |  | 16 |
+| Secteur L | brossard | 192 | 1 | 191 | 0 | **191** |  | 24 |
+| Secteur R | brossard | 147 | 2 | 145 | 0 | **145** |  | 6 |
+| Secteur M | brossard | 87 | 0 | 87 | 0 | **87** |  | 16 |
+| Secteur O | brossard | 79 | 0 | 79 | 0 | **79** |  | 13 |
+| Secteur J | brossard | 61 | 0 | 61 | 0 | **61** | 8 (13 %) |  |
+| Secteur N | brossard | 59 | 0 | 59 | 0 | **59** |  | 6 |
+| Secteur I | brossard | 55 | 1 | 54 | 0 | **54** |  | 1 |
+| Secteur E | brossard | 19 | 0 | 19 | 0 | **19** |  | 1 |
 
 ## Parcs (522)
 

@@ -10,6 +10,7 @@ Pack `qc-quebec-agglo` · version 1.0.1 · grille 200 m · Canada › Québec �
 |---|---:|
 | Cellules du territoire | 29 348 |
 | dont restreintes (aéroport, militaire, prison) | 792 |
+| dont sans chemin (aucune voie à moins de 60 m) | 8 223 |
 | Cellules retirées par le masque d'eau | 2 703 |
 | Villes | 3 |
 | Arrondissements et quartiers | 6 |
@@ -29,25 +30,26 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 | **Sans eau** | ce que publie `cell-totals.json` |
 | **Restr.** | parmi elles, dans un aéroport, une zone militaire ou une prison |
 | **Comptées** | le dénominateur réel de l'app : sans eau − restreintes |
+| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
 
 ## Villes (3)
 
-| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
-|---|---:|---:|---:|---:|---:|---:|
-| Québec | 25 909 | 1 667 | 24 242 | 792 | **23 450** | 441 |
-| Saint-Augustin-de-Desmaures | 5 607 | 1 036 | 4 571 | 0 | **4 571** | 21 |
-| L'Ancienne-Lorette | 409 | 0 | 409 | 0 | **409** | 12 |
+| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Québec | 25 909 | 1 667 | 24 242 | 792 | **23 450** | 5 731 (24 %) | 441 |
+| Saint-Augustin-de-Desmaures | 5 607 | 1 036 | 4 571 | 0 | **4 571** | 2 483 (54 %) | 21 |
+| L'Ancienne-Lorette | 409 | 0 | 409 | 0 | **409** | 5 (1 %) | 12 |
 
 ## Arrondissements et quartiers (6)
 
-| Zone | Ville | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
-|---|---|---:|---:|---:|---:|---:|---:|
-| La Haute-Saint-Charles | quebec | 8 257 | 241 | 8 016 | 497 | **7 519** | 70 |
-| Sainte-Foy–Sillery–Cap-Rouge | quebec | 5 157 | 89 | 5 068 | 286 | **4 782** | 106 |
-| Beauport | quebec | 4 490 | 531 | 3 959 | 0 | **3 959** | 57 |
-| Charlesbourg | quebec | 3 576 | 29 | 3 547 | 1 | **3 546** | 37 |
-| Les Rivières | quebec | 2 597 | 25 | 2 572 | 0 | **2 572** | 65 |
-| La Cité-Limoilou | quebec | 1 277 | 72 | 1 205 | 8 | **1 197** | 107 |
+| Zone | Ville | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
+|---|---|---:|---:|---:|---:|---:|---:|---:|
+| La Haute-Saint-Charles | quebec | 8 257 | 241 | 8 016 | 497 | **7 519** | 2 928 (39 %) | 70 |
+| Sainte-Foy–Sillery–Cap-Rouge | quebec | 5 157 | 89 | 5 068 | 286 | **4 782** | 1 401 (29 %) | 106 |
+| Beauport | quebec | 4 490 | 531 | 3 959 | 0 | **3 959** | 778 (20 %) | 57 |
+| Charlesbourg | quebec | 3 576 | 29 | 3 547 | 1 | **3 546** | 531 (15 %) | 37 |
+| Les Rivières | quebec | 2 597 | 25 | 2 572 | 0 | **2 572** | 85 (3 %) | 65 |
+| La Cité-Limoilou | quebec | 1 277 | 72 | 1 205 | 8 | **1 197** | 12 (1 %) | 107 |
 
 ## Parcs (478)
 

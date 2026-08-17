@@ -10,6 +10,7 @@ Pack `it-verona` · version 1.0.1 · grille 200 m · Italie › Vénétie
 |---|---:|
 | Cellules du territoire | 147 601 |
 | dont restreintes (aéroport, militaire, prison) | 398 |
+| dont sans chemin (aucune voie à moins de 60 m) | 31 399 |
 | Cellules retirées par le masque d'eau | 9 555 |
 | Villes | 98 |
 | Arrondissements et quartiers | 0 |
@@ -29,109 +30,110 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 | **Sans eau** | ce que publie `cell-totals.json` |
 | **Restr.** | parmi elles, dans un aéroport, une zone militaire ou une prison |
 | **Comptées** | le dénominateur réel de l'app : sans eau − restreintes |
+| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
 
 ## Villes (98)
 
-| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
-|---|---:|---:|---:|---:|---:|---:|
-| Verona | 10 098 | 171 | 9 927 | 77 | **9 850** | 757 |
-| Legnago | 3 984 | 62 | 3 922 | 7 | **3 915** | 44 |
-| Cerea | 3 547 | 15 | 3 532 | 21 | **3 511** | 34 |
-| Isola della Scala | 3 538 | 10 | 3 528 | 0 | **3 528** | 28 |
-| Bosco Chiesanuova | 3 301 | 1 | 3 300 | 0 | **3 300** | 386 |
-| Valeggio sul Mincio | 3 237 | 13 | 3 224 | 54 | **3 170** | 82 |
-| Villafranca di Verona | 2 897 | 4 | 2 893 | 62 | **2 831** | 64 |
-| Gazzo Veronese | 2 843 | 1 | 2 842 | 0 | **2 842** | 10 |
-| Zevio | 2 789 | 59 | 2 730 | 0 | **2 730** | 21 |
-| Villa Bartolomea | 2 696 | 51 | 2 645 | 0 | **2 645** | 25 |
-| Grezzana | 2 529 | 1 | 2 528 | 0 | **2 528** | 185 |
-| Malcesine | 3 593 | 1 071 | 2 522 | 0 | **2 522** | 178 |
-| Caprino Veronese | 2 419 | 0 | 2 419 | 0 | **2 419** | 373 |
-| Oppeano | 2 360 | 10 | 2 350 | 0 | **2 350** | 10 |
-| Sant'Anna d'Alfaedo | 2 237 | 0 | 2 237 | 0 | **2 237** | 280 |
-| Cologna Veneta | 2 187 | 1 | 2 186 | 0 | **2 186** | 9 |
-| Selva di Progno | 2 109 | 3 | 2 106 | 0 | **2 106** | 228 |
-| Sona | 2 106 | 0 | 2 106 | 0 | **2 106** | 30 |
-| Bovolone | 2 087 | 4 | 2 083 | 12 | **2 071** | 27 |
-| Negrar di Valpolicella | 2 062 | 0 | 2 062 | 0 | **2 062** | 122 |
-| Sommacampagna | 2 060 | 3 | 2 057 | 145 | **1 912** | 44 |
-| Ronco all'Adige | 2 160 | 161 | 1 999 | 0 | **1 999** | 28 |
-| Nogara | 1 958 | 0 | 1 958 | 0 | **1 958** | 13 |
-| Casaleone | 1 917 | 0 | 1 917 | 0 | **1 917** | 22 |
-| Tregnago | 1 907 | 20 | 1 887 | 0 | **1 887** | 208 |
-| Roverè Veronese | 1 869 | 2 | 1 867 | 0 | **1 867** | 198 |
-| Fumane | 1 750 | 0 | 1 750 | 0 | **1 750** | 220 |
-| Castagnaro | 1 743 | 4 | 1 739 | 0 | **1 739** | 3 |
-| San Martino Buon Albergo | 1 752 | 16 | 1 736 | 0 | **1 736** | 65 |
-| San Bonifacio | 1 715 | 10 | 1 705 | 0 | **1 705** | 13 |
-| Erbezzo | 1 633 | 1 | 1 632 | 0 | **1 632** | 210 |
-| Sorgà | 1 594 | 0 | 1 594 | 0 | **1 594** | 13 |
-| Vigasio | 1 572 | 1 | 1 571 | 0 | **1 571** | 14 |
-| Brenzone sul Garda | 2 672 | 1 104 | 1 568 | 0 | **1 568** | 86 |
-| Salizzole | 1 541 | 1 | 1 540 | 0 | **1 540** | 1 |
-| Dolcè | 1 580 | 46 | 1 534 | 0 | **1 534** | 82 |
-| Minerbe | 1 500 | 1 | 1 499 | 0 | **1 499** | 6 |
-| Castelnuovo del Garda | 1 759 | 263 | 1 496 | 0 | **1 496** | 38 |
-| Nogarole Rocca | 1 471 | 16 | 1 455 | 0 | **1 455** | 6 |
-| San Zeno di Montagna | 1 444 | 0 | 1 444 | 0 | **1 444** | 231 |
-| Lazise | 3 211 | 1 818 | 1 393 | 0 | **1 393** | 163 |
-| Albaredo d'Adige | 1 417 | 31 | 1 386 | 0 | **1 386** | 51 |
-| Ferrara di Monte Baldo | 1 378 | 0 | 1 378 | 0 | **1 378** | 159 |
-| Badia Calavena | 1 373 | 7 | 1 366 | 0 | **1 366** | 236 |
-| Trevenzuolo | 1 364 | 0 | 1 364 | 0 | **1 364** | 4 |
-| Belfiore | 1 338 | 26 | 1 312 | 0 | **1 312** | 15 |
-| San Giovanni Ilarione | 1 301 | 0 | 1 301 | 0 | **1 301** | 187 |
-| Brentino Belluno | 1 329 | 31 | 1 298 | 0 | **1 298** | 90 |
-| Illasi | 1 262 | 0 | 1 262 | 0 | **1 262** | 31 |
-| Mozzecane | 1 243 | 2 | 1 241 | 0 | **1 241** | 26 |
-| Vestenanova | 1 223 | 0 | 1 223 | 0 | **1 223** | 225 |
-| Bussolengo | 1 235 | 22 | 1 213 | 0 | **1 213** | 49 |
-| Sant'Ambrogio di Valpolicella | 1 196 | 3 | 1 193 | 0 | **1 193** | 47 |
-| Soave | 1 159 | 0 | 1 159 | 0 | **1 159** | 37 |
-| Montecchia di Crosara | 1 073 | 6 | 1 067 | 0 | **1 067** | 99 |
-| Colognola ai Colli | 1 063 | 0 | 1 063 | 0 | **1 063** | 5 |
-| Veronella | 1 051 | 0 | 1 051 | 0 | **1 051** | 1 |
-| Monteforte d'Alpone | 1 038 | 0 | 1 038 | 0 | **1 038** | 22 |
-| San Pietro in Cariano | 1 030 | 1 | 1 029 | 0 | **1 029** | 15 |
-| Zimella | 1 023 | 0 | 1 023 | 0 | **1 023** | 1 |
-| Terrazzo | 1 029 | 26 | 1 003 | 0 | **1 003** | 4 |
-| Mezzane di Sotto | 999 | 0 | 999 | 0 | **999** | 85 |
-| Pescantina | 1 000 | 18 | 982 | 0 | **982** | 12 |
-| Roverchiara | 993 | 19 | 974 | 0 | **974** | 8 |
-| Velo Veronese | 972 | 0 | 972 | 0 | **972** | 93 |
-| Arcole | 959 | 0 | 959 | 0 | **959** | 1 |
-| Marano di Valpolicella | 949 | 0 | 949 | 0 | **949** | 40 |
-| Povegliano Veronese | 946 | 0 | 946 | 6 | **940** | 19 |
-| San Giovanni Lupatoto | 962 | 18 | 944 | 0 | **944** | 31 |
-| Roncà | 924 | 0 | 924 | 0 | **924** | 139 |
-| Rivoli Veronese | 944 | 28 | 916 | 0 | **916** | 39 |
-| Pressana | 891 | 0 | 891 | 0 | **891** | 5 |
-| Bonavigo | 900 | 24 | 876 | 0 | **876** | 6 |
-| Costermano sul Garda | 865 | 0 | 865 | 0 | **865** | 64 |
-| Isola Rizza | 861 | 1 | 860 | 0 | **860** | 8 |
-| Buttapietra | 871 | 24 | 847 | 0 | **847** | 11 |
-| Bardolino | 2 919 | 2 080 | 839 | 0 | **839** | 33 |
-| San Pietro di Morubio | 806 | 0 | 806 | 0 | **806** | 9 |
-| Erbè | 793 | 9 | 784 | 0 | **784** | 5 |
-| Peschiera del Garda | 921 | 170 | 751 | 7 | **744** | 48 |
-| Lavagno | 748 | 2 | 746 | 0 | **746** | 15 |
-| Sanguinetto | 691 | 0 | 691 | 0 | **691** | 3 |
-| Palù | 682 | 0 | 682 | 0 | **682** | 1 |
-| Torri del Benaco | 2 312 | 1 635 | 677 | 0 | **677** | 37 |
-| Angiari | 681 | 19 | 662 | 0 | **662** | 5 |
-| Cavaion Veronese | 653 | 6 | 647 | 0 | **647** | 16 |
-| Cazzano di Tramigna | 627 | 0 | 627 | 0 | **627** | 27 |
-| Bevilacqua | 613 | 0 | 613 | 0 | **613** |  |
-| San Mauro di Saline | 567 | 1 | 566 | 0 | **566** | 50 |
-| Caldiero | 524 | 0 | 524 | 0 | **524** | 13 |
-| Cerro Veronese | 515 | 0 | 515 | 0 | **515** | 58 |
-| Roveredo di Guà | 515 | 0 | 515 | 0 | **515** | 1 |
-| Affi | 500 | 0 | 500 | 0 | **500** | 21 |
-| Castel d'Azzano | 485 | 0 | 485 | 0 | **485** | 12 |
-| Pastrengo | 461 | 10 | 451 | 0 | **451** | 19 |
-| Boschi Sant'Anna | 446 | 0 | 446 | 0 | **446** | 2 |
-| Concamarise | 391 | 0 | 391 | 7 | **384** | 2 |
-| Garda | 729 | 392 | 337 | 0 | **337** | 28 |
+| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Verona | 10 098 | 171 | 9 927 | 77 | **9 850** | 857 (9 %) | 757 |
+| Legnago | 3 984 | 62 | 3 922 | 7 | **3 915** | 1 171 (30 %) | 44 |
+| Cerea | 3 547 | 15 | 3 532 | 21 | **3 511** | 1 363 (39 %) | 34 |
+| Isola della Scala | 3 538 | 10 | 3 528 | 0 | **3 528** | 1 629 (46 %) | 28 |
+| Bosco Chiesanuova | 3 301 | 1 | 3 300 | 0 | **3 300** | 483 (15 %) | 386 |
+| Valeggio sul Mincio | 3 237 | 13 | 3 224 | 54 | **3 170** | 462 (15 %) | 82 |
+| Villafranca di Verona | 2 897 | 4 | 2 893 | 62 | **2 831** | 283 (10 %) | 64 |
+| Gazzo Veronese | 2 843 | 1 | 2 842 | 0 | **2 842** | 1 127 (40 %) | 10 |
+| Zevio | 2 789 | 59 | 2 730 | 0 | **2 730** | 789 (29 %) | 21 |
+| Villa Bartolomea | 2 696 | 51 | 2 645 | 0 | **2 645** | 906 (34 %) | 25 |
+| Grezzana | 2 529 | 1 | 2 528 | 0 | **2 528** | 113 (4 %) | 185 |
+| Malcesine | 3 593 | 1 071 | 2 522 | 0 | **2 522** | 368 (15 %) | 178 |
+| Caprino Veronese | 2 419 | 0 | 2 419 | 0 | **2 419** | 120 (5 %) | 373 |
+| Oppeano | 2 360 | 10 | 2 350 | 0 | **2 350** | 817 (35 %) | 10 |
+| Sant'Anna d'Alfaedo | 2 237 | 0 | 2 237 | 0 | **2 237** | 165 (7 %) | 280 |
+| Cologna Veneta | 2 187 | 1 | 2 186 | 0 | **2 186** | 834 (38 %) | 9 |
+| Selva di Progno | 2 109 | 3 | 2 106 | 0 | **2 106** | 58 (3 %) | 228 |
+| Sona | 2 106 | 0 | 2 106 | 0 | **2 106** | 343 (16 %) | 30 |
+| Bovolone | 2 087 | 4 | 2 083 | 12 | **2 071** | 721 (35 %) | 27 |
+| Negrar di Valpolicella | 2 062 | 0 | 2 062 | 0 | **2 062** | 92 (4 %) | 122 |
+| Sommacampagna | 2 060 | 3 | 2 057 | 145 | **1 912** | 319 (17 %) | 44 |
+| Ronco all'Adige | 2 160 | 161 | 1 999 | 0 | **1 999** | 798 (40 %) | 28 |
+| Nogara | 1 958 | 0 | 1 958 | 0 | **1 958** | 826 (42 %) | 13 |
+| Casaleone | 1 917 | 0 | 1 917 | 0 | **1 917** | 870 (45 %) | 22 |
+| Tregnago | 1 907 | 20 | 1 887 | 0 | **1 887** | 95 (5 %) | 208 |
+| Roverè Veronese | 1 869 | 2 | 1 867 | 0 | **1 867** | 130 (7 %) | 198 |
+| Fumane | 1 750 | 0 | 1 750 | 0 | **1 750** | 44 (3 %) | 220 |
+| Castagnaro | 1 743 | 4 | 1 739 | 0 | **1 739** | 644 (37 %) | 3 |
+| San Martino Buon Albergo | 1 752 | 16 | 1 736 | 0 | **1 736** | 297 (17 %) | 65 |
+| San Bonifacio | 1 715 | 10 | 1 705 | 0 | **1 705** | 407 (24 %) | 13 |
+| Erbezzo | 1 633 | 1 | 1 632 | 0 | **1 632** | 154 (9 %) | 210 |
+| Sorgà | 1 594 | 0 | 1 594 | 0 | **1 594** | 799 (50 %) | 13 |
+| Vigasio | 1 572 | 1 | 1 571 | 0 | **1 571** | 572 (36 %) | 14 |
+| Brenzone sul Garda | 2 672 | 1 104 | 1 568 | 0 | **1 568** | 141 (9 %) | 86 |
+| Salizzole | 1 541 | 1 | 1 540 | 0 | **1 540** | 710 (46 %) | 1 |
+| Dolcè | 1 580 | 46 | 1 534 | 0 | **1 534** | 44 (3 %) | 82 |
+| Minerbe | 1 500 | 1 | 1 499 | 0 | **1 499** | 661 (44 %) | 6 |
+| Castelnuovo del Garda | 1 759 | 263 | 1 496 | 0 | **1 496** | 161 (11 %) | 38 |
+| Nogarole Rocca | 1 471 | 16 | 1 455 | 0 | **1 455** | 611 (42 %) | 6 |
+| San Zeno di Montagna | 1 444 | 0 | 1 444 | 0 | **1 444** | 90 (6 %) | 231 |
+| Lazise | 3 211 | 1 818 | 1 393 | 0 | **1 393** | 73 (5 %) | 163 |
+| Albaredo d'Adige | 1 417 | 31 | 1 386 | 0 | **1 386** | 447 (32 %) | 51 |
+| Ferrara di Monte Baldo | 1 378 | 0 | 1 378 | 0 | **1 378** | 259 (19 %) | 159 |
+| Badia Calavena | 1 373 | 7 | 1 366 | 0 | **1 366** | 36 (3 %) | 236 |
+| Trevenzuolo | 1 364 | 0 | 1 364 | 0 | **1 364** | 744 (55 %) | 4 |
+| Belfiore | 1 338 | 26 | 1 312 | 0 | **1 312** | 404 (31 %) | 15 |
+| San Giovanni Ilarione | 1 301 | 0 | 1 301 | 0 | **1 301** | 88 (7 %) | 187 |
+| Brentino Belluno | 1 329 | 31 | 1 298 | 0 | **1 298** | 19 (1 %) | 90 |
+| Illasi | 1 262 | 0 | 1 262 | 0 | **1 262** | 215 (17 %) | 31 |
+| Mozzecane | 1 243 | 2 | 1 241 | 0 | **1 241** | 370 (30 %) | 26 |
+| Vestenanova | 1 223 | 0 | 1 223 | 0 | **1 223** | 70 (6 %) | 225 |
+| Bussolengo | 1 235 | 22 | 1 213 | 0 | **1 213** | 70 (6 %) | 49 |
+| Sant'Ambrogio di Valpolicella | 1 196 | 3 | 1 193 | 0 | **1 193** | 57 (5 %) | 47 |
+| Soave | 1 159 | 0 | 1 159 | 0 | **1 159** | 133 (11 %) | 37 |
+| Montecchia di Crosara | 1 073 | 6 | 1 067 | 0 | **1 067** | 168 (16 %) | 99 |
+| Colognola ai Colli | 1 063 | 0 | 1 063 | 0 | **1 063** | 151 (14 %) | 5 |
+| Veronella | 1 051 | 0 | 1 051 | 0 | **1 051** | 426 (41 %) | 1 |
+| Monteforte d'Alpone | 1 038 | 0 | 1 038 | 0 | **1 038** | 76 (7 %) | 22 |
+| San Pietro in Cariano | 1 030 | 1 | 1 029 | 0 | **1 029** | 114 (11 %) | 15 |
+| Zimella | 1 023 | 0 | 1 023 | 0 | **1 023** | 441 (43 %) | 1 |
+| Terrazzo | 1 029 | 26 | 1 003 | 0 | **1 003** | 360 (36 %) | 4 |
+| Mezzane di Sotto | 999 | 0 | 999 | 0 | **999** | 62 (6 %) | 85 |
+| Pescantina | 1 000 | 18 | 982 | 0 | **982** | 83 (8 %) | 12 |
+| Roverchiara | 993 | 19 | 974 | 0 | **974** | 362 (37 %) | 8 |
+| Velo Veronese | 972 | 0 | 972 | 0 | **972** | 101 (10 %) | 93 |
+| Arcole | 959 | 0 | 959 | 0 | **959** | 323 (34 %) | 1 |
+| Marano di Valpolicella | 949 | 0 | 949 | 0 | **949** | 21 (2 %) | 40 |
+| Povegliano Veronese | 946 | 0 | 946 | 6 | **940** | 302 (32 %) | 19 |
+| San Giovanni Lupatoto | 962 | 18 | 944 | 0 | **944** | 212 (22 %) | 31 |
+| Roncà | 924 | 0 | 924 | 0 | **924** | 67 (7 %) | 139 |
+| Rivoli Veronese | 944 | 28 | 916 | 0 | **916** | 54 (6 %) | 39 |
+| Pressana | 891 | 0 | 891 | 0 | **891** | 355 (40 %) | 5 |
+| Bonavigo | 900 | 24 | 876 | 0 | **876** | 353 (40 %) | 6 |
+| Costermano sul Garda | 865 | 0 | 865 | 0 | **865** | 15 (2 %) | 64 |
+| Isola Rizza | 861 | 1 | 860 | 0 | **860** | 302 (35 %) | 8 |
+| Buttapietra | 871 | 24 | 847 | 0 | **847** | 291 (34 %) | 11 |
+| Bardolino | 2 919 | 2 080 | 839 | 0 | **839** | 23 (3 %) | 33 |
+| San Pietro di Morubio | 806 | 0 | 806 | 0 | **806** | 312 (39 %) | 9 |
+| Erbè | 793 | 9 | 784 | 0 | **784** | 378 (48 %) | 5 |
+| Peschiera del Garda | 921 | 170 | 751 | 7 | **744** | 49 (7 %) | 48 |
+| Lavagno | 748 | 2 | 746 | 0 | **746** | 108 (14 %) | 15 |
+| Sanguinetto | 691 | 0 | 691 | 0 | **691** | 317 (46 %) | 3 |
+| Palù | 682 | 0 | 682 | 0 | **682** | 211 (31 %) | 1 |
+| Torri del Benaco | 2 312 | 1 635 | 677 | 0 | **677** | 1 (0 %) | 37 |
+| Angiari | 681 | 19 | 662 | 0 | **662** | 137 (21 %) | 5 |
+| Cavaion Veronese | 653 | 6 | 647 | 0 | **647** | 54 (8 %) | 16 |
+| Cazzano di Tramigna | 627 | 0 | 627 | 0 | **627** | 79 (13 %) | 27 |
+| Bevilacqua | 613 | 0 | 613 | 0 | **613** | 277 (45 %) |  |
+| San Mauro di Saline | 567 | 1 | 566 | 0 | **566** | 44 (8 %) | 50 |
+| Caldiero | 524 | 0 | 524 | 0 | **524** | 105 (20 %) | 13 |
+| Cerro Veronese | 515 | 0 | 515 | 0 | **515** | 23 (4 %) | 58 |
+| Roveredo di Guà | 515 | 0 | 515 | 0 | **515** | 106 (21 %) | 1 |
+| Affi | 500 | 0 | 500 | 0 | **500** | 18 (4 %) | 21 |
+| Castel d'Azzano | 485 | 0 | 485 | 0 | **485** | 86 (18 %) | 12 |
+| Pastrengo | 461 | 10 | 451 | 0 | **451** | 20 (4 %) | 19 |
+| Boschi Sant'Anna | 446 | 0 | 446 | 0 | **446** | 213 (48 %) | 2 |
+| Concamarise | 391 | 0 | 391 | 7 | **384** | 142 (37 %) | 2 |
+| Garda | 729 | 392 | 337 | 0 | **337** | 2 (1 %) | 28 |
 
 ## Parcs (6866)
 

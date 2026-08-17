@@ -10,6 +10,7 @@ Pack `qc-montreal-ile` · version 1.2.1 · grille 200 m · Canada › Québec �
 |---|---:|
 | Cellules du territoire | 25 367 |
 | dont restreintes (aéroport, militaire, prison) | 611 |
+| dont sans chemin (aucune voie à moins de 60 m) | 501 |
 | Cellules retirées par le masque d'eau | 6 398 |
 | Villes | 16 |
 | Arrondissements et quartiers | 19 |
@@ -29,6 +30,7 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 | **Sans eau** | ce que publie `cell-totals.json` |
 | **Restr.** | parmi elles, dans un aéroport, une zone militaire ou une prison |
 | **Comptées** | le dénominateur réel de l'app : sans eau − restreintes |
+| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
 
 ## Îles
 
@@ -41,54 +43,54 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 
 ## Villes (16)
 
-| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
-|---|---:|---:|---:|---:|---:|---:|
-| Montreal | 22 453 | 3 872 | 18 581 | 243 | **18 338** | 1212 |
-| Dorval | 1 453 | 385 | 1 068 | 368 | **700** | 26 |
-| Pointe-Claire | 1 790 | 829 | 961 | 0 | **961** | 57 |
-| Dollard-Des-Ormeaux | 764 | 7 | 757 | 0 | **757** | 35 |
-| Montréal-Est | 712 | 78 | 634 | 0 | **634** | 6 |
-| Beaconsfield | 1 095 | 535 | 560 | 0 | **560** | 41 |
-| Sainte-Anne-de-Bellevue | 563 | 29 | 534 | 0 | **534** | 19 |
-| Kirkland | 492 | 1 | 491 | 0 | **491** | 28 |
-| Mont-Royal | 390 | 0 | 390 | 0 | **390** | 32 |
-| Senneville | 928 | 558 | 370 | 0 | **370** | 4 |
-| Côte-Saint-Luc | 352 | 0 | 352 | 0 | **352** | 27 |
-| Baie-D'Urfé | 383 | 79 | 304 | 0 | **304** | 17 |
-| Westmount | 202 | 0 | 202 | 0 | **202** | 18 |
-| Hampstead | 92 | 0 | 92 | 0 | **92** | 13 |
-| Montréal-Ouest | 71 | 0 | 71 | 0 | **71** | 12 |
-| L'Île-Dorval | 8 | 0 | 8 | 0 | **8** |  |
+| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Montreal | 22 453 | 3 872 | 18 581 | 243 | **18 338** | 317 (2 %) | 1212 |
+| Dorval | 1 453 | 385 | 1 068 | 368 | **700** | 1 (0 %) | 26 |
+| Pointe-Claire | 1 790 | 829 | 961 | 0 | **961** |  | 57 |
+| Dollard-Des-Ormeaux | 764 | 7 | 757 | 0 | **757** |  | 35 |
+| Montréal-Est | 712 | 78 | 634 | 0 | **634** | 157 (25 %) | 6 |
+| Beaconsfield | 1 095 | 535 | 560 | 0 | **560** |  | 41 |
+| Sainte-Anne-de-Bellevue | 563 | 29 | 534 | 0 | **534** | 9 (2 %) | 19 |
+| Kirkland | 492 | 1 | 491 | 0 | **491** | 1 (0 %) | 28 |
+| Mont-Royal | 390 | 0 | 390 | 0 | **390** |  | 32 |
+| Senneville | 928 | 558 | 370 | 0 | **370** | 6 (2 %) | 4 |
+| Côte-Saint-Luc | 352 | 0 | 352 | 0 | **352** | 10 (3 %) | 27 |
+| Baie-D'Urfé | 383 | 79 | 304 | 0 | **304** |  | 17 |
+| Westmount | 202 | 0 | 202 | 0 | **202** |  | 18 |
+| Hampstead | 92 | 0 | 92 | 0 | **92** |  | 13 |
+| Montréal-Ouest | 71 | 0 | 71 | 0 | **71** |  | 12 |
+| L'Île-Dorval | 8 | 0 | 8 | 0 | **8** |  |  |
 
 ## Arrondissements et quartiers (19)
 
-| Zone | Ville | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
-|---|---|---:|---:|---:|---:|---:|---:|
-| Saint-Laurent | montreal | 2 190 | 4 | 2 186 | 194 | **1 992** | 70 |
-| Pointe-aux-Trembles-Rivieres-des-Prairies | montreal | 2 520 | 339 | 2 181 | 6 | **2 175** | 115 |
-| Pierrefonds--Roxboro | montreal | 1 668 | 287 | 1 381 | 0 | **1 381** | 80 |
-| Mercier-Hochelaga-Maisonneuve | montreal | 1 396 | 98 | 1 298 | 47 | **1 251** | 91 |
-| Ahuntsic-Cartierville | montreal | 1 239 | 1 | 1 238 | 0 | **1 238** | 67 |
-| L'Ile-Bizard--Sainte-Genevieve | montreal | 1 812 | 618 | 1 194 | 0 | **1 194** | 47 |
-| Cote-des-Neiges--Notre-Dame-de-Grace | montreal | 1 084 | 0 | 1 084 | 0 | **1 084** | 55 |
-| Lachine | montreal | 1 125 | 218 | 907 | 0 | **907** | 41 |
-| Villeray-Saint-Michel-Parc-Extension | montreal | 839 | 8 | 831 | 0 | **831** | 54 |
-| LaSalle | montreal | 1 250 | 423 | 827 | 0 | **827** | 50 |
-| Rosemont--La-Petite-Patrie | montreal | 810 | 0 | 810 | 0 | **810** | 67 |
-| Ville-Marie | montreal | 1 094 | 294 | 800 | 0 | **800** | 148 |
-| Sud-Ouest | montreal | 915 | 117 | 798 | 0 | **798** | 106 |
-| Anjou | montreal | 705 | 3 | 702 | 0 | **702** | 26 |
-| St-Leonard | montreal | 691 | 0 | 691 | 0 | **691** | 32 |
-| Montreal-Nord | montreal | 638 | 75 | 563 | 0 | **563** | 34 |
-| Verdun--Ile-des-Soeurs | montreal | 1 071 | 589 | 482 | 0 | **482** | 56 |
-| Plateau-Mont-Royal | montreal | 416 | 3 | 413 | 0 | **413** | 57 |
-| Outremont | montreal | 198 | 1 | 197 | 0 | **197** | 16 |
+| Zone | Ville | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
+|---|---|---:|---:|---:|---:|---:|---:|---:|
+| Saint-Laurent | montreal | 2 190 | 4 | 2 186 | 194 | **1 992** |  | 70 |
+| Pointe-aux-Trembles-Rivieres-des-Prairies | montreal | 2 520 | 339 | 2 181 | 6 | **2 175** |  | 115 |
+| Pierrefonds--Roxboro | montreal | 1 668 | 287 | 1 381 | 0 | **1 381** |  | 80 |
+| Mercier-Hochelaga-Maisonneuve | montreal | 1 396 | 98 | 1 298 | 47 | **1 251** |  | 91 |
+| Ahuntsic-Cartierville | montreal | 1 239 | 1 | 1 238 | 0 | **1 238** |  | 67 |
+| L'Ile-Bizard--Sainte-Genevieve | montreal | 1 812 | 618 | 1 194 | 0 | **1 194** |  | 47 |
+| Cote-des-Neiges--Notre-Dame-de-Grace | montreal | 1 084 | 0 | 1 084 | 0 | **1 084** |  | 55 |
+| Lachine | montreal | 1 125 | 218 | 907 | 0 | **907** |  | 41 |
+| Villeray-Saint-Michel-Parc-Extension | montreal | 839 | 8 | 831 | 0 | **831** |  | 54 |
+| LaSalle | montreal | 1 250 | 423 | 827 | 0 | **827** |  | 50 |
+| Rosemont--La-Petite-Patrie | montreal | 810 | 0 | 810 | 0 | **810** |  | 67 |
+| Ville-Marie | montreal | 1 094 | 294 | 800 | 0 | **800** |  | 148 |
+| Sud-Ouest | montreal | 915 | 117 | 798 | 0 | **798** |  | 106 |
+| Anjou | montreal | 705 | 3 | 702 | 0 | **702** |  | 26 |
+| St-Leonard | montreal | 691 | 0 | 691 | 0 | **691** |  | 32 |
+| Montreal-Nord | montreal | 638 | 75 | 563 | 0 | **563** |  | 34 |
+| Verdun--Ile-des-Soeurs | montreal | 1 071 | 589 | 482 | 0 | **482** |  | 56 |
+| Plateau-Mont-Royal | montreal | 416 | 3 | 413 | 0 | **413** |  | 57 |
+| Outremont | montreal | 198 | 1 | 197 | 0 | **197** |  | 16 |
 
 ## Îles à polygone propre
 
-| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
-|---|---:|---:|---:|---:|---:|---:|
-| Parc Jean-Drapeau | 135 | 25 | 110 | 0 | **110** | 2 |
+| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Parc Jean-Drapeau | 135 | 25 | 110 | 0 | **110** |  | 2 |
 
 ## Parcs (1552)
 

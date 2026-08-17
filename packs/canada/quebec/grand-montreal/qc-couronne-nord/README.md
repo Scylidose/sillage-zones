@@ -10,6 +10,7 @@ Pack `qc-couronne-nord` · version 1.2.1 · grille 200 m · Canada › Québec �
 |---|---:|
 | Cellules du territoire | 73 305 |
 | dont restreintes (aéroport, militaire, prison) | 1 382 |
+| dont sans chemin (aucune voie à moins de 60 m) | 30 698 |
 | Cellules retirées par le masque d'eau | 3 138 |
 | Villes | 21 |
 | Arrondissements et quartiers | 0 |
@@ -29,32 +30,33 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 | **Sans eau** | ce que publie `cell-totals.json` |
 | **Restr.** | parmi elles, dans un aéroport, une zone militaire ou une prison |
 | **Comptées** | le dénominateur réel de l'app : sans eau − restreintes |
+| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
 
 ## Villes (21)
 
-| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
-|---|---:|---:|---:|---:|---:|---:|
-| Mirabel | 24 772 | 1 | 24 771 | 1 018 | **23 753** | 92 |
-| Terrebonne | 8 232 | 254 | 7 978 | 25 | **7 953** | 130 |
-| Mascouche | 5 528 | 39 | 5 489 | 0 | **5 489** | 37 |
-| L'Assomption | 5 099 | 4 | 5 095 | 0 | **5 095** | 33 |
-| Sainte-Anne-des-Plaines | 4 840 | 1 | 4 839 | 91 | **4 748** | 17 |
-| Saint-Jérôme | 4 670 | 1 | 4 669 | 0 | **4 669** | 79 |
-| Saint-Eustache | 3 710 | 126 | 3 584 | 0 | **3 584** | 34 |
-| Repentigny | 3 656 | 552 | 3 104 | 0 | **3 104** | 82 |
-| Oka | 4 413 | 1 514 | 2 899 | 0 | **2 899** | 8 |
-| Blainville | 2 842 | 35 | 2 807 | 248 | **2 559** | 55 |
-| Saint-Joseph-du-Lac | 2 120 | 15 | 2 105 | 0 | **2 105** | 12 |
-| Saint-Sulpice | 1 863 | 0 | 1 863 | 0 | **1 863** | 2 |
-| Boisbriand | 1 525 | 84 | 1 441 | 0 | **1 441** | 41 |
-| Rosemère | 624 | 69 | 555 | 0 | **555** | 26 |
-| Sainte-Thérèse | 479 | 0 | 479 | 0 | **479** | 33 |
-| Sainte-Marthe-sur-le-Lac | 432 | 1 | 431 | 0 | **431** | 19 |
-| Deux-Montagnes | 368 | 53 | 315 | 0 | **315** | 14 |
-| Lorraine | 311 | 4 | 307 | 0 | **307** | 28 |
-| Pointe-Calumet | 593 | 356 | 237 | 0 | **237** | 4 |
-| Bois-des-Filion | 251 | 20 | 231 | 0 | **231** | 16 |
-| Charlemagne | 116 | 9 | 107 | 0 | **107** | 8 |
+| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Mirabel | 24 772 | 1 | 24 771 | 1 018 | **23 753** | 12 101 (51 %) | 92 |
+| Terrebonne | 8 232 | 254 | 7 978 | 25 | **7 953** | 2 689 (34 %) | 130 |
+| Mascouche | 5 528 | 39 | 5 489 | 0 | **5 489** | 2 804 (51 %) | 37 |
+| L'Assomption | 5 099 | 4 | 5 095 | 0 | **5 095** | 3 277 (64 %) | 33 |
+| Sainte-Anne-des-Plaines | 4 840 | 1 | 4 839 | 91 | **4 748** | 3 010 (63 %) | 17 |
+| Saint-Jérôme | 4 670 | 1 | 4 669 | 0 | **4 669** | 1 382 (30 %) | 79 |
+| Saint-Eustache | 3 710 | 126 | 3 584 | 0 | **3 584** | 1 241 (35 %) | 34 |
+| Repentigny | 3 656 | 552 | 3 104 | 0 | **3 104** | 1 004 (32 %) | 82 |
+| Oka | 4 413 | 1 514 | 2 899 | 0 | **2 899** | 607 (21 %) | 8 |
+| Blainville | 2 842 | 35 | 2 807 | 248 | **2 559** | 307 (12 %) | 55 |
+| Saint-Joseph-du-Lac | 2 120 | 15 | 2 105 | 0 | **2 105** | 457 (22 %) | 12 |
+| Saint-Sulpice | 1 863 | 0 | 1 863 | 0 | **1 863** | 1 368 (73 %) | 2 |
+| Boisbriand | 1 525 | 84 | 1 441 | 0 | **1 441** | 418 (29 %) | 41 |
+| Rosemère | 624 | 69 | 555 | 0 | **555** | 11 (2 %) | 26 |
+| Sainte-Thérèse | 479 | 0 | 479 | 0 | **479** |  | 33 |
+| Sainte-Marthe-sur-le-Lac | 432 | 1 | 431 | 0 | **431** | 1 (0 %) | 19 |
+| Deux-Montagnes | 368 | 53 | 315 | 0 | **315** |  | 14 |
+| Lorraine | 311 | 4 | 307 | 0 | **307** | 12 (4 %) | 28 |
+| Pointe-Calumet | 593 | 356 | 237 | 0 | **237** | 8 (3 %) | 4 |
+| Bois-des-Filion | 251 | 20 | 231 | 0 | **231** | 1 (0 %) | 16 |
+| Charlemagne | 116 | 9 | 107 | 0 | **107** |  | 8 |
 
 ## Parcs (772)
 

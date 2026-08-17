@@ -10,6 +10,7 @@ Pack `qc-laval` · version 1.2.1 · grille 200 m · Canada › Québec › Grand
 |---|---:|
 | Cellules du territoire | 12 495 |
 | dont restreintes (aéroport, militaire, prison) | 24 |
+| dont sans chemin (aucune voie à moins de 60 m) | 1 249 |
 | Cellules retirées par le masque d'eau | 1 000 |
 | Villes | 1 |
 | Arrondissements et quartiers | 14 |
@@ -29,31 +30,32 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 | **Sans eau** | ce que publie `cell-totals.json` |
 | **Restr.** | parmi elles, dans un aéroport, une zone militaire ou une prison |
 | **Comptées** | le dénominateur réel de l'app : sans eau − restreintes |
+| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
 
 ## Villes (1)
 
-| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
-|---|---:|---:|---:|---:|---:|---:|
-| Laval | 13 495 | 1 000 | 12 495 | 24 | **12 471** | 351 |
+| Zone | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Laval | 13 495 | 1 000 | 12 495 | 24 | **12 471** | 1 249 (10 %) | 351 |
 
 ## Arrondissements et quartiers (14)
 
-| Zone | Ville | Brut | Eau | Sans eau | Restr. | Comptées | Parcs |
-|---|---|---:|---:|---:|---:|---:|---:|
-| Duvernay | laval | 2 464 | 155 | 2 309 | 0 | **2 309** | 39 |
-| Chomedey | laval | 2 096 | 56 | 2 040 | 0 | **2 040** | 70 |
-| Saint-François | laval | 2 072 | 249 | 1 823 | 12 | **1 811** | 13 |
-| Auteuil | laval | 1 328 | 77 | 1 251 | 0 | **1 251** | 21 |
-| Sainte-Dorothée | laval | 1 184 | 74 | 1 110 | 0 | **1 110** | 41 |
-| Fabreville | laval | 1 182 | 122 | 1 060 | 0 | **1 060** | 38 |
-| Sainte-Rose | laval | 890 | 48 | 842 | 0 | **842** | 37 |
-| Vimont | laval | 711 | 2 | 709 | 0 | **709** | 19 |
-| Laval-des-Rapides | laval | 492 | 38 | 454 | 0 | **454** | 29 |
-| Saint-Vincent-de-Paul | laval | 402 | 0 | 402 | 12 | **390** | 18 |
-| Laval-Ouest | laval | 259 | 54 | 205 | 0 | **205** | 10 |
-| Pont-Viau | laval | 181 | 16 | 165 | 0 | **165** | 12 |
-| Laval-sur-le-Lac | laval | 129 | 31 | 98 | 0 | **98** | 2 |
-| Îles-Laval | laval | 56 | 28 | 28 | 0 | **28** | 2 |
+| Zone | Ville | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
+|---|---|---:|---:|---:|---:|---:|---:|---:|
+| Duvernay | laval | 2 464 | 155 | 2 309 | 0 | **2 309** | 329 (14 %) | 39 |
+| Chomedey | laval | 2 096 | 56 | 2 040 | 0 | **2 040** | 30 (1 %) | 70 |
+| Saint-François | laval | 2 072 | 249 | 1 823 | 12 | **1 811** | 673 (37 %) | 13 |
+| Auteuil | laval | 1 328 | 77 | 1 251 | 0 | **1 251** | 77 (6 %) | 21 |
+| Sainte-Dorothée | laval | 1 184 | 74 | 1 110 | 0 | **1 110** | 87 (8 %) | 41 |
+| Fabreville | laval | 1 182 | 122 | 1 060 | 0 | **1 060** | 27 (3 %) | 38 |
+| Sainte-Rose | laval | 890 | 48 | 842 | 0 | **842** | 16 (2 %) | 37 |
+| Vimont | laval | 711 | 2 | 709 | 0 | **709** | 2 (0 %) | 19 |
+| Laval-des-Rapides | laval | 492 | 38 | 454 | 0 | **454** |  | 29 |
+| Saint-Vincent-de-Paul | laval | 402 | 0 | 402 | 12 | **390** | 6 (2 %) | 18 |
+| Laval-Ouest | laval | 259 | 54 | 205 | 0 | **205** | 1 (0 %) | 10 |
+| Pont-Viau | laval | 181 | 16 | 165 | 0 | **165** |  | 12 |
+| Laval-sur-le-Lac | laval | 129 | 31 | 98 | 0 | **98** | 1 (1 %) | 2 |
+| Îles-Laval | laval | 56 | 28 | 28 | 0 | **28** |  | 2 |
 
 ## Parcs (354)
 
