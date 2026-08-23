@@ -27,6 +27,81 @@
       "sha256": "9fcb7642378af1cfe8510ea38956677220543649d4784db03701f3ca7fdfeae7"
     },
     {
+      "id": "fr-aude",
+      "name": "Aude",
+      "groups": [
+        "France",
+        "Occitanie"
+      ],
+      "country": "France",
+      "region": "Occitanie",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        1.688715,
+        42.648554,
+        3.240388,
+        43.460038
+      ],
+      "zoneCount": 433,
+      "parkCount": 4526,
+      "downloadBytes": 3889166,
+      "installedBytes": 13068072,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-aude-1.0.0/fr-aude-1.0.0.zip",
+      "sha256": "08963038791836939a06c3a0bddc2ea2d2037d57baee0a071030d7636cce951a"
+    },
+    {
+      "id": "fr-gard",
+      "name": "Gard",
+      "groups": [
+        "France",
+        "Occitanie"
+      ],
+      "country": "France",
+      "region": "Occitanie",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        3.261896,
+        43.460197,
+        4.845228,
+        44.459558
+      ],
+      "zoneCount": 350,
+      "parkCount": 3769,
+      "downloadBytes": 3798031,
+      "installedBytes": 12482134,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-gard-1.0.0/fr-gard-1.0.0.zip",
+      "sha256": "feba1c2d09e81acce99455c2e25687db8816041892026a9ef36d9e969041df13"
+    },
+    {
+      "id": "fr-herault",
+      "name": "Hérault",
+      "groups": [
+        "France",
+        "Occitanie"
+      ],
+      "country": "France",
+      "region": "Occitanie",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        2.539554,
+        43.2102,
+        4.194335,
+        43.972753
+      ],
+      "zoneCount": 341,
+      "parkCount": 11039,
+      "downloadBytes": 4453666,
+      "installedBytes": 16029714,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-herault-1.0.0/fr-herault-1.0.0.zip",
+      "sha256": "2510483646763be7f1477129ddc54da9e667ace626379b3b7a788226895b47da"
+    },
+    {
       "id": "fr-pyrenees-orientales",
       "name": "Pyrénées-Orientales",
       "groups": [
@@ -35,7 +110,7 @@
       ],
       "country": "France",
       "region": "Occitanie",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -46,10 +121,10 @@
       ],
       "zoneCount": 226,
       "parkCount": 3448,
-      "downloadBytes": 3119005,
-      "installedBytes": 10610429,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-pyrenees-orientales-1.0.2/fr-pyrenees-orientales-1.0.2.zip",
-      "sha256": "74bded3eff79823f36ef067966aeac5aecbbb05471825d3f5b486de84a5d69ff"
+      "downloadBytes": 3119386,
+      "installedBytes": 10625201,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-pyrenees-orientales-1.1.0/fr-pyrenees-orientales-1.1.0.zip",
+      "sha256": "c3836ad8ca92545c6bce8ad80022ceed1660d042238371c517d3cdfbe97b3a61"
     },
     {
       "id": "it-verona",
