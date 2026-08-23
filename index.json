@@ -10,7 +10,7 @@
       ],
       "country": "Espagne",
       "region": "Andalousie",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -21,10 +21,10 @@
       ],
       "zoneCount": 103,
       "parkCount": 4589,
-      "downloadBytes": 1895504,
-      "installedBytes": 7478729,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-malaga-1.1.1/es-malaga-1.1.1.zip",
-      "sha256": "71af7c319d0cec04cd4d2a25a48e2de846750e59bf07aa9aec66b20fb1ec7348"
+      "downloadBytes": 1910218,
+      "installedBytes": 7524944,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-malaga-1.1.2/es-malaga-1.1.2.zip",
+      "sha256": "9fcb7642378af1cfe8510ea38956677220543649d4784db03701f3ca7fdfeae7"
     },
     {
       "id": "fr-pyrenees-orientales",
@@ -35,7 +35,7 @@
       ],
       "country": "France",
       "region": "Occitanie",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -46,10 +46,10 @@
       ],
       "zoneCount": 226,
       "parkCount": 3448,
-      "downloadBytes": 3062056,
-      "installedBytes": 10312161,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-pyrenees-orientales-1.0.1/fr-pyrenees-orientales-1.0.1.zip",
-      "sha256": "bd2e91ab79d784ada0944679b4a6cdc88b34202698b5df527f39e6849c3ee5f2"
+      "downloadBytes": 3119005,
+      "installedBytes": 10610429,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-pyrenees-orientales-1.0.2/fr-pyrenees-orientales-1.0.2.zip",
+      "sha256": "74bded3eff79823f36ef067966aeac5aecbbb05471825d3f5b486de84a5d69ff"
     },
     {
       "id": "it-verona",
@@ -60,7 +60,7 @@
       ],
       "country": "Italie",
       "region": "Vénétie",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -71,10 +71,10 @@
       ],
       "zoneCount": 98,
       "parkCount": 6866,
-      "downloadBytes": 2940097,
-      "installedBytes": 10806204,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/it-verona-1.0.1/it-verona-1.0.1.zip",
-      "sha256": "df66c87916c65967681d29f6a5522939df11c6dfe4f15b8a6c7aed8549db5b43"
+      "downloadBytes": 2955333,
+      "installedBytes": 10878533,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/it-verona-1.0.2/it-verona-1.0.2.zip",
+      "sha256": "d0d642e7d26dcf48084427bbec8eadba0abcb42cbbc66178edfda96be463f2bb"
     },
     {
       "id": "qc-couronne-nord",
@@ -86,7 +86,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -97,10 +97,10 @@
       ],
       "zoneCount": 21,
       "parkCount": 772,
-      "downloadBytes": 781590,
-      "installedBytes": 2812612,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-couronne-nord-1.2.1/qc-couronne-nord-1.2.1.zip",
-      "sha256": "3bc171fa09327c77e5005ea68bea307531d6df952ce7b0ed449bceaa96bfcff5"
+      "downloadBytes": 784706,
+      "installedBytes": 2815878,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-couronne-nord-1.2.2/qc-couronne-nord-1.2.2.zip",
+      "sha256": "234998878dd78285e691db571d0c90040697eee670d2dc562daedae5ee630a1e"
     },
     {
       "id": "qc-couronne-sud",
@@ -112,7 +112,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -123,10 +123,10 @@
       ],
       "zoneCount": 30,
       "parkCount": 587,
-      "downloadBytes": 718909,
-      "installedBytes": 2591055,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-couronne-sud-1.2.1/qc-couronne-sud-1.2.1.zip",
-      "sha256": "859079d5c36ccb0252956c639c0d31affbb73e8789d4da6b8549bcfd9c1d9ba0"
+      "downloadBytes": 723613,
+      "installedBytes": 2597389,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-couronne-sud-1.2.2/qc-couronne-sud-1.2.2.zip",
+      "sha256": "e1719fe6331595d89336bb43aed28abb7c3927726ec81b3ad32841beb6cab347"
     },
     {
       "id": "qc-laval",
@@ -138,7 +138,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -149,10 +149,10 @@
       ],
       "zoneCount": 15,
       "parkCount": 354,
-      "downloadBytes": 510862,
-      "installedBytes": 1672231,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-laval-1.2.1/qc-laval-1.2.1.zip",
-      "sha256": "aad5f375c3fdea7c1bd55b1beb97b0a97094549fd0dfe629e74c233a21fe08db"
+      "downloadBytes": 511262,
+      "installedBytes": 1673305,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-laval-1.2.2/qc-laval-1.2.2.zip",
+      "sha256": "76f7a4e93aa996c0d18d7e68795fc98ad7ca0942bbb6ac58d5e8540c25e6eb79"
     },
     {
       "id": "qc-levis",
@@ -164,7 +164,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -175,10 +175,10 @@
       ],
       "zoneCount": 11,
       "parkCount": 230,
-      "downloadBytes": 307789,
-      "installedBytes": 1087144,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-levis-1.0.1/qc-levis-1.0.1.zip",
-      "sha256": "e83034340837187e88f7e5aa81f57f7d268138d25eebfa73f4b542642419f999"
+      "downloadBytes": 309630,
+      "installedBytes": 1087886,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-levis-1.0.2/qc-levis-1.0.2.zip",
+      "sha256": "91e05cda1e27b1b9b0bea4db4b33d2e6c87d5c35a9b5487cffbe6b9800257790"
     },
     {
       "id": "qc-longueuil",
@@ -190,7 +190,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -201,10 +201,10 @@
       ],
       "zoneCount": 16,
       "parkCount": 522,
-      "downloadBytes": 510871,
-      "installedBytes": 1708954,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-longueuil-1.2.1/qc-longueuil-1.2.1.zip",
-      "sha256": "09e87fc0bea4852ddef9d920dd6de6a09d3c50308b3cf63127678b33a943d92e"
+      "downloadBytes": 511678,
+      "installedBytes": 1711426,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-longueuil-1.2.2/qc-longueuil-1.2.2.zip",
+      "sha256": "c4759a8a7099e72e430f251aaa038f8c2d3928755cf02578ce17679fb80ff7f7"
     },
     {
       "id": "qc-montreal-ile",
@@ -216,7 +216,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -227,10 +227,10 @@
       ],
       "zoneCount": 35,
       "parkCount": 1552,
-      "downloadBytes": 806033,
-      "installedBytes": 2823401,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-ile-1.2.1/qc-montreal-ile-1.2.1.zip",
-      "sha256": "319bae62f3a45ade5dd4c05f3ef3ee44180abfd77492161d29f7ea89d56659ab"
+      "downloadBytes": 806441,
+      "installedBytes": 2825646,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-ile-1.2.2/qc-montreal-ile-1.2.2.zip",
+      "sha256": "3f82583c3e49dfd3fe96b0588816b0e8aedfa0cbb4cb6663985083b91f9e45b6"
     },
     {
       "id": "qc-quebec-agglo",
@@ -242,7 +242,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -253,10 +253,10 @@
       ],
       "zoneCount": 9,
       "parkCount": 478,
-      "downloadBytes": 418943,
-      "installedBytes": 1478093,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-quebec-agglo-1.0.1/qc-quebec-agglo-1.0.1.zip",
-      "sha256": "d55c9701a87ab2d311a27b2eb9cf4f2695980c86315dedd4839d34333a031ea3"
+      "downloadBytes": 420355,
+      "installedBytes": 1481436,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-quebec-agglo-1.0.2/qc-quebec-agglo-1.0.2.zip",
+      "sha256": "fbf030c7ee3cd5ccb118364ccbca377f0ba14d5c2e4fc451196e9bd5bb66e17d"
     },
     {
       "id": "qc-vaudreuil-soulanges",
@@ -268,7 +268,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -279,10 +279,10 @@
       ],
       "zoneCount": 11,
       "parkCount": 175,
-      "downloadBytes": 529949,
-      "installedBytes": 1722640,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-vaudreuil-soulanges-1.2.1/qc-vaudreuil-soulanges-1.2.1.zip",
-      "sha256": "2632ced911d391e6c0d31cf2d7b3ca13706a81e62aeab629b2e63b6eadeb9f77"
+      "downloadBytes": 530583,
+      "installedBytes": 1723258,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-vaudreuil-soulanges-1.2.2/qc-vaudreuil-soulanges-1.2.2.zip",
+      "sha256": "6a671b96ec757344f036e0eae7e968ceeba209ad483754a08505b7cdf8da76b1"
     }
   ]
 }

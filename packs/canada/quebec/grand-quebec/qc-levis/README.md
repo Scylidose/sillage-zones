@@ -1,6 +1,6 @@
 # Lévis (Chaudière-Appalaches)
 
-Pack `qc-levis` · version 1.0.1 · grille 200 m · Canada › Québec › Grand Québec
+Pack `qc-levis` · version 1.0.2 · grille 200 m · Canada › Québec › Grand Québec
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -10,7 +10,9 @@ Pack `qc-levis` · version 1.0.1 · grille 200 m · Canada › Québec › Grand
 |---|---:|
 | Cellules du territoire | 23 868 |
 | dont restreintes (aéroport, militaire, prison) | 21 |
-| dont sans chemin (aucune voie à moins de 60 m) | 11 521 |
+| dont sans chemin (aucune voie à moins de 60 m) | 3 620 |
+| dont en forêt, sans chemin non plus | 6 900 |
+| dont traversées par un cours d'eau, sans chemin non plus | 1 005 |
 | Cellules retirées par le masque d'eau | 2 610 |
 | Villes | 1 |
 | Arrondissements et quartiers | 10 |
@@ -30,28 +32,30 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 | **Sans eau** | ce que publie `cell-totals.json` |
 | **Restr.** | parmi elles, dans un aéroport, une zone militaire ou une prison |
 | **Comptées** | le dénominateur réel de l'app : sans eau − restreintes |
-| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
+| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m, hors bois et hors cours d'eau — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
+
+Les cellules boisées et celles que traverse un cours d'eau forment deux autres catégories, marquables de la même façon et comptées dans le résumé ci-dessus. Toutes trois exigent la même chose — aucune voie à moins de 60 m — et sont disjointes : une cellule desservie par un sentier reste accessible, quoi qu'elle contienne.
 
 ## Villes (1)
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Lévis | 26 478 | 2 610 | 23 868 | 21 | **23 847** | 11 521 (48 %) | 229 |
+| Lévis | 26 478 | 2 610 | 23 868 | 21 | **23 847** | 3 620 (15 %) | 229 |
 
 ## Arrondissements et quartiers (10)
 
 | Zone | Ville | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-| Saint-Étienne-de-Lauzon | levis | 5 117 | 51 | 5 066 | 0 | **5 066** | 3 157 (62 %) | 26 |
-| Saint-Nicolas | levis | 5 005 | 3 | 5 002 | 0 | **5 002** | 2 112 (42 %) | 38 |
-| Saint-Jean-Chrysostome | levis | 4 459 | 43 | 4 416 | 14 | **4 402** | 2 579 (59 %) | 13 |
-| Pintendre | levis | 2 830 | 9 | 2 821 | 7 | **2 814** | 1 562 (56 %) | 10 |
-| Lévis (quartier) | levis | 2 401 | 9 | 2 392 | 0 | **2 392** | 544 (23 %) | 85 |
-| Saint-Joseph-de-la-Pointe-De Lévy | levis | 1 949 | 10 | 1 939 | 0 | **1 939** | 1 214 (63 %) | 2 |
-| Saint-Romuald | levis | 949 | 19 | 930 | 0 | **930** | 30 (3 %) | 23 |
-| Sainte-Hélène-de-Breakeyville | levis | 604 | 11 | 593 | 0 | **593** | 209 (35 %) | 9 |
-| Charny | levis | 505 | 4 | 501 | 0 | **501** | 102 (20 %) | 17 |
-| Saint-Rédempteur | levis | 201 | 1 | 200 | 0 | **200** | 6 (3 %) | 6 |
+| Saint-Étienne-de-Lauzon | levis | 5 117 | 51 | 5 066 | 0 | **5 066** | 496 (10 %) | 26 |
+| Saint-Nicolas | levis | 5 005 | 3 | 5 002 | 0 | **5 002** | 752 (15 %) | 38 |
+| Saint-Jean-Chrysostome | levis | 4 459 | 43 | 4 416 | 14 | **4 402** | 794 (18 %) | 13 |
+| Pintendre | levis | 2 830 | 9 | 2 821 | 7 | **2 814** | 648 (23 %) | 10 |
+| Lévis (quartier) | levis | 2 401 | 9 | 2 392 | 0 | **2 392** | 262 (11 %) | 85 |
+| Saint-Joseph-de-la-Pointe-De Lévy | levis | 1 949 | 10 | 1 939 | 0 | **1 939** | 553 (29 %) | 2 |
+| Saint-Romuald | levis | 949 | 19 | 930 | 0 | **930** | 10 (1 %) | 23 |
+| Sainte-Hélène-de-Breakeyville | levis | 604 | 11 | 593 | 0 | **593** | 64 (11 %) | 9 |
+| Charny | levis | 505 | 4 | 501 | 0 | **501** | 37 (7 %) | 17 |
+| Saint-Rédempteur | levis | 201 | 1 | 200 | 0 | **200** | 2 (1 %) | 6 |
 
 ## Parcs (230)
 

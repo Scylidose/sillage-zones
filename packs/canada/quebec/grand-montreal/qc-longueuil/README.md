@@ -1,6 +1,6 @@
 # Agglomération de Longueuil
 
-Pack `qc-longueuil` · version 1.2.1 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-longueuil` · version 1.2.2 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -10,7 +10,9 @@ Pack `qc-longueuil` · version 1.2.1 · grille 200 m · Canada › Québec › G
 |---|---:|
 | Cellules du territoire | 14 331 |
 | dont restreintes (aéroport, militaire, prison) | 305 |
-| dont sans chemin (aucune voie à moins de 60 m) | 2 526 |
+| dont sans chemin (aucune voie à moins de 60 m) | 1 499 |
+| dont en forêt, sans chemin non plus | 792 |
+| dont traversées par un cours d'eau, sans chemin non plus | 370 |
 | Cellules retirées par le masque d'eau | 1 109 |
 | Villes | 5 |
 | Arrondissements et quartiers | 11 |
@@ -30,30 +32,32 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 | **Sans eau** | ce que publie `cell-totals.json` |
 | **Restr.** | parmi elles, dans un aéroport, une zone militaire ou une prison |
 | **Comptées** | le dénominateur réel de l'app : sans eau − restreintes |
-| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
+| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m, hors bois et hors cours d'eau — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
+
+Les cellules boisées et celles que traverse un cours d'eau forment deux autres catégories, marquables de la même façon et comptées dans le résumé ci-dessus. Toutes trois exigent la même chose — aucune voie à moins de 60 m — et sont disjointes : une cellule desservie par un sentier reste accessible, quoi qu'elle contienne.
 
 ## Villes (5)
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Longueuil | 6 238 | 341 | 5 897 | 218 | **5 679** | 798 (14 %) | 229 |
-| Boucherville | 4 182 | 594 | 3 588 | 0 | **3 588** | 999 (28 %) | 86 |
-| Brossard | 2 300 | 1 | 2 299 | 0 | **2 299** | 337 (15 %) | 128 |
-| Saint-Bruno-de-Montarville | 2 216 | 50 | 2 166 | 87 | **2 079** | 390 (19 %) | 37 |
-| Saint-Lambert | 504 | 123 | 381 | 0 | **381** | 2 (1 %) | 39 |
+| Longueuil | 6 238 | 341 | 5 897 | 218 | **5 679** | 417 (7 %) | 229 |
+| Boucherville | 4 182 | 594 | 3 588 | 0 | **3 588** | 675 (19 %) | 86 |
+| Brossard | 2 300 | 1 | 2 299 | 0 | **2 299** | 158 (7 %) | 128 |
+| Saint-Bruno-de-Montarville | 2 216 | 50 | 2 166 | 87 | **2 079** | 248 (12 %) | 37 |
+| Saint-Lambert | 504 | 123 | 381 | 0 | **381** | 1 (0 %) | 39 |
 
 ## Arrondissements et quartiers (11)
 
 | Zone | Ville | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-| Saint-Hubert | longueuil | 3 371 | 4 | 3 367 | 218 | **3 149** | 716 (23 %) | 81 |
-| Le Vieux-Longueuil | longueuil | 2 621 | 337 | 2 284 | 0 | **2 284** | 82 (4 %) | 132 |
+| Saint-Hubert | longueuil | 3 371 | 4 | 3 367 | 218 | **3 149** | 384 (12 %) | 81 |
+| Le Vieux-Longueuil | longueuil | 2 621 | 337 | 2 284 | 0 | **2 284** | 33 (1 %) | 132 |
 | Greenfield Park | longueuil | 246 | 0 | 246 | 0 | **246** |  | 16 |
 | Secteur L | brossard | 192 | 1 | 191 | 0 | **191** |  | 24 |
 | Secteur R | brossard | 147 | 2 | 145 | 0 | **145** |  | 6 |
 | Secteur M | brossard | 87 | 0 | 87 | 0 | **87** |  | 16 |
 | Secteur O | brossard | 79 | 0 | 79 | 0 | **79** |  | 13 |
-| Secteur J | brossard | 61 | 0 | 61 | 0 | **61** | 8 (13 %) |  |
+| Secteur J | brossard | 61 | 0 | 61 | 0 | **61** | 6 (10 %) |  |
 | Secteur N | brossard | 59 | 0 | 59 | 0 | **59** |  | 6 |
 | Secteur I | brossard | 55 | 1 | 54 | 0 | **54** |  | 1 |
 | Secteur E | brossard | 19 | 0 | 19 | 0 | **19** |  | 1 |

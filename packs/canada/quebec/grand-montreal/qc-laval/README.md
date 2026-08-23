@@ -1,6 +1,6 @@
 # Laval
 
-Pack `qc-laval` · version 1.2.1 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-laval` · version 1.2.2 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -10,7 +10,9 @@ Pack `qc-laval` · version 1.2.1 · grille 200 m · Canada › Québec › Grand
 |---|---:|
 | Cellules du territoire | 12 495 |
 | dont restreintes (aéroport, militaire, prison) | 24 |
-| dont sans chemin (aucune voie à moins de 60 m) | 1 249 |
+| dont sans chemin (aucune voie à moins de 60 m) | 763 |
+| dont en forêt, sans chemin non plus | 409 |
+| dont traversées par un cours d'eau, sans chemin non plus | 117 |
 | Cellules retirées par le masque d'eau | 1 000 |
 | Villes | 1 |
 | Arrondissements et quartiers | 14 |
@@ -30,29 +32,31 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 | **Sans eau** | ce que publie `cell-totals.json` |
 | **Restr.** | parmi elles, dans un aéroport, une zone militaire ou une prison |
 | **Comptées** | le dénominateur réel de l'app : sans eau − restreintes |
-| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
+| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m, hors bois et hors cours d'eau — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
+
+Les cellules boisées et celles que traverse un cours d'eau forment deux autres catégories, marquables de la même façon et comptées dans le résumé ci-dessus. Toutes trois exigent la même chose — aucune voie à moins de 60 m — et sont disjointes : une cellule desservie par un sentier reste accessible, quoi qu'elle contienne.
 
 ## Villes (1)
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Laval | 13 495 | 1 000 | 12 495 | 24 | **12 471** | 1 249 (10 %) | 351 |
+| Laval | 13 495 | 1 000 | 12 495 | 24 | **12 471** | 763 (6 %) | 351 |
 
 ## Arrondissements et quartiers (14)
 
 | Zone | Ville | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-| Duvernay | laval | 2 464 | 155 | 2 309 | 0 | **2 309** | 329 (14 %) | 39 |
-| Chomedey | laval | 2 096 | 56 | 2 040 | 0 | **2 040** | 30 (1 %) | 70 |
-| Saint-François | laval | 2 072 | 249 | 1 823 | 12 | **1 811** | 673 (37 %) | 13 |
-| Auteuil | laval | 1 328 | 77 | 1 251 | 0 | **1 251** | 77 (6 %) | 21 |
-| Sainte-Dorothée | laval | 1 184 | 74 | 1 110 | 0 | **1 110** | 87 (8 %) | 41 |
-| Fabreville | laval | 1 182 | 122 | 1 060 | 0 | **1 060** | 27 (3 %) | 38 |
-| Sainte-Rose | laval | 890 | 48 | 842 | 0 | **842** | 16 (2 %) | 37 |
-| Vimont | laval | 711 | 2 | 709 | 0 | **709** | 2 (0 %) | 19 |
+| Duvernay | laval | 2 464 | 155 | 2 309 | 0 | **2 309** | 239 (10 %) | 39 |
+| Chomedey | laval | 2 096 | 56 | 2 040 | 0 | **2 040** | 13 (1 %) | 70 |
+| Saint-François | laval | 2 072 | 249 | 1 823 | 12 | **1 811** | 387 (21 %) | 13 |
+| Auteuil | laval | 1 328 | 77 | 1 251 | 0 | **1 251** | 44 (4 %) | 21 |
+| Sainte-Dorothée | laval | 1 184 | 74 | 1 110 | 0 | **1 110** | 56 (5 %) | 41 |
+| Fabreville | laval | 1 182 | 122 | 1 060 | 0 | **1 060** | 11 (1 %) | 38 |
+| Sainte-Rose | laval | 890 | 48 | 842 | 0 | **842** | 9 (1 %) | 37 |
+| Vimont | laval | 711 | 2 | 709 | 0 | **709** | 1 (0 %) | 19 |
 | Laval-des-Rapides | laval | 492 | 38 | 454 | 0 | **454** |  | 29 |
-| Saint-Vincent-de-Paul | laval | 402 | 0 | 402 | 12 | **390** | 6 (2 %) | 18 |
-| Laval-Ouest | laval | 259 | 54 | 205 | 0 | **205** | 1 (0 %) | 10 |
+| Saint-Vincent-de-Paul | laval | 402 | 0 | 402 | 12 | **390** | 2 (1 %) | 18 |
+| Laval-Ouest | laval | 259 | 54 | 205 | 0 | **205** |  | 10 |
 | Pont-Viau | laval | 181 | 16 | 165 | 0 | **165** |  | 12 |
 | Laval-sur-le-Lac | laval | 129 | 31 | 98 | 0 | **98** | 1 (1 %) | 2 |
 | Îles-Laval | laval | 56 | 28 | 28 | 0 | **28** |  | 2 |

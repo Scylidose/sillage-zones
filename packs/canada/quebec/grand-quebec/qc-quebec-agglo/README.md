@@ -1,6 +1,6 @@
 # Agglomération de Québec
 
-Pack `qc-quebec-agglo` · version 1.0.1 · grille 200 m · Canada › Québec › Grand Québec
+Pack `qc-quebec-agglo` · version 1.0.2 · grille 200 m · Canada › Québec › Grand Québec
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -10,7 +10,9 @@ Pack `qc-quebec-agglo` · version 1.0.1 · grille 200 m · Canada › Québec �
 |---|---:|
 | Cellules du territoire | 29 348 |
 | dont restreintes (aéroport, militaire, prison) | 792 |
-| dont sans chemin (aucune voie à moins de 60 m) | 8 223 |
+| dont sans chemin (aucune voie à moins de 60 m) | 2 286 |
+| dont en forêt, sans chemin non plus | 5 697 |
+| dont traversées par un cours d'eau, sans chemin non plus | 426 |
 | Cellules retirées par le masque d'eau | 2 703 |
 | Villes | 3 |
 | Arrondissements et quartiers | 6 |
@@ -30,25 +32,27 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 | **Sans eau** | ce que publie `cell-totals.json` |
 | **Restr.** | parmi elles, dans un aéroport, une zone militaire ou une prison |
 | **Comptées** | le dénominateur réel de l'app : sans eau − restreintes |
-| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
+| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m, hors bois et hors cours d'eau — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
+
+Les cellules boisées et celles que traverse un cours d'eau forment deux autres catégories, marquables de la même façon et comptées dans le résumé ci-dessus. Toutes trois exigent la même chose — aucune voie à moins de 60 m — et sont disjointes : une cellule desservie par un sentier reste accessible, quoi qu'elle contienne.
 
 ## Villes (3)
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Québec | 25 909 | 1 667 | 24 242 | 792 | **23 450** | 5 731 (24 %) | 441 |
-| Saint-Augustin-de-Desmaures | 5 607 | 1 036 | 4 571 | 0 | **4 571** | 2 483 (54 %) | 21 |
-| L'Ancienne-Lorette | 409 | 0 | 409 | 0 | **409** | 5 (1 %) | 12 |
+| Québec | 25 909 | 1 667 | 24 242 | 792 | **23 450** | 1 275 (5 %) | 441 |
+| Saint-Augustin-de-Desmaures | 5 607 | 1 036 | 4 571 | 0 | **4 571** | 1 005 (22 %) | 21 |
+| L'Ancienne-Lorette | 409 | 0 | 409 | 0 | **409** | 3 (1 %) | 12 |
 
 ## Arrondissements et quartiers (6)
 
 | Zone | Ville | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
-| La Haute-Saint-Charles | quebec | 8 257 | 241 | 8 016 | 497 | **7 519** | 2 928 (39 %) | 70 |
-| Sainte-Foy–Sillery–Cap-Rouge | quebec | 5 157 | 89 | 5 068 | 286 | **4 782** | 1 401 (29 %) | 106 |
-| Beauport | quebec | 4 490 | 531 | 3 959 | 0 | **3 959** | 778 (20 %) | 57 |
-| Charlesbourg | quebec | 3 576 | 29 | 3 547 | 1 | **3 546** | 531 (15 %) | 37 |
-| Les Rivières | quebec | 2 597 | 25 | 2 572 | 0 | **2 572** | 85 (3 %) | 65 |
+| La Haute-Saint-Charles | quebec | 8 257 | 241 | 8 016 | 497 | **7 519** | 303 (4 %) | 70 |
+| Sainte-Foy–Sillery–Cap-Rouge | quebec | 5 157 | 89 | 5 068 | 286 | **4 782** | 781 (16 %) | 106 |
+| Beauport | quebec | 4 490 | 531 | 3 959 | 0 | **3 959** | 67 (2 %) | 57 |
+| Charlesbourg | quebec | 3 576 | 29 | 3 547 | 1 | **3 546** | 50 (1 %) | 37 |
+| Les Rivières | quebec | 2 597 | 25 | 2 572 | 0 | **2 572** | 65 (3 %) | 65 |
 | La Cité-Limoilou | quebec | 1 277 | 72 | 1 205 | 8 | **1 197** | 12 (1 %) | 107 |
 
 ## Parcs (478)

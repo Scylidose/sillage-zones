@@ -1,6 +1,6 @@
 # Couronne Sud (Montérégie)
 
-Pack `qc-couronne-sud` · version 1.2.1 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-couronne-sud` · version 1.2.2 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -10,7 +10,9 @@ Pack `qc-couronne-sud` · version 1.2.1 · grille 200 m · Canada › Québec �
 |---|---:|
 | Cellules du territoire | 62 493 |
 | dont restreintes (aéroport, militaire, prison) | 160 |
-| dont sans chemin (aucune voie à moins de 60 m) | 32 831 |
+| dont sans chemin (aucune voie à moins de 60 m) | 21 052 |
+| dont en forêt, sans chemin non plus | 6 492 |
+| dont traversées par un cours d'eau, sans chemin non plus | 5 625 |
 | Cellules retirées par le masque d'eau | 2 064 |
 | Villes | 30 |
 | Arrondissements et quartiers | 0 |
@@ -30,42 +32,44 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 | **Sans eau** | ce que publie `cell-totals.json` |
 | **Restr.** | parmi elles, dans un aéroport, une zone militaire ou une prison |
 | **Comptées** | le dénominateur réel de l'app : sans eau − restreintes |
-| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
+| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m, hors bois et hors cours d'eau — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
+
+Les cellules boisées et celles que traverse un cours d'eau forment deux autres catégories, marquables de la même façon et comptées dans le résumé ci-dessus. Toutes trois exigent la même chose — aucune voie à moins de 60 m — et sont disjointes : une cellule desservie par un sentier reste accessible, quoi qu'elle contienne.
 
 ## Villes (30)
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Varennes | 4 852 | 53 | 4 799 | 0 | **4 799** | 2 627 (55 %) | 22 |
-| Verchères | 3 725 | 0 | 3 725 | 0 | **3 725** | 2 673 (72 %) | 10 |
-| Saint-Jean-Baptiste | 3 702 | 17 | 3 685 | 0 | **3 685** | 2 203 (60 %) | 4 |
-| Beauharnois | 3 422 | 5 | 3 417 | 0 | **3 417** | 1 751 (51 %) | 20 |
-| Contrecœur | 3 345 | 2 | 3 343 | 0 | **3 343** | 2 039 (61 %) | 23 |
-| Carignan | 3 168 | 0 | 3 168 | 0 | **3 168** | 1 717 (54 %) | 23 |
-| Saint-Philippe | 3 127 | 0 | 3 127 | 0 | **3 127** | 2 183 (70 %) | 6 |
-| Saint-Constant | 2 881 | 2 | 2 879 | 0 | **2 879** | 1 355 (47 %) | 29 |
-| Saint-Isidore | 2 631 | 0 | 2 631 | 0 | **2 631** | 1 672 (64 %) | 5 |
-| Kahnawake | 3 136 | 611 | 2 525 | 0 | **2 525** | 1 160 (46 %) | 12 |
-| Sainte-Julie | 2 446 | 0 | 2 446 | 126 | **2 320** | 639 (28 %) | 35 |
-| Saint-Mathias-sur-Richelieu | 2 409 | 0 | 2 409 | 5 | **2 404** | 1 683 (70 %) | 4 |
-| Mercier | 2 323 | 5 | 2 318 | 0 | **2 318** | 1 334 (58 %) | 9 |
-| La Prairie | 2 225 | 1 | 2 224 | 0 | **2 224** | 1 000 (45 %) | 39 |
-| Mont-Saint-Hilaire | 2 243 | 19 | 2 224 | 0 | **2 224** | 621 (28 %) | 27 |
-| Saint-Mathieu-de-Beloeil | 2 011 | 0 | 2 011 | 15 | **1 996** | 1 392 (70 %) | 5 |
-| Saint-Amable | 1 884 | 0 | 1 884 | 0 | **1 884** | 963 (51 %) | 18 |
-| Saint-Basile-le-Grand | 1 834 | 0 | 1 834 | 14 | **1 820** | 925 (51 %) | 24 |
-| Châteauguay | 2 848 | 1 033 | 1 815 | 0 | **1 815** | 313 (17 %) | 63 |
-| Calixa-Lavallée | 1 683 | 0 | 1 683 | 0 | **1 683** | 1 269 (75 %) | 2 |
-| Saint-Mathieu | 1 590 | 0 | 1 590 | 0 | **1 590** | 1 167 (73 %) | 4 |
-| Richelieu | 1 572 | 0 | 1 572 | 0 | **1 572** | 971 (62 %) | 9 |
-| Chambly | 1 261 | 0 | 1 261 | 0 | **1 261** | 378 (30 %) | 48 |
-| Beloeil | 1 237 | 0 | 1 237 | 0 | **1 237** | 446 (36 %) | 52 |
-| Candiac | 977 | 100 | 877 | 0 | **877** | 174 (20 %) | 22 |
-| Léry | 518 | 0 | 518 | 0 | **518** | 127 (25 %) | 5 |
-| Sainte-Catherine | 693 | 216 | 477 | 0 | **477** | 6 (1 %) | 25 |
-| Delson | 389 | 0 | 389 | 0 | **389** | 12 (3 %) | 14 |
-| Otterburn Park | 269 | 0 | 269 | 0 | **269** | 22 (8 %) | 14 |
-| McMasterville | 156 | 0 | 156 | 0 | **156** | 9 (6 %) | 8 |
+| Varennes | 4 852 | 53 | 4 799 | 0 | **4 799** | 1 745 (36 %) | 22 |
+| Verchères | 3 725 | 0 | 3 725 | 0 | **3 725** | 1 444 (39 %) | 10 |
+| Saint-Jean-Baptiste | 3 702 | 17 | 3 685 | 0 | **3 685** | 1 440 (39 %) | 4 |
+| Beauharnois | 3 422 | 5 | 3 417 | 0 | **3 417** | 1 322 (39 %) | 20 |
+| Contrecœur | 3 345 | 2 | 3 343 | 0 | **3 343** | 1 005 (30 %) | 23 |
+| Carignan | 3 168 | 0 | 3 168 | 0 | **3 168** | 1 030 (33 %) | 23 |
+| Saint-Philippe | 3 127 | 0 | 3 127 | 0 | **3 127** | 1 594 (51 %) | 6 |
+| Saint-Constant | 2 881 | 2 | 2 879 | 0 | **2 879** | 1 007 (35 %) | 29 |
+| Saint-Isidore | 2 631 | 0 | 2 631 | 0 | **2 631** | 1 272 (48 %) | 5 |
+| Kahnawake | 3 136 | 611 | 2 525 | 0 | **2 525** | 297 (12 %) | 12 |
+| Sainte-Julie | 2 446 | 0 | 2 446 | 126 | **2 320** | 437 (19 %) | 35 |
+| Saint-Mathias-sur-Richelieu | 2 409 | 0 | 2 409 | 5 | **2 404** | 1 155 (48 %) | 4 |
+| Mercier | 2 323 | 5 | 2 318 | 0 | **2 318** | 963 (42 %) | 9 |
+| La Prairie | 2 225 | 1 | 2 224 | 0 | **2 224** | 521 (23 %) | 39 |
+| Mont-Saint-Hilaire | 2 243 | 19 | 2 224 | 0 | **2 224** | 354 (16 %) | 27 |
+| Saint-Mathieu-de-Beloeil | 2 011 | 0 | 2 011 | 15 | **1 996** | 823 (41 %) | 5 |
+| Saint-Amable | 1 884 | 0 | 1 884 | 0 | **1 884** | 456 (24 %) | 18 |
+| Saint-Basile-le-Grand | 1 834 | 0 | 1 834 | 14 | **1 820** | 719 (40 %) | 24 |
+| Châteauguay | 2 848 | 1 033 | 1 815 | 0 | **1 815** | 218 (12 %) | 63 |
+| Calixa-Lavallée | 1 683 | 0 | 1 683 | 0 | **1 683** | 813 (48 %) | 2 |
+| Saint-Mathieu | 1 590 | 0 | 1 590 | 0 | **1 590** | 935 (59 %) | 4 |
+| Richelieu | 1 572 | 0 | 1 572 | 0 | **1 572** | 693 (44 %) | 9 |
+| Chambly | 1 261 | 0 | 1 261 | 0 | **1 261** | 235 (19 %) | 48 |
+| Beloeil | 1 237 | 0 | 1 237 | 0 | **1 237** | 364 (29 %) | 52 |
+| Candiac | 977 | 100 | 877 | 0 | **877** | 123 (14 %) | 22 |
+| Léry | 518 | 0 | 518 | 0 | **518** | 54 (10 %) | 5 |
+| Sainte-Catherine | 693 | 216 | 477 | 0 | **477** | 1 (0 %) | 25 |
+| Delson | 389 | 0 | 389 | 0 | **389** | 9 (2 %) | 14 |
+| Otterburn Park | 269 | 0 | 269 | 0 | **269** | 15 (6 %) | 14 |
+| McMasterville | 156 | 0 | 156 | 0 | **156** | 8 (5 %) | 8 |
 
 ## Parcs (587)
 

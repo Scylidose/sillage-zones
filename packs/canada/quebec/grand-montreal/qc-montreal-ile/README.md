@@ -1,6 +1,6 @@
 # Montréal (île)
 
-Pack `qc-montreal-ile` · version 1.2.1 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-montreal-ile` · version 1.2.2 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -10,7 +10,9 @@ Pack `qc-montreal-ile` · version 1.2.1 · grille 200 m · Canada › Québec �
 |---|---:|
 | Cellules du territoire | 25 367 |
 | dont restreintes (aéroport, militaire, prison) | 611 |
-| dont sans chemin (aucune voie à moins de 60 m) | 501 |
+| dont sans chemin (aucune voie à moins de 60 m) | 401 |
+| dont en forêt, sans chemin non plus | 216 |
+| dont traversées par un cours d'eau, sans chemin non plus | 11 |
 | Cellules retirées par le masque d'eau | 6 398 |
 | Villes | 16 |
 | Arrondissements et quartiers | 19 |
@@ -30,7 +32,9 @@ Une cellule appartenant à plusieurs zones (un arrondissement *et* sa ville) n'e
 | **Sans eau** | ce que publie `cell-totals.json` |
 | **Restr.** | parmi elles, dans un aéroport, une zone militaire ou une prison |
 | **Comptées** | le dénominateur réel de l'app : sans eau − restreintes |
-| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
+| **Sans chemin** | parmi les comptées, celles qu'aucune voie n'approche à moins de 60 m, hors bois et hors cours d'eau — l'utilisateur peut les marquer inaccessibles zone par zone, elles restent comptées tant qu'il ne le fait pas |
+
+Les cellules boisées et celles que traverse un cours d'eau forment deux autres catégories, marquables de la même façon et comptées dans le résumé ci-dessus. Toutes trois exigent la même chose — aucune voie à moins de 60 m — et sont disjointes : une cellule desservie par un sentier reste accessible, quoi qu'elle contienne.
 
 ## Îles
 
@@ -45,16 +49,16 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Montreal | 22 453 | 3 872 | 18 581 | 243 | **18 338** | 317 (2 %) | 1212 |
+| Montreal | 22 453 | 3 872 | 18 581 | 243 | **18 338** | 222 (1 %) | 1212 |
 | Dorval | 1 453 | 385 | 1 068 | 368 | **700** | 1 (0 %) | 26 |
 | Pointe-Claire | 1 790 | 829 | 961 | 0 | **961** |  | 57 |
 | Dollard-Des-Ormeaux | 764 | 7 | 757 | 0 | **757** |  | 35 |
-| Montréal-Est | 712 | 78 | 634 | 0 | **634** | 157 (25 %) | 6 |
+| Montréal-Est | 712 | 78 | 634 | 0 | **634** | 154 (24 %) | 6 |
 | Beaconsfield | 1 095 | 535 | 560 | 0 | **560** |  | 41 |
 | Sainte-Anne-de-Bellevue | 563 | 29 | 534 | 0 | **534** | 9 (2 %) | 19 |
 | Kirkland | 492 | 1 | 491 | 0 | **491** | 1 (0 %) | 28 |
 | Mont-Royal | 390 | 0 | 390 | 0 | **390** |  | 32 |
-| Senneville | 928 | 558 | 370 | 0 | **370** | 6 (2 %) | 4 |
+| Senneville | 928 | 558 | 370 | 0 | **370** | 4 (1 %) | 4 |
 | Côte-Saint-Luc | 352 | 0 | 352 | 0 | **352** | 10 (3 %) | 27 |
 | Baie-D'Urfé | 383 | 79 | 304 | 0 | **304** |  | 17 |
 | Westmount | 202 | 0 | 202 | 0 | **202** |  | 18 |
