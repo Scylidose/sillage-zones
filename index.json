@@ -2,6 +2,56 @@
   "formatVersion": 1,
   "packs": [
     {
+      "id": "es-barcelona",
+      "name": "Province de Barcelone",
+      "groups": [
+        "Espagne",
+        "Catalogne"
+      ],
+      "country": "Espagne",
+      "region": "Catalogne",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        1.360384,
+        41.192708,
+        2.778003,
+        42.323301
+      ],
+      "zoneCount": 311,
+      "parkCount": 19021,
+      "downloadBytes": 5589295,
+      "installedBytes": 20770243,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-barcelona-1.0.0/es-barcelona-1.0.0.zip",
+      "sha256": "0e60885aa77a8259dce258614c648a3fc8129f4dc843d923c46ebac51aaa58c1"
+    },
+    {
+      "id": "es-girona",
+      "name": "Province de Gérone",
+      "groups": [
+        "Espagne",
+        "Catalogne"
+      ],
+      "country": "Espagne",
+      "region": "Catalogne",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        1.724267,
+        41.650476,
+        3.32225,
+        42.495386
+      ],
+      "zoneCount": 221,
+      "parkCount": 6799,
+      "downloadBytes": 3163925,
+      "installedBytes": 11108283,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-girona-1.0.0/es-girona-1.0.0.zip",
+      "sha256": "96abadfbd5ac90eb2128e2f9b3d55a3c29c3acca5af95e49c2c26fbbfc8c8676"
+    },
+    {
       "id": "es-malaga",
       "name": "Province de Málaga",
       "groups": [
