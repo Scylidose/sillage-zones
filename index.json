@@ -263,7 +263,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -274,10 +274,10 @@
       ],
       "zoneCount": 15,
       "parkCount": 354,
-      "downloadBytes": 511262,
-      "installedBytes": 1673305,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-laval-1.2.2/qc-laval-1.2.2.zip",
-      "sha256": "76f7a4e93aa996c0d18d7e68795fc98ad7ca0942bbb6ac58d5e8540c25e6eb79"
+      "downloadBytes": 511385,
+      "installedBytes": 1673542,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-laval-1.2.3/qc-laval-1.2.3.zip",
+      "sha256": "4fbc8a03b232b2c4e88be52bb13c025afdd1d051de00fd7874eb0d7c680ef927"
     },
     {
       "id": "qc-levis",
@@ -315,7 +315,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -326,10 +326,10 @@
       ],
       "zoneCount": 16,
       "parkCount": 522,
-      "downloadBytes": 511678,
-      "installedBytes": 1711426,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-longueuil-1.2.2/qc-longueuil-1.2.2.zip",
-      "sha256": "c4759a8a7099e72e430f251aaa038f8c2d3928755cf02578ce17679fb80ff7f7"
+      "downloadBytes": 511796,
+      "installedBytes": 1711663,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-longueuil-1.2.3/qc-longueuil-1.2.3.zip",
+      "sha256": "9f9d0c7cec1d54e709515b5567ccd8572c5a13a82e9406807290b26833224bd4"
     },
     {
       "id": "qc-montreal-ile",
@@ -341,7 +341,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -352,10 +352,10 @@
       ],
       "zoneCount": 35,
       "parkCount": 1552,
-      "downloadBytes": 806441,
-      "installedBytes": 2825646,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-ile-1.2.2/qc-montreal-ile-1.2.2.zip",
-      "sha256": "3f82583c3e49dfd3fe96b0588816b0e8aedfa0cbb4cb6663985083b91f9e45b6"
+      "downloadBytes": 806562,
+      "installedBytes": 2825883,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-ile-1.2.3/qc-montreal-ile-1.2.3.zip",
+      "sha256": "1955f5531dd902e64fecfce68bf1e1f9e31f79eed08b079b64061d12d2bce8ee"
     },
     {
       "id": "qc-quebec-agglo",
