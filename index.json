@@ -20,6 +20,11 @@
         42.323301
       ],
       "zoneCount": 311,
+      "footprint": {
+        "cols": 90,
+        "rows": 96,
+        "cells": "AAAwAAAAAAAAAAAAAA9AAAAAAAAAAAAAA/wAAAAAAAAAAAAD/8AAAAAAAAAAAAP//4AAAAAAAAAAAJ//+AAAAAAAAAAAB////gAAAAAAAAAB////8AAAAAAAAAF/////AAAAAAAAAH/////wAAAAAAAAP////7wAAAAAAAAf/////4AAAAAAAAf/////8AAAAAAAAf/////4AAAAAAAAf/////+AAAAAAAA//////+AAAAAAAB///////AAAAAAAP///////AAAAAAAP///////gAAAAAAP///////wAAAAAAP///////wAAAAAAf///////4AAAAAAP///////4AAAAAAP////3//+AAAAAAf////////wAAAAA/////////8AAAAD///////+//AAAAP//////////gAAAP////3/////4AAAA//////////8AAAB///////////AAAB///////////gAAB///////////4AAH////////////AAH////////////wA/////////////8Af/////////////gN/////////////4A/////////////+D//////////////D/////////////+D/////////////+H//////////////P//////////////P/////////////+D///////////wf/D///////////wH4H///////////gAAH+////+/////AAAHof//f/////+AAADoH////////6AAACAH////////4AAAAAH///////4AAAAAAD///////wAAAAAAD///////4AAAAAAB///////wAAAAAAB///////wAAAAAAB///////gAAAAAAb///////jAAAAAAH////////IAAAAAD////////8AAAAAB////////+AAAAAAf///////+AAAAAA////////8AAAAAA////////wAAAAAA////////wAAAAAA3//////s+AAAAAAB//////z+AAAAAA5////////AAAAAAL////////AAAAAAP////////AAAAAAH////////AAAAAAH///////+AAAAAAP////////AAAAAAH///////sAAAAAAH///////AAAAAAAB///////AAAAAAAb/////++AAAAAAAD//+/f/MAAAAAAAH/9/+N/AAAAAAAAD/3/2A0AAAAAAAAD//+AAAAAAAAAAAA//9AAAAAAAAAAAA//9wAAAAAAAAAAA//x4AAAAAAAAAAH///wAAAAAAAAAAP///wAAAAAAAAAAP///AAAAAAAAAAAD///AAAAAAAAAAAH///AAAAAAAAAAAH///gAAAAAAAAAAH///gAAAAAAAAAAP///4AAAAAAAAAAAH//wAAAAAAAAAAAAfxgAAAAAAAAAAAAHgAAAAAAAA"
+      },
       "parkCount": 19021,
       "downloadBytes": 5589295,
       "installedBytes": 20770243,
@@ -45,6 +50,11 @@
         42.495386
       ],
       "zoneCount": 221,
+      "footprint": {
+        "cols": 96,
+        "rows": 68,
+        "cells": "AAAAAAAAAAEAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAH+AAAAAAAAAAAAAAH/gAAAAAAAAAAA/AH/wAAAAAAAAAAA/n//wAAAAAAAAAAA////4AAAAAAAAAAD////+AAAAAAAAAAH/////gAAAAAAAAAf/////wAAAAAAAAD//////4AAAAAAAAf//////4AAAAAAAAf//////8AAAAAAAAf//////+gAAAAAAA////////gAAAAAAA///v////4AAAAAAA7///////4AAAAAAABf//////+AAAAAAAAH//////+AAAAAAAAH//////+AAAAAAAAH///////AAAAAAAAP///////AAAAAAAAf///////AAAAAAAA3///////gAAAAAAAF//////+AAAAAAAAG//////+AAAAAAAAB//////+AAAAAAAAD//////8AAAAAAAAB//////8AAAAAAAAD///3//8AAAAAAAAD//////+AAAAAAAAj//////+AAAAAAAB///////+AAAAAAAD///////8AAAAAAAH///////8AAABAADH///////wAAAABiB////////AAAAAL+X////////AAAAB///////////AAAAC//////////+AAAACP/////////+AAAAMP/////////8AAAAAP/////////+AAAAAP//////////AAAAA///////////AAAAA///////////BIAAA///////////j4AAAf//3////////8AAAP///////////4AAAH///////////8AAEf///////////8AcP////////////+Af/////////////+Af/////+P/+///9oAf+////4MH////8AAf8D///wAP////wABf4D///gAP////wAB/wB///gAH////4AB/wA//4AAH////wAB/wAf/gAAB////4AD/wAAdAAAAB//9wAf/gAAAAAAAA//4AA/8mAAAAAAAAf/wAA/4MAAAAAAAAI/gAA/gMAAAAAAAAAQAAAwAEAAAAAAAAAAAAA"
+      },
       "parkCount": 6799,
       "downloadBytes": 3163925,
       "installedBytes": 11108283,
@@ -70,6 +80,11 @@
         37.282445
       ],
       "zoneCount": 103,
+      "footprint": {
+        "cols": 96,
+        "rows": 63,
+        "cells": "AAAgAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAP4AAAAAAAAAAAAAAP8AAAAAAAAAAAAAAP8AAAAAAAAAAAAAAf/gAAAAAAAAAAAAAf/4AAAAAAAAAAAAA///AAAAAAAAAAAAB///4AAAAAAAAAAAB///8AOAAAAAAAAGD////D/gAAAAAAA+D//////4AAAAAAA9X//////4AAAAAAAg///////8AAAAAAAA///////+AAAAAAAAf///////wAAAAAAAP///////4AAAAAAAP///////8AAAAAAAB///////8AAAAAAAAf//////+AAAAAAAAP///////AAAAAAAAH///////AAAAAAAAH///////gAAAAAAAH///////wAAAAAAAH///////5/4AAAAAD/////////3gYAAAD///////9v///iAAD////////////+AAD//////7//////AAH/////////////AAH////////////+AAP////////////+AAHwf//////////4AADwP//////////AAABAP//////93/8AAAAAP///////3/wAAAAAH////////4AAAAAAH/+//////4AAAAAAH//f/////gAAAAAAP/8/////+gAAAAAAH/vv////4AAAAAAAP///////wAAAAAAAf///////gAAAAAAAf///////AAAAAAAAX//////8AAAAAAAAA//////8AAAAAAAAAP/////4AAAAAAAAAH/////4AAAAAAAAAD/v///4AAAAAAAAAA/v///4AAAAAAAAAAfn///4AAAAAAAAAAf////wAAAAAAAAAA/////wAAAAAAAAABnf///gAAAAAAAAAAGH///gAAAAAAAAAAGB///gAAAAAAAAAAAD8//AAAAAAAAAAAAD+D8AAAAAAAAAAAAD8B8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAAYAAAAA"
+      },
       "parkCount": 4589,
       "downloadBytes": 1910218,
       "installedBytes": 7524944,
@@ -95,6 +110,11 @@
         43.460038
       ],
       "zoneCount": 433,
+      "footprint": {
+        "cols": 96,
+        "rows": 69,
+        "cells": "AAAAAgAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA+AAAAAAAAAAAAAAB/QAAAAAAAAAAAAAD/8AAAAAAAAAAAAAP/+AAAAAAAAAAADwf/+AAAAAAAAAAAH8f/+AAAAAAAAAAAP///+AAAAAAAAAAAH///+AAAAAAAAAAAP///+AAAAAAAAAAAP///8AAAAAAAAAAAf///8AAAAAAAAAAB////8AAAAAAAAAAB////4AAAQAAAAAAA////+Pgf+AABAAAAP////////AADAAAAA////////AAIAAAAA////////gB4AAAAA////////wD4AAAAA////////8P7gAAAAf3//////+f7gAAAA///////////gAAAD///////////AAAAH//////////9AAAABf/////////7AAAAA//////////7AAAAA///////////AAAAA///////////gAAAA///////////gAAAA///////////gAAAA//////////8gAAAA//////////8wAAAD//////////xQAAAD//////////0IAAAB//////////gAAAAD//////////g8AAAD//////////xYAAAD//////////xEAAAH//////////z/AAA///////////z/AAP////v//////3/gA//////////////wD/////////////f4H//////////////4f//////////////8P//////////////+P//////////////+P//////////////8f//////////9///0f//////////////A//////////+P//wAf/////////4P/9gAf////////74P/4AAf////////wYH/4AAP////////wYH/YAAPff//////wAB4AAAP////+//+AAAQAAAAP//////+AAAQAAAAf//////+AAAQAAAAf///////AAAwAAAAf///////AAAAAAAAPv//n///AAAAAAAAPr/DD///wAAAAAAADvOAHf//gAAAAAAACAGAH+HwAAAAAAAACAAADwAAAAAAAAAAAAAABAAAAAAAAAA"
+      },
       "parkCount": 4526,
       "downloadBytes": 3118099,
       "installedBytes": 10614532,
@@ -120,6 +140,11 @@
         44.459558
       ],
       "zoneCount": 350,
+      "footprint": {
+        "cols": 96,
+        "rows": 84,
+        "cells": "AAAAAAAAAGAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAD8AAAAAAAAAAAAAAD4AAAAAAAAAAAAAACqwAAAAAAAAAAAAAB+EAAAAAAAAAAAAAB5kAAAAAAAAAAAAACzHgAAAAAAAAAAAAF3N0AAAAAAAAAAAAH+/4AAAAAAAAAAAAG//9AAAAAAAAAAAAA///gAAAAAAAAAAAAf2/wAAAAAAAAAAAAPyOAAAAAAAAAAAAAP9eAAAAAAAAAAAAAP/+AAAAAAAAAAAAAP//AAAAAAAAAAAAAP//AAAAAAAAAAAAAf//wAAAAAAAAAAAAf//wOAAAAAAAAAAAf//+8AAAAAAAAAAAv///8AAAAAAAAAAA////8AAAAAAAAAAB////8AAAAAAAAAAH///v+AAAAAAAAAAP////8AAAAAAAAAA//////AAAAAAAAAA//////AAAAAAAAAB//////AAAAAAAAA///9///AAAAAAAAAf/////+AAAAAAAAAf//////AAAAAAAAA//////9gAAADgAAD//////9AAADDgADD//////3AAADjwAH7///////wAAD/4AH///////34AAD/4AD////////8AA///gD////////+AA///gD/////////AA///wH/////////wAf//wP/////////4Af//8P/////////8AH/3/////9/////8AH//////////////AB////////////99AB//////+//////9AB/////++//////8AD/////////////8AP/////////////4B//////////////gL///////7//////gf/////////////8gf/////////////8AD/////////////4AD/+z////v/////8AD+AB/zf///////8AD8AA/AP///////8AD4AD+AH///////8AAwAB4AD///////8AAAABQAC///////8AAAAAAAA///////4AAAAAAAB///////8AAAAAAAA///////gAAAAAAAA///////wAAAAAAAB///////wAAAAAAAAf//////gAAAAAAAAf//////AAAAAAAAB//+P///AAAAAAAAB//8P+/8AAAAAAAAD//wP4/wAAAAAAAAB//wP4/AAAAAAAAAB/eAD4/AAAAAAAAAA/KAB48AAAAAAAAAD/AAAIAAAAAAAAAAD/AAAAAAAAAAAAAAH/AAAAAAAAAAAAAAP/AAAAAAAAAAAAAAH+AAAAAAAAAAAAAAA/gAAAAAAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAAAAAAAeAAAAAAAAAAAAAAAMAAAAAAAA"
+      },
       "parkCount": 3769,
       "downloadBytes": 3365460,
       "installedBytes": 11146381,
@@ -145,6 +170,11 @@
         43.972753
       ],
       "zoneCount": 341,
+      "footprint": {
+        "cols": 96,
+        "rows": 61,
+        "cells": "AAAAAACAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAB54AAAAAAAAAAwAAf/8AAAAAAAAAHwAE///B4AAAAAACD4AG////4AAAAAAD38AH////8AAAAAAH34Bn////yAAAAAAH//v9////3AAAAAA///v/////8gAAAAA///v/////8QAAAAAf//v////98IAAAAAf////////+MAAAAAf////////+CAAAAAH////9////B4AAAAP////9////hUAAAAH/////////wcAAAAB///////7/4eAAAAA/////////+/AAAAA///////////wAAAAf//////////gAAAAf//////////yAAAAf//////////wAAAAP//////////+AAAAf///////f//+IAAA////////////gAAB///v////////2wgD////////////8HgB/////////////AAB///////////7/xYBf////////////+8B/f//////v/////+A/H////////////+A+B/////+////f//AgAP////P///////AAAD///+7////9/+AAAD///////////+AAAD///////////8AAAAY//////////8AAAAA//////////8AAAAA//////////4AAAAA//////////gAAAAA//////////AAAAAAf/////////AAAAAAv////////8AAAAAA/////////4AAAAAA////////+wAAAAAA8H//////8AAAAAAA4B//////+AAAAAAAAB//////+AAAAAAAAD//8f//4AAAAAAAAD//4///wAAAAAAAAA/84f/gQAAAAAAAAA/8IP/gAAAAAAAAAAB8AP/wAAAAAAAAAAAAAA/wAAAAAAAAAAAAAA/4AAAAAAAAAAAAAAfwAAAAAAAAAAAAAAfAAAAAAAAAAAAAAAHAAAA"
+      },
       "parkCount": 11039,
       "downloadBytes": 3648005,
       "installedBytes": 13496072,
@@ -170,6 +200,11 @@
         42.918646
       ],
       "zoneCount": 226,
+      "footprint": {
+        "cols": 96,
+        "rows": 53,
+        "cells": "AAAAAAAADAAAAAAAAAAAAAAAfj4AAAAAAAA+AAAAf/4AAAAAAAB/AAAB//wAAAAAAAD/wAAB//wAAAAAAAD/wAAF//4AAAAAAAD/wAA///4AAAAAAAH/4AB///+EAAAAAAH//4X////+AAAgAAP/////////AAB/AAuf////////gAD+AD4/////////4gH+AP9//////////y38Af8////////////4v/+////////////4///////////////w/////////////+/4///////////////Af/////////////8Af/////////////8Af/////////////4AD//ff/////////4AAa9///////////4AABf///////+///4AAB////////////4AAAD///////////4AAABf////////+/4AAAB/3/////////4AAAA/3///6/////4AAAAn+f////////oAAAAAIP////////oAAAAAAD////////IAAAAAAB////e///4AAAAAAAP/////v/wAAAAAAAD///////4AAAAAAAB///////4AAAAAAAA///////4AAAAAAAA///////4AAAAAAAB///////4AAAAAAAB///////4AAAAAAAB/////f/4AAAAAAAB///////4AAAAAAAD//////+4AAAAAAAD//////8YAAAAAAAH//////8IAAAAAAAD///Qf/4YAAAAAAAAQEAAP/4QAAAAAAAAAAAAP/8AAAAAAAAAAAAAH/+AAAAAAAAAAAAAH/wAAAAAAAAAAAAAD/AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAAMAAA"
+      },
       "parkCount": 3448,
       "downloadBytes": 2588796,
       "installedBytes": 8926772,
@@ -195,6 +230,11 @@
         45.826852
       ],
       "zoneCount": 98,
+      "footprint": {
+        "cols": 76,
+        "rows": 96,
+        "cells": "AAAAAAAAAABYAAAAAAAAAAAPwAAAAAAAAAABfwAAAAAAAAAAf/AAAAAAAAAMB/4AAAAAAAAA///wAAAAAAOYH//+AAAAAAB/h7//wAAAAAAP+f//+AAAAAAA/////8AAAAAAB/////wAAAAAAH////7AAAAAAG/////8AAAAAAf//7//wAAAAAB/////+AAAAAAH/////4AAAAAAf/////AAAAAAD/////8AAAAAA//////wAAAAAP//////AAAAAB//////8AAAAAH////7/wAAAAA/////v/AAAAAP//////+AAAAD///////wAAAB///////+YAAAH/////////AAAf////////8AAD/////////wBAf////////8AHD/////////AAOf//////f/4AB///////f//gAP//////33//gA//v///////4AH//////////AA//////////wAD/////v///wAAC/////////AAAf////////8AAB//////v//gAAH////9///8AAAP//9/P///wAAA///////7/gAAD/9//////+AAIf////////4AAf////z///+AAC3////////4AAe/////////wAAx////////+AAAH///f////8AAAP//f/////wAAA////////+AAAB////////8AAAH////////gAAAP///////+AAAB3///////AAAAH///////8AAAAf///////gAAAB///////8AAAAH///////gAAAA///////+AAAAD///////wAAAAP///////AAAAJ///////+AAAA//v/////wAAAB////////AAAAH///////8AAAAf///////AAAAA///////8AAAAD//////8wAAAAH//////wAAAAAf/////+AAAAAA//3///4AAAAAB//////AAAAAAH/////8AAAAAAP/////wAAAAAA//+///AAAAAAB//wf/4AAAAAAD//C/7AAAAAAAP/8B/AAAAAAAAf/AEYAAAAAAAB+AAIAAAAAAAAD4AAAAAAAAAAAPwAAAAAAAAAAAfAAAAAAAAAAAB+AAAAAAAAAAAD4AAAAAAAAAAAPwAAAAAAAAAAAfgAAAAAAAAAAB+AAAAAAAAAAADwAAAAAAAAAAAHAAAAAAAAAAAAOAAAAAAAAAAAA4AAAAAAAAAAADAAAAAAAAA"
+      },
       "parkCount": 6866,
       "downloadBytes": 2955333,
       "installedBytes": 10878533,
@@ -221,6 +261,11 @@
         45.943536
       ],
       "zoneCount": 21,
+      "footprint": {
+        "cols": 96,
+        "rows": 68,
+        "cells": "AADMAAAAAAAAAAAAAAJ/AAAAAAAAAAAAAAB/wAAAAAAAAAAAAAB/oAAAAAAAAAAAAAL/+AAAAAAAAAAAAGP//AAAAAAAAAAAAD/+/AAAAAAAAAAAABj//gAAAAAAAAAAAA/f/wAAAAAAAAAAAAf//8AAAAAAAAAAAAP///gAAAAAAAAAAAf///gAAAAAAAAAAA////gAAAAAAAAAEB////gAAAAAAAAAGD////gAAAAAAAAAHH////4AAAAAAAAAHv////8AAAAAAAAAH//////AAAAAAAAAD//////AAAAAAAAAD//////AAAAAAAAAD//////gAAAAAAAAD//////oAAAAAAAAD//////4AAAAAAAAD//////8AAAAAAAA///////+AAAAAAAA////////AAAAAAAA////////AAAAAAAAP///////gAAAAAAAP///////wAAAAAAAP///////4AAAAAAAf///////4AAAAAAAff//////+gAAAAAAOL///////3gAAAAACA////////fwAAAAAAD/////////wAAAAAB/////////8AAAAAB//////////QAAAAAe/////////gAAAAAH/////f///wAAAAAP/////////4AAAAAf///f+////4AAAAAP/////////cAAAAAD/////////+AAAAAP/9///////+AAAAB//4////////AAAAD//wf///////gAAAD//gP//5////mAAAH//AF//g/8f/zAAAH/+AD3/wx8f/5gAAP/8AD/QAA8d/9wAA/74AAOAAAYD98YAAf5wAAAAAAAB/+EAABxgAAAAAAAA//yAABwAAAAAAAAB//5AABwAAAAAAAAA3/4AAAAAAAAAAAAAP/wAAAAAAAAAAAAAH/gAAAAAAAAAAAAAP/AAAAAAAAAAAAAAP/AAAAAAAAAAAAAAf8AAAAAAAAAAAAAA/8AAAAAAAAAAAAAB/4AAAAAAAAAAAAAA/wAAAAAAAAAAAAAAfgAAAAAAAAAAAAAAdAAAAAAAAAAAAAAAeAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAQAA"
+      },
       "parkCount": 772,
       "downloadBytes": 784706,
       "installedBytes": 2815878,
@@ -247,6 +292,11 @@
         45.980915
       ],
       "zoneCount": 30,
+      "footprint": {
+        "cols": 81,
+        "rows": 96,
+        "cells": "AAAAgAAAAAAAAAAAAOAAAAAAAAAABADgAAAAAAAAAAYA+AAAAAAAAAGfgPwAAAAAAAAA/8D/AAAAAAAAATvg/4AAAAAAAADf8P/gAZAAAAAAZ/z/8A/8AAAAADn+f/wf/wAAAAA8/3//f/+AAAAAEgPv////8AAAAAAB//////wAAAAAAB/////+AAAAAABP/////wAAAAAAA//////AAAAAAAD/////8AAAAAAAN/////gAEAAAAB/////4ABgAAAAH/////gAPAAAAA/////8cf4AAAAD/////nn/AAAAAB+XB/9//4AAAAAHgAH////AAAAAAAAA/D//wAAAAAAAACAf/uAAAAAAAAAAB//4AAAAAAAAAAH/fAAAAAAAAAAAfv4AAAAAAAAAAD8/AgAAAAAAAAAPl4PQAAAAAAAAB//z+AAAAAAAAAH3e/wAAAAAAAAA9/f/AAAAAAAAAH///wAAAAAAAAA///+AAAAAAAAAD///wAAAAAAAAAP3/+AAAAAAAAAB+//4AAAAAAAAAH///AAAAAAAAAA/v/wAAAAAAAAAH//8AAAAAAAAAC/39AAAAAAAAAD///AAAAAAAAAA///wAAAAAAAAAD//eAAAAAAAAAA///wAAAAAAAAAP//8AAAAAAAAAD///AAAAAAAAAA///4AAAAAAAAAH//+AAAAAAAAAB//8AAAAAAAAAAf/8AAAAAAAAAAH//AAAAAAAAAAF//4AAAAAAAAAAP//AAAAAAAAAAB//8AAAAAAAAABv//AAAAAAAAAAN//wAAAAAAAAAAv/8AAAAAAAAAAA//wAAAAAAAAAAH//AAAAAAAAAAA//8AAAAAAAAAAD//wAAAAAAAAAAP/+AAAAAAAAAAA//4AAAAAAAAAAD//gAAAAAAAAAAf/4AAAAAAAAAAF/6AAAAAAAAAAAX/gAAAAAAAAAADf4AAAAAAAAAAAA/AAAAAAAAAAAAH8AAAAAAAAAAAAfwAAAAAAAAAAAB+AAAAAAAAAAAAH8AAAAAAAAAAAAfgAAAAAAAAAAAB+AAAAAAAAAAAAHwAAAAAAAAAAAA/AAAAAAAAAAAAH8AAAAAAAAAAAAPAAAAAAAAAAAABQAAAAAAAAAAAADAAAAAAAAAAAAA4AAAAAAAAAAAABgAAAAAAAAAAAAsAAAAAAAAAAAABgAAAAAAAAAAAAMAAAAAAAAAAAABgAAAAAAAAAAAAMAAAAAAAAAAAABgAAAAAAAAAAAAGAAAAAAAAAAAAA4AAAAAAAAAAAADAAAAAAAAAAAAAQA"
+      },
       "parkCount": 587,
       "downloadBytes": 723613,
       "installedBytes": 2597389,
@@ -273,6 +323,11 @@
         45.69965
       ],
       "zoneCount": 15,
+      "footprint": {
+        "cols": 96,
+        "rows": 71,
+        "cells": "AAAAAYAAAAAAAAAAACAA78AAAAAAAAAAAOA//+AAAAAAAAAAHy///+gAAAAAAAAAv/////wAAAAAAAAAf/////wAAAAAAAAAP/////4AAAAAAAAAP/////8AAAAAAAAAP//////gAAAAAAAAH//////wAAAAAAAAH//////8AAAAAAAAH///////AAAAAAAAH///////AAAAAAAAH///////gAAAAAAAH///////4AAAAAAAH////////AAAAAAAP////////wAAAAAAC/////9//4AAAAAAAf///////4AAAAAAAP///////8AAAAAAAH///////4AAAAAAAD///////8AAAAAAAD///////8AAAAAAAB///////+AAAAAAAA3//////+AAAAAAAAD//////+AAAAAAAAD///////AAAAAAAAH///////AAAAAAAAD///////gAAAAAAAD///////wAAAAAAAD///////wAAAAAAAB///////4AAAAAAAA///////4AAAAAAAB///////8AAAAAAABv//////+AAAAAAAB7//////+AAAAAAAAAf//////AAAAAAAAB///////AAAAAAAAAP//////AAAAAAAAAH//////AAAAAAAAAL//////AAAAAAAAAD//////AAAAAAAAAD//////AAAAAAAAAD//////gAAAAAAAAD//////gAAAAAAAAB//////wAAAAAAAAA//////4AAAAAAAAAf/////8AAAAAAAAAf/////+AAAAAAAAAf//////AAAAAAAAAH//////gAAAAAAAAH//f///4AAAAAAAAD//////8AAAAAAAAB///////AAAAAAAAB///////gAAAAAAAA///////wAAAAAAAAf///////AAAAAAAAP///////AAAAAAAAH///////gAAAAAAAD////f//wAAAAAAAB///////4AAAAAAAB///////8AAAAAAAAf///////AAAAAAAAGP//////gAAAAAAAAN//////kAAAAAAAAChn////uAAAAAAAAAAD////2AAAAAAAAAAAD4P/4AAAAAAAAAAAAAD/8AAAAAAAAAAAAAAf+AAAAAAAAAAAAAADi"
+      },
       "parkCount": 354,
       "downloadBytes": 511385,
       "installedBytes": 1673542,
@@ -299,6 +354,11 @@
         46.833248
       ],
       "zoneCount": 11,
+      "footprint": {
+        "cols": 96,
+        "rows": 72,
+        "cells": "AAAAAIAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA+AAAAAAAAAAAAAAB/AAAAAAAAAAAAAAD/gAAAAAAAAAAAAAH/wAAAAAAAAAAAAAP/4AAAAAAAAAAAAAf/8AAAAAAAAAAAAA//+AAAAAAAAAAAABv//AAAAAAAAAAAADv//gAgAAAAAAAAAH///wAwAAAAAAAAAP///4A4AAAAAAAAAf///4Q8AAAAAAAAA////8Y+AAAAAAAAAf///+g/AAAAAAAAA/////g/gAAAAAAAB/////w/wAAAAAAAP//9//w/4AAAAAAAf/////x/8AAAAAAA//////Z/+AAAAAAB/////+9//AAAAAAD/////8///gAAAAAH////9+///wAAAAAP/////+///4AAAAAf//////v//8AAAAA//////73//+AAAAB///////b//+AAAAD///////7//+AAAAH//////////+AAAAP//////3///4AAAAf///////3//4AAAAP//////////4AAAAD//////f///4AAAAA//////d///8AAAAAD//f//f///8AAAAAAAP///f///8AAAAAAAD//+f///wAAAAAAAA//+////4AAAAAAAAH/+////8AAAAAAAAA//////+AAAAAAAAAf/////9gAAAAAAAAf/////7yAAAAAAAAP///////AAAAAAAAD/////3/gAAAAAAAAff/////wOAAAAAAAHv/t6f/4fwAAAAAAAf//f////4AAAAAAAD///////wAAAAAAAA///////gAAAAAAAA///////AAAAAAAAAP/////+AAAAAAAAAP//////AAAAAAAAAD//////wAAAAAAAAA//////4AAAAAAAAAf/////8AAAAAAAAAP/////+AAAAAAAAAP//////AAAAAAAAAD/////+AAAAAAAAAD/////8AAAAAAAAAD/////4AAAAAAAAAD/////wAAAAAAAAAB/3///gAAAAAAAAAB/////AAAAAAAAAAB////+AAAAAAAAAAB////8AAAAAAAAAAA////4AAAAAAAAAAA////wAAAAAAAAAAAf///gAAAAAAAAAAAP///AAAAAAAAAAAAH/9+AAAAAAAAAAAACAQAAA"
+      },
       "parkCount": 230,
       "downloadBytes": 309630,
       "installedBytes": 1087886,
@@ -325,6 +385,11 @@
         45.656689
       ],
       "zoneCount": 16,
+      "footprint": {
+        "cols": 65,
+        "rows": 96,
+        "cells": "AAAAAAIAAAAAAAA//4AAAAAAAB//wAAAAAAGD//gAAAAAA////AAAAAAD///8AAAAAAP////AAAAAH////8AAAAAf////4AAAAA/////wAAAAB/////wAAAAD/////wAAAAH///9/wAAAAP/////gAAAAf/////gAAAA//////wAAAF//////wAAAD//////gAAAH//////gAAAP//////AAACf//////AAAB//////+AAAD//////8AAA3//////8AAAf//////4AAB///////wAAH///////wAAf///////wAA/f//9///wAA////////gAD////////AAP///////+AA////////+AA////////8AB////////4AD////////wAP////////gAf///////+AA////////+AD/////////AH/////////gP/////////Af/////////A/////////+D/////////+H/////////+P/////////8f/////////8P/////////4P///////3/4P///////e/4f/////////wP///////5/gf///////z/Af///////9+Af////////8A////////nwB/////////AB///////8cAB///////wwAD//////YAAAD/////8gAAAT/////wAAAAD/////gAAAAH/////AAAAB3////+AAAADn////8AAAAHn////4AAAAHP////wAAAAPP////gAAAANP////AAAAAef///8AAAAE2f/7/wAAAAN2/7//AAAAAL1///8AAAAATz///wAAAAAnz///AAAAABvn//8AAAAADPP//4AAAAAC+f//gAAAAAD9//+AAAAAAB57/4AAAAAAFz//gAAAAAAP3/+AAAAAAAbv/4AAAAAAAXP/gAAAAAAAuf+AAAAAAAAe/8AAAAAAAAc/wAAAAAAAA5/AAAAAAAAAx8AAAAAAAAADwAAAAAAAAAHAAAAAAAAAAMAAAAAAAAAAQAAAAAAAAAAAAAAAAA"
+      },
       "parkCount": 522,
       "downloadBytes": 511796,
       "installedBytes": 1711663,
@@ -351,6 +416,11 @@
         45.704232
       ],
       "zoneCount": 35,
+      "footprint": {
+        "cols": 96,
+        "rows": 83,
+        "cells": "DmAAAAAAAAAAAAAAD/AAAAAAAAAAAAAAH/oAAAAAAAAAAAAAP//gAAAAAAAgQAAAf//gAAAAAAH+AAAA///8AAAAAAPvGAAA///+AAAAAAf/jAAA/////AAAAF//wAAAf////gAMAv/+4AAAf////4AhP///8AAAP////4D/////+AAAD////8P/////uAAAB////+f////f/IAAAf///////////sAAAf/////////3/uAAA/v///////////AAAeP//////////3AAAeH//////////3gAAc5//////////7gAAF+f/////////9AAA3+f/////////+AAAf/v////////+/AAAf////////////AAAf/z/v///////vAAAP/9///+//////AAAD/8/////////8AAAD79////////f+IAAA/9/////////8EAAA/9/////////4IAAAP+/8D//////+oAAAN+/8Af/////8wAAAP8YAAv/////+wAAABAAAAH/////+gAAAAAAAAH/////+AAAAAAAAAD/////+gAAAAAAAAA/////+AAAAAAAAAA//////AAAAAAAAAAH/////AAAAAAAAAAD/////gAAAAAAAAAB/////wAAAAAAAAAAH////wAAAAAAAAAAD////4AAAAAAAAAAD////8AAAAAAAAAAB////4AAAAAAAAAAA////8AAAAAAAAAAA////8AAAAAAAAAAA////+AAAAAAAAAAA/3///AAAAAAAAAAA/////AAAAAAAAAAAP////AAAAAAAAAAAP////gAAAAAAAAAAP////gAAAAAAAAAAH////AAAAAAAAAAAH////AAAAAAAAAAAD////AAAAAAAAAAAD////AAAAAAAAAAAD////AAAAAAAAAAAB////AAAAAAAAAAAB////AAAAAAAAAAAA////gAAAAAAAAAAA////wAAAAAAAAAAAf///wAAAAAAAAAAAP/v/wAAAAAAAAAAAD///4AAAAAAAAAAAF///4AAAAAAAAAAAC///8AAAAAAAAAAAAf//8AAAAAAAAAAAAP//+AAAAAAAAAAAAH//8AAAAAAAAAAAAD//8AAAAAAAAAAAAB//8AAAAAAAAAAAAAf/4AAAAAAAAAAAAAP/4AAAAAAAAAAAAAH/4AAAAAAAAAAAAAB/4AAAAAAAAAAAAAAf4AAAAAAAAAAAAAAf4AAAAAAAAAAAAAAP4AAAAAAAAAAAAAAP8AAAAAAAAAAAAAAH+AAAAAAAAAAAAAAD+AAAAAAAAAAAAAABmAAAAAAAAAAAAAAAI"
+      },
       "parkCount": 1552,
       "downloadBytes": 806562,
       "installedBytes": 2825883,
@@ -377,6 +447,11 @@
         46.98068
       ],
       "zoneCount": 9,
+      "footprint": {
+        "cols": 96,
+        "rows": 81,
+        "cells": "AAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAD+AAAAAAAAAAAAAAH/4AAAAAAAAAAAAAP//4AAAAAAAAAAAAf///AAAAAAAAAAAA////8/wAAAAAAAAB//////8AAAAAAAAD//////+AAAAAAAAH/////v/AAAAAAAAP///////4AAAAAAAf/////3+//gAAAAA//////7///4AAAAB//////////8AAAAD//////////+AAAAH///////////AAAAP///////////gAAAf///////////4AAA//9/////////4AAAP///////////4AAAAf//////////8AAAAA//////////+AAAAAH//////3//+AAAAAAP/////3///gAAAAAH/////////wAAAAAP/////////4AAAAAP/////////8AAAAAB/////////+AAAAAD///////f//AAAAAH//////f///AAAAAP//////////AAAAAf//////////AAAAA//////+///3AAAAB//////9//98gAAAD//////////8AAAAH/////3/////gAAAO///////////wAAAP///////////wAAAH9//z//////+AAAAP///////////AAAAf//////////+AAAA//////+/////AAAAP///////////8AAAB////////////AAAAH////3//////gAAAP///////////wAAAH///////////wAAAD///////////4AAAA///////////8AAAAT//////////4AAAAB//////////8AAAAA///////////AAAAB//////////+AAAAD//////////+AAAAD//////////+AAAAB///3//////gAAAAA//////////gAAAAAff////////AAAAAAP//v//////AAAAAAH/////7///AAAAAACf/f//////gAAAAAAP+f//////AAAAAAAD8///+//+AAAAAAAB5////v/+AAAAAAAB5//////8AAAAAAAC9/////7oAAAAAAAD9//7///oAAAAAAAH6P/B///gAAAAAAAP6H/A///gAAAAAAAPwF6AP//gAAAAAAAPwB8AH//AAAAAAAA+QBIAB/+AAAAAAAA/wAYAA/+AAAAAAAB/gAAAAf8AAAAAAAD/gAAAAH4AAAAAAAD8AAAAAD4AAAAAAAH8AAAAAAwAAAAAAAH+AAAAAAQAAAAAAAB8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAAIAAAAAAAAA"
+      },
       "parkCount": 478,
       "downloadBytes": 420355,
       "installedBytes": 1481436,
@@ -403,6 +478,11 @@
         45.484697
       ],
       "zoneCount": 11,
+      "footprint": {
+        "cols": 96,
+        "rows": 67,
+        "cells": "AAAAAAAEAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAcAAAAAAAAAAAAAAADEAAAAAAAAAAAAABz5AAAAAAAAAAAD+H/+AAAAAAAAAAAP7///gAAAAAAAAAAP/9//74AAAAAAAAAf//9//4AAAAAAAAA////9/4AAAAAAAAA/////98CAAAAAAAB///////gAAAAAAAD///////fYAAAAAAD////////AAAAAAAH///////iAAAAAAAH///////AAAAAAAAP///7//+AAAAAAAAP//////8AAAAAAAAf//////4AACAAAAAf//////4AADAAAAA///////gPAPgAAAB///////C/wf8AAAB///////H////AAAD//////+f/+//gAAD//////8f////+AAH//////8f////+AAH//////8f////+AAP//////4f///4cAAf//////4f///wEAAf//////8f///wAAA///f///4////gAAB///////8////AAD////////+////AA/////////8////AA/////////gf/+DgA/////////AH/ABAAf////////AD3gAAAf////////AwcAA4Af////////gAQAA0Af////////gAAAAQAf////////gAAAAAAP////////wAAAAAAPv///////yAAAAAAP7/r/////9AAAAAAP//////8f9wAAAAAP+P////4PpAAAAAAH//////wAAAAAAAAHv//f//wDgAAAAAAH//////gBgAAAAAAH//////gAIAAAAAAH//////AAAAAAAAAD/v///TgAAAAAAAAD////9AAAAAAAAAAD////8AAAAAAAAAAD////4AAAAAAAAAAD////wAAAAAAAAAAB////AAAAAAAAAAAB///+AAAAAAAAAAAB///wAAAAAAAAAAAB//fAAAAAAAAAAAAB//8AAAAAAAAAAAAA//gAAAAAAAAAAAAA/+AAAAAAAAAAAAAA/wAAAAAAAAAAAAAA/QAAAAAAAAAAAAAA8AAAAAAAAAAAAAAAYAAAAAAAAAAAAAA"
+      },
       "parkCount": 175,
       "downloadBytes": 530583,
       "installedBytes": 1723258,
