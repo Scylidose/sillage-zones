@@ -406,7 +406,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.2.3",
+      "version": "1.2.4",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -422,10 +422,10 @@
         "cells": "DmAAAAAAAAAAAAAAD/AAAAAAAAAAAAAAH/oAAAAAAAAAAAAAP//gAAAAAAAgQAAAf//gAAAAAAH+AAAA///8AAAAAAPvGAAA///+AAAAAAf/jAAA/////AAAAF//wAAAf////gAMAv/+4AAAf////4AhP///8AAAP////4D/////+AAAD////8P/////uAAAB////+f////f/IAAAf///////////sAAAf/////////3/uAAA/v///////////AAAeP//////////3AAAeH//////////3gAAc5//////////7gAAF+f/////////9AAA3+f/////////+AAAf/v////////+/AAAf////////////AAAf/z/v///////vAAAP/9///+//////AAAD/8/////////8AAAD79////////f+IAAA/9/////////8EAAA/9/////////4IAAAP+/8D//////+oAAAN+/8Af/////8wAAAP8YAAv/////+wAAABAAAAH/////+gAAAAAAAAH/////+AAAAAAAAAD/////+gAAAAAAAAA/////+AAAAAAAAAA//////AAAAAAAAAAH/////AAAAAAAAAAD/////gAAAAAAAAAB/////wAAAAAAAAAAH////wAAAAAAAAAAD////4AAAAAAAAAAD////8AAAAAAAAAAB////4AAAAAAAAAAA////8AAAAAAAAAAA////8AAAAAAAAAAA////+AAAAAAAAAAA/3///AAAAAAAAAAA/////AAAAAAAAAAAP////AAAAAAAAAAAP////gAAAAAAAAAAP////gAAAAAAAAAAH////AAAAAAAAAAAH////AAAAAAAAAAAD////AAAAAAAAAAAD////AAAAAAAAAAAD////AAAAAAAAAAAB////AAAAAAAAAAAB////AAAAAAAAAAAA////gAAAAAAAAAAA////wAAAAAAAAAAAf///wAAAAAAAAAAAP/v/wAAAAAAAAAAAD///4AAAAAAAAAAAF///4AAAAAAAAAAAC///8AAAAAAAAAAAAf//8AAAAAAAAAAAAP//+AAAAAAAAAAAAH//8AAAAAAAAAAAAD//8AAAAAAAAAAAAB//8AAAAAAAAAAAAAf/4AAAAAAAAAAAAAP/4AAAAAAAAAAAAAH/4AAAAAAAAAAAAAB/4AAAAAAAAAAAAAAf4AAAAAAAAAAAAAAf4AAAAAAAAAAAAAAP4AAAAAAAAAAAAAAP8AAAAAAAAAAAAAAH+AAAAAAAAAAAAAAD+AAAAAAAAAAAAAABmAAAAAAAAAAAAAAAI"
       },
       "parkCount": 1552,
-      "downloadBytes": 806562,
-      "installedBytes": 2825883,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-ile-1.2.3/qc-montreal-ile-1.2.3.zip",
-      "sha256": "1955f5531dd902e64fecfce68bf1e1f9e31f79eed08b079b64061d12d2bce8ee"
+      "downloadBytes": 806644,
+      "installedBytes": 2825893,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-montreal-ile-1.2.4/qc-montreal-ile-1.2.4.zip",
+      "sha256": "bea9038b0d8fde9b1d41a5194087613266ca060d52cef73849c62e751b0c8692"
     },
     {
       "id": "qc-quebec-agglo",
