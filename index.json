@@ -397,6 +397,37 @@
       "sha256": "9f9d0c7cec1d54e709515b5567ccd8572c5a13a82e9406807290b26833224bd4"
     },
     {
+      "id": "qc-memphremagog",
+      "name": "Memphrémagog (Estrie)",
+      "groups": [
+        "Canada",
+        "Québec",
+        "Estrie"
+      ],
+      "country": "Canada",
+      "region": "Québec",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -72.48507,
+        45.003789,
+        -71.862577,
+        45.449793
+      ],
+      "zoneCount": 17,
+      "footprint": {
+        "cols": 94,
+        "rows": 96,
+        "cells": "AAA//+B///8AAAAD/7///wn///+AAAAP/////Af///4AAAA/////4B////gAAAD/////gv///AAAAAP///++D///4AAAAA/////wP//+AAAAAD/////Af//4AAAAAP////4D///gAAAAA/////gf//+AAAAAD////+Af//4AAAAAP////4B///gAAAAA///7/jD//+AAAAAD////+fv//4AAAAAP////x+///gAAAAA/////P9/v+AAAAAD////8/z//4AAAAAP////j/v//gAAAAA////+H///+AAAAAD////4////4AAAAAH////g/9//gAAAAAf///+H/4/+AAAAAB////4H/5/4AAAAAH////g//3/gAAAAAf////H///+AAAAAB////8f///wAAAAAH////w////AAAAAAf////D///8AAAAAB////+P///wAAAAAH////4f///AAAAAAf////h//v8AAAAAB////8D/+/wAAAAAH////mP/7/AAAAAAAA//88//n8AAAAAAAD/2zx/+f//f/fAAAP/3fj/9/////8AAA////P/n/+///wAAD//n+f+f/n///AAAP///4/z/+J//8AAA////z+f/+A//wAAB////H9//8B//AAAH/7/+f///+D/8AAAf///4/////P/wAAB////j////8//AAAH/n/+H////z/8AAAf+//4P////H/wAAB+/7/4////8f/AAAH////j////x/8AAAf//v/H////H/wAAB////8X///8f/AAAH////4f///x/8AAAe9///h////H/gAAB/r9f+D///8f+AAAH//8/8P///4/4AAAf+///w////n/gAAB/////B////P+AAAH////+H//f+/4AAAf////+f38/5/gAAB7///////5/3+AAAHv////3/wH//4AAAf///////+f//gAAB////////5//+AAAH//8/////n//wAAAf//X/////P//gAAB///////gA//+AB/3/7////+AB/h/AH///n////4AAAH8Af////////gAAAf4B////////+AAAB9wH///v////4AAAH/gf/////+//gAAAf+B//////3/+AAAAf+H/////+//4AAAD74f//////3fgAAAP/h////////+AAAAf/H////////4AAAB/wf////z///gAAAD/B/////B//+AAAAAAH////+///4AAAAAAf////x//vgAAAAAAAAAAAH/f+AAAAAAAAAAAAP8w4AAAAAAAAAAAC/zgAAAAAAAAAAAAP/+AAAAAAAAAAAAA//4AAAAAAAAAAAAD/fgAAAAAAAAAAAABy+AAAAAAAAAAAAAT3wAAAAAAAAAAAABvPgAAAAAAAAAAAAHf+AAAAAAAAAAAAAe/4AAAAAAAAAAAAB9+AAAAAAAAAAAAAH/AAAAAAAAAAAAAAbsAAAAAAAAAAAAABvwAAAAAAAAAAAAAH4AAAAAAAA"
+      },
+      "parkCount": 106,
+      "downloadBytes": 570675,
+      "installedBytes": 2101344,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-memphremagog-1.0.0/qc-memphremagog-1.0.0.zip",
+      "sha256": "b13f4323888924709a10cd8b0288939e695bbf5b4a202281ce360565573e075e"
+    },
+    {
       "id": "qc-montreal-ile",
       "name": "Montréal (île)",
       "groups": [
@@ -457,6 +488,37 @@
       "installedBytes": 1481436,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-quebec-agglo-1.0.2/qc-quebec-agglo-1.0.2.zip",
       "sha256": "fbf030c7ee3cd5ccb118364ccbca377f0ba14d5c2e4fc451196e9bd5bb66e17d"
+    },
+    {
+      "id": "qc-sherbrooke",
+      "name": "Sherbrooke",
+      "groups": [
+        "Canada",
+        "Québec",
+        "Estrie"
+      ],
+      "country": "Canada",
+      "region": "Québec",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -72.108789,
+        45.300107,
+        -71.803153,
+        45.52405
+      ],
+      "zoneCount": 7,
+      "footprint": {
+        "cols": 92,
+        "rows": 96,
+        "cells": "H//AAAAAAAAAAAAP//wAAAAAAAAAAAD//8AAAAAAAAAAAAv//gAB//AAAAAAAP//4H///wAAAAAAD//+A///8AAAAAAA///wP///AAAAAAAP//4D///wAAAAAAD///D///8AAAAAAw//3wf///AAAAAAcP//4D///wAAAAAHD//+A///8AAAAABw///gP///AAAAAAcP//4D///wAAAAAPD//8A///+AAAAAHw///B/9/+wAAAAB8P//5/8v/8AAAACfB////55//AAAADvwf////9f/4AAAD/8H///////+AAAA//B////////gAAAP/wf///////8AAAP/8H////////AAA///B//////3/4AAP//wf///////+AAD//8H//////7/wAB///h/////////9//7/4f//////v////+/+H//////7///////h//////+/////7vgfv/////3////994H/////////////+B3//////f////v7gf//////3//////AH//////9////6//B///////////yv/wf///f//7///5//8H///3//////////B///9/7////////4D/v//////z/////AH//////8rf9///wB////////4e///+AP/+///////v///gAH////////////4AB////////9///+AAf////////////wAP/f/////////+AAD////////P///gAA////////////4AAP///////////+AAD///////+////gAA////////////4AAP///////3///+AAD////////////gAA////////////4AAP/////v/v///+AAD/7//////////gAA///////8////4AAP//////9////+AAD////7///////gAAH/////v3////4AAAAAP4+/7////+AAAAAAAP///////AAAAAAAD//f////wAAAAAB///v////8AAAAAA/////////AAAAAAf//+//+AAAAAAAAf///z//AAAAAAAAP////f/AAAAAAAAH////3/gAAAAAAAH//////wAAAAAAAD//////4AAAAAAAB///////AAAAAAAAf////7/wAAAAAAAH////3/+AAAAAAAA////L//wAAAAAAAH///v//+AAAAAAAA//+////AAAAAAAAP//v///gAAAAAAAD//////wAAAAAAAAf/9///+AAAAAAAAD//////wAAAAAAAA/fv///+AAAAAAAAH/5////gAAAAAAAB/9////4AAAAAAAAP/f///4AAAAAAAAB/v///8AAAAAAAAAPz///+AAAAAAAAAD8////AAAAAAAAAAeH///AAAAAAAAAADg3//gAAAAAAAAAAYB//wAAAAAAAAAACAPx4AAAAAAAAAAAABweAAAAAAAAAAAAAIDgAAAAAAAAAAAAAAgAAAAA"
+      },
+      "parkCount": 175,
+      "downloadBytes": 314967,
+      "installedBytes": 1071013,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-sherbrooke-1.0.0/qc-sherbrooke-1.0.0.zip",
+      "sha256": "0c47e2c1445205a14f4ce11a76e5a35a8d5c4060e6cd8b3d93fa69d3eb033453"
     },
     {
       "id": "qc-vaudreuil-soulanges",
