@@ -1,6 +1,6 @@
 # Montréal (île)
 
-Pack `qc-montreal-ile` · version 1.2.4 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-montreal-ile` · version 1.2.5 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -112,7 +112,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc-nature de la Pointe-aux-Prairies ⚠️ | Montréal › Rivière-des-Prairies–Pointe-aux-Trembles › Île de Montréal | 132 |
 | Parc du Mont-Royal | Montréal › Ville-Marie › Île de Montréal | 96 |
 | Parc agricole du Bois-de-la-Roche | Senneville › Île de Montréal | 90 |
-| Parc-nature du Bois-de-Liesse | Montréal › Saint-Laurent › Île de Montréal | 87 |
+| Parc-nature du Bois-de-Liesse | Montréal › Saint-Laurent › Île de Montréal | 86 |
 | Parc Jean-Drapeau | Montréal › Ville-Marie › Parc Jean-Drapeau | 84 |
 | Refuge d'oiseaux migrateurs de l'Île-aux-Hérons | Montréal › LaSalle › Île de Montréal | 75 |
 | Parc-nature du Bois-de-Saraguay | Montréal › Ahuntsic-Cartierville › Île de Montréal | 43 |
@@ -121,7 +121,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Frédéric-Back | Montréal › Villeray–Saint-Michel–Parc-Extension › Île de Montréal | 33 |
 | Parc du Canal-de-Lachine | Montréal › Le Sud-Ouest › Île de Montréal | 32 |
 | Parc Maisonneuve | Montréal › Rosemont–La Petite-Patrie › Île de Montréal | 31 |
-| Parc olympique | Montréal › Mercier–Hochelaga-Maisonneuve › Île de Montréal | 23 |
+| Parc olympique | Montréal › Mercier–Hochelaga-Maisonneuve › Île de Montréal | 22 |
 | Parc-nature des Rapides-du-Cheval-Blanc | Montréal › Pierrefonds-Roxboro › Île de Montréal | 22 |
 | Parc écologique des Sources | Montréal › Saint-Laurent › Île de Montréal | 22 |
 | Parc Terra Cotta | Pointe-Claire › Île de Montréal | 20 |
@@ -140,8 +140,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Marcelin-Wilson | Montréal › Ahuntsic-Cartierville › Île de Montréal | 12 |
 | Parc Tiohtià:ke Otsira'kéhne | Montréal › Côte-des-Neiges–Notre-Dame-de-Grâce › Île de Montréal | 11 |
 | Parc des Rapides | Montréal › LaSalle › Île de Montréal | 11 |
+| Parc de l'Aqueduc | Montréal › Verdun › Île de Montréal | 11 |
 | Parc Arthur-Therrien | Montréal › Verdun › Île de Montréal | 10 |
-| Parc de l'Aqueduc | Montréal › Verdun › Île de Montréal | 10 |
 | Parc du Père-Marquette ⚠️ | Montréal › Rosemont–La Petite-Patrie › Île de Montréal | 9 |
 | Parc de Montreal (54) ⚠️ | Montréal › Ville-Marie › Île de Montréal | 9 |
 | Parc des Hirondelles ⚠️ | Montréal › Ahuntsic-Cartierville › Île de Montréal | 8 |
@@ -234,6 +234,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Yuile ⚠️ | Montréal › Pierrefonds-Roxboro › Île de Montréal | 3 |
 | Parc de Montreal (82) ⚠️ | Montréal › Montréal-Nord › Île de Montréal | 3 |
 | Parc Cité-Jardin ⚠️ | Montréal › Rosemont–La Petite-Patrie › Île de Montréal | 3 |
+| Parc Léon-Brisebois ⚠️ | Montréal › L'Île-Bizard–Sainte-Geneviève › Île de Montréal | 3 |
 | Parc des Arbres ⚠️ | Montréal › Pierrefonds-Roxboro › Île de Montréal | 3 |
 | Parc Ferland ⚠️ | Montréal › Saint-Léonard › Île de Montréal | 3 |
 | Parc J.-Albert-Gariépy ⚠️ | Montréal › Verdun › Île de Montréal | 3 |
@@ -319,7 +320,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Chénier-Beaugrand ⚠️ | Montréal › Mercier–Hochelaga-Maisonneuve › Île de Montréal | 2 |
 | Parc Francesca-Cabrini ⚠️ | Montréal › Mercier–Hochelaga-Maisonneuve › Île de Montréal | 2 |
 | Parc Luigi-Pirandello ⚠️ | Montréal › Saint-Léonard › Île de Montréal | 2 |
-| Parc René-Goupil ⚠️ | Montréal › Villeray–Saint-Michel–Parc-Extension › Île de Montréal | 2 |
 | Parc de Montreal (71) ⚠️ | Montréal › Rivière-des-Prairies–Pointe-aux-Trembles › Île de Montréal | 2 |
 | Parc Summerlea ⚠️ | Montréal › Lachine › Île de Montréal | 2 |
 | Parc Sunnybrooke ⚠️ | Dollard-des-Ormeaux › Île de Montréal | 2 |
@@ -328,7 +328,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Moulin-du-Rapide ⚠️ | Montréal › Rivière-des-Prairies–Pointe-aux-Trembles › Île de Montréal | 2 |
 | Parc Marie-Cardinal ⚠️ | Montréal › Rivière-des-Prairies–Pointe-aux-Trembles › Île de Montréal | 2 |
 | Parc Atholstan ⚠️ | Mont-Royal › Île de Montréal | 2 |
-| Parc Léon-Brisebois ⚠️ | Montréal › L'Île-Bizard–Sainte-Geneviève › Île de Montréal | 2 |
 | Parc Allan's Hill ⚠️ | Baie-D'Urfé › Île de Montréal | 2 |
 | Parc Clément-Jetté Nord ⚠️ | Montréal › Mercier–Hochelaga-Maisonneuve › Île de Montréal | 2 |
 | Parc des Roseraies ⚠️ | Montréal › Anjou › Île de Montréal | 2 |
@@ -448,7 +447,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Beauclerk ⚠️ | Montréal › Mercier–Hochelaga-Maisonneuve › Île de Montréal | 1 |
 | Parc Théodore ⚠️ | Montréal › Mercier–Hochelaga-Maisonneuve › Île de Montréal | 1 |
 | Parc François-Vaillancourt ⚠️ | Montréal › Rivière-des-Prairies–Pointe-aux-Trembles › Île de Montréal | 1 |
-| Parc de Montreal (11) ⚠️ | Montréal › Rivière-des-Prairies–Pointe-aux-Trembles › Île de Montréal | 1 |
 | Parc Saint-Georges ⚠️ | Montréal › Rivière-des-Prairies–Pointe-aux-Trembles › Île de Montréal | 1 |
 | Parc Joseph-Avila-Proulx ⚠️ | Montréal › L'Île-Bizard–Sainte-Geneviève › Île de Montréal | 1 |
 | Place de la Paix ⚠️ | Montréal › Ville-Marie › Île de Montréal | 1 |
@@ -498,6 +496,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Anderson ⚠️ | Montréal › Pierrefonds-Roxboro › Île de Montréal | 1 |
 | Parc de Montreal (30) ⚠️ | Montréal › Ville-Marie › Île de Montréal | 1 |
 | Parc George-Legault ⚠️ | Montréal › L'Île-Bizard–Sainte-Geneviève › Île de Montréal | 1 |
+| Parc Greendale ⚠️ | Montréal › Pierrefonds-Roxboro › Île de Montréal | 1 |
 | Parc Alexander ⚠️ | Montréal › Pierrefonds-Roxboro › Île de Montréal | 1 |
 | Parc Irma-Le Vasseur ⚠️ | Montréal › Outremont › Île de Montréal | 1 |
 | Parc Robert-Sauvé ⚠️ | Montréal › Pierrefonds-Roxboro › Île de Montréal | 1 |
@@ -539,6 +538,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Marie-LeFranc ⚠️ | Montréal › Rivière-des-Prairies–Pointe-aux-Trembles › Île de Montréal | 1 |
 | Parc McLearon ⚠️ | Montréal › Rivière-des-Prairies–Pointe-aux-Trembles › Île de Montréal | 1 |
 | Parc de Montreal (67) ⚠️ | Montréal › Saint-Léonard › Île de Montréal | 1 |
+| Parc René-Goupil ⚠️ | Montréal › Villeray–Saint-Michel–Parc-Extension › Île de Montréal | 1 |
 | Parc de Montreal (69) ⚠️ | Montréal › Rosemont–La Petite-Patrie › Île de Montréal | 1 |
 | Parc Jerry-Shears ⚠️ | Montréal › Saint-Laurent › Île de Montréal | 1 |
 | Parc Roman-Zytynsky ⚠️ | Montréal › Saint-Laurent › Île de Montréal | 1 |
@@ -589,7 +589,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Godfroy-Langlois ⚠️ | Mont-Royal › Île de Montréal | 1 |
 | Parc de la Paix (2) ⚠️ | Mont-Royal › Île de Montréal | 1 |
 | Parc Kindersley ⚠️ | Mont-Royal › Île de Montréal | 1 |
-| Parc Emerald ⚠️ | Mont-Royal › Île de Montréal | 1 |
 | Parc Monsignor Harold-J.-Doran ⚠️ | Mont-Royal › Île de Montréal | 1 |
 | Parc de Montreal (89) ⚠️ | Montréal › Côte-des-Neiges–Notre-Dame-de-Grâce › Île de Montréal | 1 |
 | Miniparc Grandbois ⚠️ | Montréal › Saint-Léonard › Île de Montréal | 1 |
@@ -713,7 +712,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Sammy-Hill ⚠️ | Montréal › Le Sud-Ouest › Île de Montréal | 1 |
 | Woonerf Saint-Pierre ⚠️ | Montréal › Le Sud-Ouest › Île de Montréal | 1 |
 
-944 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
+945 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
 
 ⚠️ 1520 parc(s) hors de la fenêtre 10–125 cellules (1514 trop petit(s), 6 trop grand(s)) : affichés sur la carte, mais ils ne peuvent pas servir de cible à un défi.
 

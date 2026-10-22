@@ -1,6 +1,6 @@
 # Agglomération de Longueuil
 
-Pack `qc-longueuil` · version 1.2.2 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-longueuil` · version 1.2.4 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -72,7 +72,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 |---|---|---:|
 | Parc national du Mont-Saint-Bruno ⚠️ | Saint-Bruno-de-Montarville | 423 |
 | Parc national des Îles-de-Boucherville ⚠️ | Boucherville | 339 |
-| Réserve naturelle du Bois-de-Brossard | Brossard | 119 |
+| Réserve naturelle du Bois-de-Brossard | Brossard | 118 |
 | Parc Michel Chartrand | Longueuil › Le Vieux-Longueuil | 86 |
 | Parc Jean-Drapeau | — | 84 |
 | Parc de la Cité | Longueuil › Saint-Hubert | 53 |
@@ -105,7 +105,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc de Normandie ⚠️ | Boucherville | 3 |
 | Parc de Picardie ⚠️ | Boucherville | 3 |
 | Parc Vincent d'Indy ⚠️ | Boucherville | 3 |
-| Parc Bois-de-Brouage ⚠️ | Boucherville | 3 |
 | Parc Rabastalière ⚠️ | Saint-Bruno-de-Montarville | 3 |
 | Parc Duquesne ⚠️ | Saint-Bruno-de-Montarville | 3 |
 | Parc De La Rivière-aux-pins ⚠️ | Boucherville | 3 |
@@ -125,6 +124,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Park Parc Vanier ⚠️ | Brossard | 2 |
 | Parc Lautrec ⚠️ | Brossard › Secteur L | 2 |
 | Parc Olympia ⚠️ | Brossard › Secteur O | 2 |
+| Marguerite-A.-Tessier ⚠️ | Boucherville | 2 |
 | Parc Leckie ⚠️ | Longueuil › Saint-Hubert | 2 |
 | Parc Lionel-Groulx ⚠️ | Longueuil › Le Vieux-Longueuil | 2 |
 | Parc Christ-Roi ⚠️ | Longueuil › Le Vieux-Longueuil | 2 |
@@ -133,6 +133,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Daniel-Johnson ⚠️ | Longueuil › Saint-Hubert | 2 |
 | Parc Champvert ⚠️ | Longueuil › Le Vieux-Longueuil | 2 |
 | Parc Pierre-Boucher (2) ⚠️ | Boucherville | 2 |
+| Parc Bois-de-Brouage ⚠️ | Boucherville | 2 |
 | Parc Jean-Jacques-Bertrand ⚠️ | Longueuil › Saint-Hubert | 2 |
 | Parc Joseph-de-Sérigny ⚠️ | Longueuil › Le Vieux-Longueuil | 2 |
 | Parc de Boucherville ⚠️ | Boucherville | 2 |
@@ -188,7 +189,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Gabrielle-Roy ⚠️ | Saint-Bruno-de-Montarville | 1 |
 | Parc Jolliet ⚠️ | Saint-Bruno-de-Montarville | 1 |
 | Parc Albert-Schweitzer ⚠️ | Saint-Bruno-de-Montarville | 1 |
-| Marguerite-A.-Tessier ⚠️ | Boucherville | 1 |
 | Park Parc Louis-Brosseau ⚠️ | Longueuil › Saint-Hubert | 1 |
 | Parc Jean-Pierre-Côté ⚠️ | Longueuil › Le Vieux-Longueuil | 1 |
 | Parc Saint-Charles (2) ⚠️ | Longueuil › Le Vieux-Longueuil | 1 |

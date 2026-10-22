@@ -1,6 +1,6 @@
 # Couronne Sud (Montérégie)
 
-Pack `qc-couronne-sud` · version 1.2.2 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-couronne-sud` · version 1.2.3 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -54,7 +54,7 @@ Les cellules boisées et celles que traverse un cours d'eau forment deux autres 
 | Saint-Mathias-sur-Richelieu | 2 409 | 0 | 2 409 | 5 | **2 404** | 1 155 (48 %) | 4 |
 | Mercier | 2 323 | 5 | 2 318 | 0 | **2 318** | 963 (42 %) | 9 |
 | La Prairie | 2 225 | 1 | 2 224 | 0 | **2 224** | 521 (23 %) | 39 |
-| Mont-Saint-Hilaire | 2 243 | 19 | 2 224 | 0 | **2 224** | 354 (16 %) | 27 |
+| Mont-Saint-Hilaire | 2 243 | 19 | 2 224 | 0 | **2 224** | 354 (16 %) | 26 |
 | Saint-Mathieu-de-Beloeil | 2 011 | 0 | 2 011 | 15 | **1 996** | 823 (41 %) | 5 |
 | Saint-Amable | 1 884 | 0 | 1 884 | 0 | **1 884** | 456 (24 %) | 18 |
 | Saint-Basile-le-Grand | 1 834 | 0 | 1 834 | 14 | **1 820** | 719 (40 %) | 24 |
@@ -79,15 +79,15 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 
 | Parc | Zone | Cellules |
 |---|---|---:|
-| Réserve Naturelle Gault ⚠️ | Mont-Saint-Hilaire | 494 |
-| Réserve naturelle du Bois-de-Brossard | La Prairie | 119 |
+| Réserve Naturelle Gault ⚠️ | Mont-Saint-Hilaire | 493 |
+| Réserve naturelle du Bois-de-Brossard | La Prairie | 118 |
 | Refuge faunique Marguerite d'Youville | Châteauguay | 95 |
 | Parc régional des Grêves - Secteur de la Colonie des Grèves de Contrecoeur | Contrecœur | 80 |
 | Refuge d'oiseaux migrateurs de l'Île-aux-Hérons | Sainte-Catherine | 75 |
-| Parc Le Rocher | Saint-Amable | 58 |
+| Parc Le Rocher | Saint-Amable | 57 |
 | Centre ecologique Fernand-Seguin | Châteauguay | 47 |
 | Parc régional des Grèves | Contrecœur | 47 |
-| Réserve naturelle du Piémont-du-Mont-Saint-Hilaire | Mont-Saint-Hilaire | 41 |
+| Réserve naturelle du Piémont-du-Mont-Saint-Hilaire | Mont-Saint-Hilaire | 42 |
 | Bois Robert | Beauharnois | 33 |
 | Récré-O-Parc de Sainte-Catherine | Sainte-Catherine | 27 |
 | Parc naturel des Ruisseaux | Chambly | 27 |
@@ -128,6 +128,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Réserve naturelle du Boisé-Virginia ⚠️ | Beauharnois | 4 |
 | Parc de la Coulée (3) ⚠️ | Sainte-Julie | 4 |
 | Parc Desrochers ⚠️ | Sainte-Julie | 4 |
+| Halte Au Fil de l'Eau ⚠️ | Beauharnois | 4 |
 | Parc André-J.-Côté ⚠️ | Candiac | 3 |
 | Parc Gilles Plante ⚠️ | McMasterville | 3 |
 | Parc du Portageur ⚠️ | Varennes | 3 |
@@ -144,7 +145,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Honoré-Mercier ⚠️ | Châteauguay | 3 |
 | Parc du Centenaire (3) ⚠️ | Delson | 3 |
 | Parc Lafarge ⚠️ | Saint-Constant | 3 |
-| Halte Au Fil de l'Eau ⚠️ | Beauharnois | 3 |
 | Parc de Mercier (2) ⚠️ | Mercier | 2 |
 | Parc Boardman ⚠️ | Delson | 2 |
 | Parc du Vallon ⚠️ | Varennes | 2 |
@@ -256,6 +256,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Place Raymond-Laisné ⚠️ | Beloeil | 1 |
 | Place Nicole-Tremblay ⚠️ | Beloeil | 1 |
 | Parc Gédéon-Coursolles ⚠️ | Beloeil | 1 |
+| Parc de la Providence ⚠️ | Beloeil | 1 |
 | Parc du Luxembourg ⚠️ | Sainte-Julie | 1 |
 | Parc des Moussaillons ⚠️ | Varennes | 1 |
 | Parc-école De La Source ⚠️ | Varennes | 1 |
@@ -338,7 +339,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc des Rapides (2) ⚠️ | Chambly | 1 |
 | Place du Centennaire ⚠️ | Beloeil | 1 |
 
-329 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
+328 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
 
 ⚠️ 569 parc(s) hors de la fenêtre 10–125 cellules (568 trop petit(s), 1 trop grand(s)) : affichés sur la carte, mais ils ne peuvent pas servir de cible à un défi.
 

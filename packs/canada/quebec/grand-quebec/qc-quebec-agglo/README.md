@@ -1,6 +1,6 @@
 # Agglomération de Québec
 
-Pack `qc-quebec-agglo` · version 1.0.2 · grille 200 m · Canada › Québec › Grand Québec
+Pack `qc-quebec-agglo` · version 1.0.3 · grille 200 m · Canada › Québec › Grand Québec
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -40,7 +40,7 @@ Les cellules boisées et celles que traverse un cours d'eau forment deux autres 
 
 | Zone | Brut | Eau | Sans eau | Restr. | Comptées | Sans chemin | Parcs |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Québec | 25 909 | 1 667 | 24 242 | 792 | **23 450** | 1 275 (5 %) | 441 |
+| Québec | 25 909 | 1 667 | 24 242 | 792 | **23 450** | 1 275 (5 %) | 440 |
 | Saint-Augustin-de-Desmaures | 5 607 | 1 036 | 4 571 | 0 | **4 571** | 1 005 (22 %) | 21 |
 | L'Ancienne-Lorette | 409 | 0 | 409 | 0 | **409** | 3 (1 %) | 12 |
 
@@ -70,13 +70,13 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc de Montchâtel | Québec › La Haute-Saint-Charles | 45 |
 | Parc linéaire de la rivière Saint-Charles | Québec › La Cité-Limoilou | 41 |
 | Réserve naturelle des Capteuses-de-Rêve | Québec › La Haute-Saint-Charles | 31 |
-| Parc des Saules | Québec › Les Rivières | 26 |
+| Parc des Saules | Québec › Les Rivières | 27 |
 | Réserve naturelle des Marais-du-Nord | Québec › La Haute-Saint-Charles | 24 |
 | Parc de la Rivière | L'Ancienne-Lorette | 23 |
 | Parc riverain du lac Saint-Augustin | Saint-Augustin-de-Desmaures | 19 |
 | Parc de la Chute-Montmorency | Québec › Beauport | 16 |
 | Domaine de Maizerets | Québec › La Cité-Limoilou | 15 |
-| Parc du Bois-de-Coulonge | Québec › Sainte-Foy–Sillery–Cap-Rouge | 11 |
+| Parc du Bois-de-Coulonge | Québec › Sainte-Foy–Sillery–Cap-Rouge | 12 |
 | Parc de Duberger | Québec › Les Rivières | 10 |
 | Parc de la Famille | Québec › Beauport | 10 |
 | Parc Victoria ⚠️ | Québec › La Cité-Limoilou | 9 |
@@ -86,15 +86,15 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc de la Montagne-des-Roches ⚠️ | Québec › Charlesbourg | 8 |
 | Réserve naturelle du Marais-Léon-Provancher ⚠️ | Saint-Augustin-de-Desmaures | 7 |
 | Réserve naturelle de la Station-Agronomique-de-l'Université-Laval ⚠️ | Saint-Augustin-de-Desmaures | 7 |
+| Parc Saint-David ⚠️ | Québec › Beauport | 6 |
 | Parc de la Pointe-aux-Lièvres ⚠️ | Québec › La Cité-Limoilou | 6 |
-| Parc linéaire du coteau Sainte-Geneviève ⚠️ | Québec › La Cité-Limoilou | 5 |
 | Parc Saint-Viateur ⚠️ | Québec › Charlesbourg | 5 |
-| Parc Saint-David ⚠️ | Québec › Beauport | 5 |
 | Parc de la Rivière-Beauport ⚠️ | Québec › Beauport | 5 |
 | Parc du Périgord ⚠️ | Québec › Charlesbourg | 5 |
 | Parc linéaire de la Rivière-des-Roches ⚠️ | Québec › Charlesbourg | 5 |
 | Parc Cartier-Brébeuf ⚠️ | Québec › La Cité-Limoilou | 5 |
 | Parc Henri-Casault ⚠️ | Québec › Charlesbourg | 4 |
+| Parc linéaire du coteau Sainte-Geneviève ⚠️ | Québec › La Cité-Limoilou | 4 |
 | Parc de la Carrière ⚠️ | Québec › Sainte-Foy–Sillery–Cap-Rouge | 4 |
 | Parc de l'Escarpement ⚠️ | Québec › Les Rivières | 4 |
 | Parc de la Falaise ⚠️ | Québec › Sainte-Foy–Sillery–Cap-Rouge | 4 |
@@ -187,6 +187,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Chauray ⚠️ | Québec › Sainte-Foy–Sillery–Cap-Rouge | 1 |
 | Parc du Lyonnais ⚠️ | Québec › Charlesbourg | 1 |
 | Parc de la Meule ⚠️ | Québec › Sainte-Foy–Sillery–Cap-Rouge | 1 |
+| Parc de Québec (18) ⚠️ | Québec › Charlesbourg | 1 |
 | Parc Paul-Émile-Beaulieu ⚠️ | Québec › La Haute-Saint-Charles | 1 |
 | Parc de Québec (19) ⚠️ | Québec › Charlesbourg | 1 |
 | Parc de Québec (20) ⚠️ | Québec › Charlesbourg | 1 |
@@ -215,6 +216,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Guillaume-Mathieu ⚠️ | Québec › Charlesbourg | 1 |
 | Parc Gérard-Marchand ⚠️ | Québec › La Cité-Limoilou | 1 |
 | Parc Lockwell ⚠️ | Québec › La Cité-Limoilou | 1 |
+| Parc des Vétérans ⚠️ | Québec › Sainte-Foy–Sillery–Cap-Rouge | 1 |
 | Parc Saint-Benoît ⚠️ | Québec › Sainte-Foy–Sillery–Cap-Rouge | 1 |
 | Parc de Norvège ⚠️ | Québec › Sainte-Foy–Sillery–Cap-Rouge | 1 |
 | Parc de Québec (34) ⚠️ | Québec › La Cité-Limoilou | 1 |
@@ -285,7 +287,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Place Portneuf ⚠️ | Saint-Augustin-de-Desmaures | 1 |
 | Parc de la côte Sauvageau ⚠️ | Québec › La Cité-Limoilou | 1 |
 
-257 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
+255 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
 
 ⚠️ 463 parc(s) hors de la fenêtre 10–125 cellules (462 trop petit(s), 1 trop grand(s)) : affichés sur la carte, mais ils ne peuvent pas servir de cible à un défi.
 

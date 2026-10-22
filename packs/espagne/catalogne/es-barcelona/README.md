@@ -1,6 +1,6 @@
 # Province de Barcelone
 
-Pack `es-barcelona` · version 1.0.0 · grille 200 m · Espagne › Catalogne
+Pack `es-barcelona` · version 1.0.2 · grille 200 m · Espagne › Catalogne
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -76,11 +76,11 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Sallent | 2 949 | 15 | 2 934 | 0 | **2 934** | 74 (3 %) | 149 |
 | Sant Celoni | 2 935 | 4 | 2 931 | 0 | **2 931** | 2 (0 %) | 123 |
 | Avinyó | 2 860 | 1 | 2 859 | 0 | **2 859** | 44 (2 %) | 124 |
-| Guardiola de Berguedà | 2 821 | 7 | 2 814 | 0 | **2 814** | 168 (6 %) | 145 |
+| Guardiola de Berguedà | 2 821 | 7 | 2 814 | 0 | **2 814** | 168 (6 %) | 146 |
 | l'Esquirol | 2 835 | 25 | 2 810 | 0 | **2 810** | 128 (5 %) | 125 |
 | Castellfollit del Boix | 2 659 | 0 | 2 659 | 0 | **2 659** | 124 (5 %) | 44 |
 | Piera | 2 549 | 1 | 2 548 | 0 | **2 548** | 74 (3 %) | 106 |
-| Vilanova de Sau | 2 663 | 163 | 2 500 | 0 | **2 500** | 10 (0 %) | 66 |
+| Vilanova de Sau | 2 663 | 163 | 2 500 | 0 | **2 500** | 10 (0 %) | 68 |
 | Sant Pere de Torelló | 2 501 | 6 | 2 495 | 0 | **2 495** | 46 (2 %) | 26 |
 | Subirats | 2 482 | 0 | 2 482 | 0 | **2 482** | 42 (2 %) | 100 |
 | Lluçà | 2 422 | 1 | 2 421 | 0 | **2 421** | 79 (3 %) | 91 |
@@ -89,7 +89,7 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Òdena | 2 341 | 0 | 2 341 | 7 | **2 334** | 124 (5 %) | 140 |
 | la Llacuna | 2 336 | 0 | 2 336 | 0 | **2 336** | 115 (5 %) | 28 |
 | Santa Maria de Merlès | 2 327 | 2 | 2 325 | 0 | **2 325** | 59 (3 %) | 139 |
-| Gurb | 2 317 | 2 | 2 315 | 0 | **2 315** | 137 (6 %) | 127 |
+| Gurb | 2 317 | 2 | 2 315 | 0 | **2 315** | 137 (6 %) | 128 |
 | Begues | 2 230 | 0 | 2 230 | 0 | **2 230** | 184 (8 %) | 86 |
 | Rupit i Pruit | 2 183 | 0 | 2 183 | 0 | **2 183** | 49 (2 %) | 41 |
 | Castellar de n'Hug | 2 149 | 0 | 2 149 | 0 | **2 149** | 212 (10 %) | 55 |
@@ -97,7 +97,7 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Mediona | 2 146 | 0 | 2 146 | 0 | **2 146** | 62 (3 %) | 95 |
 | Sant Cugat del Vallès | 2 144 | 5 | 2 139 | 0 | **2 139** | 2 (0 %) | 369 |
 | el Bruc | 2 124 | 0 | 2 124 | 4 | **2 120** | 42 (2 %) | 53 |
-| Argençola | 2 117 | 0 | 2 117 | 0 | **2 117** | 145 (7 %) | 61 |
+| Argençola | 2 117 | 0 | 2 117 | 0 | **2 117** | 145 (7 %) | 60 |
 | Puig-reig | 2 086 | 11 | 2 075 | 0 | **2 075** | 39 (2 %) | 102 |
 | Castellet i la Gornal | 2 087 | 30 | 2 057 | 0 | **2 057** | 70 (3 %) | 116 |
 | Rajadell | 2 044 | 0 | 2 044 | 0 | **2 044** | 58 (3 %) | 74 |
@@ -109,7 +109,7 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Sitges | 1 959 | 4 | 1 955 | 0 | **1 955** | 276 (14 %) | 132 |
 | Tagamanent | 1 944 | 0 | 1 944 | 0 | **1 944** | 2 (0 %) | 38 |
 | Aguilar de Segarra | 1 935 | 0 | 1 935 | 0 | **1 935** | 123 (6 %) | 55 |
-| Manresa | 1 864 | 8 | 1 856 | 0 | **1 856** | 14 (1 %) | 249 |
+| Manresa | 1 864 | 8 | 1 856 | 0 | **1 856** | 14 (1 %) | 250 |
 | el Brull | 1 855 | 3 | 1 852 | 0 | **1 852** | 38 (2 %) | 43 |
 | Sant Llorenç Savall | 1 847 | 0 | 1 847 | 0 | **1 847** | 2 (0 %) | 33 |
 | Muntanyola | 1 837 | 1 | 1 836 | 0 | **1 836** | 78 (4 %) | 36 |
@@ -131,7 +131,7 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Font-rubí | 1 655 | 0 | 1 655 | 0 | **1 655** | 45 (3 %) | 36 |
 | Balsareny | 1 656 | 8 | 1 648 | 0 | **1 648** | 12 (1 %) | 103 |
 | Torrelles de Foix | 1 644 | 0 | 1 644 | 0 | **1 644** | 32 (2 %) | 35 |
-| la Roca del Vallès | 1 642 | 12 | 1 630 | 9 | **1 621** | 23 (1 %) | 88 |
+| la Roca del Vallès | 1 642 | 12 | 1 630 | 9 | **1 621** | 23 (1 %) | 89 |
 | Olvan | 1 613 | 5 | 1 608 | 0 | **1 608** | 25 (2 %) | 46 |
 | l'Espunyola | 1 594 | 0 | 1 594 | 0 | **1 594** | 66 (4 %) | 79 |
 | Sant Bartomeu del Grau | 1 572 | 2 | 1 570 | 0 | **1 570** | 122 (8 %) | 19 |
@@ -147,11 +147,11 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Fogars de la Selva | 1 444 | 1 | 1 443 | 0 | **1 443** | 24 (2 %) | 50 |
 | Tavertet | 1 459 | 16 | 1 443 | 0 | **1 443** | 11 (1 %) | 83 |
 | Rubí | 1 441 | 5 | 1 436 | 0 | **1 436** | 13 (1 %) | 169 |
-| el Prat de Llobregat | 1 496 | 63 | 1 433 | 350 | **1 083** | 44 (4 %) | 359 |
+| el Prat de Llobregat | 1 496 | 63 | 1 433 | 350 | **1 083** | 44 (4 %) | 360 |
 | Sora | 1 421 | 0 | 1 421 | 0 | **1 421** | 59 (4 %) | 27 |
 | Castellterçol | 1 420 | 0 | 1 420 | 0 | **1 420** | 13 (1 %) | 98 |
-| Pujalt | 1 411 | 0 | 1 411 | 0 | **1 411** | 229 (16 %) | 12 |
-| Sant Sadurní d'Osormort | 1 392 | 0 | 1 392 | 0 | **1 392** | 18 (1 %) | 50 |
+| Pujalt | 1 411 | 0 | 1 411 | 0 | **1 411** | 229 (16 %) | 11 |
+| Sant Sadurní d'Osormort | 1 392 | 0 | 1 392 | 0 | **1 392** | 18 (1 %) | 49 |
 | Bellprat | 1 390 | 0 | 1 390 | 0 | **1 390** | 184 (13 %) | 10 |
 | Vic | 1 390 | 0 | 1 390 | 0 | **1 390** | 50 (4 %) | 140 |
 | Jorba | 1 387 | 0 | 1 387 | 0 | **1 387** | 110 (8 %) | 65 |
@@ -192,7 +192,7 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Matadepera | 1 135 | 4 | 1 131 | 0 | **1 131** |  | 241 |
 | Santa Maria de Miralles | 1 131 | 0 | 1 131 | 0 | **1 131** | 77 (7 %) | 5 |
 | Pontons | 1 129 | 0 | 1 129 | 0 | **1 129** | 48 (4 %) | 19 |
-| Santa Maria de Besora | 1 132 | 3 | 1 129 | 0 | **1 129** | 16 (1 %) | 21 |
+| Santa Maria de Besora | 1 132 | 3 | 1 129 | 0 | **1 129** | 16 (1 %) | 20 |
 | Castell de l'Areny | 1 128 | 0 | 1 128 | 0 | **1 128** | 14 (1 %) | 30 |
 | Cervelló | 1 078 | 0 | 1 078 | 0 | **1 078** | 9 (1 %) | 28 |
 | Granera | 1 065 | 0 | 1 065 | 0 | **1 065** |  | 38 |
@@ -210,9 +210,9 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Vallgorguina | 995 | 0 | 995 | 0 | **995** |  | 25 |
 | Monistrol de Calders | 993 | 3 | 990 | 0 | **990** | 2 (0 %) | 48 |
 | les Masies de Voltregà | 1 006 | 20 | 986 | 0 | **986** | 54 (5 %) | 30 |
-| Sant Fruitós de Bages | 986 | 4 | 982 | 0 | **982** | 36 (4 %) | 134 |
+| Sant Fruitós de Bages | 986 | 4 | 982 | 0 | **982** | 36 (4 %) | 135 |
 | Sant Pere Sallavinera | 982 | 0 | 982 | 0 | **982** | 69 (7 %) | 65 |
-| Sant Jaume de Frontanyà | 974 | 0 | 974 | 0 | **974** | 5 (1 %) | 26 |
+| Sant Jaume de Frontanyà | 974 | 0 | 974 | 0 | **974** | 5 (1 %) | 25 |
 | Vilada | 1 018 | 44 | 974 | 0 | **974** | 36 (4 %) | 18 |
 | Sant Boi de Llobregat | 950 | 5 | 945 | 13 | **932** |  | 125 |
 | Arenys de Munt | 933 | 0 | 933 | 0 | **933** | 17 (2 %) | 34 |
@@ -239,9 +239,9 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Sant Vicenç de Castellet | 780 | 5 | 775 | 0 | **775** | 2 (0 %) | 69 |
 | Santa Margarida i els Monjos | 770 | 0 | 770 | 0 | **770** | 25 (3 %) | 63 |
 | Santa Maria de Palautordera | 768 | 0 | 768 | 0 | **768** | 9 (1 %) | 65 |
-| Cabrera d'Anoia | 772 | 7 | 765 | 0 | **765** | 4 (1 %) | 53 |
+| Cabrera d'Anoia | 772 | 7 | 765 | 0 | **765** | 4 (1 %) | 54 |
 | Castellgalí | 777 | 13 | 764 | 0 | **764** | 4 (1 %) | 80 |
-| Manlleu | 782 | 20 | 762 | 0 | **762** | 36 (5 %) | 56 |
+| Manlleu | 782 | 20 | 762 | 0 | **762** | 36 (5 %) | 55 |
 | Santpedor | 759 | 1 | 758 | 0 | **758** | 20 (3 %) | 106 |
 | Sant Joan de Vilatorrada | 744 | 2 | 742 | 5 | **737** | 30 (4 %) | 116 |
 | Tona | 741 | 0 | 741 | 0 | **741** | 29 (4 %) | 70 |
@@ -272,9 +272,9 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | l'Ametlla del Vallès | 624 | 0 | 624 | 0 | **624** | 11 (2 %) | 38 |
 | Sant Agustí de Lluçanès | 623 | 0 | 623 | 0 | **623** | 44 (7 %) | 6 |
 | Canyelles | 622 | 0 | 622 | 0 | **622** | 5 (1 %) | 24 |
-| Alpens | 622 | 1 | 621 | 0 | **621** | 15 (2 %) | 27 |
+| Alpens | 622 | 1 | 621 | 0 | **621** | 15 (2 %) | 28 |
 | Sant Quintí de Mediona | 616 | 0 | 616 | 0 | **616** | 18 (3 %) | 21 |
-| Prats de Lluçanès | 608 | 0 | 608 | 0 | **608** | 5 (1 %) | 43 |
+| Prats de Lluçanès | 608 | 0 | 608 | 0 | **608** | 5 (1 %) | 42 |
 | Montmaneu | 606 | 0 | 606 | 0 | **606** | 88 (15 %) | 43 |
 | Torrelles de Llobregat | 603 | 0 | 603 | 0 | **603** | 1 (0 %) | 268 |
 | Cubelles | 608 | 7 | 601 | 0 | **601** | 4 (1 %) | 76 |
@@ -302,7 +302,7 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Vallromanes | 472 | 0 | 472 | 0 | **472** | 1 (0 %) | 43 |
 | Vilanova del Camí | 464 | 3 | 461 | 0 | **461** | 1 (0 %) | 43 |
 | l'Estany | 456 | 0 | 456 | 0 | **456** | 12 (3 %) | 9 |
-| Montornès del Vallès | 455 | 2 | 453 | 0 | **453** | 4 (1 %) | 53 |
+| Montornès del Vallès | 455 | 2 | 453 | 0 | **453** | 4 (1 %) | 54 |
 | Alella | 429 | 0 | 429 | 0 | **429** | 2 (0 %) | 18 |
 | el Pla del Penedès | 420 | 0 | 420 | 0 | **420** | 6 (1 %) | 11 |
 | Calaf | 417 | 0 | 417 | 0 | **417** | 62 (15 %) | 18 |
@@ -346,10 +346,10 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Pacs del Penedès | 270 | 0 | 270 | 0 | **270** | 5 (2 %) | 11 |
 | Vilalba Sasserra | 267 | 0 | 267 | 0 | **267** |  | 8 |
 | Calldetenes | 257 | 0 | 257 | 0 | **257** | 13 (5 %) | 6 |
-| Òrrius | 254 | 0 | 254 | 0 | **254** |  | 26 |
+| Òrrius | 254 | 0 | 254 | 0 | **254** |  | 25 |
 | Sant Andreu de la Barca | 254 | 1 | 253 | 0 | **253** |  | 41 |
 | la Palma de Cervelló | 240 | 0 | 240 | 0 | **240** | 1 (0 %) | 5 |
-| Navarcles | 248 | 9 | 239 | 0 | **239** |  | 38 |
+| Navarcles | 248 | 9 | 239 | 0 | **239** |  | 37 |
 | Sant Pere de Riudebitlles | 236 | 1 | 235 | 0 | **235** | 1 (0 %) | 13 |
 | Montesquiu | 217 | 6 | 211 | 0 | **211** |  | 20 |
 | Esplugues de Llobregat | 200 | 0 | 200 | 0 | **200** |  | 68 |
@@ -386,43 +386,43 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellolí (6) ⚠️ | Castellolí › Anoia | 1 326 |
 | Forêt de Caldes de Montbui (9) ⚠️ | Caldes de Montbui › Vallès Oriental | 1 222 |
 | Forêt de Rupit i Pruit (15) ⚠️ | Rupit i Pruit › Osona (Barcelone) | 1 188 |
-| Forêt de Sobremunt (2) ⚠️ | Sobremunt › Osona (Barcelone) | 1 133 |
+| Forêt de Sobremunt (2) ⚠️ | Sobremunt › Osona (Barcelone) | 1 134 |
 | Forêt de Mura (14) ⚠️ | Mura › Bages | 1 075 |
-| Forêt de Castellar del Vallès (16) ⚠️ | Castellar del Vallès › Vallès Occidental | 1 010 |
+| Forêt de Castellar del Vallès (16) ⚠️ | Castellar del Vallès › Vallès Occidental | 1 009 |
 | Forêt de Tagamanent (4) ⚠️ | Tagamanent › Vallès Oriental | 953 |
 | Forêt de Castellterçol (16) ⚠️ | Castellterçol › Moianès | 911 |
-| Forêt de Collbató (4) ⚠️ | Collbató › Baix Llobregat | 860 |
+| Forêt de Collbató (4) ⚠️ | Collbató › Baix Llobregat | 861 |
 | Bois de Cerdanyola del Vallès (14) ⚠️ | Cerdanyola del Vallès › Vallès Occidental | 837 |
-| Forêt de Monistrol de Calders (6) ⚠️ | Monistrol de Calders › Moianès | 824 |
-| Forêt de Fogars de Montclús (25) ⚠️ | Fogars de Montclús › Vallès Oriental | 755 |
-| Forêt de Oristà (108) ⚠️ | Oristà › Moianès | 743 |
+| Forêt de Monistrol de Calders (6) ⚠️ | Monistrol de Calders › Moianès | 823 |
+| Forêt de Fogars de Montclús (25) ⚠️ | Fogars de Montclús › Vallès Oriental | 754 |
+| Forêt de Oristà (108) ⚠️ | Oristà › Moianès | 744 |
 | Forêt de Sallent (25) ⚠️ | Sallent › Bages | 732 |
 | Forêt de Tagamanent (9) ⚠️ | Tagamanent › Vallès Oriental | 722 |
 | Forêt de la Llacuna (8) ⚠️ | la Llacuna › Anoia | 695 |
 | Forêt de Olvan (5) ⚠️ | Olvan › Berguedà | 692 |
-| Forêt de Gallifa (3) ⚠️ | Gallifa › Vallès Occidental | 638 |
+| Forêt de Gallifa (3) ⚠️ | Gallifa › Vallès Occidental | 637 |
 | Forêt de Gaià (11) ⚠️ | Gaià › Bages | 620 |
 | Forêt de Orpí (2) ⚠️ | Orpí › Anoia | 606 |
 | Forêt de Fígols (4) ⚠️ | Fígols › Berguedà | 597 |
-| Forêt de Sant Pere de Torelló (14) ⚠️ | Sant Pere de Torelló › Osona (Barcelone) | 557 |
+| Forêt de Sant Pere de Torelló (14) ⚠️ | Sant Pere de Torelló › Osona (Barcelone) | 558 |
 | Forêt de Terrassa (65) ⚠️ | Terrassa › Vallès Occidental | 555 |
 | Forêt de Sant Mateu de Bages (27) ⚠️ | Sant Mateu de Bages › Bages | 553 |
-| Forêt de Santa Maria de Miralles (4) ⚠️ | Santa Maria de Miralles › Anoia | 538 |
-| Bois de Castellbisbal (3) ⚠️ | Castellbisbal › Vallès Occidental | 534 |
+| Forêt de Santa Maria de Miralles (4) ⚠️ | Santa Maria de Miralles › Anoia | 537 |
+| Bois de Castellbisbal (3) ⚠️ | Castellbisbal › Vallès Occidental | 533 |
 | Forêt de la Pobla de Lillet (10) ⚠️ | la Pobla de Lillet › Berguedà | 530 |
-| Forêt de Vallirana (25) ⚠️ | Vallirana › Alt Penedès | 508 |
+| Forêt de Vallirana (25) ⚠️ | Vallirana › Alt Penedès | 507 |
 | Forêt de Santa Maria d'Oló (38) ⚠️ | Santa Maria d'Oló › Moianès | 506 |
 | Forêt de Tordera (100) ⚠️ | Tordera › Maresme | 504 |
 | Forêt de Mediona (78) ⚠️ | Mediona › Alt Penedès | 502 |
-| Forêt de la Nou de Berguedà (6) ⚠️ | la Nou de Berguedà › Berguedà | 500 |
+| Forêt de la Nou de Berguedà (6) ⚠️ | la Nou de Berguedà › Berguedà | 501 |
 | Forêt de Subirats (93) ⚠️ | Subirats › Alt Penedès | 488 |
-| Forêt de Sant Llorenç Savall (16) ⚠️ | Sant Llorenç Savall › Vallès Occidental | 479 |
+| Forêt de Sant Llorenç Savall (16) ⚠️ | Sant Llorenç Savall › Vallès Occidental | 480 |
 | Forêt de Rellinars (10) ⚠️ | Rellinars › Bages | 479 |
 | Forêt de Saldes (14) ⚠️ | Saldes › Berguedà | 472 |
 | Forêt de Sant Iscle de Vallalta (5) ⚠️ | Sant Iscle de Vallalta › Maresme | 468 |
 | Forêt de el Brull (9) ⚠️ | el Brull › Osona (Barcelone) | 467 |
 | Forêt de Fogars de Montclús (26) ⚠️ | Fogars de Montclús › Vallès Oriental | 449 |
-| Forêt de Dosrius (5) ⚠️ | Dosrius › Maresme | 445 |
+| Forêt de Dosrius (5) ⚠️ | Dosrius › Maresme | 443 |
 | Forêt de Vilada (2) ⚠️ | Vilada › Berguedà | 442 |
 | Forêt de Sant Pere de Torelló (10) ⚠️ | Sant Pere de Torelló › Osona (Barcelone) | 438 |
 | Forêt de Sant Celoni (25) ⚠️ | Sant Celoni › Vallès Oriental | 437 |
@@ -430,25 +430,25 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Mateu de Bages (28) ⚠️ | Sant Mateu de Bages › Bages | 433 |
 | Forêt de Tavèrnoles ⚠️ | Tavèrnoles › Osona (Barcelone) | 429 |
 | Forêt de Begues (30) ⚠️ | Begues › Baix Llobregat | 428 |
-| Forêt de Saldes (9) ⚠️ | Saldes › Berguedà | 426 |
+| Forêt de Saldes (9) ⚠️ | Saldes › Berguedà | 425 |
 | Forêt de Santa Maria d'Oló (34) ⚠️ | Santa Maria d'Oló › Moianès | 423 |
-| Forêt de Rajadell (11) ⚠️ | Rajadell › Bages | 419 |
-| Forêt de la Pobla de Lillet (7) ⚠️ | la Pobla de Lillet › Berguedà | 418 |
+| Forêt de Rajadell (11) ⚠️ | Rajadell › Bages | 420 |
+| Forêt de la Pobla de Lillet (7) ⚠️ | la Pobla de Lillet › Berguedà | 417 |
 | Forêt de la Garriga (44) ⚠️ | la Garriga › Vallès Oriental | 415 |
 | Forêt de Tordera (54) ⚠️ | Tordera › Maresme | 412 |
-| Forêt de Castellnou de Bages (38) ⚠️ | Castellnou de Bages › Bages | 410 |
+| Forêt de Castellnou de Bages (38) ⚠️ | Castellnou de Bages › Bages | 411 |
 | Forêt de Sant Bartomeu del Grau (10) ⚠️ | Sant Bartomeu del Grau › Osona (Barcelone) | 400 |
 | Forêt de Sant Pere de Vilamajor (78) ⚠️ | Sant Pere de Vilamajor › Vallès Oriental | 397 |
 | Forêt de Avinyó (89) ⚠️ | Avinyó › Bages | 395 |
 | Forêt de Capolat (8) ⚠️ | Capolat › Berguedà | 386 |
 | Forêt de Vallgorguina (2) ⚠️ | Vallgorguina › Vallès Oriental | 385 |
-| Forêt de Castellgalí (10) ⚠️ | Castellgalí › Bages | 380 |
+| Forêt de Castellgalí (10) ⚠️ | Castellgalí › Bages | 379 |
 | Forêt de Sentmenat ⚠️ | Sentmenat › Vallès Occidental | 375 |
 | Forêt de Vilanova del Camí ⚠️ | Vilanova del Camí › Anoia | 361 |
 | Forêt de Dosrius (9) ⚠️ | Dosrius › Maresme | 359 |
+| Forêt de Sant Sadurní d'Osormort (22) ⚠️ | Vilanova de Sau › Osona (Barcelone) | 351 |
 | Forêt de Sant Llorenç Savall (14) ⚠️ | Sant Llorenç Savall › Vallès Occidental | 351 |
-| Forêt de Sant Sadurní d'Osormort (22) ⚠️ | Sant Sadurní d'Osormort › Osona (Barcelone) | 350 |
-| Forêt de Avinyó (36) ⚠️ | Avinyó › Bages | 350 |
+| Forêt de Avinyó (36) ⚠️ | Avinyó › Bages | 351 |
 | Forêt de Vilada (3) ⚠️ | Vilada › Berguedà | 348 |
 | Forêt de Castellar del Riu (9) ⚠️ | Castellar del Riu › Berguedà | 346 |
 | Forêt de Cercs (24) ⚠️ | Cercs › Berguedà | 344 |
@@ -456,15 +456,15 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellcir (2) ⚠️ | Castellcir › Moianès | 339 |
 | Forêt de Vallirana (31) ⚠️ | Vallirana › Baix Llobregat | 338 |
 | Bois de el Papiol ⚠️ | el Papiol › Baix Llobregat | 336 |
-| Forêt de Vacarisses (10) ⚠️ | Vacarisses › Vallès Occidental | 335 |
+| Forêt de Vacarisses (10) ⚠️ | Vacarisses › Vallès Occidental | 334 |
 | Forêt de la Pobla de Lillet (5) ⚠️ | la Pobla de Lillet › Berguedà | 330 |
-| Forêt de Cervelló (8) ⚠️ | Cervelló › Baix Llobregat | 329 |
+| Forêt de Cervelló (8) ⚠️ | Cervelló › Baix Llobregat | 330 |
 | Forêt de Sant Bartomeu del Grau (15) ⚠️ | Sant Bartomeu del Grau › Osona (Barcelone) | 329 |
 | Forêt de Cardona (33) ⚠️ | Cardona › Bages | 323 |
-| Forêt de Piera (24) ⚠️ | Piera › Anoia | 318 |
+| Forêt de Piera (24) ⚠️ | Piera › Anoia | 317 |
 | Forêt de Moià (3) ⚠️ | Moià › Moianès | 314 |
 | Forêt de Guardiola de Berguedà (34) ⚠️ | Guardiola de Berguedà › Berguedà | 311 |
-| Forêt de Tavertet (30) ⚠️ | Tavertet › Osona (Barcelone) | 309 |
+| Forêt de Tavertet (30) ⚠️ | Tavertet › Osona (Barcelone) | 308 |
 | Forêt de Vallcebre (29) ⚠️ | Vallcebre › Berguedà | 304 |
 | Forêt de el Brull (4) ⚠️ | el Brull › Osona (Barcelone) | 302 |
 | Forêt de el Pont de Vilomara i Rocafort (21) ⚠️ | el Pont de Vilomara i Rocafort › Bages | 300 |
@@ -472,17 +472,17 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Vilanova de Sau (10) ⚠️ | Vilanova de Sau › Osona (Barcelone) | 292 |
 | Forêt de Granera (18) ⚠️ | Granera › Moianès | 292 |
 | Forêt de Montcada i Reixac (27) ⚠️ | Montcada i Reixac › Vallès Occidental | 292 |
-| Forêt de el Brull (15) ⚠️ | el Brull › Osona (Barcelone) | 289 |
+| Forêt de el Brull (15) ⚠️ | el Brull › Osona (Barcelone) | 288 |
 | Bois de Lliçà d'Amunt (29) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 286 |
-| Forêt de Sant Pere de Torelló (7) ⚠️ | Sant Pere de Torelló › Osona (Barcelone) | 285 |
 | Forêt de els Hostalets de Pierola (11) ⚠️ | els Hostalets de Pierola › Anoia | 285 |
-| Forêt de Cercs (7) ⚠️ | Cercs › Berguedà | 281 |
+| Forêt de Sant Pere de Torelló (7) ⚠️ | Sant Pere de Torelló › Osona (Barcelone) | 284 |
+| Forêt de Cercs (7) ⚠️ | Cercs › Berguedà | 282 |
+| Forêt de Castellnou de Bages (94) ⚠️ | Castellnou de Bages › Bages | 281 |
 | Forêt de la Torre de Claramunt ⚠️ | la Torre de Claramunt › Anoia | 280 |
-| Forêt de Castellnou de Bages (94) ⚠️ | Castellnou de Bages › Bages | 280 |
 | Forêt de Fígols (5) ⚠️ | Fígols › Berguedà | 279 |
 | Forêt de Montclar (9) ⚠️ | Montclar › Berguedà | 279 |
 | Forêt de Viver i Serrateix (24) ⚠️ | Viver i Serrateix › Berguedà | 279 |
-| Forêt de Perafita ⚠️ | Perafita › Lluçanès | 271 |
+| Forêt de Perafita ⚠️ | Perafita › Lluçanès | 272 |
 | Forêt de Castellet i la Gornal (65) ⚠️ | Castellet i la Gornal › Alt Penedès | 269 |
 | Forêt de Montseny (2) ⚠️ | Montseny › Vallès Oriental | 268 |
 | Forêt de Castellfollit del Boix (15) ⚠️ | Castellfollit del Boix › Bages | 266 |
@@ -500,28 +500,28 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Moià (29) ⚠️ | Moià › Moianès | 248 |
 | Forêt de Argençola (15) ⚠️ | Argençola › Anoia | 246 |
 | Forêt de Sagàs (8) ⚠️ | Sagàs › Berguedà | 244 |
-| Forêt de Castellcir (10) ⚠️ | Castellcir › Moianès | 243 |
 | Forêt de Gualba (5) ⚠️ | Gualba › Vallès Oriental | 243 |
 | Forêt de Tordera (46) ⚠️ | Tordera › Maresme | 242 |
+| Forêt de Castellcir (10) ⚠️ | Castellcir › Moianès | 242 |
 | Forêt de Taradell (24) ⚠️ | Taradell › Osona (Barcelone) | 239 |
-| Forêt de Seva (9) ⚠️ | Seva › Osona (Barcelone) | 237 |
+| Forêt de Seva (9) ⚠️ | Seva › Osona (Barcelone) | 238 |
 | Forêt de Castellfollit del Boix (19) ⚠️ | Castellfollit del Boix › Bages | 237 |
 | Forêt de Santa Maria de Merlès (28) ⚠️ | Santa Maria de Merlès › Berguedà | 236 |
 | Forêt de Matadepera (208) ⚠️ | Matadepera › Vallès Occidental | 235 |
 | Forêt de Gualba (3) ⚠️ | Gualba › Vallès Oriental | 235 |
 | Forêt de Vilanova de Sau (12) ⚠️ | Vilanova de Sau › Osona (Barcelone) | 233 |
-| Forêt de Sant Mateu de Bages (26) ⚠️ | Sant Mateu de Bages › Bages | 233 |
+| Forêt de Sant Mateu de Bages (26) ⚠️ | Sant Mateu de Bages › Bages | 232 |
+| Forêt de Bigues i Riells del Fai (13) ⚠️ | Bigues i Riells del Fai › Vallès Oriental | 230 |
 | Forêt de Rubió (8) ⚠️ | Rubió › Anoia | 230 |
 | Forêt de Rubió (3) ⚠️ | Rubió › Anoia | 229 |
-| Forêt de Bigues i Riells del Fai (13) ⚠️ | Bigues i Riells del Fai › Vallès Oriental | 229 |
-| Forêt de Vallgorguina (6) ⚠️ | Vallgorguina › Vallès Oriental | 229 |
 | Forêt de Puig-reig (24) ⚠️ | Puig-reig › Berguedà | 228 |
+| Forêt de Vallgorguina (6) ⚠️ | Vallgorguina › Vallès Oriental | 228 |
 | Forêt de Òdena (8) ⚠️ | Òdena › Anoia | 227 |
 | Forêt de Cardona (34) ⚠️ | Cardona › Bages | 227 |
 | Forêt de Sant Pere Sallavinera (6) ⚠️ | Sant Pere Sallavinera › Anoia | 226 |
 | Forêt de Balsareny (17) ⚠️ | Balsareny › Bages | 225 |
 | Forêt de Sallent (26) ⚠️ | Sallent › Bages | 222 |
-| Forêt de Vilanova de Sau (32) ⚠️ | Vilanova de Sau › Osona (Barcelone) | 220 |
+| Forêt de Vilanova de Sau (32) ⚠️ | Vilanova de Sau › Osona (Barcelone) | 221 |
 | Forêt de Sagàs (9) ⚠️ | Sagàs › Berguedà | 220 |
 | Forêt de Talamanca (8) ⚠️ | Talamanca › Bages | 220 |
 | Forêt de Santa Maria de Besora (2) ⚠️ | Santa Maria de Besora › Osona (Barcelone) | 219 |
@@ -530,17 +530,17 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellar del Vallès (15) ⚠️ | Castellar del Vallès › Vallès Occidental | 216 |
 | Forêt de Sant Mateu de Bages (34) ⚠️ | Sant Mateu de Bages › Bages | 216 |
 | Forêt de Perafita (3) ⚠️ | Perafita › Lluçanès | 215 |
-| Forêt de Castellar del Vallès (12) ⚠️ | Castellar del Vallès › Vallès Occidental | 215 |
-| Forêt de Avinyó (61) ⚠️ | Avinyó › Bages | 211 |
+| Forêt de Castellar del Vallès (12) ⚠️ | Castellar del Vallès › Vallès Occidental | 214 |
+| Forêt de Avinyó (61) ⚠️ | Avinyó › Bages | 210 |
 | Forêt de Muntanyola (26) ⚠️ | Muntanyola › Osona (Barcelone) | 210 |
 | Forêt de la Quar (5) ⚠️ | la Quar › Berguedà | 209 |
 | Forêt de Sitges (29) ⚠️ | Sitges › Garraf | 208 |
 | Forêt de Esparreguera (6) ⚠️ | Esparreguera › Baix Llobregat | 207 |
-| Forêt de Santa Maria d'Oló (37) ⚠️ | Santa Maria d'Oló › Moianès | 206 |
-| Forêt de Fogars de la Selva (26) ⚠️ | Fogars de la Selva › la Selva (Barcelone) | 204 |
+| Forêt de Santa Maria d'Oló (37) ⚠️ | Santa Maria d'Oló › Moianès | 205 |
+| Forêt de Fogars de la Selva (26) ⚠️ | Fogars de la Selva › la Selva (Barcelone) | 205 |
 | Forêt de Aguilar de Segarra (4) ⚠️ | Aguilar de Segarra › Bages | 203 |
 | Bois de Molins de Rei (3) ⚠️ | Molins de Rei › Baix Llobregat | 202 |
-| Forêt de Castellbell i el Vilar ⚠️ | Castellbell i el Vilar › Bages | 201 |
+| Forêt de Castellbell i el Vilar ⚠️ | Castellbell i el Vilar › Bages | 200 |
 | Forêt de Collsuspina (7) ⚠️ | Collsuspina › Moianès | 200 |
 | Forêt de Sant Quirze Safaja (10) ⚠️ | Sant Quirze Safaja › Moianès | 199 |
 | Forêt de la Nou de Berguedà (7) ⚠️ | la Nou de Berguedà › Berguedà | 198 |
@@ -553,9 +553,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de l'Espunyola (34) ⚠️ | l'Espunyola › Berguedà | 188 |
 | Forêt de la Nou de Berguedà (2) ⚠️ | la Nou de Berguedà › Berguedà | 185 |
 | Forêt de Bigues i Riells del Fai (38) ⚠️ | Bigues i Riells del Fai › Vallès Oriental | 185 |
+| Forêt de Fogars de Montclús (11) ⚠️ | Fogars de Montclús › Vallès Oriental | 184 |
 | Forêt de Puig-reig (5) ⚠️ | Puig-reig › Berguedà | 184 |
 | Forêt de Gavà (71) ⚠️ | Gavà › Baix Llobregat | 184 |
-| Forêt de Fogars de Montclús (11) ⚠️ | Fogars de Montclús › Vallès Oriental | 183 |
 | Parc de Montjuïc ⚠️ | Barcelona › Barcelonès | 182 |
 | Forêt de Olvan (7) ⚠️ | Olvan › Berguedà | 182 |
 | Forêt de Santa Maria de Palautordera (27) ⚠️ | Santa Maria de Palautordera › Vallès Oriental | 182 |
@@ -565,14 +565,14 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Guardiola de Berguedà (14) ⚠️ | Guardiola de Berguedà › Berguedà | 179 |
 | Forêt de Calders (6) ⚠️ | Calders › Moianès | 178 |
 | Forêt de Castell de l'Areny (21) ⚠️ | Castell de l'Areny › Berguedà | 177 |
-| Forêt de Navàs (83) ⚠️ | Navàs › Bages | 177 |
 | Forêt de Moià (17) ⚠️ | Moià › Moianès | 176 |
+| Forêt de Navàs (83) ⚠️ | Navàs › Bages | 176 |
 | Bois de la Palma de Cervelló ⚠️ | la Palma de Cervelló › Baix Llobregat | 175 |
 | Forêt de Argençola (25) ⚠️ | Argençola › Anoia | 175 |
 | Forêt de Sant Esteve de Palautordera (4) ⚠️ | Sant Esteve de Palautordera › Vallès Oriental | 175 |
 | Forêt de Viver i Serrateix (63) ⚠️ | Viver i Serrateix › Berguedà | 175 |
+| Forêt de Súria (5) ⚠️ | Súria › Bages | 174 |
 | Forêt de Viver i Serrateix (45) ⚠️ | Viver i Serrateix › Berguedà | 174 |
-| Forêt de Súria (5) ⚠️ | Súria › Bages | 173 |
 | Forêt de Castellfollit del Boix (16) ⚠️ | Castellfollit del Boix › Bages | 171 |
 | Forêt de Santa Maria de Martorelles (3) ⚠️ | Santa Maria de Martorelles › Vallès Oriental | 171 |
 | Forêt de Rubió (5) ⚠️ | Rubió › Anoia | 168 |
@@ -594,28 +594,28 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Navàs (132) ⚠️ | Navàs › Bages | 161 |
 | Bois de Montornès del Vallès (3) ⚠️ | Montornès del Vallès › Vallès Oriental | 161 |
 | Forêt de Sant Agustí de Lluçanès (2) ⚠️ | Sant Agustí de Lluçanès › Osona (Barcelone) | 160 |
-| Forêt de Santa Coloma de Cervelló (7) ⚠️ | Santa Coloma de Cervelló › Baix Llobregat | 160 |
 | Forêt de Castellnou de Bages (36) ⚠️ | Castellnou de Bages › Bages | 160 |
 | Forêt de Navàs (131) ⚠️ | Navàs › Bages | 160 |
 | Forêt de Figaró-Montmany (3) ⚠️ | Figaró-Montmany › Vallès Oriental | 160 |
+| Forêt de Santa Coloma de Cervelló (7) ⚠️ | Santa Coloma de Cervelló › Baix Llobregat | 159 |
 | Forêt de Sant Vicenç dels Horts (6) ⚠️ | Sant Vicenç dels Horts › Baix Llobregat | 157 |
 | Bois de Llinars del Vallès (32) ⚠️ | Llinars del Vallès › Vallès Oriental | 157 |
-| Forêt de Saldes (81) ⚠️ | Saldes › Berguedà | 157 |
-| Forêt de Saldes (43) ⚠️ | Saldes › Berguedà | 156 |
+| Forêt de Saldes (43) ⚠️ | Saldes › Berguedà | 157 |
+| Forêt de Saldes (81) ⚠️ | Saldes › Berguedà | 156 |
 | Forêt de Montseny ⚠️ | Montseny › Vallès Oriental | 155 |
+| Forêt de Castellar del Vallès (13) ⚠️ | Castellar del Vallès › Vallès Occidental | 155 |
 | Forêt de Santa Margarida de Montbui (12) ⚠️ | Santa Margarida de Montbui › Anoia | 155 |
 | Forêt de Santa Maria de Besora (13) ⚠️ | Santa Maria de Besora › Osona (Barcelone) | 155 |
 | Forêt de Castell de l'Areny ⚠️ | Castell de l'Areny › Berguedà | 154 |
 | Forêt de Santa Maria d'Oló (33) ⚠️ | Santa Maria d'Oló › Moianès | 154 |
 | Forêt de Fonollosa (82) ⚠️ | Fonollosa › Bages | 152 |
 | Forêt de Sant Pere de Torelló (9) ⚠️ | Sant Pere de Torelló › Osona (Barcelone) | 151 |
-| Forêt de Castellar del Vallès (13) ⚠️ | Castellar del Vallès › Vallès Occidental | 151 |
+| Forêt de Avinyonet del Penedès (55) ⚠️ | Avinyonet del Penedès › Alt Penedès | 151 |
 | Forêt de Avinyó (60) ⚠️ | Avinyó › Bages | 151 |
 | Forêt de Castell de l'Areny (9) ⚠️ | Castell de l'Areny › Berguedà | 151 |
 | Forêt de Navàs (70) ⚠️ | Navàs › Bages | 151 |
 | Bois de Sant Cugat del Vallès (120) ⚠️ | Sant Cugat del Vallès › Vallès Occidental | 151 |
 | Forêt de Cànoves i Samalús (28) ⚠️ | Cànoves i Samalús › Vallès Oriental | 150 |
-| Forêt de Avinyonet del Penedès (55) ⚠️ | Avinyonet del Penedès › Alt Penedès | 150 |
 | Forêt de Balsareny (16) ⚠️ | Balsareny › Bages | 149 |
 | Forêt de el Bruc (6) ⚠️ | el Bruc › Anoia | 149 |
 | Forêt de Castellfollit de Riubregós (5) ⚠️ | Castellfollit de Riubregós › Anoia | 149 |
@@ -631,20 +631,20 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Pallejà (3) ⚠️ | Pallejà › Baix Llobregat | 144 |
 | Forêt de Vacarisses (9) ⚠️ | Vacarisses › Vallès Occidental | 143 |
 | Forêt de Viver i Serrateix (50) ⚠️ | Viver i Serrateix › Berguedà | 143 |
-| Forêt de Balsareny (18) ⚠️ | Balsareny › Bages | 142 |
 | Forêt de Viver i Serrateix (88) ⚠️ | Viver i Serrateix › Berguedà | 142 |
 | Forêt de Bellprat (7) ⚠️ | Bellprat › Anoia | 141 |
+| Forêt de Balsareny (18) ⚠️ | Balsareny › Bages | 141 |
 | Forêt de Cardona (103) ⚠️ | Cardona › Bages | 141 |
 | Forêt de Sant Sadurní d'Osormort (39) ⚠️ | Sant Sadurní d'Osormort › Osona (Barcelone) | 140 |
+| Forêt de Sant Martí de Tous (6) ⚠️ | Sant Martí de Tous › Anoia | 139 |
 | Forêt de la Llacuna (5) ⚠️ | la Llacuna › Anoia | 139 |
 | Forêt de Sant Martí de Centelles (48) ⚠️ | Sant Martí de Centelles › Osona (Barcelone) | 139 |
 | Forêt de Oristà (85) ⚠️ | Oristà › Lluçanès | 139 |
 | Forêt de Mediona (9) ⚠️ | Mediona › Alt Penedès | 139 |
 | Bois de Barcelona (104) ⚠️ | Barcelona › Barcelonès | 139 |
-| Forêt de Dosrius (6) ⚠️ | Dosrius › Vallès Oriental | 139 |
-| Forêt de Sant Martí de Tous (6) ⚠️ | Sant Martí de Tous › Anoia | 138 |
 | Forêt de Moià (26) ⚠️ | Moià › Moianès | 138 |
 | Forêt de Gisclareny (11) ⚠️ | Gisclareny › Berguedà | 138 |
+| Forêt de Dosrius (6) ⚠️ | Dosrius › Vallès Oriental | 138 |
 | Forêt de Sant Celoni (72) ⚠️ | Sant Celoni › Vallès Oriental | 138 |
 | Forêt de Lluçà (3) ⚠️ | Lluçà › Lluçanès | 137 |
 | Forêt de Capolat (16) ⚠️ | Capolat › Berguedà | 137 |
@@ -660,10 +660,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Lluçà (5) ⚠️ | Lluçà › Lluçanès | 130 |
 | Forêt de Bagà (7) ⚠️ | Bagà › Berguedà | 129 |
 | Forêt de Sant Llorenç Savall (19) ⚠️ | Sant Llorenç Savall › Vallès Occidental | 129 |
-| Forêt de Castellar de n'Hug (9) ⚠️ | Castellar de n'Hug › Berguedà | 128 |
+| Forêt de Sant Pere de Vilamajor (80) ⚠️ | Sant Pere de Vilamajor › Vallès Oriental | 128 |
 | Forêt de Vallcebre (14) ⚠️ | Vallcebre › Berguedà | 127 |
-| Forêt de Sant Pere de Vilamajor (80) ⚠️ | Sant Pere de Vilamajor › Vallès Oriental | 127 |
 | Forêt de Berga (18) ⚠️ | Berga › Berguedà | 127 |
+| Forêt de Castellar de n'Hug (9) ⚠️ | Castellar de n'Hug › Berguedà | 127 |
 | Forêt de Tavertet (34) ⚠️ | Tavertet › Osona (Barcelone) | 127 |
 | Forêt de Montseny (10) | Montseny › Vallès Oriental | 125 |
 | Forêt de la Pobla de Lillet (59) | la Pobla de Lillet › Berguedà | 125 |
@@ -673,9 +673,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Fogars de Montclús (10) | Fogars de Montclús › Vallès Oriental | 122 |
 | Forêt de els Hostalets de Pierola (3) | els Hostalets de Pierola › Anoia | 121 |
 | Forêt de Rajadell (9) | Rajadell › Bages | 121 |
+| Forêt de la Pobla de Claramunt (4) | la Pobla de Claramunt › Anoia | 121 |
 | Forêt de Castellgalí (11) | Castellgalí › Bages | 121 |
 | Forêt de Súria (23) | Súria › Bages | 121 |
-| Forêt de la Pobla de Claramunt (4) | la Pobla de Claramunt › Anoia | 120 |
 | Forêt de Cercs (37) | Cercs › Berguedà | 120 |
 | Forêt de Sant Bartomeu del Grau (2) | Sant Bartomeu del Grau › Osona (Barcelone) | 119 |
 | Forêt de Vilanova de Sau (30) | Vilanova de Sau › Osona (Barcelone) | 119 |
@@ -702,55 +702,55 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Gavà (70) | Gavà › Baix Llobregat | 112 |
 | Forêt de Montmajor (93) | Montmajor › Berguedà | 112 |
 | Forêt de la Quar (31) | la Quar › Berguedà | 112 |
-| Forêt de Sant Pere de Ribes (113) | Sant Pere de Ribes › Garraf | 112 |
 | Forêt de Lluçà (61) | Lluçà › Lluçanès | 112 |
+| Forêt de Sant Bartomeu del Grau (3) | Sant Bartomeu del Grau › Osona (Barcelone) | 111 |
 | Forêt de Sant Julià de Cerdanyola (2) | Sant Julià de Cerdanyola › Berguedà | 111 |
 | Forêt de Castellolí (27) | Castellolí › Anoia | 111 |
+| Forêt de Sant Pere de Ribes (113) | Sant Pere de Ribes › Garraf | 111 |
 | Forêt de Fogars de la Selva (31) | Fogars de la Selva › la Selva (Barcelone) | 111 |
-| Forêt de Sant Bartomeu del Grau (3) | Sant Bartomeu del Grau › Osona (Barcelone) | 110 |
+| Forêt de Bellprat (8) | Bellprat › Anoia | 110 |
 | Forêt de Borredà (19) | Borredà › Berguedà | 110 |
 | Forêt de Gualba (19) | Gualba › Vallès Oriental | 110 |
 | Forêt de Sobremunt (3) | Sobremunt › Lluçanès | 110 |
 | Forêt de Masquefa (2) | Masquefa › Anoia | 109 |
-| Forêt de Bellprat (8) | Bellprat › Anoia | 109 |
 | Forêt de Castellfollit del Boix (18) | Castellfollit del Boix › Bages | 109 |
 | Forêt de Rubí (64) | Rubí › Vallès Occidental | 109 |
+| Forêt de Calders (63) | Calders › Moianès | 109 |
 | Forêt de Rajadell (50) | Rajadell › Bages | 109 |
 | Forêt de Sant Feliu Sasserra (14) | Sant Feliu Sasserra › Bages | 109 |
 | Forêt de Cerdanyola del Vallès (62) | Cerdanyola del Vallès › Vallès Occidental | 109 |
-| Forêt de Castellar de n'Hug (6) | Castellar de n'Hug › Berguedà | 108 |
-| Forêt de Calders (63) | Calders › Moianès | 108 |
 | Forêt de Sora (11) | Sora › Osona (Barcelone) | 107 |
-| Forêt de Balsareny (64) | Balsareny › Bages | 107 |
+| Forêt de Castellar de n'Hug (6) | Castellar de n'Hug › Berguedà | 107 |
+| Forêt de Seva (16) | Seva › Osona (Barcelone) | 107 |
 | Forêt de Montesquiu | Montesquiu › Osona (Barcelone) | 107 |
 | Forêt de Muntanyola (15) | Muntanyola › Osona (Barcelone) | 107 |
-| Forêt de Seva (16) | Seva › Osona (Barcelone) | 106 |
+| Forêt de Balsareny (64) | Balsareny › Bages | 106 |
 | Forêt de Gaià (49) | Gaià › Bages | 106 |
 | Forêt de Castellfollit del Boix (23) | Castellfollit del Boix › Bages | 106 |
 | Forêt de Castellolí (26) | Castellolí › Anoia | 106 |
 | Forêt de Santa Maria de Merlès (51) | Santa Maria de Merlès › Berguedà | 106 |
 | Forêt de Borredà (24) | Borredà › Berguedà | 106 |
 | Forêt de Gisclareny (22) | Gisclareny › Berguedà | 106 |
+| Forêt de Montmajor (26) | Montmajor › Berguedà | 105 |
 | Forêt de Esparreguera (9) | Esparreguera › Baix Llobregat | 105 |
 | Forêt de Vilanova de Sau (58) | Vilanova de Sau › Osona (Barcelone) | 105 |
-| Forêt de Montmajor (26) | Montmajor › Berguedà | 104 |
 | Forêt de Avinyó (16) | Avinyó › Bages | 104 |
+| Forêt de Canet de Mar | Canet de Mar › Maresme | 104 |
 | Forêt de Sant Vicenç de Castellet (9) | Sant Vicenç de Castellet › Bages | 104 |
 | Forêt de la Roca del Vallès (10) | la Roca del Vallès › Vallès Oriental | 104 |
 | Forêt de Santa Maria de Besora (17) | Santa Maria de Besora › Osona (Barcelone) | 104 |
 | Forêt de Fogars de la Selva (11) | Fogars de la Selva › la Selva (Barcelone) | 104 |
 | Forêt de l'Esquirol (45) | l'Esquirol › Osona (Barcelone) | 103 |
-| Forêt de Canet de Mar | Canet de Mar › Maresme | 103 |
 | Forêt de Guardiola de Berguedà (33) | Guardiola de Berguedà › Berguedà | 103 |
 | Forêt de Vilassar de Dalt (3) | Vilassar de Dalt › Maresme | 103 |
-| Forêt de Mediona (10) | Mediona › Alt Penedès | 103 |
 | Forêt de Castellet i la Gornal (81) | Castellet i la Gornal › Alt Penedès | 102 |
+| Forêt de Mediona (10) | Mediona › Alt Penedès | 102 |
 | Forêt de Sant Sadurní d'Osormort (29) | Sant Sadurní d'Osormort › Osona (Barcelone) | 102 |
 | Forêt de Gisclareny (17) | Gisclareny › Berguedà | 101 |
 | Forêt de Campins (7) | Campins › Vallès Oriental | 101 |
-| Forêt de Cercs (11) | Cercs › Berguedà | 100 |
+| Forêt de Tordera (50) | Tordera › Maresme | 100 |
 | Forêt de Fonollosa (81) | Fonollosa › Bages | 99 |
-| Forêt de Tordera (50) | Tordera › Maresme | 99 |
+| Forêt de Cercs (11) | Cercs › Berguedà | 99 |
 | Forêt de Mediona (93) | Mediona › Alt Penedès | 99 |
 | Forêt de Sant Celoni (30) | Sant Celoni › Vallès Oriental | 99 |
 | Forêt de Sant Agustí de Lluçanès (3) | Sant Agustí de Lluçanès › Osona (Barcelone) | 98 |
@@ -760,27 +760,27 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Navàs (59) | Navàs › Bages | 98 |
 | Forêt de Montclar (30) | Montclar › Berguedà | 98 |
 | Forêt de l'Esquirol (119) | l'Esquirol › Osona (Barcelone) | 98 |
-| Forêt de Sant Sadurní d'Osormort (28) | Sant Sadurní d'Osormort › Osona (Barcelone) | 98 |
 | Forêt de Argentona (13) | Argentona › Maresme | 98 |
 | Forêt de Oristà (101) | Oristà › Lluçanès | 97 |
 | Forêt de Cardona (70) | Cardona › Bages | 97 |
 | Forêt de l'Esquirol (117) | l'Esquirol › Osona (Barcelone) | 97 |
-| Forêt de Sora (20) | Sora › Osona (Barcelone) | 96 |
+| Forêt de Sant Sadurní d'Osormort (28) | Sant Sadurní d'Osormort › Osona (Barcelone) | 97 |
 | Forêt de Òdena (7) | Òdena › Anoia | 96 |
 | Forêt de Santa Maria de Besora (6) | Santa Maria de Besora › Osona (Barcelone) | 96 |
 | Forêt de Borredà (58) | Borredà › Berguedà | 96 |
 | Forêt de Muntanyola (24) | Muntanyola › Osona (Barcelone) | 96 |
 | Forêt de Tordera (112) | Tordera › Maresme | 96 |
+| Forêt de Sora (20) | Sora › Osona (Barcelone) | 95 |
 | Forêt de Matadepera (206) | Matadepera › Vallès Occidental | 95 |
 | Forêt de Tagamanent (5) | Tagamanent › Vallès Oriental | 95 |
 | Forêt de Sant Feliu de Codines (8) | Sant Feliu de Codines › Vallès Oriental | 95 |
 | Forêt de Santa Margarida de Montbui (14) | Santa Margarida de Montbui › Anoia | 95 |
 | Forêt de Gaià (60) | Gaià › Bages | 95 |
-| Forêt de Santa Maria de Merlès (61) | Santa Maria de Merlès › Berguedà | 95 |
 | Forêt de Muntanyola (32) | Muntanyola › Osona (Barcelone) | 95 |
 | Forêt de Òdena (6) | Òdena › Anoia | 94 |
 | Forêt de la Quar (7) | la Quar › Berguedà | 94 |
 | Forêt de Navàs (38) | Navàs › Bages | 94 |
+| Forêt de Santa Maria de Merlès (61) | Santa Maria de Merlès › Berguedà | 94 |
 | Forêt de Fígols (11) | Fígols › Berguedà | 94 |
 | Forêt de la Quar (23) | la Quar › Berguedà | 94 |
 | Forêt de els Hostalets de Pierola (15) | els Hostalets de Pierola › Anoia | 94 |
@@ -794,47 +794,47 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Pontons (8) | Pontons › Alt Penedès | 93 |
 | Forêt de Gaià (25) | Gaià › Bages | 92 |
 | Forêt de Santa Maria de Merlès (52) | Santa Maria de Merlès › Berguedà | 92 |
+| Forêt de Vilanova de Sau (63) | Vilanova de Sau › Osona (Barcelone) | 92 |
 | Forêt de Santa Margarida i els Monjos | Santa Margarida i els Monjos › Alt Penedès | 91 |
 | Forêt de Marganell (3) | Marganell › Bages | 91 |
 | Forêt de Sant Mateu de Bages (33) | Sant Mateu de Bages › Bages | 91 |
 | Forêt de Cervelló (10) | Cervelló › Baix Llobregat | 91 |
 | Forêt de Talamanca (18) | Talamanca › Bages | 91 |
+| Forêt de Navàs (53) | Navàs › Bages | 91 |
 | Bois de Molins de Rei (4) | Molins de Rei › Baix Llobregat | 91 |
 | Forêt de Cabrera d'Anoia (8) | Cabrera d'Anoia › Anoia | 91 |
-| Forêt de Vilanova de Sau (63) | Vilanova de Sau › Osona (Barcelone) | 91 |
 | Forêt de Balsareny (23) | Balsareny › Bages | 90 |
 | Forêt de Castellar de n'Hug (16) | Castellar de n'Hug › Berguedà | 90 |
-| Forêt de Navàs (53) | Navàs › Bages | 90 |
 | Forêt de Cardona (61) | Cardona › Bages | 90 |
 | Bois de Sant Just Desvern (4) | Sant Just Desvern › Baix Llobregat | 90 |
-| Forêt de Sora (4) | Sora › Osona (Barcelone) | 89 |
 | Forêt de Sant Pere de Ribes | Sant Pere de Ribes › Garraf | 89 |
 | Forêt de Gurb (3) | Gurb › Osona (Barcelone) | 89 |
+| Forêt de Castellfollit de Riubregós (8) | Castellfollit de Riubregós › Anoia | 89 |
 | Forêt de Corbera de Llobregat (11) | Corbera de Llobregat › Baix Llobregat | 89 |
 | Forêt de la Pobla de Lillet (32) | la Pobla de Lillet › Berguedà | 89 |
+| Bois de Sant Feliu de Llobregat (4) | Sant Feliu de Llobregat › Baix Llobregat | 89 |
 | Forêt de Castellar de n'Hug (18) | Castellar de n'Hug › Berguedà | 89 |
 | Forêt de Arenys de Munt (5) | Arenys de Munt › Maresme | 89 |
+| Forêt de Sora (4) | Sora › Osona (Barcelone) | 88 |
 | Bois de la Roca del Vallès (4) | la Roca del Vallès › Vallès Oriental | 88 |
 | Forêt de Súria (4) | Súria › Bages | 88 |
-| Forêt de Castellfollit de Riubregós (8) | Castellfollit de Riubregós › Anoia | 88 |
 | Bois de Sant Feliu de Llobregat (2) | Sant Feliu de Llobregat › Baix Llobregat | 88 |
-| Bois de Sant Feliu de Llobregat (4) | Sant Feliu de Llobregat › Baix Llobregat | 88 |
 | Forêt de Sant Celoni (38) | Sant Celoni › Vallès Oriental | 88 |
 | Forêt de Sant Celoni (4) | Sant Celoni › Vallès Oriental | 87 |
-| Forêt de la Nou de Berguedà (10) | la Nou de Berguedà › Berguedà | 87 |
 | Forêt de Navàs (60) | Navàs › Bages | 87 |
 | Forêt de Cabrera d'Anoia (33) | Cabrera d'Anoia › Anoia | 87 |
 | Forêt de Mediona (85) | Mediona › Alt Penedès | 87 |
 | Forêt de Lluçà (63) | Lluçà › Lluçanès | 87 |
 | Forêt de Sant Cebrià de Vallalta (7) | Sant Cebrià de Vallalta › Maresme | 87 |
-| Forêt de Sant Andreu de Llavaneres (2) | Sant Andreu de Llavaneres › Maresme | 86 |
 | Forêt de Montmajor (3) | Montmajor › Berguedà | 86 |
 | Forêt de Fonollosa (79) | Fonollosa › Bages | 86 |
 | Forêt de Aguilar de Segarra (19) | Aguilar de Segarra › Bages | 86 |
+| Forêt de la Nou de Berguedà (10) | la Nou de Berguedà › Berguedà | 86 |
+| Forêt de Oristà (128) | Oristà › Lluçanès | 86 |
+| Forêt de Sant Andreu de Llavaneres (2) | Sant Andreu de Llavaneres › Maresme | 85 |
 | Forêt de Òdena (9) | Òdena › Anoia | 85 |
 | Forêt de Sant Mateu de Bages (32) | Sant Mateu de Bages › Bages | 85 |
 | Forêt de Sant Martí de Centelles (68) | Sant Martí de Centelles › Osona (Barcelone) | 85 |
-| Forêt de Oristà (128) | Oristà › Lluçanès | 85 |
 | Forêt de Bigues i Riells del Fai (6) | Bigues i Riells del Fai › Vallès Oriental | 84 |
 | Forêt de el Bruc (12) | el Bruc › Anoia | 84 |
 | Forêt de Berga (36) | Berga › Berguedà | 84 |
@@ -848,24 +848,23 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Puig-reig (61) | Puig-reig › Berguedà | 83 |
 | Forêt de Olivella (123) | Olivella › Garraf | 83 |
 | Forêt de Oristà (156) | Oristà › Lluçanès | 83 |
+| Forêt de Gallifa (8) | Gallifa › Vallès Occidental | 83 |
 | Forêt de Aguilar de Segarra (2) | Aguilar de Segarra › Bages | 82 |
 | Forêt de Aguilar de Segarra (21) | Aguilar de Segarra › Bages | 82 |
 | Forêt de Castellar del Riu (12) | Castellar del Riu › Berguedà | 82 |
 | Forêt de Guardiola de Berguedà (43) | Guardiola de Berguedà › Berguedà | 82 |
 | Forêt de Viver i Serrateix (38) | Viver i Serrateix › Berguedà | 82 |
 | Forêt de Olesa de Bonesvalls (44) | Olesa de Bonesvalls › Alt Penedès | 82 |
-| Forêt de Gallifa (8) | Gallifa › Vallès Occidental | 82 |
 | Forêt de Font-rubí (2) | Font-rubí › Alt Penedès | 81 |
 | Forêt de Tavèrnoles (2) | Tavèrnoles › Osona (Barcelone) | 81 |
+| Forêt de Guardiola de Berguedà (13) | Guardiola de Berguedà › Berguedà | 81 |
 | Forêt de el Brull (17) | el Brull › Osona (Barcelone) | 81 |
 | Forêt de Cercs (20) | Cercs › Berguedà | 81 |
 | Forêt de Santa Maria de Merlès (39) | Santa Maria de Merlès › Berguedà | 81 |
 | Forêt de Vic (33) | Vic › Osona (Barcelone) | 81 |
 | Forêt de Gisclareny (26) | Gisclareny › Berguedà | 81 |
-| Forêt de Guardiola de Berguedà (13) | Guardiola de Berguedà › Berguedà | 80 |
 | Forêt de Sant Salvador de Guardiola (37) | Sant Salvador de Guardiola › Bages | 80 |
 | Forêt de Castellar de n'Hug (13) | Castellar de n'Hug › Berguedà | 80 |
-| Forêt de Santa Maria d'Oló (77) | Santa Maria d'Oló › Moianès | 80 |
 | Forêt de Santa Eulàlia de Riuprimer (10) | Santa Eulàlia de Riuprimer › Osona (Barcelone) | 80 |
 | Forêt de Fonollosa (155) | Fonollosa › Bages | 80 |
 | Forêt de Olivella (51) | Olivella › Garraf | 79 |
@@ -875,6 +874,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Montmajor (64) | Montmajor › Berguedà | 79 |
 | Forêt de Puig-reig (35) | Puig-reig › Berguedà | 79 |
 | Forêt de Centelles (13) | Centelles › Osona (Barcelone) | 79 |
+| Forêt de Santa Maria d'Oló (77) | Santa Maria d'Oló › Moianès | 79 |
 | Forêt de Lluçà (15) | Lluçà › Lluçanès | 79 |
 | Forêt de Bagà (62) | Bagà › Berguedà | 79 |
 | Forêt de Tavertet | Tavertet › Osona (Barcelone) | 78 |
@@ -882,14 +882,14 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Joan de Vilatorrada (19) | Sant Joan de Vilatorrada › Bages | 78 |
 | Forêt de Castellfollit del Boix (17) | Castellfollit del Boix › Bages | 78 |
 | Forêt de Cardona (62) | Cardona › Bages | 78 |
+| Forêt de Castellar de n'Hug (19) | Castellar de n'Hug › Berguedà | 78 |
 | Forêt de Torrelles de Foix (5) | Torrelles de Foix › Alt Penedès | 78 |
 | Forêt de Fogars de la Selva (6) | Fogars de la Selva › la Selva (Barcelone) | 77 |
-| Forêt de Gurb (8) | Gurb › Osona (Barcelone) | 77 |
 | Forêt de Capolat (10) | Capolat › Berguedà | 77 |
-| Forêt de Castellar de n'Hug (19) | Castellar de n'Hug › Berguedà | 77 |
 | Forêt de Sant Vicenç de Montalt (3) | Sant Vicenç de Montalt › Maresme | 77 |
 | Bois de els Hostalets de Pierola (3) | els Hostalets de Pierola › Anoia | 77 |
 | Forêt de Argençola (14) | Argençola › Anoia | 76 |
+| Forêt de Gurb (8) | Gurb › Osona (Barcelone) | 76 |
 | Forêt de Vilanova de Sau (29) | Vilanova de Sau › Osona (Barcelone) | 76 |
 | Forêt de Aguilar de Segarra (27) | Aguilar de Segarra › Bages | 76 |
 | Forêt de Santa Maria de Merlès (12) | Santa Maria de Merlès › Berguedà | 76 |
@@ -904,48 +904,47 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Puig-reig (45) | Puig-reig › Berguedà | 74 |
 | Forêt de Fogars de la Selva (49) | Fogars de la Selva › la Selva (Barcelone) | 74 |
 | Forêt de Argençola (10) | Argençola › Anoia | 73 |
+| Forêt de Sant Esteve Sesrovires (25) | Sant Esteve Sesrovires › Baix Llobregat | 73 |
 | Forêt de Pallejà (5) | Pallejà › Baix Llobregat | 73 |
 | Forêt de Santa Maria de Besora (12) | Santa Maria de Besora › Osona (Barcelone) | 73 |
 | Forêt de Navàs (144) | Navàs › Bages | 73 |
 | Forêt de Castellar del Riu (36) | Castellar del Riu › Berguedà | 73 |
-| Forêt de Lluçà (42) | Lluçà › Lluçanès | 73 |
 | Forêt de Malgrat de Mar (5) | Malgrat de Mar › Maresme | 73 |
+| Forêt de Sant Climent de Llobregat (3) | Sant Climent de Llobregat › Baix Llobregat | 72 |
 | Forêt de Olèrdola | Olèrdola › Alt Penedès | 72 |
 | Forêt de Vilanova de Sau (13) | Vilanova de Sau › Osona (Barcelone) | 72 |
 | Forêt de Montclar | Montclar › Berguedà | 72 |
-| Forêt de Sabadell (79) | Sabadell › Vallès Occidental | 72 |
-| Forêt de Sant Esteve Sesrovires (25) | Sant Esteve Sesrovires › Baix Llobregat | 72 |
 | Forêt de Guardiola de Berguedà (30) | Guardiola de Berguedà › Berguedà | 72 |
 | Forêt de Argençola (27) | Argençola › Anoia | 72 |
+| Forêt de Lluçà (42) | Lluçà › Lluçanès | 72 |
 | Forêt de Sant Fost de Campsentelles (15) | Sant Fost de Campsentelles › Vallès Oriental | 72 |
 | Forêt de Orís (27) | Orís › Osona (Barcelone) | 72 |
-| Forêt de Sant Climent de Llobregat (3) | Sant Climent de Llobregat › Baix Llobregat | 71 |
 | Forêt de Torrelles de Llobregat (2) | Torrelles de Llobregat › Baix Llobregat | 71 |
 | Forêt de Torrelavit (2) | Torrelavit › Alt Penedès | 71 |
 | Forêt de Rubió (4) | Rubió › Anoia | 71 |
 | Forêt de Lluçà (6) | Lluçà › Lluçanès | 71 |
 | Forêt de Sallent (40) | Sallent › Bages | 71 |
+| Forêt de Sant Vicenç de Torelló (3) | Sant Vicenç de Torelló › Osona (Barcelone) | 71 |
 | Forêt de Sant Julià de Cerdanyola (3) | Sant Julià de Cerdanyola › Berguedà | 71 |
-| Forêt de Sant Quirze Safaja (14) | Sant Quirze Safaja › Moianès | 71 |
 | Forêt de Fogars de la Selva (14) | Fogars de la Selva › la Selva (Barcelone) | 71 |
 | Forêt de Sant Martí de Tous (27) | Sant Martí de Tous › Anoia | 71 |
 | Forêt de Sant Julià de Vilatorta (8) | Sant Julià de Vilatorta › Osona (Barcelone) | 71 |
-| Forêt de Casserres | Casserres › Berguedà | 70 |
+| Forêt de Sant Sadurní d'Osormort (9) | Sant Sadurní d'Osormort › Osona (Barcelone) | 70 |
 | Forêt de Sant Mateu de Bages (30) | Sant Mateu de Bages › Bages | 70 |
 | Forêt de Castellar de n'Hug (5) | Castellar de n'Hug › Berguedà | 70 |
-| Forêt de Sant Vicenç de Torelló (3) | Sant Vicenç de Torelló › Osona (Barcelone) | 70 |
 | Forêt de Rupit i Pruit (17) | Rupit i Pruit › Osona (Barcelone) | 70 |
 | Forêt de Bagà (12) | Bagà › Berguedà | 70 |
 | Forêt de el Pont de Vilomara i Rocafort (10) | el Pont de Vilomara i Rocafort › Bages | 70 |
 | Forêt de Cercs (40) | Cercs › Berguedà | 70 |
+| Forêt de Oristà (109) | Oristà › Lluçanès | 70 |
+| Forêt de Sant Quirze Safaja (14) | Sant Quirze Safaja › Moianès | 70 |
 | Forêt de la Quar (46) | la Quar › Berguedà | 70 |
 | Forêt de Sant Sadurní d'Osormort (48) | Sant Sadurní d'Osormort › Osona (Barcelone) | 70 |
 | Forêt de Moià (2) | Moià › Moianès | 69 |
 | Forêt de Castellcir | Castellcir › Moianès | 69 |
-| Forêt de Sant Sadurní d'Osormort (9) | Sant Sadurní d'Osormort › Osona (Barcelone) | 69 |
+| Forêt de Casserres | Casserres › Berguedà | 69 |
 | Forêt de el Brull (7) | el Brull › Osona (Barcelone) | 69 |
 | Forêt de Castellar de n'Hug (7) | Castellar de n'Hug › Berguedà | 69 |
-| Forêt de Oristà (109) | Oristà › Lluçanès | 69 |
 | Forêt de Borredà (17) | Borredà › Berguedà | 69 |
 | Forêt de Olèrdola (68) | Olèrdola › Alt Penedès | 69 |
 | Forêt de Bigues i Riells del Fai (14) | Bigues i Riells del Fai › Vallès Oriental | 69 |
@@ -957,11 +956,12 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Òdena (12) | Òdena › Anoia | 68 |
 | Forêt de el Brull (6) | el Brull › Osona (Barcelone) | 68 |
 | Forêt de Seva (10) | Seva › Osona (Barcelone) | 68 |
+| Forêt de Sabadell (79) | Sabadell › Vallès Occidental | 68 |
 | Forêt de Bagà (16) | Bagà › Berguedà | 68 |
 | Forêt de Santa Maria de Merlès (16) | Santa Maria de Merlès › Berguedà | 68 |
-| Forêt de Fogars de la Selva (29) | Fogars de la Selva › la Selva (Barcelone) | 68 |
 | Forêt de Vilanova de Sau (33) | Vilanova de Sau › Osona (Barcelone) | 67 |
 | Forêt de Avinyó (62) | Avinyó › Bages | 67 |
+| Forêt de Fogars de la Selva (29) | Fogars de la Selva › la Selva (Barcelone) | 67 |
 | Forêt de Rubió | Rubió › Anoia | 66 |
 | Forêt de Avinyonet del Penedès (54) | Avinyonet del Penedès › Alt Penedès | 66 |
 | Forêt de Cercs (4) | Cercs › Berguedà | 66 |
@@ -996,6 +996,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Viver i Serrateix (121) | Viver i Serrateix › Berguedà | 64 |
 | Forêt de Sant Martí de Tous (3) | Sant Martí de Tous › Anoia | 63 |
 | Forêt de Sant Pere de Torelló (5) | Sant Pere de Torelló › Osona (Barcelone) | 63 |
+| Forêt de Orís (4) | Orís › Osona (Barcelone) | 63 |
 | Forêt de el Bruc (5) | el Bruc › Anoia | 63 |
 | Forêt de Fígols (7) | Fígols › Berguedà | 63 |
 | Forêt de Rajadell (49) | Rajadell › Bages | 63 |
@@ -1003,13 +1004,11 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de les Franqueses del Vallès (50) | les Franqueses del Vallès › Vallès Oriental | 63 |
 | Forêt de Borredà (60) | Borredà › Berguedà | 63 |
 | Forêt de Sant Celoni (47) | Sant Celoni › Vallès Oriental | 63 |
-| Forêt de Orís (4) | Orís › Osona (Barcelone) | 62 |
 | Forêt de Alpens (12) | Alpens › Lluçanès | 62 |
 | Forêt de el Bruc (8) | el Bruc › Anoia | 62 |
 | Forêt de Rajadell (16) | Rajadell › Bages | 62 |
 | Forêt de Terrassa (67) | Terrassa › Vallès Occidental | 62 |
 | Forêt de Avinyó (46) | Avinyó › Bages | 62 |
-| Forêt de Viver i Serrateix (39) | Viver i Serrateix › Berguedà | 62 |
 | Forêt de Santa Maria de Merlès (13) | Santa Maria de Merlès › Berguedà | 62 |
 | Forêt de Navàs (146) | Navàs › Bages | 62 |
 | Forêt de Santa Maria de Merlès (102) | Santa Maria de Merlès › Berguedà | 62 |
@@ -1021,9 +1020,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Olèrdola (3) | Olèrdola › Alt Penedès | 61 |
 | Forêt de Rubió (2) | Rubió › Anoia | 61 |
 | Forêt de Rubí (59) | Rubí › Vallès Occidental | 61 |
+| Forêt de la Pobla de Lillet (9) | la Pobla de Lillet › Berguedà | 61 |
 | Forêt de Gavà (62) | Castelldefels › Baix Llobregat | 61 |
 | Forêt de Talamanca (19) | Talamanca › Bages | 61 |
-| Forêt de l'Espunyola (74) | l'Espunyola › Berguedà | 61 |
+| Forêt de Viver i Serrateix (39) | Viver i Serrateix › Berguedà | 61 |
 | Forêt de Montmajor (119) | Montmajor › Berguedà | 61 |
 | Forêt de Dosrius (18) | Dosrius › Maresme | 61 |
 | Forêt de Sant Sadurní d'Osormort (24) | Sant Sadurní d'Osormort › Osona (Barcelone) | 61 |
@@ -1031,21 +1031,24 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Tavertet (36) | Tavertet › Osona (Barcelone) | 61 |
 | Forêt de Vilanova de Sau (2) | Vilanova de Sau › Osona (Barcelone) | 60 |
 | Forêt de Sant Fost de Campsentelles (2) | Sant Fost de Campsentelles › Vallès Oriental | 60 |
+| Forêt de Sitges (17) | Sitges › Garraf | 60 |
 | Forêt de les Masies de Roda (2) | les Masies de Roda › Osona (Barcelone) | 60 |
 | Forêt de la Nou de Berguedà (4) | la Nou de Berguedà › Berguedà | 60 |
-| Forêt de la Pobla de Lillet (9) | la Pobla de Lillet › Berguedà | 60 |
 | Forêt de Moià (22) | Moià › Moianès | 60 |
 | Forêt de el Bruc (38) | el Bruc › Anoia | 60 |
 | Forêt de l'Espunyola (57) | l'Espunyola › Berguedà | 60 |
+| Forêt de l'Espunyola (74) | l'Espunyola › Berguedà | 60 |
 | Bois de Sant Just Desvern (3) | Sant Just Desvern › Baix Llobregat | 60 |
 | Forêt de Torrelles de Foix (6) | Torrelles de Foix › Alt Penedès | 60 |
 | Forêt de Aguilar de Segarra (3) | Aguilar de Segarra › Bages | 59 |
 | Forêt de Begues (29) | Begues › Baix Llobregat | 59 |
-| Forêt de Sitges (17) | Sitges › Garraf | 59 |
 | Forêt de Rajadell (30) | Rajadell › Bages | 59 |
+| Forêt de Sallent (57) | Sallent › Bages | 59 |
 | Forêt de Moià (33) | Moià › Moianès | 59 |
 | Forêt de Rajadell (43) | Rajadell › Bages | 59 |
+| Forêt de Navàs (74) | Navàs › Bages | 59 |
 | Forêt de Viver i Serrateix (48) | Viver i Serrateix › Berguedà | 59 |
+| Forêt de Jorba (23) | Jorba › Anoia | 59 |
 | Forêt de Moià (40) | Moià › Moianès | 59 |
 | Forêt de Sant Pere de Vilamajor (88) | Sant Pere de Vilamajor › Vallès Oriental | 59 |
 | Forêt de Cardona (104) | Cardona › Bages | 59 |
@@ -1053,11 +1056,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de l'Esquirol (12) | l'Esquirol › Osona (Barcelone) | 58 |
 | Forêt de Rupit i Pruit (14) | Rupit i Pruit › Osona (Barcelone) | 58 |
 | Forêt de Montmajor (37) | Montmajor › Berguedà | 58 |
-| Forêt de Sallent (57) | Sallent › Bages | 58 |
 | Forêt de Sant Salvador de Guardiola (61) | Sant Salvador de Guardiola › Bages | 58 |
-| Forêt de Navàs (74) | Navàs › Bages | 58 |
 | Forêt de Gurb (19) | Gurb › Osona (Barcelone) | 58 |
-| Forêt de Jorba (23) | Jorba › Anoia | 58 |
 | Forêt de Vilanova de Sau (40) | Vilanova de Sau › Osona (Barcelone) | 58 |
 | Forêt de Fogars de la Selva (25) | Fogars de la Selva › la Selva (Barcelone) | 58 |
 | Bois de Argentona (53) | Argentona › Maresme | 58 |
@@ -1065,37 +1065,37 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Palafolls | Palafolls › Maresme | 57 |
 | Forêt de Sant Llorenç d'Hortons (3) | Sant Llorenç d'Hortons › Alt Penedès | 57 |
 | Forêt de la Nou de Berguedà (11) | la Nou de Berguedà › Berguedà | 57 |
-| Forêt de Casserres (18) | Casserres › Berguedà | 57 |
 | Bois de Sant Cugat del Vallès (114) | Sant Cugat del Vallès › Vallès Occidental | 57 |
 | Forêt de Muntanyola (16) | Muntanyola › Osona (Barcelone) | 57 |
 | Forêt de Bigues i Riells del Fai (17) | Bigues i Riells del Fai › Vallès Oriental | 57 |
 | Forêt de Castellfollit de Riubregós | Castellfollit de Riubregós › Anoia | 56 |
+| Forêt de Casserres (18) | Casserres › Berguedà | 56 |
 | Forêt de Montmajor (123) | Montmajor › Berguedà | 56 |
+| Forêt de Guardiola de Berguedà (132) | Guardiola de Berguedà › Berguedà | 56 |
 | Forêt de Tordera (110) | Tordera › Maresme | 56 |
 | Forêt de Sant Sadurní d'Osormort (52) | Sant Sadurní d'Osormort › Osona (Barcelone) | 56 |
 | Forêt de Calonge de Segarra (5) | Calonge de Segarra › Anoia | 55 |
-| Forêt de Copons (3) | Copons › Anoia | 55 |
+| Forêt de Font-rubí (7) | Font-rubí › Alt Penedès | 55 |
 | Forêt de Aguilar de Segarra (20) | Aguilar de Segarra › Bages | 55 |
 | Forêt de Castellterçol (15) | Castellterçol › Moianès | 55 |
 | Forêt de Fonollosa (98) | Fonollosa › Bages | 55 |
 | Forêt de Rajadell (51) | Rajadell › Bages | 55 |
 | Forêt de Santa Maria de Merlès (14) | Santa Maria de Merlès › Berguedà | 55 |
-| Forêt de Begues (76) | Begues › Baix Llobregat | 55 |
 | Forêt de Gisclareny (16) | Gisclareny › Berguedà | 55 |
 | Forêt de les Franqueses del Vallès (51) | les Franqueses del Vallès › Vallès Oriental | 55 |
 | Forêt de Tagamanent (14) | Tagamanent › Vallès Oriental | 55 |
 | Forêt de Muntanyola (25) | Muntanyola › Osona (Barcelone) | 55 |
 | Forêt de Lluçà (43) | Lluçà › Lluçanès | 55 |
 | Forêt de Pontons (9) | Pontons › Alt Penedès | 55 |
-| Forêt de Guardiola de Berguedà (132) | Guardiola de Berguedà › Berguedà | 55 |
 | Forêt de Sora | Sora › Osona (Barcelone) | 54 |
 | Forêt de Perafita (2) | Perafita › Lluçanès | 54 |
 | Forêt de Calonge de Segarra (7) | Calonge de Segarra › Anoia | 54 |
-| Forêt de Font-rubí (7) | Font-rubí › Alt Penedès | 54 |
+| Forêt de Copons (3) | Copons › Anoia | 54 |
 | Forêt de Santa Maria d'Oló (28) | Santa Maria d'Oló › Moianès | 54 |
 | Forêt de Castellbell i el Vilar (34) | Castellbell i el Vilar › Bages | 54 |
 | Forêt de Santa Maria de Besora (8) | Santa Maria de Besora › Osona (Barcelone) | 54 |
 | Forêt de Aguilar de Segarra (33) | Aguilar de Segarra › Bages | 54 |
+| Forêt de Begues (76) | Begues › Baix Llobregat | 54 |
 | Forêt de Vilanova i la Geltrú (39) | Vilanova i la Geltrú › Garraf | 54 |
 | Bosc de Can Bosquerons | Martorelles › Vallès Oriental | 54 |
 | Forêt de Piera (65) | Piera › Anoia | 54 |
@@ -1108,6 +1108,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Sadurní d'Osormort (19) | Sant Sadurní d'Osormort › Osona (Barcelone) | 52 |
 | Forêt de Matadepera (2) | Terrassa › Vallès Occidental | 52 |
 | Bois de Argentona (7) | Argentona › Maresme | 52 |
+| Forêt de Casserres (4) | Casserres › Berguedà | 52 |
 | Bois de Copons (2) | Copons › Anoia | 52 |
 | Forêt de Avià (16) | Avià › Berguedà | 52 |
 | Forêt de Montmajor (59) | Montmajor › Berguedà | 52 |
@@ -1130,10 +1131,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sora (6) | Sora › Osona (Barcelone) | 51 |
 | Forêt de Sant Pere de Torelló (8) | Sant Pere de Torelló › Osona (Barcelone) | 51 |
 | Bois de Vallromanes | Vallromanes › Maresme | 51 |
-| Forêt de Casserres (4) | Casserres › Berguedà | 51 |
 | Forêt de Aiguafreda (6) | Aiguafreda › Osona (Barcelone) | 51 |
 | Forêt de Cànoves i Samalús (25) | Cànoves i Samalús › Vallès Oriental | 51 |
-| Forêt de Olvan (4) | Olvan › Berguedà | 51 |
 | Forêt de Sallent (42) | Sallent › Bages | 51 |
 | Forêt de Sant Salvador de Guardiola (62) | Sant Salvador de Guardiola › Bages | 51 |
 | Forêt de els Hostalets de Pierola (26) | els Hostalets de Pierola › Anoia | 51 |
@@ -1142,9 +1141,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Bigues i Riells del Fai (39) | Bigues i Riells del Fai › Vallès Oriental | 51 |
 | Forêt de Castellar de n'Hug (23) | Castellar de n'Hug › Berguedà | 51 |
 | Forêt de Montmajor (136) | Montmajor › Berguedà | 51 |
-| Forêt de Olesa de Bonesvalls | Olesa de Bonesvalls › Alt Penedès | 50 |
+| Forêt de Sant Cugat del Vallès (160) | Sant Cugat del Vallès › Vallès Occidental | 51 |
 | Forêt de els Prats de Rei (3) | els Prats de Rei › Anoia | 50 |
 | Forêt de Olvan (3) | Olvan › Berguedà | 50 |
+| Forêt de Olvan (4) | Olvan › Berguedà | 50 |
 | Forêt de Balsareny (28) | Balsareny › Bages | 50 |
 | Forêt de Fígols (6) | Fígols › Berguedà | 50 |
 | Forêt de Vallirana (24) | Vallirana › Baix Llobregat | 50 |
@@ -1159,7 +1159,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Tordera (72) | Tordera › Maresme | 50 |
 | Bois de Vilanova del Vallès (16) | Vilanova del Vallès › Vallès Oriental | 50 |
 | Forêt de Carme (10) | Carme › Anoia | 50 |
-| Forêt de Sant Cugat del Vallès (160) | Sant Cugat del Vallès › Vallès Occidental | 50 |
+| Forêt de Olesa de Bonesvalls | Olesa de Bonesvalls › Alt Penedès | 49 |
 | Forêt de l'Esquirol | l'Esquirol › Osona (Barcelone) | 49 |
 | Forêt de Sant Llorenç d'Hortons (2) | Sant Llorenç d'Hortons › Alt Penedès | 49 |
 | Forêt de Casserres (11) | Casserres › Berguedà | 49 |
@@ -1169,6 +1169,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Bellprat (6) | Bellprat › Anoia | 48 |
 | Forêt de Sant Pere de Vilamajor (71) | Sant Pere de Vilamajor › Vallès Oriental | 48 |
 | Forêt de Montseny (4) | Montseny › Vallès Oriental | 48 |
+| Forêt de Berga (17) | Berga › Berguedà | 48 |
 | Forêt de Berga (28) | Berga › Berguedà | 48 |
 | Forêt de Olesa de Montserrat (14) | Olesa de Montserrat › Baix Llobregat | 48 |
 | Forêt de Sant Climent de Llobregat (16) | Sant Climent de Llobregat › Baix Llobregat | 48 |
@@ -1181,51 +1182,51 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Palafolls (27) | Palafolls › Maresme | 48 |
 | Forêt de Sant Celoni (69) | Sant Celoni › Vallès Oriental | 48 |
 | Forêt de Sant Mateu de Bages (140) | Sant Mateu de Bages › Bages | 48 |
+| Forêt de Gurb (60) | Gurb › Osona (Barcelone) | 48 |
 | Forêt de Alpens (6) | Alpens › Lluçanès | 47 |
 | Forêt de Tordera (12) | Tordera › Maresme | 47 |
 | Bois de Dosrius | Dosrius › Maresme | 47 |
 | Forêt de els Prats de Rei | els Prats de Rei › Anoia | 47 |
 | Forêt de Copons (2) | els Prats de Rei › Anoia | 47 |
-| Forêt de Berga (17) | Berga › Berguedà | 47 |
 | Forêt de Navàs (46) | Navàs › Bages | 47 |
 | Forêt de Monistrol de Calders (25) | Monistrol de Calders › Moianès | 47 |
 | Forêt de Bagà (30) | Bagà › Berguedà | 47 |
 | Forêt de els Hostalets de Pierola (20) | els Hostalets de Pierola › Anoia | 47 |
 | Forêt de Cabrera d'Anoia (6) | Cabrera d'Anoia › Anoia | 47 |
 | Forêt de Malgrat de Mar (4) | Malgrat de Mar › Maresme | 47 |
-| Forêt de Gurb (60) | Gurb › Osona (Barcelone) | 47 |
 | Forêt de Oristà (171) | Oristà › Lluçanès | 47 |
 | Forêt de Gurb (2) | Gurb › Osona (Barcelone) | 46 |
 | Forêt de els Hostalets de Pierola (8) | els Hostalets de Pierola › Anoia | 46 |
 | Forêt de Copons (4) | Copons › Anoia | 46 |
 | Bosc dels Giberts | Torrelles de Foix › Alt Penedès | 46 |
-| Forêt de Sant Bartomeu del Grau (9) | Sant Bartomeu del Grau › Osona (Barcelone) | 46 |
 | Forêt de Fonollosa (78) | Fonollosa › Bages | 46 |
 | Forêt de Masquefa (12) | Masquefa › Anoia | 46 |
 | Forêt de Berga (19) | Berga › Berguedà | 46 |
 | Forêt de Viver i Serrateix (62) | Viver i Serrateix › Berguedà | 46 |
 | Forêt de Castellet i la Gornal (82) | Castellet i la Gornal › Alt Penedès | 46 |
 | Forêt de Santa Eulàlia de Riuprimer (7) | Muntanyola › Osona (Barcelone) | 46 |
-| Forêt de Sant Martí de Centelles (66) | Sant Martí de Centelles › Osona (Barcelone) | 46 |
 | Forêt de Borredà (73) | Borredà › Berguedà | 46 |
 | Forêt de la Quar (43) | la Quar › Berguedà | 46 |
-| Forêt de Gisclareny (55) | Gisclareny › Berguedà | 46 |
 | Forêt de Pontons (10) | Pontons › Alt Penedès | 46 |
 | Forêt de Lluçà (60) | Lluçà › Lluçanès | 46 |
 | Forêt de Arenys de Munt (11) | Arenys de Munt › Maresme | 46 |
 | Bois de Palau-solità i Plegamans | Palau-solità i Plegamans › Vallès Occidental | 45 |
 | Bois de Vilanova del Vallès | Vilanova del Vallès › Vallès Oriental | 45 |
+| Forêt de Sant Bartomeu del Grau (9) | Sant Bartomeu del Grau › Osona (Barcelone) | 45 |
 | Forêt de Gurb (12) | Gurb › Osona (Barcelone) | 45 |
-| Forêt de Calders (45) | Calders › Moianès | 45 |
 | Forêt de Viver i Serrateix (40) | Viver i Serrateix › Berguedà | 45 |
 | Forêt de Avià (39) | Avià › Berguedà | 45 |
+| Forêt de Sant Martí de Centelles (66) | Sant Martí de Centelles › Osona (Barcelone) | 45 |
 | Forêt de Castellfollit de Riubregós (9) | Castellfollit de Riubregós › Anoia | 45 |
 | Forêt de la Pobla de Lillet (49) | la Pobla de Lillet › Berguedà | 45 |
+| Forêt de Gisclareny (55) | Gisclareny › Berguedà | 45 |
 | Bois de Llinars del Vallès (37) | Llinars del Vallès › Vallès Oriental | 45 |
 | Forêt de Òdena (73) | Òdena › Anoia | 45 |
 | Forêt de Castellbisbal (49) | Castellbisbal › Vallès Occidental | 45 |
 | Forêt de Gualba (10) | Gualba › Vallès Oriental | 45 |
+| Forêt de Sant Sadurní d'Osormort (35) | Sant Sadurní d'Osormort › Osona (Barcelone) | 45 |
 | Forêt de Sant Pol de Mar | Sant Pol de Mar › Maresme | 44 |
+| Forêt de Santa Maria de Besora (4) | Santa Maria de Besora › Osona (Barcelone) | 44 |
 | Forêt de Torrelavit | Torrelavit › Alt Penedès | 44 |
 | Forêt de Rupit i Pruit (13) | Rupit i Pruit › Osona (Barcelone) | 44 |
 | Bois de Dosrius (13) | Dosrius › Maresme | 44 |
@@ -1233,6 +1234,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Seva (17) | Seva › Osona (Barcelone) | 44 |
 | Forêt de Capolat (13) | Capolat › Berguedà | 44 |
 | Forêt de Artés (17) | Artés › Bages | 44 |
+| Forêt de Calders (45) | Calders › Moianès | 44 |
 | Forêt de Santa Maria de Palautordera (17) | Santa Maria de Palautordera › Vallès Oriental | 44 |
 | Forêt de Montmajor (92) | Montmajor › Berguedà | 44 |
 | Forêt de Santa Eulàlia de Ronçana (7) | Santa Eulàlia de Ronçana › Vallès Oriental | 44 |
@@ -1241,13 +1243,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Feliu de Codines (9) | Sant Feliu de Codines › Vallès Oriental | 44 |
 | Forêt de Vic (32) | Vic › Osona (Barcelone) | 44 |
 | Forêt de Oristà (144) | Oristà › Lluçanès | 44 |
-| Forêt de Castellar del Riu (27) | Castellar del Riu › Berguedà | 44 |
 | Bois de Cerdanyola del Vallès (15) | Cerdanyola del Vallès › Vallès Occidental | 44 |
 | Forêt de Lluçà (57) | Lluçà › Lluçanès | 44 |
-| Forêt de Sant Sadurní d'Osormort (35) | Sant Sadurní d'Osormort › Osona (Barcelone) | 44 |
 | Forêt de Sant Andreu de Llavaneres (3) | Sant Andreu de Llavaneres › Maresme | 43 |
 | Forêt de Gurb | Gurb › Osona (Barcelone) | 43 |
-| Forêt de Santa Maria de Besora (4) | Santa Maria de Besora › Osona (Barcelone) | 43 |
 | Forêt de Guardiola de Berguedà (12) | Guardiola de Berguedà › Berguedà | 43 |
 | Forêt de Cercs (23) | Cercs › Berguedà | 43 |
 | Forêt de Corbera de Llobregat (16) | Corbera de Llobregat › Baix Llobregat | 43 |
@@ -1258,6 +1257,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Mateu de Bages (89) | Sant Mateu de Bages › Bages | 43 |
 | Forêt de la Quar (29) | la Quar › Berguedà | 43 |
 | Forêt de Gisclareny (32) | Gisclareny › Berguedà | 43 |
+| Forêt de Castellar del Riu (27) | Castellar del Riu › Berguedà | 43 |
 | Forêt de Pontons (17) | Pontons › Alt Penedès | 43 |
 | Forêt de Cabrera d'Anoia (10) | Cabrera d'Anoia › Anoia | 43 |
 | Forêt de Sora (9) | Sora › Osona (Barcelone) | 42 |
@@ -1280,10 +1280,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Rajadell (7) | Rajadell › Bages | 41 |
 | Forêt de Fonollosa (85) | Fonollosa › Bages | 41 |
 | Forêt de Seva (14) | Seva › Osona (Barcelone) | 41 |
+| Forêt de Orís (6) | Orís › Osona (Barcelone) | 41 |
 | Forêt de Moià (31) | Moià › Moianès | 41 |
 | Forêt de Sitges (61) | Sitges › Garraf | 41 |
 | Forêt de Moià (37) | Moià › Moianès | 41 |
-| Forêt de Santa Maria de Palautordera (18) | Santa Maria de Palautordera › Vallès Oriental | 41 |
 | Forêt de Sant Jaume de Frontanyà (13) | Sant Jaume de Frontanyà › Berguedà | 41 |
 | Forêt de l'Espunyola (60) | l'Espunyola › Berguedà | 41 |
 | Forêt de Navàs (102) | Navàs › Bages | 41 |
@@ -1295,17 +1295,17 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellar del Riu (37) | Castellar del Riu › Berguedà | 41 |
 | Forêt de Borredà (120) | Borredà › Berguedà | 41 |
 | Forêt de Santa Maria de Besora (22) | Santa Maria de Besora › Osona (Barcelone) | 41 |
+| Forêt de Pontons (11) | Pontons › Alt Penedès | 41 |
 | Forêt de Sant Bartomeu del Grau (18) | Sant Bartomeu del Grau › Osona (Barcelone) | 41 |
 | Forêt de Borredà (131) | Borredà › Berguedà | 41 |
-| Forêt de Castellcir (12) | Castellcir › Moianès | 41 |
+| Forêt de Oristà (2) | Oristà › Lluçanès | 40 |
 | Forêt de Pujalt (2) | Pujalt › Anoia | 40 |
 | Forêt de Santa Maria d'Oló (4) | Santa Maria d'Oló › Moianès | 40 |
-| Forêt de Muntanyola (8) | Muntanyola › Osona (Barcelone) | 40 |
 | Forêt de Fonollosa (86) | Fonollosa › Bages | 40 |
-| Forêt de Orís (6) | Orís › Osona (Barcelone) | 40 |
 | Forêt de Avinyó (48) | Avinyó › Bages | 40 |
 | Forêt de Sant Feliu Sasserra (8) | Sant Feliu Sasserra › Bages | 40 |
 | Forêt de Premià de Dalt (6) | Premià de Dalt › Maresme | 40 |
+| Forêt de Santa Maria de Palautordera (18) | Santa Maria de Palautordera › Vallès Oriental | 40 |
 | Forêt de Castellar del Riu (16) | Castellar del Riu › Berguedà | 40 |
 | Forêt de Castellolí (28) | Castellolí › Anoia | 40 |
 | Forêt de Olesa de Bonesvalls (36) | Olesa de Bonesvalls › Alt Penedès | 40 |
@@ -1315,20 +1315,18 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Mateu de Bages (90) | Sant Mateu de Bages › Bages | 40 |
 | Forêt de Dosrius (13) | Dosrius › Maresme | 40 |
 | Forêt de Gualba (6) | Gualba › Vallès Oriental | 40 |
-| Forêt de Pontons (11) | Pontons › Alt Penedès | 40 |
 | Forêt de Cardona (107) | Cardona › Bages | 40 |
 | Forêt de Mediona (94) | Mediona › Alt Penedès | 40 |
 | Forêt de Torrelles de Foix (11) | Torrelles de Foix › Alt Penedès | 40 |
 | Forêt de Tordera (101) | Tordera › Maresme | 40 |
 | Forêt de Calella (8) | Calella › Maresme | 40 |
 | Forêt de Pineda de Mar (3) | Pineda de Mar › Maresme | 40 |
-| Forêt de Sallent (118) | Sallent › Bages | 40 |
 | Forêt de Sant Sadurní d'Osormort (43) | Sant Sadurní d'Osormort › Osona (Barcelone) | 40 |
+| Forêt de Castellcir (12) | Castellcir › Moianès | 40 |
 | Forêt de Santa Maria de Besora | Santa Maria de Besora › Osona (Barcelone) | 39 |
-| Forêt de Oristà (2) | Oristà › Lluçanès | 39 |
 | Forêt de l'Esquirol (13) | l'Esquirol › Osona (Barcelone) | 39 |
+| Forêt de Muntanyola (8) | Muntanyola › Osona (Barcelone) | 39 |
 | Forêt de Sant Martí de Tous (9) | Sant Martí de Tous › Anoia | 39 |
-| Forêt de Rajadell (6) | Rajadell › Bages | 39 |
 | Forêt de Fonollosa (84) | Rajadell › Bages | 39 |
 | Forêt de Vilanova de Sau (28) | Vilanova de Sau › Osona (Barcelone) | 39 |
 | Forêt de Vilanova de Sau (31) | Vilanova de Sau › Osona (Barcelone) | 39 |
@@ -1353,29 +1351,29 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Gisclareny (57) | Gisclareny › Berguedà | 39 |
 | Forêt de Sora (29) | Sora › Osona (Barcelone) | 39 |
 | Forêt de Sant Feliu Sasserra (38) | Sant Feliu Sasserra › Bages | 39 |
+| Forêt de Sallent (118) | Sallent › Bages | 39 |
 | Forêt de Sant Quirze Safaja (53) | Sant Quirze Safaja › Moianès | 39 |
 | Forêt de Talamanca (42) | Navarcles › Bages | 39 |
 | Forêt de Montmajor (2) | Montmajor › Berguedà | 38 |
+| Forêt de Rajadell (6) | Rajadell › Bages | 38 |
 | Forêt de Marganell (4) | Marganell › Bages | 38 |
 | Forêt de Berga (32) | Berga › Berguedà | 38 |
 | Forêt de Calders (31) | Calders › Moianès | 38 |
 | Forêt de Talamanca (17) | Talamanca › Bages | 38 |
 | Forêt de Castellbisbal (19) | Castellbisbal › Vallès Occidental | 38 |
-| Forêt de Navàs (57) | Navàs › Bages | 38 |
 | Forêt de Montmajor (121) | Montmajor › Berguedà | 38 |
 | Forêt de Gallifa (5) | Gallifa › Vallès Occidental | 38 |
 | Forêt de Borredà (86) | Borredà › Berguedà | 38 |
 | Forêt de la Quar (44) | Sagàs › Berguedà | 38 |
 | Forêt de Borredà (104) | Borredà › Berguedà | 38 |
 | Forêt de Sant Fost de Campsentelles (11) | Sant Fost de Campsentelles › Vallès Oriental | 38 |
-| Forêt de Cabrera d'Anoia (36) | Cabrera d'Anoia › Anoia | 38 |
 | Forêt de Tordera (106) | Tordera › Maresme | 38 |
 | Forêt de Sallent (120) | Sallent › Bages | 38 |
 | Forêt de Sant Mateu de Bages (139) | Sant Mateu de Bages › Bages | 38 |
 | Forêt de Sant Climent de Llobregat (2) | Sant Climent de Llobregat › Baix Llobregat | 37 |
 | Forêt de Sant Climent de Llobregat (5) | Sant Climent de Llobregat › Baix Llobregat | 37 |
 | Forêt de Sant Sadurní d'Anoia (8) | Sant Sadurní d'Anoia › Alt Penedès | 37 |
-| Forêt de Cabrera de Mar (2) | Cabrera de Mar › Maresme | 37 |
+| Forêt de Aguilar de Segarra (14) | Aguilar de Segarra › Bages | 37 |
 | Forêt de Guardiola de Berguedà (11) | Guardiola de Berguedà › Berguedà | 37 |
 | Forêt de la Pobla de Claramunt (5) | la Pobla de Claramunt › Anoia | 37 |
 | Forêt de Avinyó (17) | Avinyó › Bages | 37 |
@@ -1384,6 +1382,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Vallromanes (10) | Vallromanes › Vallès Oriental | 37 |
 | Forêt de Mura (17) | Mura › Bages | 37 |
 | Forêt de Calonge de Segarra (10) | Calonge de Segarra › Anoia | 37 |
+| Forêt de Navàs (57) | Navàs › Bages | 37 |
 | Forêt de Castellet i la Gornal (70) | Castellet i la Gornal › Alt Penedès | 37 |
 | Forêt de Avinyonet del Penedès (57) | Avinyonet del Penedès › Alt Penedès | 37 |
 | Forêt de Sant Jaume de Frontanyà (14) | Sant Jaume de Frontanyà › Berguedà | 37 |
@@ -1393,10 +1392,11 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Julià de Vilatorta | Sant Julià de Vilatorta › Osona (Barcelone) | 37 |
 | Forêt de Pontons (14) | Pontons › Alt Penedès | 37 |
 | Forêt de Torrelles de Llobregat (180) | Torrelles de Llobregat › Baix Llobregat | 37 |
+| Forêt de Cabrera d'Anoia (36) | Cabrera d'Anoia › Anoia | 37 |
 | Forêt de Orís (2) | Orís › Osona (Barcelone) | 36 |
 | Forêt de Alella | Alella › Maresme | 36 |
 | Bois de Argentona (32) | Argentona › Maresme | 36 |
-| Forêt de Aguilar de Segarra (14) | Aguilar de Segarra › Bages | 36 |
+| Forêt de Cabrera de Mar (2) | Cabrera de Mar › Maresme | 36 |
 | Forêt de Castellar del Riu (11) | Castellar del Riu › Berguedà | 36 |
 | Forêt de Balsareny (49) | Balsareny › Bages | 36 |
 | Forêt de Monistrol de Montserrat (16) | Monistrol de Montserrat › Bages | 36 |
@@ -1447,7 +1447,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Quirze Safaja (56) | Sant Quirze Safaja › Moianès | 35 |
 | Forêt de Olost | Olost › Lluçanès | 34 |
 | Forêt de Santa Eulàlia de Ronçana | Santa Eulàlia de Ronçana › Vallès Oriental | 34 |
-| Bois de Llinars del Vallès (17) | Llinars del Vallès › Vallès Oriental | 34 |
 | Bois de Dosrius (8) | Dosrius › Maresme | 34 |
 | Bois de Copons | Copons › Anoia | 34 |
 | Bois de Copons (4) | Copons › Anoia | 34 |
@@ -1463,18 +1462,17 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Martí de Centelles (57) | Sant Martí de Centelles › Osona (Barcelone) | 34 |
 | Forêt de Aiguafreda (14) | Aiguafreda › Osona (Barcelone) | 34 |
 | Forêt de Lluçà (8) | Lluçà › Lluçanès | 34 |
-| Forêt de Santa Maria de Martorelles (2) | Santa Maria de Martorelles › Vallès Oriental | 34 |
 | Forêt de Guardiola de Berguedà (120) | Guardiola de Berguedà › Berguedà | 34 |
 | Forêt de Sant Cebrià de Vallalta (10) | Sant Cebrià de Vallalta › Maresme | 34 |
 | Forêt de Arenys de Munt (23) | Arenys de Munt › Maresme | 34 |
 | Forêt de Guardiola de Berguedà (144) | Guardiola de Berguedà › Berguedà | 34 |
-| Forêt de Sant Sadurní d'Osormort (44) | Sant Sadurní d'Osormort › Osona (Barcelone) | 34 |
 | Forêt de Gurb (61) | Gurb › Osona (Barcelone) | 34 |
 | Forêt de Sant Quirze Safaja (55) | Sant Quirze Safaja › Moianès | 34 |
 | Forêt de Sant Llorenç d'Hortons | Sant Llorenç d'Hortons › Alt Penedès | 33 |
 | Forêt de Fogars de Montclús | Fogars de Montclús › Vallès Oriental | 33 |
 | Forêt de Guardiola de Berguedà | Guardiola de Berguedà › Berguedà | 33 |
 | Forêt de Seva (2) | Seva › Osona (Barcelone) | 33 |
+| Bois de Llinars del Vallès (17) | Llinars del Vallès › Vallès Oriental | 33 |
 | Bosc de Can Sabater | Canovelles › Vallès Oriental | 33 |
 | Forêt de Olesa de Bonesvalls (32) | Olesa de Bonesvalls › Alt Penedès | 33 |
 | Forêt de Moià (16) | Moià › Moianès | 33 |
@@ -1497,6 +1495,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Martí de Centelles (64) | Sant Martí de Centelles › Osona (Barcelone) | 33 |
 | Forêt de Sant Martí de Centelles (65) | Sant Martí de Centelles › Osona (Barcelone) | 33 |
 | Forêt de Dosrius (24) | Dosrius › Maresme | 33 |
+| Forêt de Santa Maria de Martorelles (2) | Santa Maria de Martorelles › Vallès Oriental | 33 |
 | Forêt de Castellfollit del Boix (38) | Castellfollit del Boix › Bages | 33 |
 | Forêt de Saldes (41) | Saldes › Berguedà | 33 |
 | Forêt de Guardiola de Berguedà (97) | Guardiola de Berguedà › Berguedà | 33 |
@@ -1510,6 +1509,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Alpens (26) | Alpens › Lluçanès | 33 |
 | Forêt de Sant Cugat del Vallès (162) | Sant Cugat del Vallès › Vallès Occidental | 33 |
 | Forêt de Sallent (122) | Sallent › Bages | 33 |
+| Forêt de Sant Sadurní d'Osormort (44) | Sant Sadurní d'Osormort › Osona (Barcelone) | 33 |
 | Forêt de Alpens (5) | Alpens › Lluçanès | 32 |
 | Forêt de Sora (14) | Sora › Osona (Barcelone) | 32 |
 | Forêt de Granera | Granera › Moianès | 32 |
@@ -1535,9 +1535,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Avià (34) | Avià › Berguedà | 32 |
 | Forêt de Jorba (27) | Jorba › Anoia | 32 |
 | Forêt de Borredà (46) | Borredà › Berguedà | 32 |
-| Forêt de Sagàs (26) | Sagàs › Berguedà | 32 |
 | Forêt de Sagàs (33) | Sagàs › Berguedà | 32 |
 | Forêt de Oristà (111) | Oristà › Lluçanès | 32 |
+| Forêt de Santa Eulàlia de Riuprimer (9) | Santa Eulàlia de Riuprimer › Osona (Barcelone) | 32 |
 | Forêt de Sant Mateu de Bages (102) | Sant Mateu de Bages › Bages | 32 |
 | Forêt de Guardiola de Berguedà (80) | Guardiola de Berguedà › Berguedà | 32 |
 | Forêt de Guardiola de Berguedà (109) | Guardiola de Berguedà › Berguedà | 32 |
@@ -1560,6 +1560,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Aguilar de Segarra (15) | Aguilar de Segarra › Bages | 31 |
 | Forêt de Tordera (48) | Tordera › Maresme | 31 |
 | Forêt de l'Espunyola (31) | l'Espunyola › Berguedà | 31 |
+| Forêt de Sant Pol de Mar (15) | Sant Pol de Mar › Maresme | 31 |
 | Forêt de el Pont de Vilomara i Rocafort (11) | el Pont de Vilomara i Rocafort › Bages | 31 |
 | Forêt de Sant Vicenç de Castellet (18) | Sant Vicenç de Castellet › Bages | 31 |
 | Forêt de Gavà (72) | Gavà › Baix Llobregat | 31 |
@@ -1569,9 +1570,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Navàs (73) | Navàs › Bages | 31 |
 | Forêt de Dosrius (4) | Dosrius › Maresme | 31 |
 | Forêt de Sant Jaume de Frontanyà (17) | Sant Jaume de Frontanyà › Berguedà | 31 |
+| Forêt de Sagàs (26) | Sagàs › Berguedà | 31 |
 | Forêt de Santa Maria d'Oló (56) | Santa Maria d'Oló › Moianès | 31 |
 | Forêt de l'Estany (6) | l'Estany › Moianès | 31 |
-| Forêt de Santa Eulàlia de Riuprimer (9) | Santa Eulàlia de Riuprimer › Osona (Barcelone) | 31 |
 | Forêt de Balenyà (26) | Balenyà › Osona (Barcelone) | 31 |
 | Forêt de Sant Martí d'Albars (2) | Sant Martí d'Albars › Lluçanès | 31 |
 | Forêt de Pontons (12) | Pontons › Alt Penedès | 31 |
@@ -1596,13 +1597,13 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellbell i el Vilar (2) | Castellbell i el Vilar › Bages | 30 |
 | Forêt de Manresa (17) | Manresa › Bages | 30 |
 | Forêt de Cercs (10) | Cercs › Berguedà | 30 |
-| Forêt de Avinyó (52) | Avinyó › Bages | 30 |
-| Forêt de Sant Pol de Mar (15) | Sant Pol de Mar › Maresme | 30 |
 | Forêt de Corbera de Llobregat (25) | Corbera de Llobregat › Baix Llobregat | 30 |
 | Forêt de Vacarisses (37) | Vacarisses › Vallès Occidental | 30 |
 | Forêt de Marganell (13) | Marganell › Bages | 30 |
 | Forêt de Talamanca (13) | Talamanca › Bages | 30 |
+| Forêt de Calders (60) | Calders › Moianès | 30 |
 | Forêt de Aguilar de Segarra (25) | Aguilar de Segarra › Bages | 30 |
+| Forêt de Puig-reig (55) | Puig-reig › Berguedà | 30 |
 | Forêt de Viver i Serrateix (43) | Viver i Serrateix › Berguedà | 30 |
 | Forêt de Gisclareny (15) | Gisclareny › Berguedà | 30 |
 | Forêt de Sagàs (35) | Sagàs › Berguedà | 30 |
@@ -1618,21 +1619,20 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Tordera (104) | Tordera › Maresme | 30 |
 | Forêt de Calella (7) | Calella › Maresme | 30 |
 | Forêt de Sant Andreu de Llavaneres (5) | Sant Andreu de Llavaneres › Maresme | 30 |
-| Forêt de Taradell (40) | Taradell › Osona (Barcelone) | 30 |
 | Forêt de Orís | Orís › Osona (Barcelone) | 29 |
 | Forêt de Lluçà (2) | Lluçà › Lluçanès | 29 |
+| Forêt de Sora (19) | Sora › Osona (Barcelone) | 29 |
 | Bois de Vilassar de Dalt (4) | Vilassar de Dalt › Maresme | 29 |
 | Forêt de Calella | Calella › Maresme | 29 |
 | Forêt de Olesa de Bonesvalls (31) | Olesa de Bonesvalls › Alt Penedès | 29 |
 | Forêt de Esparreguera (7) | Esparreguera › Baix Llobregat | 29 |
 | Forêt de Sallent (51) | Sallent › Bages | 29 |
+| Forêt de Avinyó (52) | Avinyó › Bages | 29 |
 | Forêt de Vacarisses (20) | Vacarisses › Vallès Occidental | 29 |
 | Forêt de Sitges (53) | Sitges › Garraf | 29 |
 | Forêt de Gaià (39) | Gaià › Bages | 29 |
 | Forêt de Castell de l'Areny (25) | Castell de l'Areny › Berguedà | 29 |
 | Forêt de Vallcebre (19) | Vallcebre › Berguedà | 29 |
-| Forêt de Calders (60) | Calders › Moianès | 29 |
-| Forêt de Puig-reig (55) | Puig-reig › Berguedà | 29 |
 | Forêt de Capolat (22) | Capolat › Berguedà | 29 |
 | Forêt de Navàs (96) | Navàs › Bages | 29 |
 | Forêt de Navàs (100) | Navàs › Bages | 29 |
@@ -1650,11 +1650,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Borredà (95) | Borredà › Berguedà | 29 |
 | Forêt de Vallcebre (38) | Vallcebre › Berguedà | 29 |
 | Forêt de Montcada i Reixac (29) | Montcada i Reixac › Vallès Occidental | 29 |
+| Forêt de la Llacuna (16) | la Llacuna › Anoia | 29 |
 | Forêt de Palafolls (28) | Palafolls › Maresme | 29 |
 | Forêt de Sant Celoni (37) | Sant Celoni › Vallès Oriental | 29 |
-| Forêt de Callús (35) | Callús › Bages | 29 |
-| Forêt de Sora (19) | Sora › Osona (Barcelone) | 28 |
-| Forêt de Argençola (17) | Argençola › Anoia | 28 |
+| Forêt de Taradell (40) | Taradell › Osona (Barcelone) | 29 |
 | Forêt de Montmajor (24) | Montmajor › Berguedà | 28 |
 | Forêt de les Franqueses del Vallès (14) | les Franqueses del Vallès › Vallès Oriental | 28 |
 | Forêt de Rajadell (8) | Rajadell › Bages | 28 |
@@ -1675,6 +1674,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de els Hostalets de Pierola (22) | els Hostalets de Pierola › Anoia | 28 |
 | Forêt de Esparreguera (40) | Esparreguera › Baix Llobregat | 28 |
 | Forêt de Tagamanent (15) | Tagamanent › Vallès Oriental | 28 |
+| Forêt de Montseny (11) | Montseny › Vallès Oriental | 28 |
 | Forêt de les Franqueses del Vallès (55) | les Franqueses del Vallès › Vallès Oriental | 28 |
 | Forêt de Tona (29) | Tona › Osona (Barcelone) | 28 |
 | Forêt de Vallcebre (22) | Vallcebre › Berguedà | 28 |
@@ -1685,18 +1685,18 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Guardiola de Berguedà (131) | Guardiola de Berguedà › Berguedà | 28 |
 | Forêt de Piera (61) | Piera › Anoia | 28 |
 | Forêt de Piera (70) | Piera › Anoia | 28 |
-| Forêt de la Llacuna (16) | la Llacuna › Anoia | 28 |
 | Forêt de Tavertet (41) | Tavertet › Osona (Barcelone) | 28 |
 | Forêt de Sallent (116) | Sallent › Bages | 28 |
+| Forêt de Callús (35) | Callús › Bages | 28 |
 | Forêt de Sant Mateu de Bages (134) | Sant Mateu de Bages › Bages | 28 |
 | Forêt de Gurb (57) | Gurb › Osona (Barcelone) | 28 |
 | Forêt de Granera (38) | Granera › Moianès | 28 |
 | Forêt de Moià (66) | Moià › Moianès | 28 |
-| Forêt de el Pont de Vilomara i Rocafort (38) | el Pont de Vilomara i Rocafort › Bages | 28 |
 | Forêt de la Quar | la Quar › Berguedà | 27 |
 | Forêt de Borredà | Borredà › Berguedà | 27 |
 | Forêt de Sant Pere de Torelló | Sant Pere de Torelló › Osona (Barcelone) | 27 |
 | Forêt de Sant Feliu de Codines | Sant Feliu de Codines › Vallès Oriental | 27 |
+| Forêt de Argençola (17) | Argençola › Anoia | 27 |
 | Forêt de Olèrdola (50) | Olèrdola › Alt Penedès | 27 |
 | Forêt de Sant Esteve Sesrovires (8) | Sant Esteve Sesrovires › Baix Llobregat | 27 |
 | Forêt de Cànoves i Samalús (24) | Cànoves i Samalús › Vallès Oriental | 27 |
@@ -1719,7 +1719,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Navàs (126) | Navàs › Bages | 27 |
 | Forêt de Viver i Serrateix (89) | Viver i Serrateix › Berguedà | 27 |
 | Forêt de Gaià (63) | Gaià › Bages | 27 |
-| Forêt de Saldes (19) | Saldes › Berguedà | 27 |
+| Forêt de la Quar (8) | la Quar › Berguedà | 27 |
 | Bois de Llinars del Vallès (30) | Llinars del Vallès › Vallès Oriental | 27 |
 | Forêt de Argençola (29) | Argençola › Anoia | 27 |
 | Forêt de Olivella (114) | Olivella › Garraf | 27 |
@@ -1727,17 +1727,18 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Ullastrell (2) | Ullastrell › Vallès Occidental | 27 |
 | Forêt de Navàs (145) | Navàs › Bages | 27 |
 | Forêt de Monistrol de Calders (37) | Monistrol de Calders › Moianès | 27 |
-| Forêt de Montseny (11) | Montseny › Vallès Oriental | 27 |
 | Forêt de Sant Celoni (28) | Sant Celoni › Vallès Oriental | 27 |
 | Forêt de Castellar del Riu (45) | Castellar del Riu › Berguedà | 27 |
+| Forêt de Lluçà (27) | Lluçà › Lluçanès | 27 |
+| Forêt de la Quar (34) | la Quar › Berguedà | 27 |
 | Forêt de Vallcebre (31) | Vallcebre › Berguedà | 27 |
 | Forêt de Tordera (65) | Tordera › Maresme | 27 |
 | Forêt de Castellar de n'Hug (33) | Castellar de n'Hug › Berguedà | 27 |
 | Forêt de Mediona (95) | Mediona › Alt Penedès | 27 |
 | Forêt de Olvan (36) | Olvan › Berguedà | 27 |
 | Forêt de Sant Sadurní d'Osormort (31) | Sant Sadurní d'Osormort › Osona (Barcelone) | 27 |
-| Forêt de Vilanova de Sau (65) | Vilanova de Sau › Osona (Barcelone) | 27 |
 | Forêt de el Pont de Vilomara i Rocafort (34) | el Pont de Vilomara i Rocafort › Bages | 27 |
+| Forêt de el Pont de Vilomara i Rocafort (38) | el Pont de Vilomara i Rocafort › Bages | 27 |
 | Forêt de Sora (13) | Sora › Osona (Barcelone) | 26 |
 | Forêt de Sant Boi de Llobregat | Sant Boi de Llobregat › Baix Llobregat | 26 |
 | Forêt de Sant Llorenç d'Hortons (17) | Sant Llorenç d'Hortons › Alt Penedès | 26 |
@@ -1746,7 +1747,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sagàs (4) | Sagàs › Berguedà | 26 |
 | Forêt de Cànoves i Samalús (26) | Cànoves i Samalús › Vallès Oriental | 26 |
 | Forêt de Manresa (16) | Manresa › Bages | 26 |
-| Forêt de Sant Joan de Vilatorrada (21) | Sant Joan de Vilatorrada › Bages | 26 |
 | Forêt de Avinyó (20) | Avinyó › Bages | 26 |
 | Forêt de Balsareny (22) | Balsareny › Bages | 26 |
 | Forêt de Rajadell (36) | Rajadell › Bages | 26 |
@@ -1756,7 +1756,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Montmajor (57) | Montmajor › Berguedà | 26 |
 | Forêt de l'Espunyola (33) | l'Espunyola › Berguedà | 26 |
 | Forêt de Vacarisses (47) | Vacarisses › Vallès Occidental | 26 |
-| Forêt de el Bruc (15) | el Bruc › Anoia | 26 |
 | Forêt de Castellbell i el Vilar (54) | Castellbell i el Vilar › Bages | 26 |
 | Forêt de Borredà (12) | Borredà › Berguedà | 26 |
 | Forêt de Guardiola de Berguedà (46) | Guardiola de Berguedà › Berguedà | 26 |
@@ -1764,8 +1763,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Viver i Serrateix (91) | Viver i Serrateix › Berguedà | 26 |
 | Forêt de Santa Maria de Merlès (56) | Santa Maria de Merlès › Berguedà | 26 |
 | Forêt de Gurb (20) | Gurb › Osona (Barcelone) | 26 |
-| Forêt de Vilada (16) | Vilada › Berguedà | 26 |
-| Forêt de la Quar (8) | la Quar › Berguedà | 26 |
+| Forêt de Saldes (19) | Saldes › Berguedà | 26 |
 | Forêt de Jorba (11) | Santa Margarida de Montbui › Anoia | 26 |
 | Forêt de Jorba (30) | Jorba › Anoia | 26 |
 | Forêt de Avinyonet del Penedès (56) | Avinyonet del Penedès › Alt Penedès | 26 |
@@ -1779,20 +1777,17 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Dosrius (23) | Dosrius › Maresme | 26 |
 | Forêt de Balenyà (19) | Balenyà › Osona (Barcelone) | 26 |
 | Forêt de Gisclareny (24) | Gisclareny › Berguedà | 26 |
-| Forêt de Lluçà (27) | Lluçà › Lluçanès | 26 |
-| Forêt de la Quar (34) | la Quar › Berguedà | 26 |
 | Forêt de Sagàs (49) | Sagàs › Berguedà | 26 |
 | Forêt de Borredà (102) | Borredà › Berguedà | 26 |
 | Forêt de Borredà (117) | Borredà › Berguedà | 26 |
 | Forêt de la Pobla de Lillet (51) | la Pobla de Lillet › Berguedà | 26 |
 | Forêt de Balenyà (29) | Balenyà › Osona (Barcelone) | 26 |
-| Forêt de Sant Martí de Tous (30) | Sant Martí de Tous › Anoia | 26 |
 | Forêt de Castellar de n'Hug (45) | Castellar de n'Hug › Berguedà | 26 |
 | Forêt de Vallirana (39) | Vallirana › Baix Llobregat | 26 |
 | Forêt de Torrelles de Foix (2) | Torrelles de Foix › Alt Penedès | 26 |
-| Forêt de Lluçà (85) | Lluçà › Lluçanès | 26 |
 | Forêt de Sant Celoni (39) | Sant Celoni › Vallès Oriental | 26 |
 | Forêt de Vilanova de Sau (64) | Vilanova de Sau › Osona (Barcelone) | 26 |
+| Forêt de Vilanova de Sau (65) | Vilanova de Sau › Osona (Barcelone) | 26 |
 | Forêt de Sant Agustí de Lluçanès | Sant Agustí de Lluçanès › Osona (Barcelone) | 25 |
 | Forêt de Avinyonet del Penedès | Avinyonet del Penedès › Alt Penedès | 25 |
 | Forêt de Sant Mateu de Bages (4) | Sant Mateu de Bages › Bages | 25 |
@@ -1801,6 +1796,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Calonge de Segarra (9) | Calonge de Segarra › Anoia | 25 |
 | Forêt de la Garriga (36) | la Garriga › Vallès Oriental | 25 |
 | Forêt de el Brull (11) | el Brull › Osona (Barcelone) | 25 |
+| Forêt de Sant Joan de Vilatorrada (21) | Sant Joan de Vilatorrada › Bages | 25 |
 | Forêt de Balsareny (21) | Balsareny › Bages | 25 |
 | Forêt de Vallcebre (18) | Vallcebre › Berguedà | 25 |
 | Forêt de Lliçà de Vall (5) | Lliçà de Vall › Vallès Oriental | 25 |
@@ -1809,6 +1805,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellví de Rosanes (5) | Castellví de Rosanes › Baix Llobregat | 25 |
 | Forêt de Corbera de Llobregat (17) | Corbera de Llobregat › Baix Llobregat | 25 |
 | Forêt de Guardiola de Berguedà (37) | Guardiola de Berguedà › Berguedà | 25 |
+| Forêt de el Bruc (15) | el Bruc › Anoia | 25 |
 | Forêt de Sant Vicenç de Castellet (21) | Sant Vicenç de Castellet › Bages | 25 |
 | Forêt de Begues (38) | Begues › Baix Llobregat | 25 |
 | Forêt de Santa Maria d'Oló (32) | Santa Maria d'Oló › Moianès | 25 |
@@ -1816,19 +1813,23 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de la Pobla de Lillet (13) | la Pobla de Lillet › Berguedà | 25 |
 | Forêt de Cercs (48) | Cercs › Berguedà | 25 |
 | Forêt de la Pobla de Lillet (31) | la Pobla de Lillet › Berguedà | 25 |
-| Forêt de Mura (31) | Mura › Bages | 25 |
 | Forêt de Calders (61) | Calders › Moianès | 25 |
 | Forêt de el Bruc (44) | el Bruc › Anoia | 25 |
 | Forêt de Navàs (79) | Navàs › Bages | 25 |
 | Forêt de Navàs (135) | Navàs › Bages | 25 |
 | Forêt de Gaià (59) | Gaià › Bages | 25 |
+| Forêt de Vilada (16) | Vilada › Berguedà | 25 |
 | Forêt de Canyelles (6) | Canyelles › Garraf | 25 |
+| Forêt de Sant Antoni de Vilamajor (39) | Sant Antoni de Vilamajor › Vallès Oriental | 25 |
 | Forêt de Sant Antoni de Vilamajor (41) | Sant Antoni de Vilamajor › Vallès Oriental | 25 |
 | Forêt de Vallcebre (21) | Vallcebre › Berguedà | 25 |
 | Forêt de Borredà (90) | Borredà › Berguedà | 25 |
 | Forêt de la Pobla de Lillet (57) | la Pobla de Lillet › Berguedà | 25 |
+| Forêt de Montmajor (135) | Montmajor › Berguedà | 25 |
 | Forêt de Vallromanes (14) | Vallromanes › Vallès Oriental | 25 |
+| Forêt de Sant Martí de Tous (30) | Sant Martí de Tous › Anoia | 25 |
 | Forêt de Carme (6) | Carme › Anoia | 25 |
+| Forêt de Lluçà (85) | Alpens › Lluçanès | 25 |
 | Forêt de Sant Cebrià de Vallalta (4) | Sant Cebrià de Vallalta › Maresme | 25 |
 | Forêt de Tordera (108) | Tordera › Maresme | 25 |
 | Forêt de Castellnou de Bages (54) | Castellnou de Bages › Bages | 25 |
@@ -1839,22 +1840,25 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Pontons (5) | Pontons › Alt Penedès | 24 |
 | Forêt de Sant Boi de Lluçanès | Sant Boi de Lluçanès › Osona (Barcelone) | 24 |
 | Forêt de la Roca del Vallès | la Roca del Vallès › Vallès Oriental | 24 |
+| Forêt de Òdena (10) | Òdena › Anoia | 24 |
 | Forêt de Molins de Rei (3) | Molins de Rei › Baix Llobregat | 24 |
 | Forêt de Rubí (16) | Rubí › Vallès Occidental | 24 |
 | Forêt de Cercs (3) | Cercs › Berguedà | 24 |
 | Forêt de Sant Joan de Vilatorrada (61) | Fonollosa › Bages | 24 |
+| Forêt de Oristà (100) | Oristà › Lluçanès | 24 |
 | Forêt de Sant Feliu Sasserra (10) | Sant Feliu Sasserra › Bages | 24 |
 | Forêt de Navàs (25) | Navàs › Bages | 24 |
 | Forêt de Vacarisses (16) | Vacarisses › Vallès Occidental | 24 |
 | Forêt de Vacarisses (46) | Vacarisses › Vallès Occidental | 24 |
+| Forêt de Sant Vicenç de Castellet (12) | Sant Vicenç de Castellet › Bages | 24 |
 | Forêt de Cercs (31) | Cercs › Berguedà | 24 |
 | Forêt de Santa Maria de Besora (14) | Santa Maria de Besora › Osona (Barcelone) | 24 |
 | Forêt de Guardiola de Berguedà (44) | Guardiola de Berguedà › Berguedà | 24 |
+| Forêt de Mura (31) | Mura › Bages | 24 |
 | Forêt de Casserres (26) | Casserres › Berguedà | 24 |
 | Forêt de Gurb (21) | Gurb › Osona (Barcelone) | 24 |
 | Forêt de Castellet i la Gornal (71) | Castellet i la Gornal › Alt Penedès | 24 |
 | Forêt de Ullastrell (3) | Ullastrell › Vallès Occidental | 24 |
-| Forêt de Sant Antoni de Vilamajor (39) | Sant Antoni de Vilamajor › Vallès Oriental | 24 |
 | Forêt de Tagamanent (19) | Tagamanent › Vallès Oriental | 24 |
 | Forêt de Sant Martí de Centelles (53) | Sant Martí de Centelles › Osona (Barcelone) | 24 |
 | Forêt de Figaró-Montmany (6) | Figaró-Montmany › Vallès Oriental | 24 |
@@ -1864,12 +1868,12 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Muntanyola (34) | Muntanyola › Osona (Barcelone) | 24 |
 | Forêt de Gisclareny (43) | Gisclareny › Berguedà | 24 |
 | Forêt de la Quar (30) | la Quar › Berguedà | 24 |
-| Forêt de Montmajor (135) | Montmajor › Berguedà | 24 |
 | Forêt de Sant Fost de Campsentelles (13) | Sant Fost de Campsentelles › Vallès Oriental | 24 |
 | Forêt de Castellar de n'Hug (31) | Castellar de n'Hug › Berguedà | 24 |
 | Forêt de Castellar de n'Hug (36) | Castellar de n'Hug › Berguedà | 24 |
 | Bois de Piera (7) | Piera › Anoia | 24 |
 | Forêt de Piera (66) | Piera › Anoia | 24 |
+| Forêt de Piera (79) | Piera › Anoia | 24 |
 | Forêt de la Llacuna (21) | la Llacuna › Anoia | 24 |
 | Forêt de Lluçà (69) | Lluçà › Lluçanès | 24 |
 | Forêt de Sant Iscle de Vallalta (7) | Sant Iscle de Vallalta › Maresme | 24 |
@@ -1885,15 +1889,12 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Pere de Ribes (2) | Sant Pere de Ribes › Garraf | 23 |
 | Forêt de Vilanova de Sau (11) | Vilanova de Sau › Osona (Barcelone) | 23 |
 | Forêt de Olèrdola (4) | Olèrdola › Alt Penedès | 23 |
-| Forêt de Òdena (10) | Òdena › Anoia | 23 |
 | Bois de Òrrius (23) | Òrrius › Maresme | 23 |
 | Bois de Cabrils (11) | Cabrils › Maresme | 23 |
 | Forêt de l'Espunyola (7) | l'Espunyola › Berguedà | 23 |
 | Forêt de Sallent (47) | Sallent › Bages | 23 |
 | Forêt de Manresa (22) | Manresa › Bages | 23 |
 | Forêt de Cerdanyola del Vallès (56) | Cerdanyola del Vallès › Vallès Occidental | 23 |
-| Forêt de Oristà (100) | Oristà › Lluçanès | 23 |
-| Forêt de Sant Vicenç de Castellet (12) | Sant Vicenç de Castellet › Bages | 23 |
 | Forêt de Sant Salvador de Guardiola (53) | Sant Salvador de Guardiola › Bages | 23 |
 | Forêt de Gaià (50) | Gaià › Bages | 23 |
 | Forêt de Sant Pere de Vilamajor (85) | Sant Pere de Vilamajor › Vallès Oriental | 23 |
@@ -1916,7 +1917,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Guardiola de Berguedà (100) | Guardiola de Berguedà › Berguedà | 23 |
 | Forêt de Borredà (96) | Borredà › Berguedà | 23 |
 | Forêt de Mediona (58) | Mediona › Alt Penedès | 23 |
-| Forêt de Piera (79) | Piera › Anoia | 23 |
 | Forêt de Sant Quintí de Mediona (14) | Sant Quintí de Mediona › Alt Penedès | 23 |
 | Forêt de Tavertet (54) | Tavertet › Osona (Barcelone) | 23 |
 | Forêt de Tavertet (78) | Tavertet › Osona (Barcelone) | 23 |
@@ -1951,7 +1951,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Talamanca (29) | Talamanca › Bages | 22 |
 | Forêt de Sant Salvador de Guardiola (71) | Sant Salvador de Guardiola › Bages | 22 |
 | Forêt de Viver i Serrateix (32) | Viver i Serrateix › Berguedà | 22 |
-| Forêt de Puig-reig (60) | Puig-reig › Berguedà | 22 |
 | Forêt de Gaià (68) | Gaià › Bages | 22 |
 | Forêt de Sant Feliu Sasserra (13) | Sant Feliu Sasserra › Bages | 22 |
 | Forêt de Saldes (21) | Saldes › Berguedà | 22 |
@@ -1968,13 +1967,13 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Badalona (30) | Badalona › Barcelonès | 22 |
 | Forêt de Tiana (14) | Tiana › Maresme | 22 |
 | Forêt de Alella (3) | Alella › Maresme | 22 |
+| Forêt de Vallirana (36) | Vallirana › Baix Llobregat | 22 |
 | Forêt de Montmajor (141) | Montmajor › Berguedà | 22 |
 | Forêt de la Pobla de Claramunt (21) | la Pobla de Claramunt › Anoia | 22 |
 | Forêt de Sant Pere de Riudebitlles (2) | Sant Pere de Riudebitlles › Alt Penedès | 22 |
 | Forêt de Font-rubí (23) | Font-rubí › Alt Penedès | 22 |
 | Forêt de Puig-reig (87) | Puig-reig › Berguedà | 22 |
 | Forêt de Tavertet (74) | Tavertet › Osona (Barcelone) | 22 |
-| Forêt de Castellnou de Bages (55) | Castellnou de Bages › Bages | 22 |
 | Forêt de Sant Julià de Vilatorta (9) | Sant Julià de Vilatorta › Osona (Barcelone) | 22 |
 | Forêt de Sant Sadurní d'Osormort (49) | Sant Sadurní d'Osormort › Osona (Barcelone) | 22 |
 | Forêt de Sant Climent de Llobregat | Sant Climent de Llobregat › Baix Llobregat | 21 |
@@ -2008,6 +2007,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Esteve de Palautordera (11) | Sant Esteve de Palautordera › Vallès Oriental | 21 |
 | Forêt de Castellar de n'Hug (15) | Castellar de n'Hug › Berguedà | 21 |
 | Forêt de Navàs (54) | Navàs › Bages | 21 |
+| Forêt de Puig-reig (60) | Puig-reig › Berguedà | 21 |
 | Forêt de Montmajor (118) | Montmajor › Berguedà | 21 |
 | Forêt de Santa Maria de Merlès (57) | Santa Maria de Merlès › Berguedà | 21 |
 | Forêt de Borredà (31) | Borredà › Berguedà | 21 |
@@ -2020,7 +2020,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Fogars de Montclús (14) | Fogars de Montclús › Vallès Oriental | 21 |
 | Forêt de Mataró (6) | Mataró › Maresme | 21 |
 | Forêt de Dosrius (21) | Dosrius › Maresme | 21 |
-| Forêt de Saldes (44) | Saldes › Berguedà | 21 |
 | Forêt de Borredà (101) | Borredà › Berguedà | 21 |
 | Forêt de Gisclareny (59) | Gisclareny › Berguedà | 21 |
 | Forêt de Fogars de la Selva (20) | Fogars de la Selva › la Selva (Barcelone) | 21 |
@@ -2028,7 +2027,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Torrelles de Foix (6) | Torrelles de Foix › Alt Penedès | 21 |
 | Forêt de Castellar de n'Hug (30) | Castellar de n'Hug › Berguedà | 21 |
 | Forêt de Castellar de n'Hug (44) | Castellar de n'Hug › Berguedà | 21 |
-| Forêt de Vallirana (36) | Vallirana › Baix Llobregat | 21 |
 | Forêt de la Llacuna (12) | la Llacuna › Anoia | 21 |
 | Forêt de Piera (54) | Piera › Anoia | 21 |
 | Forêt de Mediona (86) | Mediona › Alt Penedès | 21 |
@@ -2040,6 +2038,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Fogars de la Selva (28) | Fogars de la Selva › la Selva (Barcelone) | 21 |
 | Forêt de Gualba (15) | Gualba › Vallès Oriental | 21 |
 | Forêt de Santpedor (30) | Santpedor › Bages | 21 |
+| Forêt de Castellnou de Bages (55) | Castellnou de Bages › Bages | 21 |
 | Forêt de Fonollosa (153) | Fonollosa › Bages | 21 |
 | Forêt de Talamanca (40) | Talamanca › Bages | 21 |
 | Forêt de Bigues i Riells del Fai | Bigues i Riells del Fai › Vallès Oriental | 20 |
@@ -2058,6 +2057,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Abrera (11) | Abrera › Baix Llobregat | 20 |
 | Forêt de Sant Salvador de Guardiola (41) | Sant Salvador de Guardiola › Bages | 20 |
 | Forêt de Castellbell i el Vilar (35) | Castellbell i el Vilar › Bages | 20 |
+| Forêt de Sant Salvador de Guardiola (47) | Sant Salvador de Guardiola › Bages | 20 |
 | Forêt de Avinyó (79) | Avinyó › Bages | 20 |
 | Forêt de Puig-reig (52) | Puig-reig › Berguedà | 20 |
 | Forêt de Gaià (36) | Gaià › Bages | 20 |
@@ -2084,17 +2084,20 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Oristà (113) | Oristà › Lluçanès | 20 |
 | Forêt de Dosrius (31) | Dosrius › Maresme | 20 |
 | Forêt de Saldes (29) | Saldes › Berguedà | 20 |
+| Forêt de Saldes (44) | Saldes › Berguedà | 20 |
 | Forêt de Fígols (24) | Fígols › Berguedà | 20 |
 | Forêt de la Pobla de Lillet (39) | la Pobla de Lillet › Berguedà | 20 |
 | Forêt de Barcelona (60) | Barcelona › Barcelonès | 20 |
 | Forêt de Sant Fost de Campsentelles (14) | Sant Fost de Campsentelles › Vallès Oriental | 20 |
+| Forêt de Sant Martí de Tous (47) | Sant Martí de Tous › Anoia | 20 |
 | Forêt de Begues (82) | Begues › Baix Llobregat | 20 |
 | Forêt de Mediona (11) | Mediona › Alt Penedès | 20 |
 | Forêt de Sant Sadurní d'Anoia (26) | Sant Sadurní d'Anoia › Alt Penedès | 20 |
+| Forêt de Lluçà (55) | Borredà › Berguedà | 20 |
 | Forêt de Sant Cugat del Vallès (159) | Sant Cugat del Vallès › Vallès Occidental | 20 |
 | Forêt de Sant Andreu de Llavaneres (8) | Sant Andreu de Llavaneres › Maresme | 20 |
+| Forêt de Sant Celoni (42) | Sant Celoni › Vallès Oriental | 20 |
 | Forêt de Sant Cugat del Vallès (163) | Sant Cugat del Vallès › Vallès Occidental | 20 |
-| Forêt de Callús (25) | Callús › Bages | 20 |
 | Forêt de Sant Joan de Vilatorrada (75) | Sant Joan de Vilatorrada › Bages | 20 |
 | Forêt de Vallcebre (72) | Vallcebre › Berguedà | 20 |
 | Forêt de Sant Sadurní d'Osormort (51) | Sant Sadurní d'Osormort › Osona (Barcelone) | 20 |
@@ -2120,8 +2123,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Montmajor (73) | Montmajor › Berguedà | 19 |
 | Forêt de Guardiola de Berguedà (35) | Guardiola de Berguedà › Berguedà | 19 |
 | Forêt de Castellbell i el Vilar (43) | Castellbell i el Vilar › Bages | 19 |
-| Forêt de Sant Vicenç de Castellet (17) | Sant Vicenç de Castellet › Bages | 19 |
-| Forêt de Sant Salvador de Guardiola (47) | Sant Salvador de Guardiola › Bages | 19 |
 | Forêt de Avinyó (78) | Avinyó › Bages | 19 |
 | Forêt de el Pont de Vilomara i Rocafort (25) | el Pont de Vilomara i Rocafort › Bages | 19 |
 | Forêt de el Pont de Vilomara i Rocafort (26) | el Pont de Vilomara i Rocafort › Bages | 19 |
@@ -2147,7 +2148,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Quirze Safaja (16) | Sant Quirze Safaja › Moianès | 19 |
 | Forêt de Santa Eulàlia de Riuprimer (26) | Santa Eulàlia de Riuprimer › Osona (Barcelone) | 19 |
 | Forêt de Oristà (117) | Oristà › Lluçanès | 19 |
-| Forêt de Santa Maria de Merlès (125) | Sant Feliu Sasserra › Bages | 19 |
 | Forêt de Vallgorguina | Vilalba Sasserra › Vallès Oriental | 19 |
 | Forêt de Vallgorguina (8) | Vallgorguina › Vallès Oriental | 19 |
 | Forêt de Guardiola de Berguedà (68) | Guardiola de Berguedà › Berguedà | 19 |
@@ -2159,31 +2159,25 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de la Quar (39) | la Quar › Berguedà | 19 |
 | Forêt de Barcelona (61) | Barcelona › Barcelonès | 19 |
 | Forêt de Sant Martí de Tous (46) | Sant Martí de Tous › Anoia | 19 |
-| Forêt de Sant Martí de Tous (47) | Sant Martí de Tous › Anoia | 19 |
 | Forêt de Castellar de n'Hug (40) | Castellar de n'Hug › Berguedà | 19 |
 | Forêt de Oristà (157) | Oristà › Lluçanès | 19 |
 | Forêt de Abrera (35) | Abrera › Baix Llobregat | 19 |
 | Forêt de Mediona (88) | Mediona › Alt Penedès | 19 |
 | Forêt de Òdena (102) | Òdena › Anoia | 19 |
-| Forêt de Lluçà (55) | Borredà › Berguedà | 19 |
 | Forêt de Lluçà (80) | Lluçà › Lluçanès | 19 |
-| Forêt de Pineda de Mar (2) | Pineda de Mar › Maresme | 19 |
 | Forêt de Sant Andreu de Llavaneres (6) | Sant Andreu de Llavaneres › Maresme | 19 |
 | Forêt de Sant Vicenç de Montalt (6) | Sant Vicenç de Montalt › Maresme | 19 |
-| Forêt de Sant Celoni (42) | Sant Celoni › Vallès Oriental | 19 |
 | Forêt de Fogars de la Selva (27) | Fogars de la Selva › la Selva (Barcelone) | 19 |
 | Forêt de Gualba (24) | Gualba › Vallès Oriental | 19 |
 | Forêt de Sant Celoni (71) | Sant Celoni › Vallès Oriental | 19 |
 | Forêt de Castellnou de Bages (53) | Castellnou de Bages › Bages | 19 |
+| Forêt de Callús (25) | Callús › Bages | 19 |
 | Forêt de Folgueroles (9) | Folgueroles › Osona (Barcelone) | 19 |
 | Bois de els Hostalets de Pierola (4) | els Hostalets de Pierola › Anoia | 19 |
-| Forêt de Gurb (33) | Gurb › Osona (Barcelone) | 19 |
-| Forêt de Sant Quirze Safaja (57) | Sant Quirze Safaja › Moianès | 19 |
 | Forêt de el Pont de Vilomara i Rocafort (50) | el Pont de Vilomara i Rocafort › Bages | 19 |
 | Forêt de Moià | Moià › Moianès | 18 |
 | Forêt de Sant Celoni (2) | Sant Celoni › Vallès Oriental | 18 |
 | Forêt de els Hostalets de Pierola (4) | els Hostalets de Pierola › Anoia | 18 |
-| Forêt de Rupit i Pruit (8) | Rupit i Pruit › Osona (Barcelone) | 18 |
 | Forêt de els Hostalets de Pierola (7) | els Hostalets de Pierola › Anoia | 18 |
 | Forêt de Sant Climent de Llobregat (9) | Sant Climent de Llobregat › Baix Llobregat | 18 |
 | Forêt de Subirats (82) | Subirats › Alt Penedès | 18 |
@@ -2208,13 +2202,14 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Guardiola de Berguedà (21) | Guardiola de Berguedà › Berguedà | 18 |
 | Forêt de Esparreguera (18) | Esparreguera › Baix Llobregat | 18 |
 | Forêt de Marganell (11) | Marganell › Bages | 18 |
+| Forêt de Sant Vicenç de Castellet (17) | Sant Vicenç de Castellet › Bages | 18 |
 | Forêt de Sant Vicenç de Castellet (19) | Sant Vicenç de Castellet › Bages | 18 |
+| Bois de Vilanova del Vallès (12) | Vilanova del Vallès › Vallès Oriental | 18 |
 | Forêt de Castell de l'Areny (6) | Castell de l'Areny › Berguedà | 18 |
 | Forêt de Castell de l'Areny (8) | Castell de l'Areny › Berguedà | 18 |
 | Forêt de la Pobla de Lillet (22) | la Pobla de Lillet › Berguedà | 18 |
 | Forêt de Mura (28) | Mura › Bages | 18 |
 | Forêt de Talamanca (24) | Talamanca › Bages | 18 |
-| Forêt de Sant Vicenç de Castellet (32) | Sant Vicenç de Castellet › Bages | 18 |
 | Forêt de Rajadell (40) | Rajadell › Bages | 18 |
 | Forêt de Castellbisbal (14) | Castellbisbal › Vallès Occidental | 18 |
 | Forêt de Navàs (88) | Navàs › Bages | 18 |
@@ -2233,12 +2228,12 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Olivella (115) | Olivella › Garraf | 18 |
 | Forêt de Canyelles (14) | Canyelles › Garraf | 18 |
 | Forêt de Bagà (31) | Bagà › Berguedà | 18 |
-| Forêt de la Quar (14) | la Quar › Berguedà | 18 |
 | Forêt de Muntanyola (17) | Muntanyola › Osona (Barcelone) | 18 |
 | Forêt de el Brull (22) | el Brull › Osona (Barcelone) | 18 |
 | Forêt de Sant Martí de Centelles (52) | Sant Martí de Centelles › Osona (Barcelone) | 18 |
 | Forêt de Figaró-Montmany (9) | Figaró-Montmany › Vallès Oriental | 18 |
 | Forêt de Sant Quirze Safaja (45) | Sant Quirze Safaja › Moianès | 18 |
+| Forêt de Santa Maria de Merlès (125) | Sant Feliu Sasserra › Bages | 18 |
 | Forêt de Arenys de Munt (7) | Arenys de Munt › Maresme | 18 |
 | Forêt de Saldes (37) | Saldes › Berguedà | 18 |
 | Forêt de Saldes (99) | Saldes › Berguedà | 18 |
@@ -2247,11 +2242,13 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellar de n'Hug (55) | Castellar de n'Hug › Berguedà | 18 |
 | Forêt de Begues (79) | Begues › Baix Llobregat | 18 |
 | Forêt de Terrassa (88) | Terrassa › Vallès Occidental | 18 |
+| Forêt de Torrelavit (25) | Torrelavit › Alt Penedès | 18 |
 | Forêt de Sant Quintí de Mediona (11) | Sant Quintí de Mediona › Alt Penedès | 18 |
 | Forêt de Mediona (84) | Mediona › Alt Penedès | 18 |
 | Forêt de Torrelles de Foix | Torrelles de Foix › Alt Penedès | 18 |
 | Forêt de Lluçà (71) | Lluçà › Lluçanès | 18 |
 | Forêt de Lluçà (75) | Lluçà › Lluçanès | 18 |
+| Forêt de Pineda de Mar (2) | Pineda de Mar › Maresme | 18 |
 | Forêt de Arenys de Munt (17) | Arenys de Munt › Maresme | 18 |
 | Forêt de Sant Andreu de Llavaneres (7) | Sant Andreu de Llavaneres › Maresme | 18 |
 | Forêt de Sallent (129) | Sallent › Bages | 18 |
@@ -2259,11 +2256,14 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Sadurní d'Osormort (36) | Sant Sadurní d'Osormort › Osona (Barcelone) | 18 |
 | Forêt de Vilanova de Sau (67) | Vilanova de Sau › Osona (Barcelone) | 18 |
 | Forêt de Seva (38) | Seva › Osona (Barcelone) | 18 |
+| Forêt de Gurb (33) | Gurb › Osona (Barcelone) | 18 |
+| Forêt de Sant Quirze Safaja (57) | Sant Quirze Safaja › Moianès | 18 |
 | Forêt de Bellprat (4) | Bellprat › Anoia | 17 |
 | Forêt de Santa Maria de Martorelles | Santa Maria de Martorelles › Vallès Oriental | 17 |
 | Forêt de la Quar (2) | la Quar › Berguedà | 17 |
 | Forêt de Sant Sadurní d'Osormort (6) | Sant Sadurní d'Osormort › Osona (Barcelone) | 17 |
 | Forêt de Sant Fost de Campsentelles | Sant Fost de Campsentelles › Vallès Oriental | 17 |
+| Forêt de Rupit i Pruit (8) | Rupit i Pruit › Osona (Barcelone) | 17 |
 | Forêt de Seva (3) | Seva › Osona (Barcelone) | 17 |
 | Forêt de el Pla del Penedès | el Pla del Penedès › Alt Penedès | 17 |
 | Forêt de Fogars de Montclús (5) | Fogars de Montclús › Vallès Oriental | 17 |
@@ -2285,9 +2285,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Vicenç de Castellet (5) | Sant Vicenç de Castellet › Bages | 17 |
 | Forêt de Òdena (38) | Òdena › Anoia | 17 |
 | Forêt de les Franqueses del Vallès (47) | les Franqueses del Vallès › Vallès Oriental | 17 |
-| Bois de Vilanova del Vallès (12) | Vilanova del Vallès › Vallès Oriental | 17 |
 | Forêt de Guardiola de Berguedà (50) | Guardiola de Berguedà › Berguedà | 17 |
-| Forêt de Guardiola de Berguedà (55) | Guardiola de Berguedà › Berguedà | 17 |
+| Forêt de Sant Vicenç de Castellet (32) | Sant Vicenç de Castellet › Bages | 17 |
 | Forêt de Castellfollit del Boix (22) | Castellfollit del Boix › Bages | 17 |
 | Forêt de Sant Salvador de Guardiola (101) | Sant Salvador de Guardiola › Bages | 17 |
 | Forêt de Vacarisses (57) | Vacarisses › Vallès Occidental | 17 |
@@ -2307,6 +2306,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Jaume de Frontanyà (18) | Sant Jaume de Frontanyà › Berguedà | 17 |
 | Forêt de Borredà (53) | Borredà › Berguedà | 17 |
 | Forêt de Santa Maria de Merlès (81) | Santa Maria de Merlès › Berguedà | 17 |
+| Forêt de la Quar (14) | la Quar › Berguedà | 17 |
 | Forêt de la Quar (24) | la Quar › Berguedà | 17 |
 | Forêt de Santa Maria d'Oló (52) | Santa Maria d'Oló › Moianès | 17 |
 | Forêt de Fogars de Montclús (18) | Fogars de Montclús › Vallès Oriental | 17 |
@@ -2326,7 +2326,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Piera (25) | Piera › Anoia | 17 |
 | Forêt de Piera (30) | Piera › Anoia | 17 |
 | Forêt de Begues (80) | Begues › Baix Llobregat | 17 |
-| Forêt de Torrelavit (25) | Torrelavit › Alt Penedès | 17 |
 | Forêt de Mediona (87) | Mediona › Alt Penedès | 17 |
 | Forêt de Lluçà (72) | Lluçà › Lluçanès | 17 |
 | Forêt de Lluçà (81) | Lluçà › Lluçanès | 17 |
@@ -2368,7 +2367,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bosc del Forn de Can Rovira | Lliçà d'Amunt › Vallès Oriental | 16 |
 | Forêt de Montmajor (67) | Montmajor › Berguedà | 16 |
 | Forêt de Oristà (94) | Oristà › Lluçanès | 16 |
-| Forêt de Sant Feliu Sasserra (9) | Sant Feliu Sasserra › Bages | 16 |
 | Forêt de Rubí (72) | Rubí › Vallès Occidental | 16 |
 | Forêt de Vacarisses (49) | Vacarisses › Vallès Occidental | 16 |
 | Forêt de Gavà (78) | Gavà › Baix Llobregat | 16 |
@@ -2379,6 +2377,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de la Pobla de Lillet (21) | la Pobla de Lillet › Berguedà | 16 |
 | Forêt de Castellar de n'Hug (10) | Castellar de n'Hug › Berguedà | 16 |
 | Forêt de la Pobla de Lillet (34) | la Pobla de Lillet › Berguedà | 16 |
+| Forêt de Guardiola de Berguedà (55) | Guardiola de Berguedà › Berguedà | 16 |
 | Forêt de Talamanca (30) | Talamanca › Bages | 16 |
 | Forêt de Sant Pere Sallavinera (36) | Sant Pere Sallavinera › Anoia | 16 |
 | Forêt de Sant Pere Sallavinera (37) | Sant Pere Sallavinera › Anoia | 16 |
@@ -2387,7 +2386,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Puig-reig (66) | Puig-reig › Berguedà | 16 |
 | Forêt de Puig-reig (70) | Puig-reig › Berguedà | 16 |
 | Forêt de Santa Maria de Merlès (15) | Santa Maria de Merlès › Berguedà | 16 |
-| Forêt de Santa Maria de Merlès (24) | Santa Maria de Merlès › Berguedà | 16 |
 | Forêt de Montmajor (114) | Montmajor › Berguedà | 16 |
 | Forêt de Gaià (62) | Gaià › Bages | 16 |
 | Forêt de Santa Maria de Merlès (25) | Santa Maria de Merlès › Berguedà | 16 |
@@ -2406,7 +2404,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Saldes (64) | Saldes › Berguedà | 16 |
 | Forêt de Bagà (52) | Bagà › Berguedà | 16 |
 | Forêt de Guardiola de Berguedà (96) | Guardiola de Berguedà › Berguedà | 16 |
-| Forêt de Fígols (34) | Fígols › Berguedà | 16 |
 | Forêt de Sant Martí de Centelles (77) | Sant Martí de Centelles › Osona (Barcelone) | 16 |
 | Forêt de Sant Feliu Sasserra (35) | Sant Feliu Sasserra › Bages | 16 |
 | Forêt de Castellar de n'Hug (29) | Castellar de n'Hug › Berguedà | 16 |
@@ -2436,11 +2433,14 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de els Prats de Rei (2) | els Prats de Rei › Anoia | 15 |
 | Bois de Argentona (49) | Argentona › Maresme | 15 |
 | Forêt de l'Ametlla del Vallès (6) | l'Ametlla del Vallès › Vallès Oriental | 15 |
+| Forêt de Cardona (12) | Cardona › Bages | 15 |
 | Bois de Veciana (12) | Veciana › Anoia | 15 |
 | Forêt de Fogars de Montclús (9) | Fogars de Montclús › Vallès Oriental | 15 |
 | Forêt de Tagamanent (13) | Tagamanent › Vallès Oriental | 15 |
 | Forêt de Matadepera (209) | Matadepera › Vallès Occidental | 15 |
 | Forêt de Avinyó (49) | Avinyó › Bages | 15 |
+| Forêt de Oristà (105) | Oristà › Lluçanès | 15 |
+| Forêt de Sant Feliu Sasserra (9) | Sant Feliu Sasserra › Bages | 15 |
 | Forêt de Castellbell i el Vilar (37) | Castellbell i el Vilar › Bages | 15 |
 | Forêt de Rellinars (8) | Rellinars › Vallès Occidental | 15 |
 | Forêt de Rellinars (9) | Rellinars › Vallès Occidental | 15 |
@@ -2458,15 +2458,16 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Fígols (9) | Fígols › Berguedà | 15 |
 | Forêt de Sant Vicenç de Castellet (31) | Sant Vicenç de Castellet › Bages | 15 |
 | Forêt de Terrassa (75) | Terrassa › Vallès Occidental | 15 |
+| Forêt de Castellbisbal (15) | Castellbisbal › Vallès Occidental | 15 |
 | Forêt de Súria (24) | Súria › Bages | 15 |
 | Forêt de Navàs (80) | Navàs › Bages | 15 |
 | Forêt de Viver i Serrateix (37) | Viver i Serrateix › Berguedà | 15 |
+| Forêt de Santa Maria de Merlès (24) | Santa Maria de Merlès › Berguedà | 15 |
 | Forêt de Avià (18) | Avià › Berguedà | 15 |
 | Forêt de Avià (24) | Avià › Berguedà | 15 |
 | Forêt de Casserres (25) | Casserres › Berguedà | 15 |
 | Forêt de Viver i Serrateix (77) | Viver i Serrateix › Berguedà | 15 |
 | Forêt de Montmajor (109) | Montmajor › Berguedà | 15 |
-| Forêt de Santa Maria de Merlès (35) | Santa Maria de Merlès › Berguedà | 15 |
 | Forêt de Sant Bartomeu del Grau (11) | Sant Bartomeu del Grau › Osona (Barcelone) | 15 |
 | Forêt de Vic (30) | Santa Eulàlia de Riuprimer › Osona (Barcelone) | 15 |
 | Forêt de Saldes (25) | Saldes › Berguedà | 15 |
@@ -2480,11 +2481,13 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de el Brull (38) | el Brull › Osona (Barcelone) | 15 |
 | Forêt de Montseny (21) | Montseny › Vallès Oriental | 15 |
 | Forêt de Sant Quirze Safaja (46) | Sant Quirze Safaja › Moianès | 15 |
+| Forêt de Santa Maria d'Oló (76) | Santa Maria d'Oló › Moianès | 15 |
 | Forêt de Sant Pere de Vilamajor (96) | Sant Pere de Vilamajor › Vallès Oriental | 15 |
 | Forêt de Argentona (4) | Argentona › Maresme | 15 |
 | Forêt de Collsuspina (10) | Collsuspina › Moianès | 15 |
 | Forêt de Saldes (36) | Saldes › Berguedà | 15 |
 | Forêt de Bagà (65) | Bagà › Berguedà | 15 |
+| Forêt de Fígols (34) | Fígols › Berguedà | 15 |
 | Forêt de Olost (6) | Olost › Lluçanès | 15 |
 | Forêt de Lluçà (40) | Lluçà › Lluçanès | 15 |
 | Forêt de Gisclareny (54) | Gisclareny › Berguedà | 15 |
@@ -2507,7 +2510,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de el Pont de Vilomara i Rocafort (47) | el Pont de Vilomara i Rocafort › Bages | 15 |
 | Forêt de Sant Martí d'Albars (4) | Sant Martí d'Albars › Lluçanès | 15 |
 | Parc del Guinardó | Barcelona › Barcelonès | 14 |
-| Forêt de Collsuspina | Collsuspina › Moianès | 14 |
 | Forêt de Castellfollit del Boix (2) | Castellfollit del Boix › Bages | 14 |
 | Forêt de Fogars de Montclús (2) | Fogars de Montclús › Vallès Oriental | 14 |
 | Forêt de Vilanova de Sau (7) | Vilanova de Sau › Osona (Barcelone) | 14 |
@@ -2522,7 +2524,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de la Roca del Vallès (7) | la Roca del Vallès › Vallès Oriental | 14 |
 | Bois de la Roca del Vallès (13) | la Roca del Vallès › Vallès Oriental | 14 |
 | Forêt de Sant Salvador de Guardiola (5) | Sant Salvador de Guardiola › Bages | 14 |
-| Forêt de Cardona (12) | Cardona › Bages | 14 |
 | Forêt de Cànoves i Samalús (22) | Cànoves i Samalús › Vallès Oriental | 14 |
 | Forêt de Sant Pere de Vilamajor (75) | Sant Pere de Vilamajor › Vallès Oriental | 14 |
 | Forêt de Tagamanent (6) | Tagamanent › Vallès Oriental | 14 |
@@ -2534,14 +2535,13 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Balsareny (43) | Balsareny › Bages | 14 |
 | Forêt de Vallcebre (15) | Vallcebre › Berguedà | 14 |
 | Forêt de Abrera (7) | Abrera › Baix Llobregat | 14 |
-| Forêt de Sant Esteve Sesrovires (16) | Sant Esteve Sesrovires › Baix Llobregat | 14 |
 | Forêt de Masquefa (15) | Masquefa › Anoia | 14 |
 | Forêt de Montmajor (58) | Montmajor › Berguedà | 14 |
 | Forêt de Oristà (92) | Oristà › Lluçanès | 14 |
 | Forêt de Canyelles (5) | Canyelles › Garraf | 14 |
-| Forêt de Oristà (105) | Oristà › Lluçanès | 14 |
 | Forêt de Gelida (22) | Gelida › Alt Penedès | 14 |
 | Forêt de la Palma de Cervelló (3) | la Palma de Cervelló › Baix Llobregat | 14 |
+| Forêt de Sant Vicenç de Castellet (6) | Sant Vicenç de Castellet › Bages | 14 |
 | Forêt de Collbató (6) | Collbató › Baix Llobregat | 14 |
 | Forêt de Castellbell i el Vilar (36) | Castellbell i el Vilar › Bages | 14 |
 | Forêt de Òdena (31) | Òdena › Anoia | 14 |
@@ -2557,16 +2557,15 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Llorenç Savall (17) | Sant Llorenç Savall › Vallès Occidental | 14 |
 | Forêt de Sant Salvador de Guardiola (58) | Sant Salvador de Guardiola › Bages | 14 |
 | Forêt de Sant Salvador de Guardiola (72) | Sant Salvador de Guardiola › Bages | 14 |
-| Forêt de Castellbisbal (15) | Castellbisbal › Vallès Occidental | 14 |
 | Forêt de Viver i Serrateix (57) | Viver i Serrateix › Berguedà | 14 |
 | Forêt de Viver i Serrateix (60) | Viver i Serrateix › Berguedà | 14 |
 | Forêt de Viver i Serrateix (61) | Viver i Serrateix › Berguedà | 14 |
 | Forêt de Montmajor (102) | Montclar › Berguedà | 14 |
 | Forêt de Súria (27) | Súria › Bages | 14 |
+| Forêt de Santa Maria de Merlès (35) | Santa Maria de Merlès › Berguedà | 14 |
 | Forêt de la Quar (9) | la Quar › Berguedà | 14 |
 | Forêt de Jorba (29) | Jorba › Anoia | 14 |
 | Forêt de Jorba (36) | Jorba › Anoia | 14 |
-| Forêt de Òdena (46) | Òdena › Anoia | 14 |
 | Forêt de Sant Pere de Ribes (103) | Sant Pere de Ribes › Garraf | 14 |
 | Forêt de Fígols (12) | Fígols › Berguedà | 14 |
 | Forêt de Canyelles (18) | Canyelles › Garraf | 14 |
@@ -2574,7 +2573,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Gisclareny (19) | Gisclareny › Berguedà | 14 |
 | Forêt de Fígols (13) | Fígols › Berguedà | 14 |
 | Forêt de Sagàs (23) | Sagàs › Berguedà | 14 |
-| Forêt de Avinyó (115) | Avinyó › Bages | 14 |
 | Forêt de Santa Maria de Merlès (114) | Santa Maria de Merlès › Berguedà | 14 |
 | Forêt de Balenyà (6) | Balenyà › Osona (Barcelone) | 14 |
 | Forêt de el Brull (27) | el Brull › Osona (Barcelone) | 14 |
@@ -2583,7 +2581,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Montseny (13) | Montseny › Vallès Oriental | 14 |
 | Forêt de Sant Quirze Safaja (28) | Sant Quirze Safaja › Moianès | 14 |
 | Forêt de Sant Quirze Safaja (33) | Sant Quirze Safaja › Moianès | 14 |
-| Forêt de Santa Maria d'Oló (76) | Santa Maria d'Oló › Moianès | 14 |
 | Forêt de Santa Eulàlia de Riuprimer (15) | Santa Eulàlia de Riuprimer › Osona (Barcelone) | 14 |
 | Forêt de Oristà (145) | Oristà › Lluçanès | 14 |
 | Forêt de Sant Mateu de Bages (76) | Sant Mateu de Bages › Bages | 14 |
@@ -2594,7 +2591,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellar del Riu (40) | Castellar del Riu › Berguedà | 14 |
 | Forêt de Prats de Lluçanès (26) | Prats de Lluçanès › Lluçanès | 14 |
 | Forêt de Lluçà (25) | Lluçà › Lluçanès | 14 |
-| Forêt de la Quar (37) | la Quar › Berguedà | 14 |
 | Forêt de Gisclareny (52) | Gisclareny › Berguedà | 14 |
 | Forêt de Cercs (68) | Cercs › Berguedà | 14 |
 | Forêt de Orís (17) | Orís › Osona (Barcelone) | 14 |
@@ -2603,10 +2599,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellar de n'Hug (25) | Castellar de n'Hug › Berguedà | 14 |
 | Forêt de Castellar de n'Hug (42) | Castellar de n'Hug › Berguedà | 14 |
 | Forêt de Sant Feliu Sasserra (39) | Sant Feliu Sasserra › Bages | 14 |
+| Parc de Catalunya (2) | Sabadell › Vallès Occidental | 14 |
 | Forêt de Sant Quintí de Mediona (4) | Sant Quintí de Mediona › Alt Penedès | 14 |
 | Forêt de Piera (82) | Piera › Anoia | 14 |
 | Forêt de Piera (84) | Piera › Anoia | 14 |
-| Forêt de la Llacuna (15) | la Llacuna › Anoia | 14 |
 | Forêt de la Llacuna (22) | la Llacuna › Anoia | 14 |
 | Forêt de la Llacuna (23) | la Llacuna › Anoia | 14 |
 | Forêt de la Quar (49) | la Quar › Berguedà | 14 |
@@ -2616,11 +2612,11 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Celoni (31) | Sant Celoni › Vallès Oriental | 14 |
 | Forêt de Vallgorguina (10) | Vallgorguina › Vallès Oriental | 14 |
 | Forêt de Sant Celoni (41) | Sant Celoni › Vallès Oriental | 14 |
-| Forêt de Seva (36) | Seva › Osona (Barcelone) | 14 |
 | Forêt de Arenys de Mar (14) | Arenys de Mar › Maresme | 14 |
 | Turó de Cerdanyola | Mataró › Maresme | 14 |
 | Bois de Argentona (54) | Argentona › Maresme | 14 |
 | Forêt de Barberà del Vallès | Barberà del Vallès › Vallès Occidental | 13 |
+| Forêt de Collsuspina | Collsuspina › Moianès | 13 |
 | Forêt de Aguilar de Segarra | Aguilar de Segarra › Bages | 13 |
 | Forêt de Castellar del Vallès (2) | Castellar del Vallès › Vallès Occidental | 13 |
 | Forêt de Subirats (2) | Subirats › Alt Penedès | 13 |
@@ -2645,6 +2641,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de les Masies de Voltregà (6) | les Masies de Voltregà › Osona (Barcelone) | 13 |
 | Forêt de el Brull (13) | el Brull › Osona (Barcelone) | 13 |
 | Forêt de Balsareny (42) | Balsareny › Bages | 13 |
+| Forêt de Calders (27) | Calders › Moianès | 13 |
 | Forêt de Rubí (58) | Rubí › Vallès Occidental | 13 |
 | Forêt de Rajadell (35) | Rajadell › Bages | 13 |
 | Forêt de Olvan (9) | Olvan › Berguedà | 13 |
@@ -2652,7 +2649,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellterçol (63) | Castellterçol › Moianès | 13 |
 | Forêt de Berga (24) | Avià › Berguedà | 13 |
 | Forêt de Sant Jaume de Frontanyà (5) | Sant Jaume de Frontanyà › Berguedà | 13 |
-| Forêt de Berga (49) | Berga › Berguedà | 13 |
+| Forêt de Sant Esteve Sesrovires (16) | Sant Esteve Sesrovires › Baix Llobregat | 13 |
 | Forêt de Castellnou de Bages (39) | Castellnou de Bages › Bages | 13 |
 | Forêt de Viver i Serrateix (23) | Viver i Serrateix › Berguedà | 13 |
 | Forêt de l'Espunyola (47) | l'Espunyola › Berguedà | 13 |
@@ -2661,7 +2658,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Corbera de Llobregat (20) | Corbera de Llobregat › Baix Llobregat | 13 |
 | Forêt de Rubí (63) | Rubí › Vallès Occidental | 13 |
 | Forêt de Vacarisses (19) | Vacarisses › Vallès Occidental | 13 |
-| Forêt de Sant Vicenç de Castellet (6) | Sant Vicenç de Castellet › Bages | 13 |
 | Forêt de Castelldefels (11) | Castelldefels › Baix Llobregat | 13 |
 | Forêt de Begues (37) | Gavà › Baix Llobregat | 13 |
 | Bois de Vilanova del Vallès (10) | Vilanova del Vallès › Vallès Oriental | 13 |
@@ -2697,10 +2693,12 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Gaià (67) | Gaià › Bages | 13 |
 | Forêt de Avinyó (104) | Avinyó › Bages | 13 |
 | Forêt de Jorba (13) | Jorba › Anoia | 13 |
+| Forêt de Òdena (46) | Òdena › Anoia | 13 |
 | Forêt de Begues (69) | Begues › Baix Llobregat | 13 |
 | Forêt de Vilanova i la Geltrú (33) | Vilanova i la Geltrú › Garraf | 13 |
 | Forêt de Viver i Serrateix (106) | Viver i Serrateix › Berguedà | 13 |
 | Forêt de Sant Feliu Sasserra (16) | Sant Feliu Sasserra › Bages | 13 |
+| Forêt de Avinyó (115) | Avinyó › Bages | 13 |
 | Forêt de la Quar (15) | la Quar › Berguedà | 13 |
 | Forêt de les Franqueses del Vallès (52) | les Franqueses del Vallès › Vallès Oriental | 13 |
 | Forêt de Collsuspina (6) | Collsuspina › Moianès | 13 |
@@ -2714,18 +2712,17 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Bagà (49) | Bagà › Berguedà | 13 |
 | Forêt de Fígols (17) | Fígols › Berguedà | 13 |
 | Forêt de Lluçà (26) | Lluçà › Lluçanès | 13 |
+| Forêt de la Quar (37) | la Quar › Berguedà | 13 |
 | Forêt de Borredà (124) | Borredà › Berguedà | 13 |
 | Forêt de la Pobla de Lillet (52) | la Pobla de Lillet › Berguedà | 13 |
 | Forêt de Cercs (67) | Cercs › Berguedà | 13 |
 | Forêt de Saldes (119) | Saldes › Berguedà | 13 |
-| Forêt de Centelles (31) | Centelles › Osona (Barcelone) | 13 |
 | Forêt de Castellet i la Gornal (93) | Castellet i la Gornal › Alt Penedès | 13 |
 | Forêt de Barcelona (59) | Barcelona › Barcelonès | 13 |
 | Forêt de Piera (27) | Piera › Anoia | 13 |
 | Forêt de Sant Feliu Sasserra (34) | Sant Feliu Sasserra › Bages | 13 |
 | Forêt de Cardona (105) | Cardona › Bages | 13 |
 | Forêt de la Torre de Claramunt (6) | la Torre de Claramunt › Anoia | 13 |
-| Parc de Catalunya (2) | Sabadell › Vallès Occidental | 13 |
 | Forêt de Castellbisbal (47) | Castellbisbal › Vallès Occidental | 13 |
 | Bois de Piera (8) | Piera › Anoia | 13 |
 | Forêt de Torrelavit (26) | Torrelavit › Alt Penedès | 13 |
@@ -2734,6 +2731,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Piera (80) | Piera › Anoia | 13 |
 | Forêt de Sant Quintí de Mediona (16) | Sant Quintí de Mediona › Alt Penedès | 13 |
 | Forêt de Mediona (89) | Mediona › Alt Penedès | 13 |
+| Forêt de la Llacuna (15) | la Llacuna › Anoia | 13 |
 | Forêt de la Llacuna (17) | la Llacuna › Anoia | 13 |
 | Forêt de la Llacuna (19) | la Llacuna › Anoia | 13 |
 | Forêt de Òdena (90) | Òdena › Anoia | 13 |
@@ -2743,6 +2741,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Mateu de Bages (138) | Sant Mateu de Bages › Bages | 13 |
 | Forêt de Sant Mateu de Bages (145) | Sant Mateu de Bages › Bages | 13 |
 | Forêt de Sant Mateu de Bages (146) | Sant Mateu de Bages › Bages | 13 |
+| Forêt de Seva (36) | Seva › Osona (Barcelone) | 13 |
 | Forêt de Gurb (32) | Gurb › Osona (Barcelone) | 13 |
 | Forêt de Sant Quintí de Mediona (19) | Sant Quintí de Mediona › Alt Penedès | 13 |
 | Forêt de Prats de Lluçanès (36) | Prats de Lluçanès › Lluçanès | 13 |
@@ -2773,15 +2772,16 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Rajadell (13) | Rajadell › Bages | 12 |
 | Forêt de Manresa (21) | Manresa › Bages | 12 |
 | Forêt de Balsareny (34) | Balsareny › Bages | 12 |
-| Forêt de Calders (27) | Calders › Moianès | 12 |
 | Forêt de Rubí (57) | Rubí › Vallès Occidental | 12 |
 | Forêt de Castellterçol (17) | Castellterçol › Moianès | 12 |
 | Forêt de Castell de l'Areny (5) | Castell de l'Areny › Berguedà | 12 |
 | Forêt de Aiguafreda (10) | Aiguafreda › Osona (Barcelone) | 12 |
 | Forêt de Cardona (54) | Cardona › Bages | 12 |
 | Forêt de l'Esquirol (115) | l'Esquirol › Osona (Barcelone) | 12 |
+| Forêt de Berga (49) | Berga › Berguedà | 12 |
 | Forêt de Montmajor (68) | Montmajor › Berguedà | 12 |
 | Forêt de Sant Salvador de Guardiola (28) | Sant Salvador de Guardiola › Bages | 12 |
+| Forêt de Sant Salvador de Guardiola (35) | Sant Salvador de Guardiola › Bages | 12 |
 | Forêt de Gironella (7) | Gironella › Berguedà | 12 |
 | Forêt de Oristà (104) | Oristà › Lluçanès | 12 |
 | Forêt de Castellbell i el Vilar (6) | Castellbell i el Vilar › Bages | 12 |
@@ -2792,6 +2792,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellbell i el Vilar (17) | Castellbell i el Vilar › Bages | 12 |
 | Forêt de Marganell (8) | Marganell › Bages | 12 |
 | Forêt de el Bruc (13) | el Bruc › Anoia | 12 |
+| Forêt de el Bruc (18) | el Bruc › Anoia | 12 |
 | Forêt de el Bruc (27) | el Bruc › Anoia | 12 |
 | Forêt de Moià (35) | Moià › Moianès | 12 |
 | Forêt de Sitges (60) | Sitges › Garraf | 12 |
@@ -2854,9 +2855,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Borredà (87) | Borredà › Berguedà | 12 |
 | Forêt de Borredà (88) | Borredà › Berguedà | 12 |
 | Forêt de Borredà (125) | Borredà › Berguedà | 12 |
-| Forêt de Castellar del Riu (52) | Castellar del Riu › Berguedà | 12 |
 | Forêt de Castellar del Riu (54) | Castellar del Riu › Berguedà | 12 |
 | Forêt de Saldes (90) | Saldes › Berguedà | 12 |
+| Forêt de Centelles (31) | Centelles › Osona (Barcelone) | 12 |
 | Forêt de Balenyà (30) | Balenyà › Osona (Barcelone) | 12 |
 | Forêt de Montesquiu (9) | Montesquiu › Osona (Barcelone) | 12 |
 | Forêt de Montesquiu (12) | Montesquiu › Osona (Barcelone) | 12 |
@@ -2867,6 +2868,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Mediona (43) | Mediona › Alt Penedès | 12 |
 | Forêt de Torrelles de Foix (4) | Torrelles de Foix › Alt Penedès | 12 |
 | Forêt de la Llacuna (24) | la Llacuna › Anoia | 12 |
+| Forêt de Òdena (117) | Òdena › Anoia | 12 |
 | Forêt de Borredà (130) | Borredà › Berguedà | 12 |
 | Forêt de Lluçà (58) | Lluçà › Lluçanès | 12 |
 | Forêt de Lluçà (65) | Lluçà › Lluçanès | 12 |
@@ -2892,6 +2894,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Subirats (33) | Subirats › Alt Penedès | 11 |
 | Forêt de Olèrdola (21) | Olèrdola › Alt Penedès | 11 |
 | Forêt de Sant Sadurní d'Anoia (6) | Sant Sadurní d'Anoia › Alt Penedès | 11 |
+| Forêt de Gelida (9) | Gelida › Alt Penedès | 11 |
 | Bois de Òrrius (3) | Òrrius › Maresme | 11 |
 | Bois de la Roca del Vallès (2) | la Roca del Vallès › Vallès Oriental | 11 |
 | Bois de la Roca del Vallès (22) | la Roca del Vallès › Vallès Oriental | 11 |
@@ -2917,20 +2920,17 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Palau-solità i Plegamans (13) | Palau-solità i Plegamans › Vallès Occidental | 11 |
 | Forêt de Avinyó (45) | Avinyó › Bages | 11 |
 | Forêt de Balsareny (63) | Balsareny › Bages | 11 |
-| Forêt de Sant Salvador de Guardiola (35) | Sant Salvador de Guardiola › Bages | 11 |
 | Forêt de Santa Maria d'Oló (29) | Santa Maria d'Oló › Moianès | 11 |
 | Forêt de Santa Maria d'Oló (30) | Santa Maria d'Oló › Moianès | 11 |
 | Forêt de Sant Salvador de Guardiola (42) | Sant Salvador de Guardiola › Bages | 11 |
 | Forêt de Premià de Dalt (5) | Premià de Dalt › Maresme | 11 |
 | Forêt de l'Espunyola (36) | l'Espunyola › Berguedà | 11 |
 | Forêt de Vallirana (29) | Vallirana › Baix Llobregat | 11 |
-| Forêt de Vacarisses (29) | Vacarisses › Vallès Occidental | 11 |
 | Forêt de Vacarisses (34) | Vacarisses › Vallès Occidental | 11 |
 | Forêt de Castellbell i el Vilar (11) | Castellbell i el Vilar › Bages | 11 |
 | Forêt de Vacarisses (38) | Vacarisses › Vallès Occidental | 11 |
 | Forêt de Vacarisses (40) | Vacarisses › Vallès Occidental | 11 |
 | Forêt de Vacarisses (41) | Vacarisses › Vallès Occidental | 11 |
-| Forêt de el Bruc (18) | el Bruc › Anoia | 11 |
 | Forêt de el Bruc (23) | el Bruc › Anoia | 11 |
 | Forêt de Castelldefels (10) | Castelldefels › Baix Llobregat | 11 |
 | Forêt de Gavà (75) | Gavà › Baix Llobregat | 11 |
@@ -2974,8 +2974,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Esparreguera (38) | Esparreguera › Baix Llobregat | 11 |
 | Forêt de Esparreguera (41) | Esparreguera › Baix Llobregat | 11 |
 | Forêt de Monistrol de Calders (36) | Monistrol de Calders › Moianès | 11 |
-| Forêt de Monistrol de Calders (38) | Monistrol de Calders › Moianès | 11 |
 | Forêt de Tona (3) | Tona › Osona (Barcelone) | 11 |
+| Forêt de Sant Quirze Safaja (12) | Sant Quirze Safaja › Moianès | 11 |
 | Forêt de l'Estany (3) | l'Estany › Moianès | 11 |
 | Forêt de el Brull (35) | el Brull › Osona (Barcelone) | 11 |
 | Forêt de Montseny (12) | Montseny › Vallès Oriental | 11 |
@@ -2992,6 +2992,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Lluçà (19) | Lluçà › Lluçanès | 11 |
 | Forêt de Lluçà (23) | Lluçà › Lluçanès | 11 |
 | Forêt de Sant Jaume de Frontanyà (22) | Sant Jaume de Frontanyà › Berguedà | 11 |
+| Forêt de Castellar del Riu (52) | Castellar del Riu › Berguedà | 11 |
 | Forêt de Castellar del Riu (53) | Castellar del Riu › Berguedà | 11 |
 | Forêt de Centelles (33) | Centelles › Osona (Barcelone) | 11 |
 | Forêt de Orís (16) | Orís › Osona (Barcelone) | 11 |
@@ -3004,7 +3005,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Cabrera d'Anoia (16) | Cabrera d'Anoia › Anoia | 11 |
 | Forêt de Sant Quintí de Mediona (5) | Sant Quintí de Mediona › Alt Penedès | 11 |
 | Forêt de Sant Quintí de Mediona (13) | Sant Quintí de Mediona › Alt Penedès | 11 |
-| Forêt de Òdena (117) | Òdena › Anoia | 11 |
 | Forêt de Tavertet (40) | Tavertet › Osona (Barcelone) | 11 |
 | Forêt de Tavertet (76) | Tavertet › Osona (Barcelone) | 11 |
 | Forêt de Alpens (21) | Alpens › Lluçanès | 11 |
@@ -3024,7 +3024,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bosc de Can Mulà | Mollet del Vallès › Vallès Oriental | 10 |
 | Forêt de Olesa de Bonesvalls (8) | Olesa de Bonesvalls › Alt Penedès | 10 |
 | Forêt de Sant Pere de Ribes (25) | Sant Pere de Ribes › Garraf | 10 |
-| Forêt de Gelida (9) | Gelida › Alt Penedès | 10 |
 | Forêt de Sant Llorenç d'Hortons (9) | Sant Llorenç d'Hortons › Alt Penedès | 10 |
 | Bois de Vilanova del Vallès (2) | Vilanova del Vallès › Vallès Oriental | 10 |
 | Bois de Vilanova del Vallès (4) | Vilanova del Vallès › Vallès Oriental | 10 |
@@ -3040,7 +3039,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Arenys de Munt (2) | Arenys de Munt › Maresme | 10 |
 | Forêt de la Pobla de Lillet (4) | la Pobla de Lillet › Berguedà | 10 |
 | Forêt de Saldes (7) | Saldes › Berguedà | 10 |
-| Forêt de Collbató (5) | Collbató › Baix Llobregat | 10 |
 | Forêt de Rubí (52) | Rubí › Vallès Occidental | 10 |
 | Forêt de Rubí (54) | Rubí › Vallès Occidental | 10 |
 | Forêt de Cardona (46) | Cardona › Bages | 10 |
@@ -3059,6 +3057,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Gelida (24) | Gelida › Alt Penedès | 10 |
 | Parc del Pi Gros | Sant Vicenç dels Horts › Baix Llobregat | 10 |
 | Forêt de Rubí (61) | Rubí › Vallès Occidental | 10 |
+| Forêt de Vacarisses (29) | Vacarisses › Vallès Occidental | 10 |
 | Forêt de Vacarisses (30) | Vacarisses › Vallès Occidental | 10 |
 | Forêt de Sant Vicenç de Castellet (7) | Sant Vicenç de Castellet › Bages | 10 |
 | Forêt de el Bruc (19) | el Bruc › Anoia | 10 |
@@ -3093,6 +3092,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Viver i Serrateix (82) | Viver i Serrateix › Berguedà | 10 |
 | Forêt de Sant Feliu Sasserra (15) | Sant Feliu Sasserra › Bages | 10 |
 | Forêt de Prats de Lluçanès (5) | Prats de Lluçanès › Lluçanès | 10 |
+| Forêt de Taradell (6) | Taradell › Osona (Barcelone) | 10 |
 | Forêt de Jorba (28) | Jorba › Anoia | 10 |
 | Forêt de Castellfollit del Boix (35) | Castellfollit del Boix › Bages | 10 |
 | Forêt de Olivella (56) | Olivella › Garraf | 10 |
@@ -3113,12 +3113,11 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de els Hostalets de Pierola (19) | els Hostalets de Pierola › Anoia | 10 |
 | Forêt de Monistrol de Calders (33) | Monistrol de Calders › Moianès | 10 |
 | Forêt de Monistrol de Calders (34) | Monistrol de Calders › Moianès | 10 |
+| Forêt de Monistrol de Calders (38) | Monistrol de Calders › Moianès | 10 |
 | Forêt de Moià (39) | Moià › Moianès | 10 |
 | Forêt de Santa Maria d'Oló (54) | Santa Maria d'Oló › Moianès | 10 |
 | Forêt de Tona (4) | Tona › Osona (Barcelone) | 10 |
-| Forêt de Sant Quirze Safaja (12) | Sant Quirze Safaja › Moianès | 10 |
 | Forêt de el Brull (28) | el Brull › Osona (Barcelone) | 10 |
-| Forêt de Fogars de Montclús (24) | Fogars de Montclús › Vallès Oriental | 10 |
 | Forêt de Figaró-Montmany (10) | Figaró-Montmany › Vallès Oriental | 10 |
 | Forêt de Sant Quirze Safaja (31) | Sant Quirze Safaja › Moianès | 10 |
 | Forêt de l'Ametlla del Vallès (23) | l'Ametlla del Vallès › Vallès Oriental | 10 |
@@ -3164,6 +3163,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Lluçà (70) | Lluçà › Lluçanès | 10 |
 | Forêt de Lluçà (74) | Lluçà › Lluçanès | 10 |
 | Forêt de Lluçà (84) | Lluçà › Lluçanès | 10 |
+| Forêt de Dosrius (36) | Sant Vicenç de Montalt › Maresme | 10 |
 | Forêt de Sant Vicenç de Montalt (8) | Sant Vicenç de Montalt › Maresme | 10 |
 | Forêt de Fogars de la Selva (33) | Fogars de la Selva › la Selva (Barcelone) | 10 |
 | Forêt de Fogars de la Selva (50) | Fogars de la Selva › la Selva (Barcelone) | 10 |
@@ -3177,7 +3177,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Caldes de Montbui (24) | Caldes de Montbui › Vallès Oriental | 10 |
 | Forêt de Calders (76) | Calders › Moianès | 10 |
 | Forêt de el Pont de Vilomara i Rocafort (32) | el Pont de Vilomara i Rocafort › Bages | 10 |
-| Forêt de Ullastrell (5) | Ullastrell › Vallès Occidental | 10 |
+| Forêt de Terrassa (96) | Terrassa › Vallès Occidental | 10 |
 | Forêt de Viladecavalls (22) | Viladecavalls › Vallès Occidental | 10 |
 | Parc Güell ⚠️ | Barcelona › Barcelonès | 9 |
 | Bois de Lliçà d'Amunt (2) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 9 |
@@ -3213,9 +3213,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Balsareny (47) ⚠️ | Balsareny › Bages | 9 |
 | Forêt de Navarcles (4) ⚠️ | Navarcles › Bages | 9 |
 | Forêt de Sant Fruitós de Bages (23) ⚠️ | Sant Fruitós de Bages › Bages | 9 |
-| Forêt de Cànoves i Samalús (30) ⚠️ | Cànoves i Samalús › Vallès Oriental | 9 |
 | Forêt de Rubí (55) ⚠️ | Rubí › Vallès Occidental | 9 |
 | Forêt de Ullastrell ⚠️ | Ullastrell › Vallès Occidental | 9 |
+| Forêt de Rubí (60) ⚠️ | Rubí › Vallès Occidental | 9 |
 | Forêt de Avià (12) ⚠️ | Avià › Berguedà | 9 |
 | Forêt de Sant Joan de Vilatorrada (35) ⚠️ | Sant Joan de Vilatorrada › Bages | 9 |
 | Forêt de Cerdanyola del Vallès (58) ⚠️ | Cerdanyola del Vallès › Vallès Occidental | 9 |
@@ -3284,8 +3284,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Avinyó (112) ⚠️ | Avinyó › Bages | 9 |
 | Forêt de Borredà (20) ⚠️ | Borredà › Berguedà | 9 |
 | Forêt de Vilanova del Vallès (8) ⚠️ | Vilanova del Vallès › Vallès Oriental | 9 |
-| Forêt de Taradell (6) ⚠️ | Taradell › Osona (Barcelone) | 9 |
-| Forêt de Vilanova del Camí (12) ⚠️ | Vilanova del Camí › Anoia | 9 |
 | Forêt de Begues (41) ⚠️ | Begues › Baix Llobregat | 9 |
 | Forêt de Olivella (103) ⚠️ | Olivella › Garraf | 9 |
 | Forêt de Olèrdola (63) ⚠️ | Olèrdola › Alt Penedès | 9 |
@@ -3309,11 +3307,11 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de la Garriga (45) ⚠️ | la Garriga › Vallès Oriental | 9 |
 | Forêt de Centelles (18) ⚠️ | Centelles › Osona (Barcelone) | 9 |
 | Forêt de Tagamanent (31) ⚠️ | Tagamanent › Vallès Oriental | 9 |
-| Forêt de Tagamanent (32) ⚠️ | Tagamanent › Vallès Oriental | 9 |
 | Forêt de Tagamanent (35) ⚠️ | Tagamanent › Vallès Oriental | 9 |
 | Forêt de Cànoves i Samalús (42) ⚠️ | Cànoves i Samalús › Vallès Oriental | 9 |
 | Forêt de el Brull (36) ⚠️ | el Brull › Osona (Barcelone) | 9 |
 | Forêt de Montseny (20) ⚠️ | Montseny › Vallès Oriental | 9 |
+| Forêt de Fogars de Montclús (24) ⚠️ | Fogars de Montclús › Vallès Oriental | 9 |
 | Forêt de Gualba (4) ⚠️ | Gualba › Vallès Oriental | 9 |
 | Forêt de Sant Quirze Safaja (21) ⚠️ | Sant Quirze Safaja › Moianès | 9 |
 | Forêt de Castellterçol (78) ⚠️ | Castellterçol › Moianès | 9 |
@@ -3327,8 +3325,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Tona (30) ⚠️ | Tona › Osona (Barcelone) | 9 |
 | Forêt de Saldes (32) ⚠️ | Saldes › Berguedà | 9 |
 | Forêt de Saldes (57) ⚠️ | Saldes › Berguedà | 9 |
+| Forêt de Saldes (69) ⚠️ | Saldes › Berguedà | 9 |
 | Forêt de Gisclareny (34) ⚠️ | Gisclareny › Berguedà | 9 |
 | Forêt de Gisclareny (41) ⚠️ | Gisclareny › Berguedà | 9 |
+| Forêt de Guardiola de Berguedà (107) ⚠️ | Guardiola de Berguedà › Berguedà | 9 |
 | Forêt de Guardiola de Berguedà (118) ⚠️ | Guardiola de Berguedà › Berguedà | 9 |
 | Forêt de Castellar del Riu (39) ⚠️ | Castellar del Riu › Berguedà | 9 |
 | Forêt de Fígols (33) ⚠️ | Fígols › Berguedà | 9 |
@@ -3357,7 +3357,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Alpens (29) ⚠️ | Alpens › Lluçanès | 9 |
 | Forêt de Sant Cebrià de Vallalta (15) ⚠️ | Sant Cebrià de Vallalta › Maresme | 9 |
 | Forêt de Arenys de Munt (12) ⚠️ | Arenys de Munt › Maresme | 9 |
-| Forêt de Dosrius (36) ⚠️ | Sant Vicenç de Montalt › Maresme | 9 |
 | Forêt de Arenys de Munt (20) ⚠️ | Arenys de Munt › Maresme | 9 |
 | Forêt de Sant Vicenç de Montalt (5) ⚠️ | Sant Vicenç de Montalt › Maresme | 9 |
 | Forêt de Arenys de Munt (27) ⚠️ | Arenys de Munt › Maresme | 9 |
@@ -3373,7 +3372,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Lliçà d'Amunt (19) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 9 |
 | Forêt de Moià (67) ⚠️ | Moià › Moianès | 9 |
 | Forêt de Sant Fruitós de Bages (45) ⚠️ | Sant Fruitós de Bages › Bages | 9 |
-| Forêt de Terrassa (96) ⚠️ | Terrassa › Vallès Occidental | 9 |
+| Forêt de Ullastrell (5) ⚠️ | Ullastrell › Vallès Occidental | 9 |
 | Forêt de el Brull (43) ⚠️ | el Brull › Osona (Barcelone) | 9 |
 | Forêt de Gavà ⚠️ | Gavà › Baix Llobregat | 8 |
 | Forêt de Lliçà d'Amunt ⚠️ | Lliçà d'Amunt › Vallès Oriental | 8 |
@@ -3404,10 +3403,11 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Subirats (85) ⚠️ | Subirats › Alt Penedès | 8 |
 | Parc de la Ciutadella ⚠️ | Barcelona › Barcelonès | 8 |
 | Forêt de Sant Esteve de Palautordera (3) ⚠️ | Sant Esteve de Palautordera › Vallès Oriental | 8 |
+| Forêt de Collbató (5) ⚠️ | Collbató › Baix Llobregat | 8 |
 | Forêt de Avinyó (21) ⚠️ | Avinyó › Bages | 8 |
 | Forêt de Calders (24) ⚠️ | Calders › Moianès | 8 |
+| Forêt de Cànoves i Samalús (30) ⚠️ | Cànoves i Samalús › Vallès Oriental | 8 |
 | Forêt de Manresa (37) ⚠️ | Manresa › Bages | 8 |
-| Forêt de Rubí (60) ⚠️ | Rubí › Vallès Occidental | 8 |
 | Forêt de Rajadell (28) ⚠️ | Rajadell › Bages | 8 |
 | Forêt de Castellterçol (34) ⚠️ | Castellterçol › Moianès | 8 |
 | Bois de Castellterçol (10) ⚠️ | Castellterçol › Moianès | 8 |
@@ -3415,6 +3415,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Joan de Vilatorrada (39) ⚠️ | Sant Joan de Vilatorrada › Bages | 8 |
 | Forêt de Fonollosa (116) ⚠️ | Fonollosa › Bages | 8 |
 | Parc de l'Hostal del Fum ⚠️ | Palau-solità i Plegamans › Vallès Occidental | 8 |
+| Forêt de Lliçà d'Amunt (17) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 8 |
 | Forêt de Prats de Lluçanès (2) ⚠️ | Prats de Lluçanès › Lluçanès | 8 |
 | Forêt de Berga (39) ⚠️ | Berga › Berguedà | 8 |
 | Forêt de Montclar (10) ⚠️ | Montclar › Berguedà | 8 |
@@ -3424,7 +3425,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sallent (54) ⚠️ | Sallent › Bages | 8 |
 | Forêt de Avinyó (55) ⚠️ | Avinyó › Bages | 8 |
 | Forêt de Navàs (24) ⚠️ | Navàs › Bages | 8 |
-| Forêt de Puig-reig (15) ⚠️ | Puig-reig › Berguedà | 8 |
 | Forêt de Puig-reig (17) ⚠️ | Puig-reig › Berguedà | 8 |
 | Forêt de Santa Maria d'Oló (27) ⚠️ | Santa Maria d'Oló › Moianès | 8 |
 | Forêt de l'Espunyola (37) ⚠️ | l'Espunyola › Berguedà | 8 |
@@ -3484,6 +3484,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Borredà (30) ⚠️ | Borredà › Berguedà | 8 |
 | Forêt de Santa Margarida de Montbui (17) ⚠️ | Santa Margarida de Montbui › Anoia | 8 |
 | Forêt de Òdena (44) ⚠️ | Òdena › Anoia | 8 |
+| Forêt de Vilanova del Camí (12) ⚠️ | Vilanova del Camí › Anoia | 8 |
 | Forêt de Castellfollit del Boix (36) ⚠️ | Castellfollit del Boix › Bages | 8 |
 | Forêt de Cubelles (17) ⚠️ | Cubelles › Garraf | 8 |
 | Forêt de Cubelles (23) ⚠️ | Cubelles › Garraf | 8 |
@@ -3503,6 +3504,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Jaume de Frontanyà (20) ⚠️ | Sant Jaume de Frontanyà › Berguedà | 8 |
 | Forêt de Sagàs (27) ⚠️ | Sagàs › Berguedà | 8 |
 | Forêt de Santa Maria de Merlès (91) ⚠️ | Santa Maria de Merlès › Berguedà | 8 |
+| Forêt de Granera (28) ⚠️ | Granera › Moianès | 8 |
+| Forêt de Tagamanent (32) ⚠️ | Tagamanent › Vallès Oriental | 8 |
 | Forêt de Fogars de Montclús (19) ⚠️ | Fogars de Montclús › Vallès Oriental | 8 |
 | Forêt de Montseny (18) ⚠️ | Montseny › Vallès Oriental | 8 |
 | Forêt de Bigues i Riells del Fai (21) ⚠️ | Bigues i Riells del Fai › Vallès Oriental | 8 |
@@ -3517,10 +3520,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Balenyà (11) ⚠️ | Balenyà › Osona (Barcelone) | 8 |
 | Forêt de Vallcebre (23) ⚠️ | Vallcebre › Berguedà | 8 |
 | Forêt de Saldes (51) ⚠️ | Saldes › Berguedà | 8 |
-| Forêt de Saldes (69) ⚠️ | Saldes › Berguedà | 8 |
 | Forêt de Bagà (35) ⚠️ | Bagà › Berguedà | 8 |
 | Forêt de Bagà (59) ⚠️ | Bagà › Berguedà | 8 |
-| Forêt de Guardiola de Berguedà (107) ⚠️ | Guardiola de Berguedà › Berguedà | 8 |
 | Forêt de Capolat (37) ⚠️ | Capolat › Berguedà | 8 |
 | Forêt de Lluçà (35) ⚠️ | Lluçà › Lluçanès | 8 |
 | Forêt de Borredà (78) ⚠️ | Borredà › Berguedà | 8 |
@@ -3548,7 +3549,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellar de n'Hug (52) ⚠️ | Castellar de n'Hug › Berguedà | 8 |
 | Forêt de Òdena (76) ⚠️ | Òdena › Anoia | 8 |
 | Forêt de Vallirana (35) ⚠️ | Vallirana › Baix Llobregat | 8 |
-| Forêt de Mediona (57) ⚠️ | Mediona › Alt Penedès | 8 |
 | Forêt de Puig-reig (92) ⚠️ | Viver i Serrateix › Berguedà | 8 |
 | Forêt de Tavertet (51) ⚠️ | Tavertet › Osona (Barcelone) | 8 |
 | Forêt de Tavertet (55) ⚠️ | Tavertet › Osona (Barcelone) | 8 |
@@ -3564,7 +3564,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Sadurní d'Osormort (34) ⚠️ | Sant Sadurní d'Osormort › Osona (Barcelone) | 8 |
 | Forêt de Tavèrnoles (10) ⚠️ | Tavèrnoles › Osona (Barcelone) | 8 |
 | Forêt de Taradell (33) ⚠️ | Taradell › Osona (Barcelone) | 8 |
-| Forêt de Castellterçol (82) ⚠️ | Castellterçol › Moianès | 8 |
 | Forêt de Olost (12) ⚠️ | Olost › Lluçanès | 8 |
 | Forêt de Olost (17) ⚠️ | Olost › Lluçanès | 8 |
 | Forêt de Sant Martí d'Albars (6) ⚠️ | Sant Martí d'Albars › Lluçanès | 8 |
@@ -3575,7 +3574,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellar del Vallès (3) ⚠️ | Castellar del Vallès › Vallès Occidental | 7 |
 | Forêt de Vilanova de Sau (8) ⚠️ | Vilanova de Sau › Osona (Barcelone) | 7 |
 | Forêt de Bellprat (5) ⚠️ | Bellprat › Anoia | 7 |
-| Forêt de l'Esquirol (11) ⚠️ | l'Esquirol › Osona (Barcelone) | 7 |
 | Forêt de Sant Pere de Torelló (6) ⚠️ | Sant Pere de Torelló › Osona (Barcelone) | 7 |
 | Forêt de la Garriga (3) ⚠️ | la Garriga › Vallès Oriental | 7 |
 | Forêt de Torrelles de Llobregat (3) ⚠️ | Torrelles de Llobregat › Baix Llobregat | 7 |
@@ -3608,13 +3606,11 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Sant Cugat del Vallès (95) ⚠️ | Sant Cugat del Vallès › Vallès Occidental | 7 |
 | Forêt de Canyelles (3) ⚠️ | Canyelles › Garraf | 7 |
 | Forêt de Taradell (3) ⚠️ | Taradell › Osona (Barcelone) | 7 |
-| Bois de Argençola (2) ⚠️ | Argençola › Anoia | 7 |
 | Bois de Montmaneu (20) ⚠️ | Montmaneu › Anoia | 7 |
 | Bois de Montmaneu (28) ⚠️ | Montmaneu › Anoia | 7 |
 | Forêt de Muntanyola (14) ⚠️ | Muntanyola › Osona (Barcelone) | 7 |
 | Forêt de Tordera (41) ⚠️ | Tordera › Maresme | 7 |
 | Parc de Granollers (23) ⚠️ | Granollers › Vallès Oriental | 7 |
-| Forêt de Montmajor (27) ⚠️ | Montmajor › Berguedà | 7 |
 | Forêt de Cerdanyola del Vallès (52) ⚠️ | Cerdanyola del Vallès › Vallès Occidental | 7 |
 | Forêt de Aguilar de Segarra (16) ⚠️ | Aguilar de Segarra › Bages | 7 |
 | Forêt de Aguilar de Segarra (17) ⚠️ | Aguilar de Segarra › Bages | 7 |
@@ -3626,7 +3622,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Manresa (35) ⚠️ | Manresa › Bages | 7 |
 | Forêt de Rubí (53) ⚠️ | Rubí › Vallès Occidental | 7 |
 | Forêt de els Hostalets de Pierola (14) ⚠️ | els Hostalets de Pierola › Anoia | 7 |
-| Forêt de Lliçà d'Amunt (17) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 7 |
 | Forêt de Avià (13) ⚠️ | Avià › Berguedà | 7 |
 | Forêt de Berga (34) ⚠️ | Berga › Berguedà | 7 |
 | Bosc de l'Oller ⚠️ | Manresa › Bages | 7 |
@@ -3637,6 +3632,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Santa Maria d'Oló (19) ⚠️ | Santa Maria d'Oló › Moianès | 7 |
 | Forêt de Sant Salvador de Guardiola (32) ⚠️ | Sant Salvador de Guardiola › Bages | 7 |
 | Forêt de Puig-reig (10) ⚠️ | Puig-reig › Berguedà | 7 |
+| Forêt de Puig-reig (15) ⚠️ | Puig-reig › Berguedà | 7 |
 | Forêt de Puig-reig (40) ⚠️ | Puig-reig › Berguedà | 7 |
 | Bois de Barcelona (102) ⚠️ | Barcelona › Barcelonès | 7 |
 | Parc de Diagonal Mar ⚠️ | Barcelona › Barcelonès | 7 |
@@ -3660,6 +3656,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Santa Maria d'Oló (35) ⚠️ | Santa Maria d'Oló › Moianès | 7 |
 | Forêt de Llinars del Vallès (61) ⚠️ | Llinars del Vallès › Vallès Oriental | 7 |
 | Forêt de les Franqueses del Vallès (45) ⚠️ | les Franqueses del Vallès › Vallès Oriental | 7 |
+| Forêt de Vilanova del Vallès (6) ⚠️ | Vilanova del Vallès › Vallès Oriental | 7 |
+| Forêt de Sant Esteve de Palautordera (9) ⚠️ | Sant Esteve de Palautordera › Vallès Oriental | 7 |
 | Forêt de Castell de l'Areny (22) ⚠️ | Castell de l'Areny › Berguedà | 7 |
 | Forêt de la Pobla de Lillet (20) ⚠️ | la Pobla de Lillet › Berguedà | 7 |
 | Forêt de Castellar de n'Hug (14) ⚠️ | Castellar de n'Hug › Berguedà | 7 |
@@ -3726,8 +3724,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Berga (62) ⚠️ | Berga › Berguedà | 7 |
 | Forêt de els Hostalets de Pierola (27) ⚠️ | els Hostalets de Pierola › Anoia | 7 |
 | Forêt de Monistrol de Calders (32) ⚠️ | Monistrol de Calders › Moianès | 7 |
-| Forêt de Granera (28) ⚠️ | Granera › Moianès | 7 |
 | Forêt de Bagà (32) ⚠️ | Bagà › Berguedà | 7 |
+| Forêt de el Brull (30) ⚠️ | el Brull › Osona (Barcelone) | 7 |
 | Forêt de Fogars de Montclús (15) ⚠️ | Fogars de Montclús › Vallès Oriental | 7 |
 | Forêt de Fogars de Montclús (17) ⚠️ | Fogars de Montclús › Vallès Oriental | 7 |
 | Forêt de Montseny (14) ⚠️ | Montseny › Vallès Oriental | 7 |
@@ -3747,6 +3745,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Mateu de Bages (57) ⚠️ | Sant Mateu de Bages › Bages | 7 |
 | Forêt de Calonge de Segarra (14) ⚠️ | Calonge de Segarra › Anoia | 7 |
 | Forêt de Dosrius (25) ⚠️ | Dosrius › Maresme | 7 |
+| Forêt de Balenyà (7) ⚠️ | Balenyà › Osona (Barcelone) | 7 |
 | Forêt de Balenyà (10) ⚠️ | Balenyà › Osona (Barcelone) | 7 |
 | Forêt de Tona (16) ⚠️ | Tona › Osona (Barcelone) | 7 |
 | Forêt de Tona (23) ⚠️ | Tona › Osona (Barcelone) | 7 |
@@ -3792,10 +3791,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Esparreguera (49) ⚠️ | Esparreguera › Baix Llobregat | 7 |
 | Forêt de Vilanova del Camí (25) ⚠️ | Vilanova del Camí › Anoia | 7 |
 | Forêt de Cabrera d'Anoia (15) ⚠️ | Cabrera d'Anoia › Anoia | 7 |
+| Forêt de Mediona (57) ⚠️ | Mediona › Alt Penedès | 7 |
 | Forêt de Cabrera d'Anoia (34) ⚠️ | Cabrera d'Anoia › Anoia | 7 |
 | Forêt de Sant Pere de Riudebitlles (13) ⚠️ | Sant Pere de Riudebitlles › Alt Penedès | 7 |
 | Forêt de Casserres (27) ⚠️ | Casserres › Berguedà | 7 |
-| Forêt de Tavertet (47) ⚠️ | Tavertet › Osona (Barcelone) | 7 |
 | Forêt de Tavertet (80) ⚠️ | Tavertet › Osona (Barcelone) | 7 |
 | Forêt de Borredà (132) ⚠️ | Borredà › Berguedà | 7 |
 | Forêt de Alpens (17) ⚠️ | Alpens › Lluçanès | 7 |
@@ -3815,6 +3814,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Sadurní d'Osormort (46) ⚠️ | Sant Sadurní d'Osormort › Osona (Barcelone) | 7 |
 | Forêt de Taradell (32) ⚠️ | Taradell › Osona (Barcelone) | 7 |
 | Forêt de Taradell (43) ⚠️ | Taradell › Osona (Barcelone) | 7 |
+| Forêt de Castellterçol (82) ⚠️ | Castellterçol › Moianès | 7 |
 | Forêt de Santpedor (85) ⚠️ | Sant Fruitós de Bages › Bages | 7 |
 | Forêt de el Pont de Vilomara i Rocafort (36) ⚠️ | el Pont de Vilomara i Rocafort › Bages | 7 |
 | Forêt de el Pont de Vilomara i Rocafort (40) ⚠️ | el Pont de Vilomara i Rocafort › Bages | 7 |
@@ -3824,6 +3824,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Lliçà d'Amunt (10) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 6 |
 | Bois de Lliçà de Vall ⚠️ | Lliçà de Vall › Vallès Oriental | 6 |
 | Forêt de els Hostalets de Pierola (2) ⚠️ | els Hostalets de Pierola › Anoia | 6 |
+| Forêt de l'Esquirol (11) ⚠️ | l'Esquirol › Osona (Barcelone) | 6 |
 | Bois de Cerdanyola del Vallès ⚠️ | Cerdanyola del Vallès › Vallès Occidental | 6 |
 | Forêt de Oristà (6) ⚠️ | Oristà › Lluçanès | 6 |
 | Can Gambus ⚠️ | Sabadell › Vallès Occidental | 6 |
@@ -3872,6 +3873,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bosc de Can Catafal ⚠️ | Vilanova del Vallès › Vallès Oriental | 6 |
 | Bois de Cànoves i Samalús ⚠️ | Cànoves i Samalús › Vallès Oriental | 6 |
 | Forêt de la Garriga (7) ⚠️ | la Garriga › Vallès Oriental | 6 |
+| Bois de Argençola (2) ⚠️ | Argençola › Anoia | 6 |
 | Bois de Montmaneu (24) ⚠️ | Montmaneu › Anoia | 6 |
 | Forêt de l'Esquirol (83) ⚠️ | l'Esquirol › Osona (Barcelone) | 6 |
 | Forêt de Tordera (24) ⚠️ | Tordera › Maresme | 6 |
@@ -3881,6 +3883,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Copons (6) ⚠️ | Copons › Anoia | 6 |
 | Bois de Santa Maria de Miralles (2) ⚠️ | Bellprat › Anoia | 6 |
 | Forêt de el Brull (8) ⚠️ | el Brull › Osona (Barcelone) | 6 |
+| Forêt de Montmajor (27) ⚠️ | Montmajor › Berguedà | 6 |
 | Forêt de Aguilar de Segarra (18) ⚠️ | Aguilar de Segarra › Bages | 6 |
 | Forêt de Fonollosa (89) ⚠️ | Fonollosa › Bages | 6 |
 | Parc de Can Dragó ⚠️ | Barcelona › Barcelonès | 6 |
@@ -3916,6 +3919,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sallent (55) ⚠️ | Sallent › Bages | 6 |
 | Forêt de Sallent (69) ⚠️ | Sallent › Bages | 6 |
 | Forêt de Capolat (12) ⚠️ | Capolat › Berguedà | 6 |
+| Forêt de Puig-reig (13) ⚠️ | Puig-reig › Berguedà | 6 |
 | Forêt de Puig-reig (38) ⚠️ | Puig-reig › Berguedà | 6 |
 | Forêt de Oristà (102) ⚠️ | Oristà › Lluçanès | 6 |
 | Forêt de Castellar del Riu (15) ⚠️ | Castellar del Riu › Berguedà | 6 |
@@ -3941,6 +3945,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellbell i el Vilar (39) ⚠️ | Castellbell i el Vilar › Bages | 6 |
 | Forêt de Castellolí (11) ⚠️ | Castellolí › Anoia | 6 |
 | Forêt de Castellbell i el Vilar (60) ⚠️ | Castellbell i el Vilar › Bages | 6 |
+| Forêt de el Pont de Vilomara i Rocafort (8) ⚠️ | el Pont de Vilomara i Rocafort › Bages | 6 |
 | Forêt de el Pont de Vilomara i Rocafort (18) ⚠️ | el Pont de Vilomara i Rocafort › Bages | 6 |
 | Forêt de Moià (21) ⚠️ | Moià › Moianès | 6 |
 | Forêt de Sitges (47) ⚠️ | Sitges › Garraf | 6 |
@@ -3956,7 +3961,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de les Franqueses del Vallès (46) ⚠️ | les Franqueses del Vallès › Vallès Oriental | 6 |
 | Forêt de Cànoves i Samalús (36) ⚠️ | Cànoves i Samalús › Vallès Oriental | 6 |
 | Forêt de Vilanova del Vallès (5) ⚠️ | Vilanova del Vallès › Vallès Oriental | 6 |
-| Forêt de Vilanova del Vallès (6) ⚠️ | Vilanova del Vallès › Vallès Oriental | 6 |
 | Forêt de Vilanova del Vallès (7) ⚠️ | Vilanova del Vallès › Vallès Oriental | 6 |
 | Forêt de Sallent (82) ⚠️ | Sallent › Bages | 6 |
 | Forêt de Sallent (85) ⚠️ | Sallent › Bages | 6 |
@@ -3966,10 +3970,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Gaià (41) ⚠️ | Gaià › Bages | 6 |
 | Forêt de Sant Esteve de Palautordera (7) ⚠️ | Sant Esteve de Palautordera › Vallès Oriental | 6 |
 | Forêt de Santa Maria de Palautordera (24) ⚠️ | Santa Maria de Palautordera › Vallès Oriental | 6 |
-| Forêt de Sant Esteve de Palautordera (9) ⚠️ | Sant Esteve de Palautordera › Vallès Oriental | 6 |
 | Forêt de Sant Esteve de Palautordera (14) ⚠️ | Sant Esteve de Palautordera › Vallès Oriental | 6 |
 | Forêt de Sant Celoni (22) ⚠️ | Sant Celoni › Vallès Oriental | 6 |
 | Forêt de la Nou de Berguedà (14) ⚠️ | la Nou de Berguedà › Berguedà | 6 |
+| Forêt de Cercs (30) ⚠️ | Cercs › Berguedà | 6 |
 | Forêt de Cercs (43) ⚠️ | Cercs › Berguedà | 6 |
 | Forêt de Cercs (50) ⚠️ | Cercs › Berguedà | 6 |
 | Forêt de Castellar del Riu (18) ⚠️ | Castellar del Riu › Berguedà | 6 |
@@ -3993,6 +3997,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de el Bruc (43) ⚠️ | el Bruc › Anoia | 6 |
 | Forêt de Olesa de Montserrat (31) ⚠️ | Olesa de Montserrat › Baix Llobregat | 6 |
 | Forêt de Martorell (13) ⚠️ | Martorell › Baix Llobregat | 6 |
+| Forêt de Castellbisbal (23) ⚠️ | Castellbisbal › Vallès Occidental | 6 |
 | Forêt de Castellgalí (34) ⚠️ | Castellgalí › Bages | 6 |
 | Forêt de Sant Vicenç de Castellet (42) ⚠️ | Sant Vicenç de Castellet › Bages | 6 |
 | Forêt de Navàs (62) ⚠️ | Navàs › Bages | 6 |
@@ -4014,13 +4019,13 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Viver i Serrateix (81) ⚠️ | Viver i Serrateix › Berguedà | 6 |
 | Forêt de Viver i Serrateix (85) ⚠️ | Viver i Serrateix › Berguedà | 6 |
 | Forêt de Montmajor (115) ⚠️ | Montmajor › Berguedà | 6 |
+| Forêt de Viver i Serrateix (93) ⚠️ | Viver i Serrateix › Berguedà | 6 |
 | Forêt de Montmajor (125) ⚠️ | Montmajor › Berguedà | 6 |
 | Forêt de Santa Maria de Merlès (26) ⚠️ | Gaià › Bages | 6 |
 | Forêt de Avinyó (107) ⚠️ | Avinyó › Bages | 6 |
 | Forêt de Sant Cugat del Vallès (139) ⚠️ | Sant Cugat del Vallès › Vallès Occidental | 6 |
 | Bois de Sant Cugat del Vallès (126) ⚠️ | Sant Cugat del Vallès › Vallès Occidental | 6 |
 | Forêt de Borredà (18) ⚠️ | Borredà › Berguedà | 6 |
-| Bois de Viladecavalls (10) ⚠️ | Viladecavalls › Vallès Occidental | 6 |
 | Forêt de Jorba (7) ⚠️ | Jorba › Anoia | 6 |
 | Forêt de Jorba (14) ⚠️ | Jorba › Anoia | 6 |
 | Forêt de Jorba (31) ⚠️ | Jorba › Anoia | 6 |
@@ -4064,7 +4069,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Tagamanent (30) ⚠️ | Tagamanent › Vallès Oriental | 6 |
 | Forêt de Tagamanent (33) ⚠️ | Tagamanent › Vallès Oriental | 6 |
 | Forêt de Tagamanent (37) ⚠️ | Tagamanent › Vallès Oriental | 6 |
-| Forêt de el Brull (30) ⚠️ | el Brull › Osona (Barcelone) | 6 |
 | Forêt de el Brull (34) ⚠️ | el Brull › Osona (Barcelone) | 6 |
 | Forêt de Montseny (15) ⚠️ | Montseny › Vallès Oriental | 6 |
 | Forêt de Fogars de Montclús (23) ⚠️ | Fogars de Montclús › Vallès Oriental | 6 |
@@ -4081,7 +4085,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Calonge de Segarra (17) ⚠️ | Calonge de Segarra › Anoia | 6 |
 | Forêt de les Franqueses del Vallès (53) ⚠️ | les Franqueses del Vallès › Vallès Oriental | 6 |
 | Forêt de l'Ametlla del Vallès (25) ⚠️ | l'Ametlla del Vallès › Vallès Oriental | 6 |
-| Forêt de Balenyà (7) ⚠️ | Balenyà › Osona (Barcelone) | 6 |
 | Forêt de Balenyà (20) ⚠️ | Balenyà › Osona (Barcelone) | 6 |
 | Forêt de Saldes (61) ⚠️ | Saldes › Berguedà | 6 |
 | Forêt de Saldes (67) ⚠️ | Saldes › Berguedà | 6 |
@@ -4094,6 +4097,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Prats de Lluçanès (18) ⚠️ | Prats de Lluçanès › Lluçanès | 6 |
 | Forêt de Sant Martí d'Albars (3) ⚠️ | Sant Martí d'Albars › Lluçanès | 6 |
 | Forêt de Olost (9) ⚠️ | Olost › Lluçanès | 6 |
+| Forêt de Lluçà (33) ⚠️ | Lluçà › Lluçanès | 6 |
 | Forêt de Lluçà (34) ⚠️ | Lluçà › Lluçanès | 6 |
 | Forêt de Borredà (61) ⚠️ | Borredà › Berguedà | 6 |
 | Forêt de Lluçà (45) ⚠️ | Lluçà › Lluçanès | 6 |
@@ -4109,6 +4113,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Vallcebre (35) ⚠️ | Vallcebre › Berguedà | 6 |
 | Forêt de Centelles (37) ⚠️ | Centelles › Osona (Barcelone) | 6 |
 | Forêt de Orís (23) ⚠️ | Orís › Osona (Barcelone) | 6 |
+| Forêt de Gurb (23) ⚠️ | Gurb › Osona (Barcelone) | 6 |
 | Forêt de Sant Jaume de Frontanyà (27) ⚠️ | Sant Jaume de Frontanyà › Berguedà | 6 |
 | Forêt de Tordera (85) ⚠️ | Tordera › Maresme | 6 |
 | Bois de Vilanova del Vallès (14) ⚠️ | Vilanova del Vallès › Vallès Oriental | 6 |
@@ -4129,12 +4134,14 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Vallirana (37) ⚠️ | Vallirana › Baix Llobregat | 6 |
 | Forêt de Cardona (108) ⚠️ | Cardona › Bages | 6 |
 | Forêt de Terrassa (82) ⚠️ | Terrassa › Vallès Occidental | 6 |
+| Forêt de Gelida (34) ⚠️ | Gelida › Alt Penedès | 6 |
 | Forêt de Mediona (14) ⚠️ | Mediona › Alt Penedès | 6 |
 | Forêt de Sant Quintí de Mediona (2) ⚠️ | Sant Quintí de Mediona › Alt Penedès | 6 |
 | Forêt de Mediona (70) ⚠️ | Mediona › Alt Penedès | 6 |
 | Forêt de Sant Pere de Riudebitlles (6) ⚠️ | Sant Pere de Riudebitlles › Alt Penedès | 6 |
 | Forêt de Torrelles de Foix (10) ⚠️ | Torrelles de Foix › Alt Penedès | 6 |
 | Forêt de Viver i Serrateix (122) ⚠️ | Viver i Serrateix › Berguedà | 6 |
+| Forêt de Tavertet (47) ⚠️ | Tavertet › Osona (Barcelone) | 6 |
 | Forêt de Tavertet (73) ⚠️ | Tavertet › Osona (Barcelone) | 6 |
 | Forêt de Tavertet (82) ⚠️ | Tavertet › Osona (Barcelone) | 6 |
 | Forêt de Alpens (19) ⚠️ | Alpens › Lluçanès | 6 |
@@ -4147,7 +4154,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Celoni (44) ⚠️ | Sant Celoni › Vallès Oriental | 6 |
 | Forêt de Sant Celoni (45) ⚠️ | Sant Celoni › Vallès Oriental | 6 |
 | Forêt de Fogars de la Selva (34) ⚠️ | Fogars de la Selva › la Selva (Barcelone) | 6 |
-| Forêt de Fogars de la Selva (38) ⚠️ | Fogars de la Selva › la Selva (Barcelone) | 6 |
 | Forêt de Fogars de la Selva (44) ⚠️ | Fogars de la Selva › la Selva (Barcelone) | 6 |
 | Forêt de Fogars de la Selva (46) ⚠️ | Fogars de la Selva › la Selva (Barcelone) | 6 |
 | Forêt de Sant Celoni (58) ⚠️ | Sant Celoni › Vallès Oriental | 6 |
@@ -4231,7 +4237,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellbisbal ⚠️ | Castellbisbal › Vallès Occidental | 5 |
 | Forêt de Sant Salvador de Guardiola (12) ⚠️ | Sant Salvador de Guardiola › Bages | 5 |
 | Bois de les Franqueses del Vallès (4) ⚠️ | les Franqueses del Vallès › Vallès Oriental | 5 |
-| Forêt de Sant Esteve Sesrovires (13) ⚠️ | Sant Esteve Sesrovires › Baix Llobregat | 5 |
 | Forêt de Sant Llorenç Savall (8) ⚠️ | Sant Llorenç Savall › Vallès Occidental | 5 |
 | Forêt de Cànoves i Samalús ⚠️ | Cànoves i Samalús › Vallès Oriental | 5 |
 | Forêt de Talamanca (2) ⚠️ | Talamanca › Bages | 5 |
@@ -4245,6 +4250,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | les Planes ⚠️ | Torrelles de Foix › Alt Penedès | 5 |
 | Bois de Òdena ⚠️ | Òdena › Anoia | 5 |
 | Forêt de Torrelavit (22) ⚠️ | Torrelavit › Alt Penedès | 5 |
+| Forêt de Vallcebre (7) ⚠️ | Vallcebre › Berguedà | 5 |
 | Forêt de Subirats (88) ⚠️ | Subirats › Alt Penedès | 5 |
 | Parc del Castell de l'Oreneta ⚠️ | Barcelona › Barcelonès | 5 |
 | Parc dels Pinetons (4) ⚠️ | Ripollet › Vallès Occidental | 5 |
@@ -4265,9 +4271,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Cardona (42) ⚠️ | Cardona › Bages | 5 |
 | Forêt de Cardona (50) ⚠️ | Cardona › Bages | 5 |
 | Forêt de Cardona (53) ⚠️ | Cardona › Bages | 5 |
-| Forêt de Torelló (2) ⚠️ | Torelló › Osona (Barcelone) | 5 |
 | Forêt de Orís (5) ⚠️ | Orís › Osona (Barcelone) | 5 |
-| Forêt de Malla (3) ⚠️ | Malla › Osona (Barcelone) | 5 |
 | Forêt de Sant Pere de Torelló (17) ⚠️ | Sant Pere de Torelló › Osona (Barcelone) | 5 |
 | Forêt de Castellar de n'Hug (8) ⚠️ | Castellar de n'Hug › Berguedà | 5 |
 | Forêt de Castellterçol (56) ⚠️ | Castellterçol › Moianès | 5 |
@@ -4296,7 +4300,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Oristà (91) ⚠️ | Oristà › Lluçanès | 5 |
 | Forêt de Sant Salvador de Guardiola (30) ⚠️ | Sant Salvador de Guardiola › Bages | 5 |
 | Forêt de Puig-reig (11) ⚠️ | Puig-reig › Berguedà | 5 |
-| Forêt de Puig-reig (13) ⚠️ | Puig-reig › Berguedà | 5 |
 | Forêt de Santa Maria d'Oló (25) ⚠️ | Santa Maria d'Oló › Moianès | 5 |
 | Forêt de Puig-reig (36) ⚠️ | Puig-reig › Berguedà | 5 |
 | Forêt de Sant Salvador de Guardiola (39) ⚠️ | Sant Salvador de Guardiola › Bages | 5 |
@@ -4324,7 +4327,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellolí (12) ⚠️ | Castellolí › Anoia | 5 |
 | Forêt de Òdena (32) ⚠️ | Òdena › Anoia | 5 |
 | Forêt de Òdena (35) ⚠️ | Òdena › Anoia | 5 |
-| Forêt de el Pont de Vilomara i Rocafort (8) ⚠️ | el Pont de Vilomara i Rocafort › Bages | 5 |
 | Forêt de Sitges (42) ⚠️ | Sitges › Garraf | 5 |
 | Forêt de Sitges (44) ⚠️ | Sitges › Garraf | 5 |
 | Forêt de Sitges (59) ⚠️ | Sitges › Garraf | 5 |
@@ -4333,16 +4335,15 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellgalí (12) ⚠️ | Sant Salvador de Guardiola › Bages | 5 |
 | Forêt de Castellgalí (13) ⚠️ | Castellgalí › Bages | 5 |
 | Forêt de Castellgalí (16) ⚠️ | Castellgalí › Bages | 5 |
+| Forêt de Artés (25) ⚠️ | Artés › Bages | 5 |
 | Forêt de Avinyó (65) ⚠️ | Avinyó › Bages | 5 |
 | Forêt de Avinyó (71) ⚠️ | Artés › Bages | 5 |
-| Forêt de Vic (25) ⚠️ | Vic › Osona (Barcelone) | 5 |
 | Forêt de Cardedeu (25) ⚠️ | Cardedeu › Vallès Oriental | 5 |
 | Forêt de Súria (14) ⚠️ | Sant Mateu de Bages › Bages | 5 |
 | Forêt de Súria (15) ⚠️ | Súria › Bages | 5 |
 | Forêt de Sant Pere de Ribes (87) ⚠️ | Sant Pere de Ribes › Garraf | 5 |
 | Forêt de Navàs (37) ⚠️ | Navàs › Bages | 5 |
 | Forêt de Santa Maria de Palautordera (21) ⚠️ | Santa Maria de Palautordera › Vallès Oriental | 5 |
-| Forêt de Cercs (30) ⚠️ | Cercs › Berguedà | 5 |
 | Forêt de Cercs (36) ⚠️ | Cercs › Berguedà | 5 |
 | Forêt de Cercs (44) ⚠️ | Cercs › Berguedà | 5 |
 | Forêt de Santa Maria de Besora (9) ⚠️ | Santa Maria de Besora › Osona (Barcelone) | 5 |
@@ -4371,7 +4372,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Olesa de Montserrat (40) ⚠️ | Olesa de Montserrat › Baix Llobregat | 5 |
 | Forêt de Abrera (12) ⚠️ | Abrera › Baix Llobregat | 5 |
 | Forêt de Abrera (20) ⚠️ | Martorell › Baix Llobregat | 5 |
-| Forêt de Castellbisbal (23) ⚠️ | Castellbisbal › Vallès Occidental | 5 |
 | Forêt de Castellví de Rosanes (8) ⚠️ | Castellví de Rosanes › Baix Llobregat | 5 |
 | Forêt de Sant Vicenç de Castellet (40) ⚠️ | Sant Vicenç de Castellet › Bages | 5 |
 | Forêt de Navàs (82) ⚠️ | Navàs › Bages | 5 |
@@ -4395,7 +4395,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Navàs (125) ⚠️ | Navàs › Bages | 5 |
 | Forêt de Viver i Serrateix (76) ⚠️ | Viver i Serrateix › Berguedà | 5 |
 | Forêt de Montmajor (116) ⚠️ | Montmajor › Berguedà | 5 |
-| Forêt de Viver i Serrateix (93) ⚠️ | Viver i Serrateix › Berguedà | 5 |
 | Forêt de Montmajor (130) ⚠️ | Montmajor › Berguedà | 5 |
 | Forêt de Gaià (65) ⚠️ | Gaià › Bages | 5 |
 | Forêt de Vic (31) ⚠️ | Vic › Osona (Barcelone) | 5 |
@@ -4404,6 +4403,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Saldes (23) ⚠️ | Saldes › Berguedà | 5 |
 | Forêt de Borredà (16) ⚠️ | Borredà › Berguedà | 5 |
 | Forêt de Borredà (29) ⚠️ | Borredà › Berguedà | 5 |
+| Bois de Viladecavalls (10) ⚠️ | Viladecavalls › Vallès Occidental | 5 |
 | Forêt de Jorba (15) ⚠️ | Jorba › Anoia | 5 |
 | Forêt de Òdena (47) ⚠️ | Òdena › Anoia | 5 |
 | Forêt de Òdena (48) ⚠️ | Òdena › Anoia | 5 |
@@ -4480,10 +4480,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Prats de Lluçanès (19) ⚠️ | Prats de Lluçanès › Lluçanès | 5 |
 | Forêt de Olost (5) ⚠️ | Olost › Lluçanès | 5 |
 | Forêt de Olost (7) ⚠️ | Olost › Lluçanès | 5 |
-| Forêt de Lluçà (33) ⚠️ | Lluçà › Lluçanès | 5 |
 | Forêt de Lluçà (44) ⚠️ | Lluçà › Lluçanès | 5 |
 | Forêt de Lluçà (53) ⚠️ | Lluçà › Lluçanès | 5 |
 | Forêt de les Franqueses del Vallès (68) ⚠️ | les Franqueses del Vallès › Vallès Oriental | 5 |
+| Forêt de Santa Maria de Merlès (141) ⚠️ | Santa Maria de Merlès › Berguedà | 5 |
 | Forêt de Borredà (128) ⚠️ | Borredà › Berguedà | 5 |
 | Forêt de Castellar de n'Hug (22) ⚠️ | Castellar de n'Hug › Berguedà | 5 |
 | Forêt de la Pobla de Lillet (40) ⚠️ | la Pobla de Lillet › Berguedà | 5 |
@@ -4496,7 +4496,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Orís (11) ⚠️ | Orís › Osona (Barcelone) | 5 |
 | Forêt de Orís (20) ⚠️ | Orís › Osona (Barcelone) | 5 |
 | Forêt de les Masies de Voltregà (12) ⚠️ | les Masies de Voltregà › Osona (Barcelone) | 5 |
-| Forêt de Gurb (23) ⚠️ | Gurb › Osona (Barcelone) | 5 |
 | Forêt de Tordera (75) ⚠️ | Tordera › Maresme | 5 |
 | Forêt de Fogars de la Selva (13) ⚠️ | Fogars de la Selva › la Selva (Barcelone) | 5 |
 | Forêt de Fogars de la Selva (18) ⚠️ | Fogars de la Selva › la Selva (Barcelone) | 5 |
@@ -4514,7 +4513,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de la Pobla de Claramunt (20) ⚠️ | la Pobla de Claramunt › Anoia | 5 |
 | Forêt de Viladecavalls (16) ⚠️ | Viladecavalls › Vallès Occidental | 5 |
 | Forêt de Gelida (33) ⚠️ | Gelida › Alt Penedès | 5 |
-| Forêt de Gelida (34) ⚠️ | Gelida › Alt Penedès | 5 |
 | Forêt de la Pobla de Claramunt (26) ⚠️ | la Pobla de Claramunt › Anoia | 5 |
 | Forêt de la Torre de Claramunt (16) ⚠️ | la Torre de Claramunt › Anoia | 5 |
 | Forêt de Piera (40) ⚠️ | Piera › Anoia | 5 |
@@ -4541,11 +4539,14 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Alpens (22) ⚠️ | Alpens › Lluçanès | 5 |
 | Forêt de Alpens (24) ⚠️ | Alpens › Lluçanès | 5 |
 | Forêt de Lluçà (79) ⚠️ | Lluçà › Lluçanès | 5 |
+| Forêt de Lluçà (87) ⚠️ | Lluçà › Lluçanès | 5 |
+| Forêt de Palafolls (30) ⚠️ | Palafolls › Maresme | 5 |
 | Forêt de Palafolls (32) ⚠️ | Palafolls › Maresme | 5 |
 | Forêt de Calella (9) ⚠️ | Calella › Maresme | 5 |
 | Forêt de Arenys de Munt (8) ⚠️ | Arenys de Munt › Maresme | 5 |
 | Forêt de Sant Celoni (46) ⚠️ | Sant Celoni › Vallès Oriental | 5 |
 | Forêt de Sant Celoni (49) ⚠️ | Sant Celoni › Vallès Oriental | 5 |
+| Forêt de Fogars de la Selva (38) ⚠️ | Fogars de la Selva › la Selva (Barcelone) | 5 |
 | Forêt de Fogars de la Selva (39) ⚠️ | Fogars de la Selva › la Selva (Barcelone) | 5 |
 | Forêt de Gualba (18) ⚠️ | Gualba › Vallès Oriental | 5 |
 | Forêt de Gualba (20) ⚠️ | Gualba › Vallès Oriental | 5 |
@@ -4553,7 +4554,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Celoni (73) ⚠️ | Sant Celoni › Vallès Oriental | 5 |
 | Forêt de Sant Cugat del Vallès (161) ⚠️ | Sant Cugat del Vallès › Vallès Occidental | 5 |
 | Forêt de Santpedor (49) ⚠️ | Santpedor › Bages | 5 |
-| Forêt de Sallent (128) ⚠️ | Sallent › Bages | 5 |
 | Forêt de Castellnou de Bages (61) ⚠️ | Castellnou de Bages › Bages | 5 |
 | Forêt de Castellnou de Bages (80) ⚠️ | Castellnou de Bages › Bages | 5 |
 | Forêt de Súria (48) ⚠️ | Súria › Bages | 5 |
@@ -4566,7 +4566,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Taradell (28) ⚠️ | Taradell › Osona (Barcelone) | 5 |
 | Forêt de Taradell (30) ⚠️ | Taradell › Osona (Barcelone) | 5 |
 | Forêt de Sant Julià de Vilatorta (17) ⚠️ | Sant Julià de Vilatorta › Osona (Barcelone) | 5 |
-| Forêt de el Brull (42) ⚠️ | el Brull › Osona (Barcelone) | 5 |
 | Parc de Montigalà ⚠️ | Badalona › Barcelonès | 5 |
 | Forêt de Cabrils (5) ⚠️ | Cabrils › Maresme | 5 |
 | Bois de Cabrera de Mar (2) ⚠️ | Cabrera de Mar › Maresme | 5 |
@@ -4640,7 +4639,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Llinars del Vallès (15) ⚠️ | Llinars del Vallès › Vallès Oriental | 4 |
 | Parc de Can Buxeres ⚠️ | l'Hospitalet de Llobregat › Barcelonès | 4 |
 | Forêt de Aguilar de Segarra (5) ⚠️ | Aguilar de Segarra › Bages | 4 |
-| El Bosc Tancat - Natupark ⚠️ | Cerdanyola del Vallès › Vallès Occidental | 4 |
 | Forêt de Avià ⚠️ | Avià › Berguedà | 4 |
 | Forêt de Sant Pere Sallavinera (2) ⚠️ | Sant Pere Sallavinera › Anoia | 4 |
 | Bois de Cabrils (9) ⚠️ | Cabrils › Maresme | 4 |
@@ -4667,6 +4665,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Salvador de Guardiola (11) ⚠️ | Sant Salvador de Guardiola › Bages | 4 |
 | Forêt de Sant Salvador de Guardiola (14) ⚠️ | Sant Salvador de Guardiola › Bages | 4 |
 | Forêt de Badalona (16) ⚠️ | Badalona › Barcelonès | 4 |
+| Forêt de Sant Esteve Sesrovires (13) ⚠️ | Sant Esteve Sesrovires › Baix Llobregat | 4 |
 | Forêt de Esparreguera (2) ⚠️ | Esparreguera › Baix Llobregat | 4 |
 | Forêt de Sant Llorenç Savall (9) ⚠️ | Sant Llorenç Savall › Vallès Occidental | 4 |
 | Forêt de Sentmenat (6) ⚠️ | Sentmenat › Vallès Occidental | 4 |
@@ -4679,7 +4678,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Sant Llorenç Savall (15) ⚠️ | Sant Llorenç Savall › Vallès Occidental | 4 |
 | Bois de Balenyà ⚠️ | Balenyà › Osona (Barcelone) | 4 |
 | Forêt de Cubelles (10) ⚠️ | Cubelles › Garraf | 4 |
-| Bois de Font-rubí (2) ⚠️ | Font-rubí › Alt Penedès | 4 |
 | Bois de Lliçà d'Amunt (25) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 4 |
 | Forêt de la Garriga (6) ⚠️ | la Garriga › Vallès Oriental | 4 |
 | Forêt de la Garriga (10) ⚠️ | la Garriga › Vallès Oriental | 4 |
@@ -4695,9 +4693,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Premià de Dalt (2) ⚠️ | Premià de Dalt › Maresme | 4 |
 | Forêt de Teià ⚠️ | Teià › Maresme | 4 |
 | Bois de Castellví de la Marca (2) ⚠️ | Castellví de la Marca › Alt Penedès | 4 |
-| Forêt de Vallcebre (7) ⚠️ | Vallcebre › Berguedà | 4 |
 | Forêt de Arenys de Mar (5) ⚠️ | Arenys de Mar › Maresme | 4 |
-| Bois de Jorba (12) ⚠️ | Jorba › Anoia | 4 |
 | Bois de Veciana (9) ⚠️ | Veciana › Anoia | 4 |
 | Bois de Piera (6) ⚠️ | Piera › Anoia | 4 |
 | Forêt de Borredà (10) ⚠️ | Borredà › Berguedà | 4 |
@@ -4723,9 +4719,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Manresa (51) ⚠️ | Manresa › Bages | 4 |
 | Forêt de Terrassa (69) ⚠️ | Terrassa › Vallès Occidental | 4 |
 | Forêt de Gisclareny (8) ⚠️ | Gisclareny › Berguedà | 4 |
-| Forêt de Fonollosa (127) ⚠️ | Fonollosa › Bages | 4 |
-| Forêt de Castellfollit de Riubregós (6) ⚠️ | Castellfollit de Riubregós › Anoia | 4 |
+| Forêt de Torelló (2) ⚠️ | Torelló › Osona (Barcelone) | 4 |
 | Forêt de Lliçà d'Amunt (18) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 4 |
+| Forêt de Malla (3) ⚠️ | Malla › Osona (Barcelone) | 4 |
 | Forêt de Manresa (94) ⚠️ | Manresa › Bages | 4 |
 | Forêt de Oristà (87) ⚠️ | Oristà › Lluçanès | 4 |
 | Forêt de Avià (14) ⚠️ | Avià › Berguedà | 4 |
@@ -4739,6 +4735,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Avinyó (28) ⚠️ | Avinyó › Bages | 4 |
 | Forêt de Sallent (74) ⚠️ | Sallent › Bages | 4 |
 | Forêt de Balsareny (65) ⚠️ | Balsareny › Bages | 4 |
+| Forêt de Balsareny (66) ⚠️ | Balsareny › Bages | 4 |
 | Forêt de Montmajor (66) ⚠️ | Montmajor › Berguedà | 4 |
 | Forêt de Oristà (93) ⚠️ | Oristà › Lluçanès | 4 |
 | Forêt de Santa Maria d'Oló (20) ⚠️ | Santa Maria d'Oló › Moianès | 4 |
@@ -4785,12 +4782,12 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Gavà (77) ⚠️ | Gavà › Baix Llobregat | 4 |
 | Forêt de Manresa (125) ⚠️ | Manresa › Bages | 4 |
 | Forêt de Sant Salvador de Guardiola (49) ⚠️ | Sant Salvador de Guardiola › Bages | 4 |
-| Forêt de Artés (25) ⚠️ | Artés › Bages | 4 |
 | Forêt de Artés (26) ⚠️ | Artés › Bages | 4 |
 | Forêt de Calders (29) ⚠️ | Calders › Moianès | 4 |
 | Forêt de Artés (30) ⚠️ | Artés › Bages | 4 |
 | Forêt de Artés (32) ⚠️ | Artés › Bages | 4 |
 | Forêt de Calders (36) ⚠️ | Calders › Moianès | 4 |
+| Forêt de Vic (25) ⚠️ | Vic › Osona (Barcelone) | 4 |
 | Zona de la Font dels Oms ⚠️ | Cardedeu › Vallès Oriental | 4 |
 | Forêt de Sant Antoni de Vilamajor (37) ⚠️ | Sant Antoni de Vilamajor › Vallès Oriental | 4 |
 | Forêt de la Garriga (41) ⚠️ | la Garriga › Vallès Oriental | 4 |
@@ -4801,10 +4798,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sallent (84) ⚠️ | Sallent › Bages | 4 |
 | Forêt de Avinyó (96) ⚠️ | Avinyó › Bages | 4 |
 | Forêt de Avinyó (97) ⚠️ | Avinyó › Bages | 4 |
-| Forêt de Navàs (35) ⚠️ | Navàs › Bages | 4 |
 | Forêt de Navàs (47) ⚠️ | Navàs › Bages | 4 |
 | Forêt de Gaià (42) ⚠️ | Gaià › Bages | 4 |
 | Forêt de Gaià (45) ⚠️ | Gaià › Bages | 4 |
+| Forêt de Gaià (54) ⚠️ | Gaià › Bages | 4 |
 | Forêt de Sant Esteve de Palautordera (12) ⚠️ | Sant Esteve de Palautordera › Vallès Oriental | 4 |
 | Forêt de Vilada (14) ⚠️ | Vilada › Berguedà | 4 |
 | Forêt de Castell de l'Areny (14) ⚠️ | Castell de l'Areny › Berguedà | 4 |
@@ -4825,11 +4822,13 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Talamanca (27) ⚠️ | Talamanca › Bages | 4 |
 | Forêt de Mura (32) ⚠️ | Mura › Bages | 4 |
 | Forêt de Navarcles (9) ⚠️ | Navarcles › Bages | 4 |
+| Forêt de Sant Vicenç de Castellet (26) ⚠️ | Sant Vicenç de Castellet › Bages | 4 |
 | Forêt de Sant Vicenç de Castellet (28) ⚠️ | Sant Vicenç de Castellet › Bages | 4 |
 | Forêt de Calders (65) ⚠️ | Calders › Moianès | 4 |
 | Forêt de Aguilar de Segarra (30) ⚠️ | Aguilar de Segarra › Bages | 4 |
 | Forêt de Aguilar de Segarra (42) ⚠️ | Aguilar de Segarra › Bages | 4 |
 | Forêt de Sant Pere Sallavinera (11) ⚠️ | Sant Pere Sallavinera › Anoia | 4 |
+| Forêt de Sant Pere Sallavinera (45) ⚠️ | Sant Pere Sallavinera › Anoia | 4 |
 | Forêt de Terrassa (73) ⚠️ | Terrassa › Vallès Occidental | 4 |
 | Forêt de Terrassa (77) ⚠️ | Terrassa › Vallès Occidental | 4 |
 | Forêt de Castellbell i el Vilar (70) ⚠️ | Castellbell i el Vilar › Bages | 4 |
@@ -4878,7 +4877,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Santa Maria de Merlès (38) ⚠️ | Santa Maria de Merlès › Berguedà | 4 |
 | Forêt de Prats de Lluçanès (4) ⚠️ | Prats de Lluçanès › Lluçanès | 4 |
 | Forêt de Santa Eulàlia de Riuprimer (5) ⚠️ | Santa Eulàlia de Riuprimer › Osona (Barcelone) | 4 |
-| Forêt de Santa Eulàlia de Riuprimer (6) ⚠️ | Santa Eulàlia de Riuprimer › Osona (Barcelone) | 4 |
 | Forêt de Sant Cugat del Vallès (116) ⚠️ | Sant Cugat del Vallès › Vallès Occidental | 4 |
 | Bois de Sant Cugat del Vallès (119) ⚠️ | Sant Cugat del Vallès › Vallès Occidental | 4 |
 | Forêt de Sant Cugat del Vallès (122) ⚠️ | Sant Cugat del Vallès › Vallès Occidental | 4 |
@@ -4919,6 +4917,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Feliu de Llobregat (2) ⚠️ | Sant Feliu de Llobregat › Baix Llobregat | 4 |
 | Forêt de Gisclareny (10) ⚠️ | Gisclareny › Berguedà | 4 |
 | Forêt de Viver i Serrateix (107) ⚠️ | Viver i Serrateix › Berguedà | 4 |
+| Forêt de Borredà (44) ⚠️ | Borredà › Berguedà | 4 |
 | Forêt de Borredà (54) ⚠️ | Borredà › Berguedà | 4 |
 | Forêt de Santa Maria de Merlès (82) ⚠️ | Santa Maria de Merlès › Berguedà | 4 |
 | Forêt de Santa Maria de Merlès (103) ⚠️ | Santa Maria de Merlès › Berguedà | 4 |
@@ -4932,6 +4931,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de la Garriga (46) ⚠️ | la Garriga › Vallès Oriental | 4 |
 | Forêt de els Hostalets de Pierola (16) ⚠️ | els Hostalets de Pierola › Anoia | 4 |
 | Forêt de Monistrol de Calders (35) ⚠️ | Monistrol de Calders › Moianès | 4 |
+| Forêt de Santa Maria d'Oló (57) ⚠️ | Santa Maria d'Oló › Moianès | 4 |
 | Forêt de Granera (20) ⚠️ | Granera › Moianès | 4 |
 | Forêt de Taradell (9) ⚠️ | Taradell › Osona (Barcelone) | 4 |
 | Forêt de Tagamanent (18) ⚠️ | Tagamanent › Vallès Oriental | 4 |
@@ -4977,7 +4977,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Dosrius (27) ⚠️ | Dosrius › Maresme | 4 |
 | Forêt de Dosrius (28) ⚠️ | Dosrius › Maresme | 4 |
 | Forêt de Balenyà (14) ⚠️ | Balenyà › Osona (Barcelone) | 4 |
-| Forêt de Tona (9) ⚠️ | Tona › Osona (Barcelone) | 4 |
 | Forêt de Balenyà (24) ⚠️ | Balenyà › Osona (Barcelone) | 4 |
 | Forêt de Tona (27) ⚠️ | Tona › Osona (Barcelone) | 4 |
 | Forêt de Muntanyola (35) ⚠️ | Muntanyola › Osona (Barcelone) | 4 |
@@ -4993,7 +4992,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Lluçà (30) ⚠️ | Lluçà › Lluçanès | 4 |
 | Forêt de Olost (4) ⚠️ | Olost › Lluçanès | 4 |
 | Forêt de Borredà (92) ⚠️ | Borredà › Berguedà | 4 |
-| Forêt de Santa Maria de Merlès (141) ⚠️ | Santa Maria de Merlès › Berguedà | 4 |
 | Forêt de Borredà (113) ⚠️ | Borredà › Berguedà | 4 |
 | Forêt de la Pobla de Lillet (55) ⚠️ | la Pobla de Lillet › Berguedà | 4 |
 | Forêt de la Pobla de Lillet (56) ⚠️ | la Pobla de Lillet › Berguedà | 4 |
@@ -5067,6 +5065,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de la Torre de Claramunt (19) ⚠️ | la Torre de Claramunt › Anoia | 4 |
 | Forêt de la Torre de Claramunt (25) ⚠️ | la Torre de Claramunt › Anoia | 4 |
 | Forêt de Mediona (47) ⚠️ | Mediona › Alt Penedès | 4 |
+| Forêt de la Llacuna (11) ⚠️ | la Llacuna › Anoia | 4 |
 | Forêt de Piera (53) ⚠️ | Piera › Anoia | 4 |
 | Forêt de Cabrera d'Anoia (45) ⚠️ | Cabrera d'Anoia › Anoia | 4 |
 | Forêt de Piera (55) ⚠️ | Piera › Anoia | 4 |
@@ -5088,11 +5087,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc del Poblenou (2) ⚠️ | Barcelona › Barcelonès | 4 |
 | Forêt de Lluçà (62) ⚠️ | Lluçà › Lluçanès | 4 |
 | Forêt de Alpens (18) ⚠️ | Alpens › Lluçanès | 4 |
-| Forêt de Lluçà (87) ⚠️ | Lluçà › Lluçanès | 4 |
 | Forêt de Lluçà (88) ⚠️ | Lluçà › Lluçanès | 4 |
 | Forêt de la Quar (47) ⚠️ | la Quar › Berguedà | 4 |
 | Forêt de Sant Cebrià de Vallalta (12) ⚠️ | Sant Cebrià de Vallalta › Maresme | 4 |
-| Forêt de Palafolls (30) ⚠️ | Palafolls › Maresme | 4 |
 | Parc Dalmau ⚠️ | Calella › Maresme | 4 |
 | Forêt de Sant Vicenç de Montalt (10) ⚠️ | Sant Vicenç de Montalt › Maresme | 4 |
 | Forêt de Vallgorguina (16) ⚠️ | Vallgorguina › Vallès Oriental | 4 |
@@ -5105,6 +5102,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Celoni (67) ⚠️ | Sant Celoni › Vallès Oriental | 4 |
 | Forêt de Sant Celoni (77) ⚠️ | Sant Celoni › Vallès Oriental | 4 |
 | Forêt de Gironella (31) ⚠️ | Gironella › Berguedà | 4 |
+| Forêt de Sallent (128) ⚠️ | Sallent › Bages | 4 |
 | Forêt de Castellnou de Bages (59) ⚠️ | Castellnou de Bages › Bages | 4 |
 | Forêt de Castellnou de Bages (67) ⚠️ | Castellnou de Bages › Bages | 4 |
 | Forêt de Callús (26) ⚠️ | Callús › Bages | 4 |
@@ -5116,6 +5114,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Folgueroles (3) ⚠️ | Folgueroles › Osona (Barcelone) | 4 |
 | Forêt de Tavèrnoles (11) ⚠️ | Tavèrnoles › Osona (Barcelone) | 4 |
 | Forêt de Santa Maria d'Oló (84) ⚠️ | Santa Maria d'Oló › Moianès | 4 |
+| Forêt de el Brull (42) ⚠️ | el Brull › Osona (Barcelone) | 4 |
 | Forêt de Pallejà (10) ⚠️ | Pallejà › Baix Llobregat | 4 |
 | Forêt de Manlleu (9) ⚠️ | Manlleu › Osona (Barcelone) | 4 |
 | Forêt de Arenys de Mar (10) ⚠️ | Arenys de Mar › Maresme | 4 |
@@ -5166,6 +5165,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Pere de Ribes (10) ⚠️ | Sant Pere de Ribes › Garraf | 3 |
 | Turó d'Onofre Arnau ⚠️ | Mataró › Maresme | 3 |
 | Forêt de Olivella (2) ⚠️ | Olivella › Garraf | 3 |
+| Forêt de Gavà (11) ⚠️ | Gavà › Baix Llobregat | 3 |
 | Forêt de Gavà (12) ⚠️ | Gavà › Baix Llobregat | 3 |
 | Forêt de Avinyonet del Penedès (4) ⚠️ | Avinyonet del Penedès › Alt Penedès | 3 |
 | Forêt de Avinyonet del Penedès (5) ⚠️ | Avinyonet del Penedès › Alt Penedès | 3 |
@@ -5206,10 +5206,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Central de Nou Barris ⚠️ | Barcelona › Barcelonès | 3 |
 | Forêt de Vilobí del Penedès (6) ⚠️ | Vilobí del Penedès › Alt Penedès | 3 |
 | Forêt de Vallirana (19) ⚠️ | Vallirana › Baix Llobregat | 3 |
-| Forêt de Castellví de la Marca (50) ⚠️ | Castellví de la Marca › Alt Penedès | 3 |
 | Forêt de Fonollosa (2) ⚠️ | Fonollosa › Bages | 3 |
 | Forêt de Fonollosa (5) ⚠️ | Fonollosa › Bages | 3 |
 | Parc de Sant Pere de Ribes (2) ⚠️ | Sant Pere de Ribes › Garraf | 3 |
+| Bois de Bigues i Riells del Fai (3) ⚠️ | Bigues i Riells del Fai › Vallès Oriental | 3 |
 | Bois de Òrrius (2) ⚠️ | Òrrius › Maresme | 3 |
 | Bois de Argentona (5) ⚠️ | Argentona › Maresme | 3 |
 | Bois de Vilassar de Dalt (3) ⚠️ | Vilassar de Dalt › Maresme | 3 |
@@ -5233,10 +5233,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Llinars del Vallès (4) ⚠️ | Llinars del Vallès › Vallès Oriental | 3 |
 | Bois de la Roca del Vallès (36) ⚠️ | la Roca del Vallès › Vallès Oriental | 3 |
 | Forêt de l'Espunyola ⚠️ | l'Espunyola › Berguedà | 3 |
-| Forêt de Cardona (6) ⚠️ | Cardona › Bages | 3 |
 | Forêt de els Prats de Rei (5) ⚠️ | els Prats de Rei › Anoia | 3 |
 | Bois de Llinars del Vallès (26) ⚠️ | Llinars del Vallès › Vallès Oriental | 3 |
 | Forêt de Balenyà (2) ⚠️ | Balenyà › Osona (Barcelone) | 3 |
+| El Bosc Tancat - Natupark ⚠️ | Cerdanyola del Vallès › Vallès Occidental | 3 |
 | Forêt de Avià (3) ⚠️ | Avià › Berguedà | 3 |
 | Forêt de Santa Margarida de Montbui ⚠️ | Santa Margarida de Montbui › Anoia | 3 |
 | Forêt de Santa Perpètua de Mogoda (9) ⚠️ | Santa Perpètua de Mogoda › Vallès Occidental | 3 |
@@ -5298,6 +5298,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Balenyà (2) ⚠️ | Balenyà › Osona (Barcelone) | 3 |
 | Forêt de Vilanova i la Geltrú (17) ⚠️ | Vilanova i la Geltrú › Garraf | 3 |
 | Forêt de Fígols (2) ⚠️ | Fígols › Berguedà | 3 |
+| Bois de Font-rubí (2) ⚠️ | Font-rubí › Alt Penedès | 3 |
 | Forêt de Balenyà (4) ⚠️ | Balenyà › Osona (Barcelone) | 3 |
 | Bois de Montmaneu (5) ⚠️ | Montmaneu › Anoia | 3 |
 | Forêt de el Brull (3) ⚠️ | el Brull › Osona (Barcelone) | 3 |
@@ -5314,7 +5315,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Montmaneu (32) ⚠️ | Montmaneu › Anoia | 3 |
 | Bois de Torrelavit (9) ⚠️ | Torrelavit › Alt Penedès | 3 |
 | Bois de Torrelavit (22) ⚠️ | Torrelavit › Alt Penedès | 3 |
-| Parc Puig dels Jueus ⚠️ | Vic › Osona (Barcelone) | 3 |
 | Forêt de Sant Feliu Sasserra (5) ⚠️ | Sant Feliu Sasserra › Bages | 3 |
 | Forêt de Castellar de n'Hug (4) ⚠️ | Castellar de n'Hug › Berguedà | 3 |
 | Forêt de Premià de Dalt ⚠️ | Premià de Dalt › Maresme | 3 |
@@ -5323,6 +5323,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Vallcebre (9) ⚠️ | Vallcebre › Berguedà | 3 |
 | Bois de Sant Martí de Tous (3) ⚠️ | Sant Martí de Tous › Anoia | 3 |
 | Bois de Jorba (6) ⚠️ | Argençola › Anoia | 3 |
+| Bois de Jorba (12) ⚠️ | Jorba › Anoia | 3 |
 | Bois de Veciana (8) ⚠️ | Veciana › Anoia | 3 |
 | Forêt de Subirats (86) ⚠️ | Subirats › Alt Penedès | 3 |
 | Forêt de Alpens (14) ⚠️ | Alpens › Lluçanès | 3 |
@@ -5330,6 +5331,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Caldes de Montbui (8) ⚠️ | Caldes de Montbui › Vallès Oriental | 3 |
 | Forêt de Cercs (6) ⚠️ | Cercs › Berguedà | 3 |
 | Forêt de Collbató (3) ⚠️ | Collbató › Baix Llobregat | 3 |
+| Forêt de Cardona (35) ⚠️ | Cardona › Bages | 3 |
 | Forêt de Saldes (8) ⚠️ | Saldes › Berguedà | 3 |
 | Forêt de Matadepera (212) ⚠️ | Matadepera › Vallès Occidental | 3 |
 | Forêt de Fonollosa (91) ⚠️ | Fonollosa › Bages | 3 |
@@ -5359,8 +5361,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Fonollosa (115) ⚠️ | Fonollosa › Bages | 3 |
 | Forêt de Fonollosa (117) ⚠️ | Fonollosa › Bages | 3 |
 | Forêt de Fonollosa (125) ⚠️ | Fonollosa › Bages | 3 |
+| Forêt de Fonollosa (127) ⚠️ | Fonollosa › Bages | 3 |
 | Forêt de Cerdanyola del Vallès (55) ⚠️ | Cerdanyola del Vallès › Vallès Occidental | 3 |
 | Forêt de Saldes (12) ⚠️ | Saldes › Berguedà | 3 |
+| Forêt de Castellfollit de Riubregós (6) ⚠️ | Castellfollit de Riubregós › Anoia | 3 |
 | Forêt de els Hostalets de Pierola (12) ⚠️ | els Hostalets de Pierola › Anoia | 3 |
 | Forêt de Castellterçol (54) ⚠️ | Castellterçol › Moianès | 3 |
 | Forêt de Castellterçol (68) ⚠️ | Castellterçol › Moianès | 3 |
@@ -5387,7 +5391,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Avinyó (37) ⚠️ | Avinyó › Bages | 3 |
 | Forêt de Avinyó (39) ⚠️ | Avinyó › Bages | 3 |
 | Forêt de Sallent (76) ⚠️ | Sallent › Bages | 3 |
-| Forêt de Balsareny (66) ⚠️ | Balsareny › Bages | 3 |
 | Forêt de Olèrdola (60) ⚠️ | Olèrdola › Alt Penedès | 3 |
 | Forêt de Oristà (96) ⚠️ | Oristà › Lluçanès | 3 |
 | Forêt de Sant Salvador de Guardiola (33) ⚠️ | Sant Salvador de Guardiola › Bages | 3 |
@@ -5477,9 +5480,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Vallromanes (11) ⚠️ | Vallromanes › Vallès Oriental | 3 |
 | Forêt de Sallent (87) ⚠️ | Sallent › Bages | 3 |
 | Forêt de Avinyó (98) ⚠️ | Avinyó › Bages | 3 |
+| Forêt de Navàs (35) ⚠️ | Navàs › Bages | 3 |
 | Forêt de Navàs (39) ⚠️ | Navàs › Bages | 3 |
 | Forêt de Navàs (48) ⚠️ | Navàs › Bages | 3 |
-| Forêt de Gaià (54) ⚠️ | Gaià › Bages | 3 |
 | Forêt de Sant Vicenç de Castellet (22) ⚠️ | Sant Vicenç de Castellet › Bages | 3 |
 | Forêt de Sant Esteve de Palautordera (5) ⚠️ | Sant Esteve de Palautordera › Vallès Oriental | 3 |
 | Forêt de Santa Maria de Palautordera (25) ⚠️ | Santa Maria de Palautordera › Vallès Oriental | 3 |
@@ -5498,7 +5501,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Calders (51) ⚠️ | Calders › Moianès | 3 |
 | Forêt de Calders (62) ⚠️ | Calders › Moianès | 3 |
 | Forêt de Sant Vicenç de Castellet (23) ⚠️ | Sant Vicenç de Castellet › Bages | 3 |
-| Forêt de Sant Vicenç de Castellet (26) ⚠️ | Sant Vicenç de Castellet › Bages | 3 |
 | Forêt de Sant Vicenç de Castellet (30) ⚠️ | Sant Vicenç de Castellet › Bages | 3 |
 | Forêt de Castellgalí (22) ⚠️ | Castellgalí › Bages | 3 |
 | Forêt de Aguilar de Segarra (36) ⚠️ | Aguilar de Segarra › Bages | 3 |
@@ -5509,7 +5511,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Pere Sallavinera (17) ⚠️ | Sant Pere Sallavinera › Anoia | 3 |
 | Forêt de Sant Pere Sallavinera (21) ⚠️ | Sant Pere Sallavinera › Anoia | 3 |
 | Forêt de Sant Pere Sallavinera (28) ⚠️ | Sant Pere Sallavinera › Anoia | 3 |
-| Forêt de Sant Pere Sallavinera (45) ⚠️ | Sant Pere Sallavinera › Anoia | 3 |
 | Forêt de Sant Pere Sallavinera (47) ⚠️ | Sant Pere Sallavinera › Anoia | 3 |
 | Forêt de Sant Pere Sallavinera (53) ⚠️ | Calonge de Segarra › Anoia | 3 |
 | Forêt de els Prats de Rei (30) ⚠️ | els Prats de Rei › Anoia | 3 |
@@ -5535,6 +5536,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Martorell (12) ⚠️ | Martorell › Baix Llobregat | 3 |
 | Forêt de Castellbisbal (26) ⚠️ | Castellbisbal › Vallès Occidental | 3 |
 | Forêt de Castellbisbal (27) ⚠️ | Castellbisbal › Vallès Occidental | 3 |
+| Forêt de Castellbisbal (31) ⚠️ | Castellbisbal › Vallès Occidental | 3 |
 | Forêt de Martorell (18) ⚠️ | Martorell › Baix Llobregat | 3 |
 | Parc del Riu Anoia ⚠️ | Martorell › Baix Llobregat | 3 |
 | Forêt de Castellgalí (43) ⚠️ | Castellgalí › Bages | 3 |
@@ -5564,6 +5566,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Montmajor (82) ⚠️ | Montmajor › Berguedà | 3 |
 | Forêt de Montmajor (94) ⚠️ | Montmajor › Berguedà | 3 |
 | Forêt de Cardona (60) ⚠️ | Cardona › Bages | 3 |
+| Forêt de Montmajor (101) ⚠️ | Montmajor › Berguedà | 3 |
 | Forêt de Montmajor (103) ⚠️ | Montmajor › Berguedà | 3 |
 | Forêt de Navàs (101) ⚠️ | Navàs › Bages | 3 |
 | Forêt de Navàs (104) ⚠️ | Navàs › Bages | 3 |
@@ -5590,6 +5593,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Lluçà (7) ⚠️ | Lluçà › Lluçanès | 3 |
 | Forêt de Vic (28) ⚠️ | Vic › Osona (Barcelone) | 3 |
 | Forêt de Santa Eulàlia de Riuprimer (4) ⚠️ | Santa Eulàlia de Riuprimer › Osona (Barcelone) | 3 |
+| Forêt de Santa Eulàlia de Riuprimer (6) ⚠️ | Santa Eulàlia de Riuprimer › Osona (Barcelone) | 3 |
 | Forêt de Sant Cugat del Vallès (123) ⚠️ | Sant Cugat del Vallès › Vallès Occidental | 3 |
 | Bois de Barcelona (105) ⚠️ | Barcelona › Barcelonès | 3 |
 | Bois de Barcelona (110) ⚠️ | Barcelona › Barcelonès | 3 |
@@ -5647,7 +5651,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Santa Maria de Merlès (75) ⚠️ | Santa Maria de Merlès › Berguedà | 3 |
 | Forêt de Vilada (17) ⚠️ | Vilada › Berguedà | 3 |
 | Forêt de Sant Jaume de Frontanyà (19) ⚠️ | Sant Jaume de Frontanyà › Berguedà | 3 |
-| Forêt de Borredà (44) ⚠️ | Borredà › Berguedà | 3 |
 | Forêt de Borredà (48) ⚠️ | Borredà › Berguedà | 3 |
 | Forêt de Borredà (56) ⚠️ | Borredà › Berguedà | 3 |
 | Forêt de Sagàs (24) ⚠️ | Sagàs › Berguedà | 3 |
@@ -5667,7 +5670,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Collbató (14) ⚠️ | Collbató › Baix Llobregat | 3 |
 | Forêt de Monistrol de Calders (31) ⚠️ | Monistrol de Calders › Moianès | 3 |
 | Forêt de Monistrol de Calders (40) ⚠️ | Monistrol de Calders › Moianès | 3 |
-| Forêt de Santa Maria d'Oló (57) ⚠️ | Santa Maria d'Oló › Moianès | 3 |
 | Forêt de Granera (22) ⚠️ | Granera › Moianès | 3 |
 | Forêt de Abrera (30) ⚠️ | Abrera › Baix Llobregat | 3 |
 | Forêt de Taradell (8) ⚠️ | Taradell › Osona (Barcelone) | 3 |
@@ -5714,6 +5716,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Cardona (69) ⚠️ | Cardona › Bages | 3 |
 | Forêt de Cardona (74) ⚠️ | Cardona › Bages | 3 |
 | Forêt de Cardona (75) ⚠️ | Cardona › Bages | 3 |
+| Forêt de Cardona (82) ⚠️ | Cardona › Bages | 3 |
 | Forêt de Cardona (89) ⚠️ | Cardona › Bages | 3 |
 | Forêt de Cardona (96) ⚠️ | Cardona › Bages | 3 |
 | Forêt de Sant Mateu de Bages (78) ⚠️ | Sant Mateu de Bages › Bages | 3 |
@@ -5732,6 +5735,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Dosrius (19) ⚠️ | Dosrius › Maresme | 3 |
 | Forêt de Balenyà (15) ⚠️ | Balenyà › Osona (Barcelone) | 3 |
 | Forêt de Tona (8) ⚠️ | Tona › Osona (Barcelone) | 3 |
+| Forêt de Tona (9) ⚠️ | Tona › Osona (Barcelone) | 3 |
 | Forêt de Collsuspina (9) ⚠️ | Collsuspina › Moianès | 3 |
 | Forêt de Balenyà (23) ⚠️ | Balenyà › Osona (Barcelone) | 3 |
 | Forêt de Tona (24) ⚠️ | Tona › Osona (Barcelone) | 3 |
@@ -5742,6 +5746,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de el Bruc (47) ⚠️ | el Bruc › Anoia | 3 |
 | Forêt de Gallifa (6) ⚠️ | Gallifa › Vallès Occidental | 3 |
 | Forêt de Saldes (42) ⚠️ | Saldes › Berguedà | 3 |
+| Forêt de Olvan (29) ⚠️ | Olvan › Berguedà | 3 |
 | Forêt de Sagàs (47) ⚠️ | Sagàs › Berguedà | 3 |
 | Forêt de Gisclareny (36) ⚠️ | Gisclareny › Berguedà | 3 |
 | Forêt de Bagà (48) ⚠️ | Bagà › Berguedà | 3 |
@@ -5862,7 +5867,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de la Torre de Claramunt (23) ⚠️ | la Torre de Claramunt › Anoia | 3 |
 | Forêt de Mediona (48) ⚠️ | Mediona › Alt Penedès | 3 |
 | Forêt de Mediona (49) ⚠️ | Mediona › Alt Penedès | 3 |
-| Forêt de la Llacuna (11) ⚠️ | la Llacuna › Anoia | 3 |
 | Forêt de Cabrera d'Anoia (28) ⚠️ | Cabrera d'Anoia › Anoia | 3 |
 | Forêt de Mediona (69) ⚠️ | Mediona › Alt Penedès | 3 |
 | Forêt de Torrelavit (38) ⚠️ | Torrelavit › Alt Penedès | 3 |
@@ -5934,6 +5938,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sentmenat (13) ⚠️ | Sentmenat › Vallès Occidental | 3 |
 | Forêt de Palau-solità i Plegamans (17) ⚠️ | Palau-solità i Plegamans › Vallès Occidental | 3 |
 | Parc de la Torre del Rector ⚠️ | Santa Perpètua de Mogoda › Vallès Occidental | 3 |
+| Forêt de Lluçà (90) ⚠️ | Lluçà › Lluçanès | 3 |
 | Forêt de Prats de Lluçanès (34) ⚠️ | Prats de Lluçanès › Lluçanès | 3 |
 | Forêt de Olost (18) ⚠️ | Olost › Lluçanès | 3 |
 | Forêt de Calders (81) ⚠️ | Calders › Moianès | 3 |
@@ -5965,6 +5970,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Lliçà d'Amunt (3) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 2 |
 | Bois de Lliçà d'Amunt (5) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 2 |
 | Bois de Lliçà d'Amunt (15) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 2 |
+| Bois de Lliçà d'Amunt (21) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 2 |
 | Forêt de Pontons (2) ⚠️ | Pontons › Alt Penedès | 2 |
 | Forêt de Argençola (4) ⚠️ | Argençola › Anoia | 2 |
 | Forêt de Bellprat ⚠️ | Bellprat › Anoia | 2 |
@@ -6018,7 +6024,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bosc de Can Torres ⚠️ | Mollet del Vallès › Vallès Oriental | 2 |
 | Forêt de Cerdanyola del Vallès (27) ⚠️ | Cerdanyola del Vallès › Vallès Occidental | 2 |
 | Forêt de Olesa de Bonesvalls (3) ⚠️ | Olesa de Bonesvalls › Alt Penedès | 2 |
-| Forêt de Gavà (11) ⚠️ | Gavà › Baix Llobregat | 2 |
 | Forêt de Gavà (13) ⚠️ | Gavà › Baix Llobregat | 2 |
 | Forêt de Sant Boi de Llobregat (2) ⚠️ | Sant Boi de Llobregat › Baix Llobregat | 2 |
 | Forêt de Viladecans (6) ⚠️ | Viladecans › Baix Llobregat | 2 |
@@ -6042,6 +6047,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Martí Sarroca (2) ⚠️ | Sant Martí Sarroca › Alt Penedès | 2 |
 | Forêt de Vilanova i la Geltrú (3) ⚠️ | Vilanova i la Geltrú › Garraf | 2 |
 | Forêt de Subirats (47) ⚠️ | Subirats › Alt Penedès | 2 |
+| Forêt de Avinyonet del Penedès (47) ⚠️ | Avinyonet del Penedès › Alt Penedès | 2 |
 | Parc dels Ametllers ⚠️ | Santa Perpètua de Mogoda › Vallès Occidental | 2 |
 | Forêt de Olèrdola (26) ⚠️ | Olèrdola › Alt Penedès | 2 |
 | Forêt de Olèrdola (27) ⚠️ | Olèrdola › Alt Penedès | 2 |
@@ -6080,7 +6086,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc del Castell (2) ⚠️ | Castelldefels › Baix Llobregat | 2 |
 | Forêt de Castellet i la Gornal (55) ⚠️ | Castellet i la Gornal › Alt Penedès | 2 |
 | Forêt de les Cabanyes ⚠️ | les Cabanyes › Alt Penedès | 2 |
-| Forêt de Subirats (70) ⚠️ | Subirats › Alt Penedès | 2 |
 | Forêt de Gelida (7) ⚠️ | Gelida › Alt Penedès | 2 |
 | Forêt de Gelida (8) ⚠️ | Gelida › Alt Penedès | 2 |
 | Forêt de Sant Esteve Sesrovires ⚠️ | Sant Esteve Sesrovires › Baix Llobregat | 2 |
@@ -6100,6 +6105,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Santa Maria de Palautordera (2) ⚠️ | Santa Maria de Palautordera › Vallès Oriental | 2 |
 | Forêt de Sant Celoni (7) ⚠️ | Sant Celoni › Vallès Oriental | 2 |
 | Forêt de Castellví de la Marca (48) ⚠️ | Castellví de la Marca › Alt Penedès | 2 |
+| Forêt de Castellví de la Marca (50) ⚠️ | Castellví de la Marca › Alt Penedès | 2 |
 | Bois de Bigues i Riells del Fai (2) ⚠️ | Bigues i Riells del Fai › Vallès Oriental | 2 |
 | Forêt de Caldes de Montbui (3) ⚠️ | Caldes de Montbui › Vallès Oriental | 2 |
 | Forêt de Caldes de Montbui (5) ⚠️ | Caldes de Montbui › Vallès Oriental | 2 |
@@ -6109,13 +6115,11 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Jardins del Dr. Ribalta ⚠️ | Esplugues de Llobregat › Baix Llobregat | 2 |
 | Parc de les tres Esplugues ⚠️ | Esplugues de Llobregat › Baix Llobregat | 2 |
 | Parc de Can Gorgs ⚠️ | Barberà del Vallès › Vallès Occidental | 2 |
-| Bois de Bigues i Riells del Fai (3) ⚠️ | Bigues i Riells del Fai › Vallès Oriental | 2 |
 | Forêt de Fonollosa (22) ⚠️ | Fonollosa › Bages | 2 |
 | Masia Plallorens ⚠️ | Vilafranca del Penedès › Alt Penedès | 2 |
 | Bois de Òrrius (8) ⚠️ | Òrrius › Maresme | 2 |
 | Bois de Òrrius (9) ⚠️ | Argentona › Maresme | 2 |
 | Bois de la Roca del Vallès (10) ⚠️ | la Roca del Vallès › Vallès Oriental | 2 |
-| Bois de la Roca del Vallès (14) ⚠️ | Òrrius › Maresme | 2 |
 | Bois de Òrrius (15) ⚠️ | Òrrius › Maresme | 2 |
 | Bois de Vallromanes (4) ⚠️ | Vallromanes › Vallès Oriental | 2 |
 | Bois de Vilassar de Dalt (20) ⚠️ | Vilassar de Dalt › Maresme | 2 |
@@ -6127,6 +6131,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Vallromanes (12) ⚠️ | Vallromanes › Vallès Oriental | 2 |
 | Bois de la Roca del Vallès (19) ⚠️ | la Roca del Vallès › Vallès Oriental | 2 |
 | Bois de Llinars del Vallès (7) ⚠️ | Llinars del Vallès › Vallès Oriental | 2 |
+| Forêt de Cardona (6) ⚠️ | Cardona › Bages | 2 |
 | Forêt de els Prats de Rei (6) ⚠️ | els Prats de Rei › Anoia | 2 |
 | Bois de Llinars del Vallès (22) ⚠️ | Llinars del Vallès › Vallès Oriental | 2 |
 | Bois de Llinars del Vallès (24) ⚠️ | Llinars del Vallès › Vallès Oriental | 2 |
@@ -6175,6 +6180,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Terrassa (29) ⚠️ | Terrassa › Vallès Occidental | 2 |
 | Forêt de Terrassa (31) ⚠️ | Terrassa › Vallès Occidental | 2 |
 | Parc de Montcada i Reixac (19) ⚠️ | Montcada i Reixac › Vallès Occidental | 2 |
+| Bois de Gurb (11) ⚠️ | Gurb › Osona (Barcelone) | 2 |
 | Forêt de Sant Boi de Llobregat (8) ⚠️ | Sant Boi de Llobregat › Baix Llobregat | 2 |
 | Forêt de Caldes d'Estrac (3) ⚠️ | Caldes d'Estrac › Maresme | 2 |
 | Parc de Barcelona (96) ⚠️ | Barcelona › Barcelonès | 2 |
@@ -6191,7 +6197,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Lliçà de Vall (3) ⚠️ | Lliçà de Vall › Vallès Oriental | 2 |
 | Parc de l'Arboretum ⚠️ | Manlleu › Osona (Barcelone) | 2 |
 | Forêt de Vallromanes (5) ⚠️ | Vallromanes › Vallès Oriental | 2 |
-| Bois de Gurb (32) ⚠️ | Gurb › Osona (Barcelone) | 2 |
 | Turó de l'Enric ⚠️ | Badalona › Barcelonès | 2 |
 | Forêt de Avià (6) ⚠️ | Avià › Berguedà | 2 |
 | Forêt de Castellnou de Bages (4) ⚠️ | Castellnou de Bages › Bages | 2 |
@@ -6309,7 +6314,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Martí de Centelles (46) ⚠️ | Sant Martí de Centelles › Osona (Barcelone) | 2 |
 | Forêt de Sant Pere de Vilamajor (9) ⚠️ | Sant Pere de Vilamajor › Vallès Oriental | 2 |
 | Forêt de Sant Pere de Vilamajor (22) ⚠️ | Sant Pere de Vilamajor › Vallès Oriental | 2 |
-| Forêt de Sant Pere de Vilamajor (29) ⚠️ | Sant Pere de Vilamajor › Vallès Oriental | 2 |
 | Forêt de Sant Pere de Vilamajor (40) ⚠️ | Sant Pere de Vilamajor › Vallès Oriental | 2 |
 | Forêt de Sant Antoni de Vilamajor (5) ⚠️ | Sant Antoni de Vilamajor › Vallès Oriental | 2 |
 | Bois de l'Esquirol (5) ⚠️ | l'Esquirol › Osona (Barcelone) | 2 |
@@ -6339,6 +6343,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Tordera (32) ⚠️ | Tordera › Maresme | 2 |
 | Parc dels Garrofers ⚠️ | Barcelona › Barcelonès | 2 |
 | Forêt de Llinars del Vallès (56) ⚠️ | Llinars del Vallès › Vallès Oriental | 2 |
+| Parc Puig dels Jueus ⚠️ | Vic › Osona (Barcelone) | 2 |
 | Forêt de Guardiola de Berguedà (8) ⚠️ | Guardiola de Berguedà › Berguedà | 2 |
 | Forêt de Santa Maria de Palautordera (15) ⚠️ | Santa Maria de Palautordera › Vallès Oriental | 2 |
 | Bois de Sant Celoni (2) ⚠️ | Santa Maria de Palautordera › Vallès Oriental | 2 |
@@ -6376,7 +6381,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Santpedor (11) ⚠️ | Santpedor › Bages | 2 |
 | Forêt de Montmajor (29) ⚠️ | Montmajor › Berguedà | 2 |
 | Forêt de Fonollosa (88) ⚠️ | Fonollosa › Bages | 2 |
-| Forêt de Cardona (35) ⚠️ | Cardona › Bages | 2 |
 | Forêt de les Masies de Voltregà (9) ⚠️ | les Masies de Voltregà › Osona (Barcelone) | 2 |
 | Forêt de Castellterçol (13) ⚠️ | Castellterçol › Moianès | 2 |
 | Forêt de Aguilar de Segarra (23) ⚠️ | Aguilar de Segarra › Bages | 2 |
@@ -6441,8 +6445,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellterçol (53) ⚠️ | Castellterçol › Moianès | 2 |
 | Forêt de Castellterçol (73) ⚠️ | Castellterçol › Moianès | 2 |
 | Forêt de Berga (14) ⚠️ | Berga › Berguedà | 2 |
-| Forêt de Olvan (11) ⚠️ | Olvan › Berguedà | 2 |
 | Forêt de Cercs (17) ⚠️ | Cercs › Berguedà | 2 |
+| Forêt de Berga (51) ⚠️ | Berga › Berguedà | 2 |
 | Forêt de Berga (53) ⚠️ | Berga › Berguedà | 2 |
 | Forêt de Berga (57) ⚠️ | Berga › Berguedà | 2 |
 | Forêt de Berga (58) ⚠️ | Berga › Berguedà | 2 |
@@ -6587,7 +6591,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Navarcles (16) ⚠️ | Navarcles › Bages | 2 |
 | Forêt de Navarcles (17) ⚠️ | Navarcles › Bages | 2 |
 | Forêt de Calders (50) ⚠️ | Calders › Moianès | 2 |
-| Forêt de Calders (53) ⚠️ | Calders › Moianès | 2 |
 | Forêt de Talamanca (36) ⚠️ | Talamanca › Bages | 2 |
 | Forêt de Aguilar de Segarra (34) ⚠️ | Aguilar de Segarra › Bages | 2 |
 | Forêt de Aguilar de Segarra (38) ⚠️ | Aguilar de Segarra › Bages | 2 |
@@ -6597,6 +6600,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Pere Sallavinera (35) ⚠️ | Sant Pere Sallavinera › Anoia | 2 |
 | Forêt de Sant Pere Sallavinera (46) ⚠️ | Sant Pere Sallavinera › Anoia | 2 |
 | Forêt de Sant Pere Sallavinera (48) ⚠️ | Sant Pere Sallavinera › Anoia | 2 |
+| Forêt de Sant Pere Sallavinera (49) ⚠️ | Sant Pere Sallavinera › Anoia | 2 |
 | Forêt de Castellbell i el Vilar (69) ⚠️ | Castellbell i el Vilar › Bages | 2 |
 | Forêt de Castellbell i el Vilar (71) ⚠️ | Castellbell i el Vilar › Bages | 2 |
 | Forêt de els Prats de Rei (19) ⚠️ | els Prats de Rei › Anoia | 2 |
@@ -6627,7 +6631,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellbisbal (16) ⚠️ | Castellbisbal › Vallès Occidental | 2 |
 | Forêt de Castellbisbal (17) ⚠️ | Castellbisbal › Vallès Occidental | 2 |
 | Forêt de Sant Andreu de la Barca (3) ⚠️ | Sant Andreu de la Barca › Baix Llobregat | 2 |
-| Forêt de Castellbisbal (31) ⚠️ | Castellbisbal › Vallès Occidental | 2 |
 | Forêt de Castellbisbal (34) ⚠️ | Castellbisbal › Vallès Occidental | 2 |
 | Forêt de Castellbisbal (35) ⚠️ | Castellbisbal › Vallès Occidental | 2 |
 | Forêt de Castellbisbal (36) ⚠️ | Castellbisbal › Vallès Occidental | 2 |
@@ -6636,6 +6639,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellgalí (38) ⚠️ | Castellgalí › Bages | 2 |
 | Forêt de Castellgalí (42) ⚠️ | Castellgalí › Bages | 2 |
 | Forêt de Olvan (15) ⚠️ | Olvan › Berguedà | 2 |
+| Forêt de Navàs (64) ⚠️ | Navàs › Bages | 2 |
 | Forêt de Navàs (81) ⚠️ | Navàs › Bages | 2 |
 | Forêt de Navàs (89) ⚠️ | Navàs › Bages | 2 |
 | Forêt de Puig-reig (53) ⚠️ | Navàs › Bages | 2 |
@@ -6657,7 +6661,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellar del Riu (26) ⚠️ | Castellar del Riu › Berguedà | 2 |
 | Forêt de Montmajor (81) ⚠️ | Montmajor › Berguedà | 2 |
 | Forêt de Montmajor (91) ⚠️ | Montmajor › Berguedà | 2 |
-| Forêt de Montmajor (101) ⚠️ | Montmajor › Berguedà | 2 |
 | Forêt de Montmajor (106) ⚠️ | Montmajor › Berguedà | 2 |
 | Forêt de Montmajor (108) ⚠️ | Montmajor › Berguedà | 2 |
 | Forêt de Navàs (103) ⚠️ | Sant Mateu de Bages › Bages | 2 |
@@ -6692,7 +6695,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Jorba (12) ⚠️ | Jorba › Anoia | 2 |
 | Forêt de Santa Margarida de Montbui (16) ⚠️ | Santa Margarida de Montbui › Anoia | 2 |
 | Forêt de Igualada (6) ⚠️ | Igualada › Anoia | 2 |
-| Forêt de Jorba (19) ⚠️ | Jorba › Anoia | 2 |
 | Forêt de Jorba (26) ⚠️ | Jorba › Anoia | 2 |
 | Forêt de Jorba (33) ⚠️ | Jorba › Anoia | 2 |
 | Forêt de Jorba (34) ⚠️ | Jorba › Anoia | 2 |
@@ -6703,10 +6705,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Santa Margarida de Montbui (18) ⚠️ | Santa Margarida de Montbui › Anoia | 2 |
 | Forêt de Vilanova del Camí (16) ⚠️ | Santa Margarida de Montbui › Anoia | 2 |
 | Forêt de Jorba (38) ⚠️ | Jorba › Anoia | 2 |
-| Forêt de Rajadell (61) ⚠️ | Rajadell › Bages | 2 |
 | Forêt de Cubelles (12) ⚠️ | Cubelles › Garraf | 2 |
 | Forêt de Cubelles (16) ⚠️ | Cubelles › Garraf | 2 |
-| Forêt de Castellet i la Gornal (73) ⚠️ | Castellet i la Gornal › Alt Penedès | 2 |
 | Forêt de Sitges (69) ⚠️ | Sitges › Garraf | 2 |
 | Forêt de Sitges (72) ⚠️ | Sitges › Garraf | 2 |
 | Forêt de Olivella (55) ⚠️ | Olivella › Garraf | 2 |
@@ -6769,6 +6769,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Avinyó (116) ⚠️ | Avinyó › Bages | 2 |
 | Forêt de Santa Maria de Merlès (97) ⚠️ | Santa Maria de Merlès › Berguedà | 2 |
 | Forêt de Santa Maria de Merlès (101) ⚠️ | Santa Maria de Merlès › Berguedà | 2 |
+| Forêt de Santa Maria de Merlès (104) ⚠️ | Santa Maria de Merlès › Berguedà | 2 |
 | Forêt de Santa Maria de Merlès (123) ⚠️ | Santa Maria de Merlès › Berguedà | 2 |
 | Forêt de el Papiol (9) ⚠️ | el Papiol › Baix Llobregat | 2 |
 | Forêt de Aguilar de Segarra (50) ⚠️ | Aguilar de Segarra › Bages | 2 |
@@ -6796,7 +6797,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de la Garriga (49) ⚠️ | la Garriga › Vallès Oriental | 2 |
 | Forêt de Aiguafreda (13) ⚠️ | Aiguafreda › Osona (Barcelone) | 2 |
 | Forêt de Tagamanent (23) ⚠️ | Tagamanent › Vallès Oriental | 2 |
-| Forêt de Centelles (14) ⚠️ | Centelles › Osona (Barcelone) | 2 |
 | Forêt de Centelles (15) ⚠️ | Centelles › Osona (Barcelone) | 2 |
 | Forêt de Centelles (23) ⚠️ | Centelles › Osona (Barcelone) | 2 |
 | Forêt de l'Estany (5) ⚠️ | l'Estany › Moianès | 2 |
@@ -6824,12 +6824,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Oristà (146) ⚠️ | Oristà › Lluçanès | 2 |
 | Forêt de Sant Mateu de Bages (55) ⚠️ | Sant Mateu de Bages › Bages | 2 |
 | Forêt de Sant Mateu de Bages (69) ⚠️ | Sant Mateu de Bages › Bages | 2 |
-| Forêt de Sant Mateu de Bages (70) ⚠️ | Sant Mateu de Bages › Bages | 2 |
 | Forêt de Sant Mateu de Bages (74) ⚠️ | Sant Mateu de Bages › Bages | 2 |
 | Forêt de Sant Mateu de Bages (75) ⚠️ | Sant Mateu de Bages › Bages | 2 |
 | Forêt de Navàs (157) ⚠️ | Navàs › Bages | 2 |
 | Forêt de Cardona (77) ⚠️ | Cardona › Bages | 2 |
-| Forêt de Cardona (82) ⚠️ | Cardona › Bages | 2 |
 | Forêt de Cardona (87) ⚠️ | Cardona › Bages | 2 |
 | Forêt de Cardona (92) ⚠️ | Cardona › Bages | 2 |
 | Forêt de Sant Mateu de Bages (77) ⚠️ | Sant Mateu de Bages › Bages | 2 |
@@ -6880,7 +6878,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Olvan (24) ⚠️ | Olvan › Berguedà | 2 |
 | Forêt de Olvan (25) ⚠️ | Olvan › Berguedà | 2 |
 | Forêt de Olvan (27) ⚠️ | Olvan › Berguedà | 2 |
-| Forêt de Olvan (29) ⚠️ | Olvan › Berguedà | 2 |
 | Forêt de Sagàs (46) ⚠️ | Sagàs › Berguedà | 2 |
 | Forêt de Bagà (37) ⚠️ | Bagà › Berguedà | 2 |
 | Forêt de Guardiola de Berguedà (74) ⚠️ | Guardiola de Berguedà › Berguedà | 2 |
@@ -6966,6 +6963,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Martí Sarroca (36) ⚠️ | Sant Martí Sarroca › Alt Penedès | 2 |
 | Forêt de Pontons (6) ⚠️ | Pontons › Alt Penedès | 2 |
 | Forêt de Tordera (60) ⚠️ | Tordera › Maresme | 2 |
+| Forêt de Tordera (69) ⚠️ | Tordera › Maresme | 2 |
 | Forêt de Tordera (74) ⚠️ | Tordera › Maresme | 2 |
 | Forêt de Fogars de la Selva (12) ⚠️ | Fogars de la Selva › la Selva (Barcelone) | 2 |
 | Forêt de Fogars de la Selva (15) ⚠️ | Fogars de la Selva › la Selva (Barcelone) | 2 |
@@ -7028,8 +7026,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Oristà (161) ⚠️ | Oristà › Lluçanès | 2 |
 | Forêt de Oristà (165) ⚠️ | Oristà › Lluçanès | 2 |
 | Forêt de Vilanova del Camí (22) ⚠️ | Vilanova del Camí › Anoia | 2 |
+| Forêt de Santa Margarida de Montbui (47) ⚠️ | Santa Margarida de Montbui › Anoia | 2 |
 | Forêt de Òdena (69) ⚠️ | Òdena › Anoia | 2 |
-| Forêt de Òdena (71) ⚠️ | Òdena › Anoia | 2 |
 | Forêt de Òdena (79) ⚠️ | Òdena › Anoia | 2 |
 | Forêt de Carme ⚠️ | Carme › Anoia | 2 |
 | Forêt de Orpí (4) ⚠️ | Orpí › Anoia | 2 |
@@ -7052,7 +7050,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Terrassa (87) ⚠️ | Terrassa › Vallès Occidental | 2 |
 | Forêt de Terrassa (89) ⚠️ | Terrassa › Vallès Occidental | 2 |
 | Forêt de Terrassa (91) ⚠️ | Terrassa › Vallès Occidental | 2 |
-| Forêt de Martorell (43) ⚠️ | Martorell › Baix Llobregat | 2 |
 | Forêt de Esparreguera (45) ⚠️ | Esparreguera › Baix Llobregat | 2 |
 | Forêt de Gelida (29) ⚠️ | Gelida › Alt Penedès | 2 |
 | Forêt de Sant Esteve Sesrovires (28) ⚠️ | Sant Esteve Sesrovires › Baix Llobregat | 2 |
@@ -7069,6 +7066,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Vallbona d'Anoia (7) ⚠️ | Vallbona d'Anoia › Anoia | 2 |
 | Forêt de Vallbona d'Anoia (8) ⚠️ | Vallbona d'Anoia › Anoia | 2 |
 | Forêt de Mediona (15) ⚠️ | Mediona › Alt Penedès | 2 |
+| Forêt de Mediona (16) ⚠️ | Mediona › Alt Penedès | 2 |
 | Forêt de la Torre de Claramunt (15) ⚠️ | la Torre de Claramunt › Anoia | 2 |
 | Forêt de Mediona (25) ⚠️ | Mediona › Alt Penedès | 2 |
 | Forêt de Mediona (31) ⚠️ | Mediona › Alt Penedès | 2 |
@@ -7084,6 +7082,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Cabrera d'Anoia (26) ⚠️ | Cabrera d'Anoia › Anoia | 2 |
 | Forêt de Sant Pere de Riudebitlles (3) ⚠️ | Sant Pere de Riudebitlles › Alt Penedès | 2 |
 | Forêt de Cabrera d'Anoia (35) ⚠️ | Cabrera d'Anoia › Anoia | 2 |
+| Forêt de Piera (58) ⚠️ | Piera › Anoia | 2 |
 | Forêt de Cabrera d'Anoia (48) ⚠️ | Cabrera d'Anoia › Anoia | 2 |
 | Forêt de Piera (60) ⚠️ | Piera › Anoia | 2 |
 | Forêt de Torrelavit (36) ⚠️ | Torrelavit › Alt Penedès | 2 |
@@ -7106,7 +7105,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Tavertet (35) ⚠️ | Tavertet › Osona (Barcelone) | 2 |
 | Forêt de Tavertet (49) ⚠️ | Tavertet › Osona (Barcelone) | 2 |
 | Forêt de Vilanova de Sau (60) ⚠️ | Vilanova de Sau › Osona (Barcelone) | 2 |
-| Forêt de Tavertet (56) ⚠️ | Tavertet › Osona (Barcelone) | 2 |
 | Forêt de Tavertet (61) ⚠️ | Tavertet › Osona (Barcelone) | 2 |
 | Forêt de Granollers (8) ⚠️ | Montmeló › Vallès Oriental | 2 |
 | Forêt de Alpens (25) ⚠️ | Alpens › Lluçanès | 2 |
@@ -7179,7 +7177,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de les Masies de Voltregà (21) ⚠️ | les Masies de Voltregà › Osona (Barcelone) | 2 |
 | Forêt de Arenys de Mar (15) ⚠️ | Arenys de Mar › Maresme | 2 |
 | Forêt de Mataró (10) ⚠️ | Mataró › Maresme | 2 |
-| Forêt de Argentona (10) ⚠️ | Argentona › Maresme | 2 |
 | Forêt de Mataró (12) ⚠️ | Mataró › Maresme | 2 |
 | Bois de Cabrera de Mar ⚠️ | Cabrera de Mar › Maresme | 2 |
 | Forêt de Gurb (25) ⚠️ | Gurb › Osona (Barcelone) | 2 |
@@ -7205,7 +7202,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Palau-solità i Plegamans (18) ⚠️ | Palau-solità i Plegamans › Vallès Occidental | 2 |
 | Parc de Lliçà d'Amunt (3) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 2 |
 | Forêt de Lliçà de Vall (8) ⚠️ | Lliçà de Vall › Vallès Oriental | 2 |
-| Forêt de Lluçà (90) ⚠️ | Prats de Lluçanès › Lluçanès | 2 |
 | Forêt de Prats de Lluçanès (31) ⚠️ | Prats de Lluçanès › Lluçanès | 2 |
 | Forêt de Olost (16) ⚠️ | Olost › Lluçanès | 2 |
 | Forêt de Oristà (170) ⚠️ | Oristà › Lluçanès | 2 |
@@ -7223,6 +7219,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de el Pont de Vilomara i Rocafort (37) ⚠️ | el Pont de Vilomara i Rocafort › Bages | 2 |
 | Forêt de el Pont de Vilomara i Rocafort (49) ⚠️ | el Pont de Vilomara i Rocafort › Bages | 2 |
 | Forêt de Sant Salvador de Guardiola (123) ⚠️ | Sant Salvador de Guardiola › Bages | 2 |
+| Forêt de Castellgalí (74) ⚠️ | Castellgalí › Bages | 2 |
 | Forêt de Vacarisses (72) ⚠️ | Vacarisses › Vallès Occidental | 2 |
 | Forêt de Seva (39) ⚠️ | Seva › Osona (Barcelone) | 2 |
 | Forêt de Sant Martí d'Albars (5) ⚠️ | Sant Martí d'Albars › Lluçanès | 2 |
@@ -7318,7 +7315,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Lliçà d'Amunt (13) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 1 |
 | Bois de Lliçà d'Amunt (16) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 1 |
 | Bois de Lliçà d'Amunt (18) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 1 |
-| Bois de Lliçà d'Amunt (21) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 1 |
 | Forêt de Cardona (2) ⚠️ | Cardona › Bages | 1 |
 | Parc del Torrent Ballester ⚠️ | Viladecans › Baix Llobregat | 1 |
 | Forêt de Sora (2) ⚠️ | Sora › Osona (Barcelone) | 1 |
@@ -7397,6 +7393,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc de Santa Perpètua de Mogoda (2) ⚠️ | Santa Perpètua de Mogoda › Vallès Occidental | 1 |
 | Parc d'Europa (2) ⚠️ | Santa Perpètua de Mogoda › Vallès Occidental | 1 |
 | Forêt de Sant Climent de Llobregat (6) ⚠️ | Sant Climent de Llobregat › Baix Llobregat | 1 |
+| Forêt de Torrelles de Llobregat (4) ⚠️ | Torrelles de Llobregat › Baix Llobregat | 1 |
 | Forêt de Terrassa (5) ⚠️ | Terrassa › Vallès Occidental | 1 |
 | Forêt de Terrassa (7) ⚠️ | Terrassa › Vallès Occidental | 1 |
 | Forêt de Terrassa (8) ⚠️ | Terrassa › Vallès Occidental | 1 |
@@ -7435,7 +7432,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Plaça de la Joventut ⚠️ | Canovelles › Vallès Oriental | 1 |
 | Forêt de la Roca del Vallès (2) ⚠️ | la Roca del Vallès › Vallès Oriental | 1 |
 | Bois de Cerdanyola del Vallès (3) ⚠️ | Cerdanyola del Vallès › Vallès Occidental | 1 |
-| Parc de Pompeu Fabra ⚠️ | Sant Pere de Ribes › Garraf | 1 |
 | Bois de Rubí (2) ⚠️ | Rubí › Vallès Occidental | 1 |
 | Pati d'Escola Justo Domínguez ⚠️ | Barcelona › Barcelonès | 1 |
 | Forêt de Torrelles de Llobregat (7) ⚠️ | Torrelles de Llobregat › Baix Llobregat | 1 |
@@ -7450,7 +7446,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Plaça dels Esposos Jaume Ribas i Francisca Asensio ⚠️ | Sant Vicenç dels Horts › Baix Llobregat | 1 |
 | Parc de Santiñà ⚠️ | Canet de Mar › Maresme | 1 |
 | Parc del Port Olímpic ⚠️ | Barcelona › Barcelonès | 1 |
-| Parc de Granollers (17) ⚠️ | Granollers › Vallès Oriental | 1 |
 | Plaça dels Països Catalans (3) ⚠️ | Molins de Rei › Baix Llobregat | 1 |
 | Plaça de les Tretze Roses ⚠️ | Gavà › Baix Llobregat | 1 |
 | Parc de Solicrup ⚠️ | Vilanova i la Geltrú › Garraf | 1 |
@@ -7544,7 +7539,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Olesa de Bonesvalls (21) ⚠️ | Olesa de Bonesvalls › Alt Penedès | 1 |
 | Forêt de Avinyonet del Penedès (46) ⚠️ | Avinyonet del Penedès › Alt Penedès | 1 |
 | Forêt de Subirats (48) ⚠️ | Subirats › Alt Penedès | 1 |
-| Forêt de Avinyonet del Penedès (47) ⚠️ | Avinyonet del Penedès › Alt Penedès | 1 |
 | Forêt de Avinyonet del Penedès (48) ⚠️ | Avinyonet del Penedès › Alt Penedès | 1 |
 | Forêt de Olèrdola (23) ⚠️ | Olèrdola › Alt Penedès | 1 |
 | Jardins de Ca l'Aranyó ⚠️ | Barcelona › Barcelonès | 1 |
@@ -7588,7 +7582,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Olèrdola (44) ⚠️ | Olèrdola › Alt Penedès | 1 |
 | Forêt de Olèrdola (45) ⚠️ | Olèrdola › Alt Penedès | 1 |
 | Forêt de Olèrdola (46) ⚠️ | Olèrdola › Alt Penedès | 1 |
-| Forêt de Santa Margarida i els Monjos (3) ⚠️ | Santa Margarida i els Monjos › Alt Penedès | 1 |
 | Forêt de Olèrdola (52) ⚠️ | Olèrdola › Alt Penedès | 1 |
 | Forêt de Santa Margarida i els Monjos (5) ⚠️ | Santa Margarida i els Monjos › Alt Penedès | 1 |
 | Forêt de Santa Margarida i els Monjos (6) ⚠️ | Santa Margarida i els Monjos › Alt Penedès | 1 |
@@ -7644,6 +7637,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de la Granada ⚠️ | la Granada › Alt Penedès | 1 |
 | Forêt de la Granada (2) ⚠️ | la Granada › Alt Penedès | 1 |
 | Forêt de Subirats (67) ⚠️ | Subirats › Alt Penedès | 1 |
+| Forêt de Subirats (70) ⚠️ | Subirats › Alt Penedès | 1 |
 | Forêt de Subirats (71) ⚠️ | Subirats › Alt Penedès | 1 |
 | Forêt de Sant Sadurní d'Anoia (5) ⚠️ | Sant Sadurní d'Anoia › Alt Penedès | 1 |
 | Forêt de Subirats (75) ⚠️ | Subirats › Alt Penedès | 1 |
@@ -7760,6 +7754,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc de el Prat de Llobregat (3) ⚠️ | el Prat de Llobregat › Baix Llobregat | 1 |
 | Jardins de la Pau ⚠️ | el Prat de Llobregat › Baix Llobregat | 1 |
 | Bois de el Prat de Llobregat (63) ⚠️ | el Prat de Llobregat › Baix Llobregat | 1 |
+| Plaça de Bartomeu Barceló ⚠️ | Calella › Maresme | 1 |
 | Bois de Cabrils (2) ⚠️ | Cabrils › Maresme | 1 |
 | Parc dels Tortosins ⚠️ | Vic › Osona (Barcelone) | 1 |
 | Bois de Òrrius (7) ⚠️ | Òrrius › Maresme | 1 |
@@ -7772,6 +7767,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc de l'Ordi ⚠️ | Vic › Osona (Barcelone) | 1 |
 | Parc dels Estudis ⚠️ | Vic › Osona (Barcelone) | 1 |
 | Parc de l'Horta de la Sínia ⚠️ | Vic › Osona (Barcelone) | 1 |
+| Parc de Vic (4) ⚠️ | Vic › Osona (Barcelone) | 1 |
 | Plaça de les Vinyes ⚠️ | Santa Coloma de Cervelló › Baix Llobregat | 1 |
 | Parc de Gurb (3) ⚠️ | Gurb › Osona (Barcelone) | 1 |
 | Parc de Jaume Balmes ⚠️ | Vic › Osona (Barcelone) | 1 |
@@ -7789,6 +7785,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Vilassar de Dalt (6) ⚠️ | Vilassar de Dalt › Maresme | 1 |
 | Bois de Vilassar de Dalt (8) ⚠️ | Vilassar de Dalt › Maresme | 1 |
 | Bois de la Roca del Vallès (11) ⚠️ | la Roca del Vallès › Vallès Oriental | 1 |
+| Bois de la Roca del Vallès (14) ⚠️ | la Roca del Vallès › Vallès Oriental | 1 |
 | Bois de Argentona (6) ⚠️ | la Roca del Vallès › Vallès Oriental | 1 |
 | Bois de Òrrius (17) ⚠️ | Òrrius › Maresme | 1 |
 | Bois de Vilassar de Dalt (19) ⚠️ | Vilassar de Dalt › Maresme | 1 |
@@ -7801,6 +7798,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Argentona (30) ⚠️ | Argentona › Maresme | 1 |
 | Bois de Santa Coloma de Cervelló (55) ⚠️ | Santa Coloma de Cervelló › Baix Llobregat | 1 |
 | Bois de Dosrius (3) ⚠️ | Dosrius › Maresme | 1 |
+| Bois de Dosrius (4) ⚠️ | Dosrius › Maresme | 1 |
 | Bois de la Roca del Vallès (33) ⚠️ | la Roca del Vallès › Vallès Oriental | 1 |
 | Bois de Llinars del Vallès (2) ⚠️ | Llinars del Vallès › Vallès Oriental | 1 |
 | Bois de Llinars del Vallès (8) ⚠️ | Llinars del Vallès › Vallès Oriental | 1 |
@@ -7829,6 +7827,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Cerdanyola del Vallès (30) ⚠️ | Cerdanyola del Vallès › Vallès Occidental | 1 |
 | Parc de Gassó Vargas ⚠️ | Ripollet › Vallès Occidental | 1 |
 | Parc Primer de Maig ⚠️ | Ripollet › Vallès Occidental | 1 |
+| Parc de Maria Lluïsa Galobart ⚠️ | Ripollet › Vallès Occidental | 1 |
 | Parc Massot ⚠️ | Ripollet › Vallès Occidental | 1 |
 | Parc de Rizal ⚠️ | Ripollet › Vallès Occidental | 1 |
 | Parc Carles Ferré ⚠️ | Ripollet › Vallès Occidental | 1 |
@@ -7979,7 +7978,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Gurb (9) ⚠️ | Gurb › Osona (Barcelone) | 1 |
 | Bois de Gurb (10) ⚠️ | Gurb › Osona (Barcelone) | 1 |
 | Bois de Manlleu ⚠️ | Manlleu › Osona (Barcelone) | 1 |
-| Bois de Gurb (11) ⚠️ | Manlleu › Osona (Barcelone) | 1 |
 | Parc de Olesa de Montserrat ⚠️ | Olesa de Montserrat › Baix Llobregat | 1 |
 | Turó del Drac ⚠️ | Canet de Mar › Maresme | 1 |
 | Plaça Gabriel Pujol ⚠️ | Sabadell › Vallès Occidental | 1 |
@@ -8010,7 +8008,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Cabrera d'Anoia (3) ⚠️ | Cabrera d'Anoia › Anoia | 1 |
 | Forêt de Castellar del Vallès (8) ⚠️ | Castellar del Vallès › Vallès Occidental | 1 |
 | Forêt de Monistrol de Calders (2) ⚠️ | Monistrol de Calders › Moianès | 1 |
-| Bois de Sabadell (21) ⚠️ | Sabadell › Vallès Occidental | 1 |
 | Plaça de la Vila (3) ⚠️ | Lliçà de Vall › Vallès Oriental | 1 |
 | Forêt de Castellterçol ⚠️ | Castellterçol › Moianès | 1 |
 | Parc de Viladecavalls (8) ⚠️ | Viladecavalls › Vallès Occidental | 1 |
@@ -8049,7 +8046,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Plaça de l'Onze de Setembre (5) ⚠️ | Mataró › Maresme | 1 |
 | Parc de Mataró (21) ⚠️ | Mataró › Maresme | 1 |
 | Parc de Terrassa (19) ⚠️ | Terrassa › Vallès Occidental | 1 |
-| Parc de Can Llobera ⚠️ | Sant Feliu de Llobregat › Baix Llobregat | 1 |
 | Parc Mare Paula ⚠️ | Arenys de Mar › Maresme | 1 |
 | Parc de la Romeua ⚠️ | Sabadell › Vallès Occidental | 1 |
 | Bois de l'Hospitalet de Llobregat ⚠️ | l'Hospitalet de Llobregat › Barcelonès | 1 |
@@ -8075,7 +8071,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc de Parets del Vallès (15) ⚠️ | Parets del Vallès › Vallès Oriental | 1 |
 | Parc de la Pau (3) ⚠️ | Viladecans › Baix Llobregat | 1 |
 | Parc de la Torre-Roja ⚠️ | Viladecans › Baix Llobregat | 1 |
-| Parc de la Sínia ⚠️ | Viladecans › Baix Llobregat | 1 |
 | Parc dels Països Catalans (2) ⚠️ | Santa Perpètua de Mogoda › Vallès Occidental | 1 |
 | Bosc Soldevilla ⚠️ | Santa Perpètua de Mogoda › Vallès Occidental | 1 |
 | Parc de Can Folguera ⚠️ | Santa Perpètua de Mogoda › Vallès Occidental | 1 |
@@ -8112,6 +8107,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Gurb (26) ⚠️ | Gurb › Osona (Barcelone) | 1 |
 | Bois de Gurb (27) ⚠️ | Gurb › Osona (Barcelone) | 1 |
 | Bois de Gurb (28) ⚠️ | Gurb › Osona (Barcelone) | 1 |
+| Bois de Gurb (32) ⚠️ | Gurb › Osona (Barcelone) | 1 |
 | Jardins del Pelut ⚠️ | Orís › Osona (Barcelone) | 1 |
 | Parc del Colomer ⚠️ | Santa Susanna › Maresme | 1 |
 | Plaça de la Germana Campos ⚠️ | Malgrat de Mar › Maresme | 1 |
@@ -8335,7 +8331,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Celoni (14) ⚠️ | Sant Celoni › Vallès Oriental | 1 |
 | Bois de el Prat de Llobregat (278) ⚠️ | el Prat de Llobregat › Baix Llobregat | 1 |
 | Bois de el Prat de Llobregat (279) ⚠️ | el Prat de Llobregat › Baix Llobregat | 1 |
-| Forêt de Aguilar de Segarra (8) ⚠️ | Aguilar de Segarra › Bages | 1 |
 | Forêt de Sant Salvador de Guardiola (19) ⚠️ | Sant Salvador de Guardiola › Bages | 1 |
 | Plaça d'Ausias March ⚠️ | Sant Cugat del Vallès › Vallès Occidental | 1 |
 | Plaça d'Almeda la Vella ⚠️ | Cornellà de Llobregat › Baix Llobregat | 1 |
@@ -8374,6 +8369,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Fatjò ⚠️ | Sant Joan Despí › Baix Llobregat | 1 |
 | Parc de Mataró (27) ⚠️ | Mataró › Maresme | 1 |
 | Parc mediambiental de Gualba ⚠️ | Gualba › Vallès Oriental | 1 |
+| Jardins d'Alícia de Larrocha ⚠️ | Barcelona › Barcelonès | 1 |
 | Parc de la Plana Padrosa ⚠️ | Sant Just Desvern › Baix Llobregat | 1 |
 | Parc del Gall ⚠️ | Esplugues de Llobregat › Baix Llobregat | 1 |
 | el Pont Reixat ⚠️ | Sant Just Desvern › Baix Llobregat | 1 |
@@ -8389,7 +8385,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Olivella (45) ⚠️ | Olivella › Garraf | 1 |
 | Forêt de Begues (18) ⚠️ | Begues › Baix Llobregat | 1 |
 | Forêt de Begues (19) ⚠️ | Begues › Baix Llobregat | 1 |
-| Forêt de Olivella (48) ⚠️ | Olivella › Garraf | 1 |
 | Forêt de Sant Pere de Ribes (75) ⚠️ | Sant Pere de Ribes › Garraf | 1 |
 | Forêt de Sant Pere de Ribes (78) ⚠️ | Sant Pere de Ribes › Garraf | 1 |
 | Forêt de Sant Pere de Ribes (82) ⚠️ | Sant Pere de Ribes › Garraf | 1 |
@@ -8495,6 +8490,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Pere de Vilamajor (24) ⚠️ | Sant Pere de Vilamajor › Vallès Oriental | 1 |
 | Forêt de Sant Pere de Vilamajor (26) ⚠️ | Sant Pere de Vilamajor › Vallès Oriental | 1 |
 | Forêt de Sant Pere de Vilamajor (28) ⚠️ | Sant Pere de Vilamajor › Vallès Oriental | 1 |
+| Forêt de Sant Pere de Vilamajor (29) ⚠️ | Sant Pere de Vilamajor › Vallès Oriental | 1 |
 | Forêt de Sant Pere de Vilamajor (30) ⚠️ | Sant Pere de Vilamajor › Vallès Oriental | 1 |
 | Forêt de Sant Pere de Vilamajor (43) ⚠️ | Sant Pere de Vilamajor › Vallès Oriental | 1 |
 | Forêt de l'Esquirol (17) ⚠️ | l'Esquirol › Osona (Barcelone) | 1 |
@@ -8587,6 +8583,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Torrelles de Llobregat (18) ⚠️ | Torrelles de Llobregat › Baix Llobregat | 1 |
 | Forêt de Torrelles de Llobregat (114) ⚠️ | Torrelles de Llobregat › Baix Llobregat | 1 |
 | Bois de Torrelles de Llobregat (62) ⚠️ | Torrelles de Llobregat › Baix Llobregat | 1 |
+| Parc de Montmeló (3) ⚠️ | Montmeló › Vallès Oriental | 1 |
 | Forêt de Montornès del Vallès (7) ⚠️ | Montornès del Vallès › Vallès Oriental | 1 |
 | Forêt de Vilanova del Vallès (3) ⚠️ | Vilanova del Vallès › Vallès Oriental | 1 |
 | Forêt de Torrelles de Llobregat (135) ⚠️ | Torrelles de Llobregat › Baix Llobregat | 1 |
@@ -8616,7 +8613,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc del Mil·lenari (4) ⚠️ | Igualada › Anoia | 1 |
 | Parc (14) ⚠️ | Igualada › Anoia | 1 |
 | Parc de Santa Margarida de Montbui (3) ⚠️ | Santa Margarida de Montbui › Anoia | 1 |
-| Parc de Sant Hilari (2) ⚠️ | Vilanova del Camí › Anoia | 1 |
 | Parc (21) ⚠️ | Igualada › Anoia | 1 |
 | Forêt de Santa Margarida de Montbui (9) ⚠️ | Santa Margarida de Montbui › Anoia | 1 |
 | Bosc de Can Mercader ⚠️ | Òdena › Anoia | 1 |
@@ -8665,6 +8661,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Tordera (45) ⚠️ | Fogars de la Selva › la Selva (Barcelone) | 1 |
 | Forêt de Sant Celoni (20) ⚠️ | Sant Celoni › Vallès Oriental | 1 |
 | Parc de Cubelles (19) ⚠️ | Cubelles › Garraf | 1 |
+| Parc de Sant Feliu de Codines ⚠️ | Sant Feliu de Codines › Vallès Oriental | 1 |
 | Forêt de Castellnou de Bages (24) ⚠️ | Castellnou de Bages › Bages | 1 |
 | Forêt de Castellnou de Bages (27) ⚠️ | Castellnou de Bages › Bages | 1 |
 | Forêt de Súria (2) ⚠️ | Súria › Bages | 1 |
@@ -8673,6 +8670,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Fonollosa (72) ⚠️ | Fonollosa › Bages | 1 |
 | Bois de Lliçà d'Amunt (28) ⚠️ | Lliçà d'Amunt › Vallès Oriental | 1 |
 | Forêt de Tiana (9) ⚠️ | Tiana › Maresme | 1 |
+| Forêt de Tiana (10) ⚠️ | Tiana › Maresme | 1 |
 | Forêt de Tiana (11) ⚠️ | Tiana › Maresme | 1 |
 | Parc de Puig-reig (6) ⚠️ | Puig-reig › Berguedà | 1 |
 | Parc de la Sardana (2) ⚠️ | Vilafranca del Penedès › Alt Penedès | 1 |
@@ -8775,7 +8773,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bosc de les Marcetes ⚠️ | Manresa › Bages | 1 |
 | Forêt de Calders (16) ⚠️ | Calders › Moianès | 1 |
 | Forêt de Calders (21) ⚠️ | Calders › Moianès | 1 |
-| Forêt de Navarcles (5) ⚠️ | Navarcles › Bages | 1 |
 | Forêt de Navarcles (6) ⚠️ | Navarcles › Bages | 1 |
 | Forêt de Manresa (24) ⚠️ | Manresa › Bages | 1 |
 | Forêt de Manresa (25) ⚠️ | Manresa › Bages | 1 |
@@ -8869,9 +8866,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Barcelona (101) ⚠️ | Barcelona › Barcelonès | 1 |
 | Forêt de Berga (33) ⚠️ | Berga › Berguedà | 1 |
 | Forêt de Berga (37) ⚠️ | Berga › Berguedà | 1 |
+| Forêt de Olvan (11) ⚠️ | Olvan › Berguedà | 1 |
 | Forêt de Berga (45) ⚠️ | Berga › Berguedà | 1 |
 | Forêt de Berga (46) ⚠️ | Berga › Berguedà | 1 |
-| Forêt de Berga (51) ⚠️ | Berga › Berguedà | 1 |
 | Forêt de Berga (54) ⚠️ | Berga › Berguedà | 1 |
 | Forêt de Berga (55) ⚠️ | Berga › Berguedà | 1 |
 | Forêt de Berga (56) ⚠️ | Berga › Berguedà | 1 |
@@ -9100,7 +9097,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Santa Maria de Palautordera (28) ⚠️ | Santa Maria de Palautordera › Vallès Oriental | 1 |
 | Forêt de Sant Esteve de Palautordera (10) ⚠️ | Sant Esteve de Palautordera › Vallès Oriental | 1 |
 | Forêt de Vilada (8) ⚠️ | Vilada › Berguedà | 1 |
-| Forêt de Castell de l'Areny (20) ⚠️ | Castell de l'Areny › Berguedà | 1 |
 | Forêt de Cercs (34) ⚠️ | Cercs › Berguedà | 1 |
 | Forêt de Cercs (35) ⚠️ | Cercs › Berguedà | 1 |
 | Forêt de Cercs (41) ⚠️ | Cercs › Berguedà | 1 |
@@ -9126,11 +9122,13 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Navarcles (10) ⚠️ | Navarcles › Bages | 1 |
 | Forêt de Navarcles (12) ⚠️ | Navarcles › Bages | 1 |
 | Forêt de Calders (52) ⚠️ | Calders › Moianès | 1 |
+| Forêt de Calders (53) ⚠️ | Calders › Moianès | 1 |
 | Forêt de Calders (54) ⚠️ | Calders › Moianès | 1 |
 | Forêt de Talamanca (35) ⚠️ | Talamanca › Bages | 1 |
 | Forêt de Calders (59) ⚠️ | Calders › Moianès | 1 |
 | Forêt de Sant Vicenç de Castellet (27) ⚠️ | Sant Vicenç de Castellet › Bages | 1 |
 | Forêt de Sant Vicenç de Castellet (33) ⚠️ | Sant Vicenç de Castellet › Bages | 1 |
+| Forêt de Aguilar de Segarra (32) ⚠️ | Aguilar de Segarra › Bages | 1 |
 | Forêt de Sant Pere Sallavinera (12) ⚠️ | Sant Pere Sallavinera › Anoia | 1 |
 | Forêt de Aguilar de Segarra (46) ⚠️ | Aguilar de Segarra › Bages | 1 |
 | Forêt de Sant Pere Sallavinera (13) ⚠️ | Sant Pere Sallavinera › Anoia | 1 |
@@ -9141,7 +9139,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Pere Sallavinera (38) ⚠️ | Sant Pere Sallavinera › Anoia | 1 |
 | Forêt de Sant Pere Sallavinera (40) ⚠️ | Sant Pere Sallavinera › Anoia | 1 |
 | Forêt de Sant Pere Sallavinera (41) ⚠️ | Sant Pere Sallavinera › Anoia | 1 |
-| Forêt de Sant Pere Sallavinera (49) ⚠️ | Sant Pere Sallavinera › Anoia | 1 |
 | Forêt de Sant Pere Sallavinera (52) ⚠️ | Sant Pere Sallavinera › Anoia | 1 |
 | Forêt de Sant Pere Sallavinera (54) ⚠️ | Sant Pere Sallavinera › Anoia | 1 |
 | Forêt de Calonge de Segarra (12) ⚠️ | Calonge de Segarra › Anoia | 1 |
@@ -9182,7 +9179,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Castellolí (31) ⚠️ | Castellolí › Anoia | 1 |
 | Forêt de Castellgalí (26) ⚠️ | Castellgalí › Bages | 1 |
 | Forêt de Sant Vicenç de Castellet (38) ⚠️ | Sant Vicenç de Castellet › Bages | 1 |
-| Forêt de Castellgalí (31) ⚠️ | Castellgalí › Bages | 1 |
 | Forêt de Vacarisses (59) ⚠️ | Vacarisses › Vallès Occidental | 1 |
 | Forêt de Vacarisses (61) ⚠️ | Vacarisses › Vallès Occidental | 1 |
 | Forêt de Olesa de Montserrat (32) ⚠️ | Olesa de Montserrat › Baix Llobregat | 1 |
@@ -9217,7 +9213,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Vicenç de Castellet (46) ⚠️ | Sant Vicenç de Castellet › Bages | 1 |
 | Forêt de Castellbell i el Vilar (73) ⚠️ | Castellbell i el Vilar › Bages | 1 |
 | Forêt de Navàs (56) ⚠️ | Navàs › Bages | 1 |
-| Forêt de Navàs (64) ⚠️ | Navàs › Bages | 1 |
 | Forêt de Navàs (78) ⚠️ | Navàs › Bages | 1 |
 | Forêt de Viver i Serrateix (36) ⚠️ | Viver i Serrateix › Berguedà | 1 |
 | Forêt de Viver i Serrateix (52) ⚠️ | Viver i Serrateix › Berguedà | 1 |
@@ -9306,6 +9301,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Jorba (9) ⚠️ | Jorba › Anoia | 1 |
 | Forêt de Jorba (10) ⚠️ | Jorba › Anoia | 1 |
 | Forêt de Igualada (4) ⚠️ | Igualada › Anoia | 1 |
+| Forêt de Jorba (19) ⚠️ | Jorba › Anoia | 1 |
 | Forêt de Jorba (21) ⚠️ | Jorba › Anoia | 1 |
 | Forêt de Argençola (28) ⚠️ | Argençola › Anoia | 1 |
 | Forêt de Òdena (40) ⚠️ | Òdena › Anoia | 1 |
@@ -9324,14 +9320,17 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Rajadell (56) ⚠️ | Rajadell › Bages | 1 |
 | Forêt de Rajadell (58) ⚠️ | Rajadell › Bages | 1 |
 | Forêt de Rajadell (59) ⚠️ | Rajadell › Bages | 1 |
+| Forêt de Rajadell (61) ⚠️ | Rajadell › Bages | 1 |
 | Forêt de Rajadell (63) ⚠️ | Rajadell › Bages | 1 |
 | Forêt de Rajadell (64) ⚠️ | Rajadell › Bages | 1 |
 | Forêt de Rajadell (65) ⚠️ | Rajadell › Bages | 1 |
 | Forêt de Rajadell (66) ⚠️ | Rajadell › Bages | 1 |
+| Forêt de Rajadell (68) ⚠️ | Rajadell › Bages | 1 |
 | Forêt de Rajadell (70) ⚠️ | Rajadell › Bages | 1 |
 | Forêt de Cubelles (14) ⚠️ | Cubelles › Garraf | 1 |
 | Forêt de Cubelles (15) ⚠️ | Cubelles › Garraf | 1 |
 | Forêt de Castellet i la Gornal (68) ⚠️ | Castellet i la Gornal › Alt Penedès | 1 |
+| Forêt de Castellet i la Gornal (73) ⚠️ | Castellet i la Gornal › Alt Penedès | 1 |
 | Forêt de Olesa de Bonesvalls (38) ⚠️ | Olesa de Bonesvalls › Alt Penedès | 1 |
 | Forêt de Olesa de Bonesvalls (40) ⚠️ | Olesa de Bonesvalls › Alt Penedès | 1 |
 | Forêt de Olivella (58) ⚠️ | Olivella › Garraf | 1 |
@@ -9422,7 +9421,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sagàs (30) ⚠️ | Sagàs › Berguedà | 1 |
 | Forêt de Santa Maria de Merlès (85) ⚠️ | Santa Maria de Merlès › Berguedà | 1 |
 | Forêt de Santa Maria de Merlès (92) ⚠️ | Santa Maria de Merlès › Berguedà | 1 |
-| Forêt de Santa Maria de Merlès (104) ⚠️ | Santa Maria de Merlès › Berguedà | 1 |
 | Forêt de Santa Maria de Merlès (109) ⚠️ | Santa Maria de Merlès › Berguedà | 1 |
 | Forêt de Santa Maria de Merlès (117) ⚠️ | Santa Maria de Merlès › Berguedà | 1 |
 | Forêt de Santa Maria de Merlès (119) ⚠️ | Santa Maria de Merlès › Berguedà | 1 |
@@ -9454,6 +9452,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Collbató (13) ⚠️ | Collbató › Baix Llobregat | 1 |
 | Forêt de Collbató (18) ⚠️ | Esparreguera › Baix Llobregat | 1 |
 | Forêt de els Hostalets de Pierola (18) ⚠️ | els Hostalets de Pierola › Anoia | 1 |
+| Forêt de Esparreguera (37) ⚠️ | Esparreguera › Baix Llobregat | 1 |
 | Forêt de els Hostalets de Pierola (21) ⚠️ | els Hostalets de Pierola › Anoia | 1 |
 | Forêt de el Bruc (45) ⚠️ | el Bruc › Anoia | 1 |
 | Forêt de Esparreguera (39) ⚠️ | Esparreguera › Baix Llobregat | 1 |
@@ -9468,6 +9467,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Tagamanent (20) ⚠️ | Tagamanent › Vallès Oriental | 1 |
 | Forêt de Sant Martí de Centelles (51) ⚠️ | Sant Martí de Centelles › Osona (Barcelone) | 1 |
 | Forêt de Sant Martí de Centelles (55) ⚠️ | Sant Martí de Centelles › Osona (Barcelone) | 1 |
+| Forêt de Centelles (14) ⚠️ | Centelles › Osona (Barcelone) | 1 |
 | Forêt de Centelles (17) ⚠️ | Centelles › Osona (Barcelone) | 1 |
 | Forêt de Centelles (19) ⚠️ | Sant Martí de Centelles › Osona (Barcelone) | 1 |
 | Forêt de Centelles (20) ⚠️ | Centelles › Osona (Barcelone) | 1 |
@@ -9506,6 +9506,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Bigues i Riells del Fai (36) ⚠️ | Bigues i Riells del Fai › Vallès Oriental | 1 |
 | Forêt de Sant Mateu de Bages (60) ⚠️ | Sant Mateu de Bages › Bages | 1 |
 | Forêt de Sant Mateu de Bages (67) ⚠️ | Sant Mateu de Bages › Bages | 1 |
+| Forêt de Sant Mateu de Bages (70) ⚠️ | Sant Mateu de Bages › Bages | 1 |
 | Forêt de Cardona (76) ⚠️ | Cardona › Bages | 1 |
 | Forêt de Cardona (81) ⚠️ | Cardona › Bages | 1 |
 | Forêt de Cardona (84) ⚠️ | Cardona › Bages | 1 |
@@ -9647,7 +9648,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Gisclareny (46) ⚠️ | Gisclareny › Berguedà | 1 |
 | Forêt de Gisclareny (47) ⚠️ | Gisclareny › Berguedà | 1 |
 | Forêt de Gisclareny (50) ⚠️ | Gisclareny › Berguedà | 1 |
-| Forêt de Gisclareny (56) ⚠️ | Gisclareny › Berguedà | 1 |
 | Forêt de Caldes de Montbui (10) ⚠️ | Caldes de Montbui › Vallès Oriental | 1 |
 | Forêt de Saldes (79) ⚠️ | Saldes › Berguedà | 1 |
 | Forêt de Castellar del Riu (57) ⚠️ | Castellar del Riu › Berguedà | 1 |
@@ -9692,14 +9692,13 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Orís (19) ⚠️ | Orís › Osona (Barcelone) | 1 |
 | Forêt de Sant Quirze de Besora (11) ⚠️ | Sant Quirze de Besora › Osona (Barcelone) | 1 |
 | Forêt de Orís (24) ⚠️ | Sant Vicenç de Torelló › Osona (Barcelone) | 1 |
-| Forêt de Sant Martí Sarroca (34) ⚠️ | Sant Martí Sarroca › Alt Penedès | 1 |
 | Forêt de Sant Martí Sarroca (35) ⚠️ | Sant Martí Sarroca › Alt Penedès | 1 |
 | Forêt de Pontons (7) ⚠️ | Pontons › Alt Penedès | 1 |
 | Forêt de Bagà (84) ⚠️ | Bagà › Berguedà | 1 |
+| Forêt de Vilanova i la Geltrú (74) ⚠️ | Vilanova i la Geltrú › Garraf | 1 |
 | Forêt de Tordera (56) ⚠️ | Tordera › Maresme | 1 |
 | Forêt de Tordera (58) ⚠️ | Tordera › Maresme | 1 |
 | Forêt de Tordera (67) ⚠️ | Tordera › Maresme | 1 |
-| Forêt de Tordera (69) ⚠️ | Tordera › Maresme | 1 |
 | Forêt de Tordera (70) ⚠️ | Tordera › Maresme | 1 |
 | Forêt de Tordera (76) ⚠️ | Tordera › Maresme | 1 |
 | Forêt de Tordera (77) ⚠️ | Tordera › Maresme | 1 |
@@ -9822,7 +9821,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Vilanova del Camí (23) ⚠️ | Vilanova del Camí › Anoia | 1 |
 | Forêt de Santa Margarida de Montbui (44) ⚠️ | Santa Margarida de Montbui › Anoia | 1 |
 | Forêt de Santa Margarida de Montbui (46) ⚠️ | Santa Margarida de Montbui › Anoia | 1 |
-| Forêt de Santa Margarida de Montbui (47) ⚠️ | Santa Margarida de Montbui › Anoia | 1 |
 | Forêt de Santa Margarida de Montbui (50) ⚠️ | Santa Margarida de Montbui › Anoia | 1 |
 | Forêt de Santa Margarida de Montbui (53) ⚠️ | Santa Margarida de Montbui › Anoia | 1 |
 | Forêt de Santa Margarida de Montbui (54) ⚠️ | Santa Margarida de Montbui › Anoia | 1 |
@@ -9830,6 +9828,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Òdena (65) ⚠️ | Òdena › Anoia | 1 |
 | Forêt de Jorba (52) ⚠️ | Jorba › Anoia | 1 |
 | Forêt de Òdena (70) ⚠️ | Òdena › Anoia | 1 |
+| Forêt de Òdena (71) ⚠️ | Òdena › Anoia | 1 |
 | Forêt de Òdena (77) ⚠️ | Òdena › Anoia | 1 |
 | Forêt de Castellar del Riu (77) ⚠️ | Castellar del Riu › Berguedà | 1 |
 | Forêt de la Pobla de Claramunt (19) ⚠️ | la Pobla de Claramunt › Anoia | 1 |
@@ -9859,6 +9858,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Terrassa (90) ⚠️ | Terrassa › Vallès Occidental | 1 |
 | Forêt de Terrassa (93) ⚠️ | Terrassa › Vallès Occidental | 1 |
 | Parc de Ferran Bach-Esteve ⚠️ | Terrassa › Vallès Occidental | 1 |
+| Forêt de Martorell (43) ⚠️ | Martorell › Baix Llobregat | 1 |
 | Forêt de Martorell (46) ⚠️ | Martorell › Baix Llobregat | 1 |
 | Forêt de Martorell (47) ⚠️ | Martorell › Baix Llobregat | 1 |
 | Forêt de Martorell (49) ⚠️ | Martorell › Baix Llobregat | 1 |
@@ -9888,7 +9888,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Cabrera d'Anoia (7) ⚠️ | Cabrera d'Anoia › Anoia | 1 |
 | Forêt de Mediona (12) ⚠️ | Mediona › Alt Penedès | 1 |
 | Forêt de Mediona (13) ⚠️ | Mediona › Alt Penedès | 1 |
-| Forêt de Mediona (16) ⚠️ | Mediona › Alt Penedès | 1 |
 | Forêt de Mediona (19) ⚠️ | Mediona › Alt Penedès | 1 |
 | Forêt de Mediona (20) ⚠️ | Mediona › Alt Penedès | 1 |
 | Forêt de la Torre de Claramunt (17) ⚠️ | la Torre de Claramunt › Anoia | 1 |
@@ -9918,7 +9917,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Cabrera d'Anoia (37) ⚠️ | Cabrera d'Anoia › Anoia | 1 |
 | Forêt de Cabrera d'Anoia (40) ⚠️ | Cabrera d'Anoia › Anoia | 1 |
 | Forêt de Cabrera d'Anoia (46) ⚠️ | Cabrera d'Anoia › Anoia | 1 |
-| Forêt de Piera (58) ⚠️ | Piera › Anoia | 1 |
 | Forêt de Piera (59) ⚠️ | Piera › Anoia | 1 |
 | Forêt de Torrelavit (28) ⚠️ | Torrelavit › Alt Penedès | 1 |
 | Forêt de Torrelavit (30) ⚠️ | Torrelavit › Alt Penedès | 1 |
@@ -9958,6 +9956,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Tavertet (43) ⚠️ | Tavertet › Osona (Barcelone) | 1 |
 | Forêt de Tavertet (46) ⚠️ | Tavertet › Osona (Barcelone) | 1 |
 | Forêt de Vilanova de Sau (59) ⚠️ | Vilanova de Sau › Osona (Barcelone) | 1 |
+| Forêt de Tavertet (56) ⚠️ | Tavertet › Osona (Barcelone) | 1 |
 | Forêt de Tavertet (57) ⚠️ | Tavertet › Osona (Barcelone) | 1 |
 | Forêt de Tavertet (58) ⚠️ | Vilanova de Sau › Osona (Barcelone) | 1 |
 | Forêt de Tavertet (59) ⚠️ | Tavertet › Osona (Barcelone) | 1 |
@@ -9970,6 +9969,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Alpens (28) ⚠️ | Alpens › Lluçanès | 1 |
 | Forêt de la Quar (53) ⚠️ | la Quar › Berguedà | 1 |
 | Forêt de Olvan (40) ⚠️ | Olvan › Berguedà | 1 |
+| Forêt de Gironella (15) ⚠️ | Gironella › Berguedà | 1 |
 | Forêt de Gironella (16) ⚠️ | Gironella › Berguedà | 1 |
 | Forêt de Gironella (17) ⚠️ | Gironella › Berguedà | 1 |
 | Forêt de Sant Cugat del Vallès (155) ⚠️ | Sant Cugat del Vallès › Vallès Occidental | 1 |
@@ -10003,7 +10003,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Gualba (26) ⚠️ | Gualba › Vallès Oriental | 1 |
 | Forêt de Sant Celoni (64) ⚠️ | Gualba › Vallès Oriental | 1 |
 | Forêt de Sant Celoni (65) ⚠️ | Sant Celoni › Vallès Oriental | 1 |
-| Forêt de Gualba (29) ⚠️ | Gualba › Vallès Oriental | 1 |
 | Forêt de Sant Celoni (78) ⚠️ | Sant Celoni › Vallès Oriental | 1 |
 | Forêt de Gironella (20) ⚠️ | Gironella › Berguedà | 1 |
 | Forêt de Gironella (24) ⚠️ | Gironella › Berguedà | 1 |
@@ -10073,6 +10072,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant Mateu de Bages (122) ⚠️ | Sant Mateu de Bages › Bages | 1 |
 | Forêt de Sant Mateu de Bages (129) ⚠️ | Sant Mateu de Bages › Bages | 1 |
 | Forêt de Sant Mateu de Bages (130) ⚠️ | Sant Mateu de Bages › Bages | 1 |
+| Forêt de Sant Mateu de Bages (133) ⚠️ | Sant Mateu de Bages › Bages | 1 |
 | Forêt de Sant Mateu de Bages (143) ⚠️ | Sant Mateu de Bages › Bages | 1 |
 | Forêt de Sant Mateu de Bages (147) ⚠️ | Sant Mateu de Bages › Bages | 1 |
 | Forêt de Fonollosa (157) ⚠️ | Fonollosa › Bages | 1 |
@@ -10112,6 +10112,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc del Turó de Cerdanyola ⚠️ | Mataró › Maresme | 1 |
 | Forêt de Argentona (8) ⚠️ | Argentona › Maresme | 1 |
 | Forêt de Argentona (9) ⚠️ | Argentona › Maresme | 1 |
+| Forêt de Argentona (10) ⚠️ | Argentona › Maresme | 1 |
 | Forêt de Argentona (12) ⚠️ | Argentona › Maresme | 1 |
 | Forêt de Cabrera de Mar (8) ⚠️ | Cabrera de Mar › Maresme | 1 |
 | Bois de Gurb (38) ⚠️ | Gurb › Osona (Barcelone) | 1 |
@@ -10135,6 +10136,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Gurb (37) ⚠️ | Gurb › Osona (Barcelone) | 1 |
 | Forêt de Gurb (42) ⚠️ | Gurb › Osona (Barcelone) | 1 |
 | Forêt de Vic (69) ⚠️ | Vic › Osona (Barcelone) | 1 |
+| Forêt de Gurb (46) ⚠️ | Gurb › Osona (Barcelone) | 1 |
 | Forêt de Gurb (48) ⚠️ | Gurb › Osona (Barcelone) | 1 |
 | Forêt de Gurb (49) ⚠️ | Gurb › Osona (Barcelone) | 1 |
 | Bois de Vic (4) ⚠️ | Vic › Osona (Barcelone) | 1 |
@@ -10175,7 +10177,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Lliçà de Vall (10) ⚠️ | Lliçà de Vall › Vallès Oriental | 1 |
 | Forêt de Lliçà de Vall (11) ⚠️ | Lliçà de Vall › Vallès Oriental | 1 |
 | Parc de Lliçà de Vall (12) ⚠️ | Lliçà de Vall › Vallès Oriental | 1 |
-| Forêt de Lluçà (91) ⚠️ | Lluçà › Lluçanès | 1 |
 | Forêt de Prats de Lluçanès (28) ⚠️ | Prats de Lluçanès › Lluçanès | 1 |
 | Forêt de Olost (13) ⚠️ | Olost › Lluçanès | 1 |
 | Forêt de Olost (15) ⚠️ | Olost › Lluçanès | 1 |
@@ -10215,7 +10216,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Talamanca (37) ⚠️ | Talamanca › Bages | 1 |
 | Forêt de Talamanca (38) ⚠️ | Talamanca › Bages | 1 |
 | Forêt de Talamanca (39) ⚠️ | Talamanca › Bages | 1 |
-| Forêt de el Pont de Vilomara i Rocafort (41) ⚠️ | el Pont de Vilomara i Rocafort › Bages | 1 |
 | Forêt de el Pont de Vilomara i Rocafort (42) ⚠️ | el Pont de Vilomara i Rocafort › Bages | 1 |
 | Forêt de el Pont de Vilomara i Rocafort (43) ⚠️ | el Pont de Vilomara i Rocafort › Bages | 1 |
 | Forêt de Talamanca (44) ⚠️ | Talamanca › Bages | 1 |
@@ -10227,7 +10227,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Manresa (173) ⚠️ | Manresa › Bages | 1 |
 | Forêt de Manresa (176) ⚠️ | Castellgalí › Bages | 1 |
 | Forêt de Sant Salvador de Guardiola (122) ⚠️ | Sant Salvador de Guardiola › Bages | 1 |
-| Forêt de Castellgalí (74) ⚠️ | Castellgalí › Bages | 1 |
 | Forêt de Castellgalí (76) ⚠️ | Castellgalí › Bages | 1 |
 | Forêt de Castellgalí (78) ⚠️ | Castellgalí › Bages | 1 |
 | Forêt de Santpedor (91) ⚠️ | Santpedor › Bages | 1 |
@@ -10237,7 +10236,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc de la Ruta Mediterrànea ⚠️ | Sant Andreu de la Barca › Baix Llobregat | 1 |
 | Forêt de la Pobla de Lillet (67) ⚠️ | la Pobla de Lillet › Berguedà | 1 |
 
-9 166 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
+9 167 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
 
 ⚠️ 16507 parc(s) hors de la fenêtre 10–125 cellules (16223 trop petit(s), 284 trop grand(s)) : affichés sur la carte, mais ils ne peuvent pas servir de cible à un défi.
 

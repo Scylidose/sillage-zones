@@ -1,6 +1,6 @@
 # Sherbrooke
 
-Pack `qc-sherbrooke` · version 1.0.0 · grille 200 m · Canada › Québec › Estrie
+Pack `qc-sherbrooke` · version 1.0.1 · grille 200 m · Canada › Québec › Estrie
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -79,9 +79,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Atto-Beaver ⚠️ | Sherbrooke › Lennoxville | 6 |
 | Parc Walter-Camden ⚠️ | Sherbrooke › Fleurimont | 5 |
 | Parc Andrew-Sangster ⚠️ | Sherbrooke › Le Mont-Bellevue | 4 |
+| Parc Bureau ⚠️ | Sherbrooke › Fleurimont | 4 |
 | Parc du Marquis-de-Montcalm ⚠️ | Sherbrooke › Jacques-Cartier | 4 |
 | Parc Paul-Marin ⚠️ | Sherbrooke › Le Mont-Bellevue | 3 |
-| Parc Bureau ⚠️ | Sherbrooke › Fleurimont | 3 |
 | Parc du Mi-Vallon ⚠️ | Sherbrooke › Rock Forest–Saint-Élie–Deauville | 3 |
 | Parc Nault ⚠️ | Sherbrooke › Brompton | 3 |
 | Parc de la Plage-Municipale ⚠️ | Sherbrooke › Rock Forest–Saint-Élie–Deauville | 3 |
@@ -100,7 +100,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Desranleau ⚠️ | Sherbrooke › Fleurimont | 2 |
 | Parc du Mena'Sen ⚠️ | Sherbrooke › Fleurimont | 2 |
 | Parc Centennial ⚠️ | Sherbrooke › Lennoxville | 2 |
-| Parc des Quatre-Pins ⚠️ | Sherbrooke › Jacques-Cartier | 2 |
 | Parc Thérèse-Lecompte ⚠️ | Sherbrooke › Rock Forest–Saint-Élie–Deauville | 2 |
 | Parc Dorilas-Gagnon ⚠️ | Sherbrooke › Brompton | 2 |
 | Parc de la Butte-aux-Bouleaux ⚠️ | Sherbrooke › Rock Forest–Saint-Élie–Deauville | 2 |
@@ -116,6 +115,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc de Marie-Reine-du-Monde ⚠️ | Sherbrooke › Fleurimont | 1 |
 | Parc Philippe-Desranleau ⚠️ | Sherbrooke › Fleurimont | 1 |
 | Parc des Pyrénées ⚠️ | Sherbrooke › Fleurimont | 1 |
+| Parc Lavoie ⚠️ | Sherbrooke › Fleurimont | 1 |
 | Parc du Villageois ⚠️ | Sherbrooke › Rock Forest–Saint-Élie–Deauville | 1 |
 | Parc Normand-Dusseault ⚠️ | Sherbrooke › Fleurimont | 1 |
 | Parc de Sherbrooke (10) ⚠️ | Sherbrooke › Le Mont-Bellevue | 1 |
@@ -128,6 +128,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Olivier-Chauveau ⚠️ | Sherbrooke › Jacques-Cartier | 1 |
 | Parc Jules-Richard ⚠️ | Sherbrooke › Rock Forest–Saint-Élie–Deauville | 1 |
 | Boisé du Portage ⚠️ | Sherbrooke › Rock Forest–Saint-Élie–Deauville | 1 |
+| Parc des Quatre-Pins ⚠️ | Sherbrooke › Jacques-Cartier | 1 |
 | Parc Charles-Émile-Gadbois ⚠️ | Sherbrooke › Rock Forest–Saint-Élie–Deauville | 1 |
 | Parc Beaulieu ⚠️ | Sherbrooke › Rock Forest–Saint-Élie–Deauville | 1 |
 | Parc Yousuf-Karsh ⚠️ | Sherbrooke › Rock Forest–Saint-Élie–Deauville | 1 |
@@ -136,7 +137,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc du Plateau ⚠️ | Sherbrooke › Rock Forest–Saint-Élie–Deauville | 1 |
 | Parc Alfred-Élie-Dufresne ⚠️ | Sherbrooke › Le Mont-Bellevue | 1 |
 
-101 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
+100 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
 
 ⚠️ 165 parc(s) hors de la fenêtre 10–125 cellules (165 trop petit(s), 0 trop grand(s)) : affichés sur la carte, mais ils ne peuvent pas servir de cible à un défi.
 

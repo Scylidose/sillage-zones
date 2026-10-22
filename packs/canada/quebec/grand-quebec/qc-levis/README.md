@@ -1,6 +1,6 @@
 # Lévis (Chaudière-Appalaches)
 
-Pack `qc-levis` · version 1.0.2 · grille 200 m · Canada › Québec › Grand Québec
+Pack `qc-levis` · version 1.0.3 · grille 200 m · Canada › Québec › Grand Québec
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -98,7 +98,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc du Grand-Quevilly ⚠️ | Lévis › Lévis (quartier) | 2 |
 | Parc du Faubourg-des-Arbrisseaux ⚠️ | Lévis › Sainte-Hélène-de-Breakeyville | 1 |
 | Parc de Lévis ⚠️ | Lévis › Saint-Nicolas | 1 |
-| Parc de l'Érablière ⚠️ | Lévis › Saint-Nicolas | 1 |
 | Parc Jean-Dumets ⚠️ | Lévis › Saint-Nicolas | 1 |
 | Parc de Lévis (2) ⚠️ | Lévis › Saint-Nicolas | 1 |
 | Parc Aline-Welsh-Murphy ⚠️ | Lévis › Saint-Romuald | 1 |
@@ -110,7 +109,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc des Oiseaux ⚠️ | Lévis › Lévis (quartier) | 1 |
 | Parc du Domaine-des-Bois ⚠️ | Lévis › Lévis (quartier) | 1 |
 | Parc-école des Mousserons ⚠️ | Lévis › Saint-Jean-Chrysostome | 1 |
-| Parc de Verdun ⚠️ | Lévis › Lévis (quartier) | 1 |
 | Parc Villemay ⚠️ | Lévis › Lévis (quartier) | 1 |
 | Parc Georges-Berberi ⚠️ | Lévis › Lévis (quartier) | 1 |
 | Parc des Opales ⚠️ | Lévis › Lévis (quartier) | 1 |
@@ -124,6 +122,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc de la Pruchière ⚠️ | Lévis › Saint-Nicolas | 1 |
 | Parc du Replat ⚠️ | Lévis › Saint-Nicolas | 1 |
 | Carré Huot ⚠️ | Lévis › Saint-Nicolas | 1 |
+| Terrain de soccer ⚠️ | Lévis › Saint-Étienne-de-Lauzon | 1 |
 | Terrain de Baseball ⚠️ | Lévis › Saint-Étienne-de-Lauzon | 1 |
 | Terrains de soccer ⚠️ | Lévis › Saint-Étienne-de-Lauzon | 1 |
 | Parc Plein-Soleil ⚠️ | Lévis › Saint-Étienne-de-Lauzon | 1 |
@@ -163,7 +162,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Lucie-Dugas ⚠️ | Lévis › Saint-Jean-Chrysostome | 1 |
 | Parc du Christ-Roi ⚠️ | Lévis › Lévis (quartier) | 1 |
 
-133 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
+134 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
 
 ⚠️ 226 parc(s) hors de la fenêtre 10–125 cellules (226 trop petit(s), 0 trop grand(s)) : affichés sur la carte, mais ils ne peuvent pas servir de cible à un défi.
 

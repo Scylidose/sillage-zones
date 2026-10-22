@@ -1,6 +1,6 @@
 # Vaudreuil-Soulanges (Montérégie)
 
-Pack `qc-vaudreuil-soulanges` · version 1.2.2 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-vaudreuil-soulanges` · version 1.2.3 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -68,7 +68,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 
 | Parc | Zone | Cellules |
 |---|---|---:|
-| Parc nature les Forestiers-de-Saint-Lazare ⚠️ | Saint-Lazare | 148 |
+| Parc nature les Forestiers-de-Saint-Lazare ⚠️ | Saint-Lazare | 149 |
 | Parc nature de Pointe-des-Cascades | Pointe-des-Cascades | 24 |
 | Parc de Vaudreuil-Dorion (11) | Vaudreuil-Dorion | 15 |
 | Parc-Nature Harwood | Vaudreuil-Dorion | 13 |
@@ -78,10 +78,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Réserve naturelle du Marécage-des-Chenaux-de-Vaudreuil ⚠️ | Vaudreuil-Dorion | 9 |
 | Parc historique Pointe-du-Moulin ⚠️ | Notre-Dame-de-l'Île-Perrot › Île Perrot | 6 |
 | Parc de Hudson (3) ⚠️ | Hudson | 6 |
-| Parc de Dorion-Gardens ⚠️ | Vaudreuil-Dorion | 4 |
 | Parc Olympique ⚠️ | Pincourt › Île Perrot | 4 |
 | Parc Saint-Robert ⚠️ | Saint-Lazare | 4 |
 | Parc Michel-Martin ⚠️ | Ville de l'Île-Perrot › Île Perrot | 3 |
+| Parc de Dorion-Gardens ⚠️ | Vaudreuil-Dorion | 3 |
 | Parc des Hirondelles (2) ⚠️ | Notre-Dame-de-l'Île-Perrot › Île Perrot | 3 |
 | Parc des Éperviers ⚠️ | Notre-Dame-de-l'Île-Perrot › Île Perrot | 3 |
 | Parc nature de l'Île-aux-Tourtes ⚠️ | Vaudreuil-Dorion | 3 |

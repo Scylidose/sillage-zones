@@ -1,6 +1,6 @@
 # Pyrénées-Orientales
 
-Pack `fr-pyrenees-orientales` · version 1.1.1 · grille 200 m · France › Occitanie
+Pack `fr-pyrenees-orientales` · version 1.1.3 · grille 200 m · France › Occitanie
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -87,7 +87,7 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Vingrau | 1 472 | 0 | 1 472 | 141 | **1 331** | 261 (20 %) | 10 |
 | Ille-sur-Têt | 1 465 | 15 | 1 450 | 0 | **1 450** | 101 (7 %) | 7 |
 | Sournia | 1 405 | 0 | 1 405 | 0 | **1 405** | 334 (24 %) | 8 |
-| Enveitg | 1 395 | 2 | 1 393 | 0 | **1 393** | 576 (41 %) | 39 |
+| Enveitg | 1 395 | 2 | 1 393 | 0 | **1 393** | 576 (41 %) | 37 |
 | Ayguatébia-Talau | 1 384 | 0 | 1 384 | 230 | **1 154** | 78 (7 %) | 16 |
 | Font-Romeu-Odeillo-Via | 1 365 | 0 | 1 365 | 0 | **1 365** | 117 (9 %) | 223 |
 | Casteil | 1 364 | 0 | 1 364 | 0 | **1 364** | 302 (22 %) | 6 |
@@ -242,7 +242,7 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Targasonne | 357 | 0 | 357 | 0 | **357** | 121 (34 %) | 6 |
 | Baho | 361 | 6 | 355 | 0 | **355** | 36 (10 %) | 1 |
 | Brouilla | 366 | 13 | 353 | 0 | **353** | 69 (20 %) | 4 |
-| Bourg-Madame | 351 | 1 | 350 | 0 | **350** | 66 (19 %) | 8 |
+| Bourg-Madame | 351 | 1 | 350 | 0 | **350** | 66 (19 %) | 9 |
 | Terrats | 350 | 4 | 346 | 0 | **346** | 36 (10 %) | 2 |
 | Corbère | 344 | 0 | 344 | 0 | **344** | 22 (6 %) | 1 |
 | Villelongue-de-la-Salanque | 337 | 1 | 336 | 0 | **336** | 60 (18 %) | 3 |
@@ -251,7 +251,7 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Saint-Arnac | 319 | 0 | 319 | 0 | **319** | 3 (1 %) | 2 |
 | Pézilla-de-Conflent | 316 | 0 | 316 | 0 | **316** | 26 (8 %) | 1 |
 | Feilluns | 307 | 0 | 307 | 0 | **307** | 6 (2 %) | 1 |
-| Ur | 308 | 1 | 307 | 0 | **307** | 74 (24 %) | 8 |
+| Ur | 308 | 1 | 307 | 0 | **307** | 74 (24 %) | 9 |
 | Caudiès-de-Conflent | 304 | 0 | 304 | 0 | **304** | 6 (2 %) | 3 |
 | Planèzes | 296 | 0 | 296 | 0 | **296** | 48 (16 %) | 1 |
 | Vinça | 357 | 67 | 290 | 0 | **290** | 2 (1 %) | 10 |
@@ -296,46 +296,46 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 |---|---|---:|
 | Forêt de Saint-Laurent-de-Cerdans (3) ⚠️ | Saint-Laurent-de-Cerdans › Haut-Vallespir | 9 092 |
 | Forêt de Sorède (4) ⚠️ | Sorède › Albères – Côte Vermeille – Illibéris | 2 531 |
-| Forêt de Oms (12) ⚠️ | Oms › Aspres | 2 188 |
-| Forêt de Corsavy (7) ⚠️ | Corsavy › Haut-Vallespir | 1 822 |
+| Forêt de Oms (12) ⚠️ | Oms › Aspres | 2 189 |
+| Forêt de Corsavy (7) ⚠️ | Corsavy › Haut-Vallespir | 1 821 |
 | Forêt de Matemale (39) ⚠️ | Matemale › Pyrénées catalanes | 1 658 |
-| Forêt de La Llagonne (85) ⚠️ | La Llagonne › Pyrénées catalanes | 1 545 |
-| Forêt de Baillestavy (2) ⚠️ | Baillestavy › Conflent-Canigó | 1 278 |
-| Forêt de Olette (3) ⚠️ | Olette › Conflent-Canigó | 1 106 |
-| Forêt des Angles (182) ⚠️ | Les Angles › Pyrénées catalanes | 1 068 |
+| Forêt de La Llagonne (85) ⚠️ | La Llagonne › Pyrénées catalanes | 1 544 |
+| Forêt de Baillestavy (2) ⚠️ | Baillestavy › Conflent-Canigó | 1 277 |
+| Forêt de Olette (3) ⚠️ | Olette › Conflent-Canigó | 1 107 |
+| Forêt des Angles (182) ⚠️ | Les Angles › Pyrénées catalanes | 1 069 |
 | Forêt de l'Albère ⚠️ | L'Albère › Vallespir | 1 024 |
-| Forêt de Err (29) ⚠️ | Err › Pyrénées Cerdagne | 998 |
-| Forêt de Casteil (4) ⚠️ | Casteil › Conflent-Canigó | 998 |
-| Forêt de Valcebollère (2) ⚠️ | Valcebollère › Pyrénées Cerdagne | 982 |
+| Forêt de Casteil (4) ⚠️ | Casteil › Conflent-Canigó | 999 |
+| Forêt de Err (29) ⚠️ | Err › Pyrénées Cerdagne | 997 |
+| Forêt de Valcebollère (2) ⚠️ | Valcebollère › Pyrénées Cerdagne | 983 |
 | Forêt de Boule-d'Amont ⚠️ | Boule-d'Amont › Roussillon Conflent | 963 |
-| Forêt de Prats-de-Mollo-la-Preste (23) ⚠️ | Prats-de-Mollo-la-Preste › Haut-Vallespir | 914 |
-| Forêt de Calmeilles ⚠️ | Calmeilles › Aspres | 863 |
-| Forêt de Montbolo (3) ⚠️ | Montbolo › Haut-Vallespir | 849 |
+| Forêt de Prats-de-Mollo-la-Preste (23) ⚠️ | Prats-de-Mollo-la-Preste › Haut-Vallespir | 913 |
+| Forêt de Calmeilles ⚠️ | Calmeilles › Aspres | 861 |
+| Forêt de Montbolo (3) ⚠️ | Montbolo › Haut-Vallespir | 850 |
 | Forêt de Caixas (2) ⚠️ | Caixas › Roussillon Conflent | 831 |
 | Forêt de Fontpédrouse ⚠️ | Fontpédrouse › Conflent-Canigó | 695 |
 | Forêt de Ayguatébia-Talau (16) ⚠️ | Ayguatébia-Talau › Pyrénées catalanes | 694 |
 | Forêt de Escaro (6) ⚠️ | Escaro › Conflent-Canigó | 679 |
 | Forêt de Boule-d'Amont (2) ⚠️ | Boule-d'Amont › Roussillon Conflent | 571 |
-| Bois de Planès ⚠️ | Planès › Pyrénées catalanes | 559 |
+| Bois de Planès ⚠️ | Planès › Pyrénées catalanes | 560 |
 | Forêt de Py ⚠️ | Py › Conflent-Canigó | 538 |
-| Forêt de Caixas (3) ⚠️ | Caixas › Roussillon Conflent | 527 |
-| Forêt du Tech (2) ⚠️ | Le Tech › Haut-Vallespir | 507 |
-| Forêt de Trilla ⚠️ | Trilla › Agly Fenouillèdes | 497 |
+| Forêt de Caixas (3) ⚠️ | Caixas › Roussillon Conflent | 528 |
+| Forêt du Tech (2) ⚠️ | Le Tech › Haut-Vallespir | 506 |
+| Forêt de Trilla ⚠️ | Trilla › Agly Fenouillèdes | 498 |
 | Forêt du Vivier (3) ⚠️ | Le Vivier › Agly Fenouillèdes | 494 |
+| Forêt de Bouleternère ⚠️ | Bouleternère › Roussillon Conflent | 443 |
 | Forêt de Thuès-Entre-Valls ⚠️ | Thuès-Entre-Valls › Conflent-Canigó | 442 |
-| Forêt de Bouleternère ⚠️ | Bouleternère › Roussillon Conflent | 442 |
 | Bois de Saint-Paul-de-Fenouillet (3) ⚠️ | Saint-Paul-de-Fenouillet › Agly Fenouillèdes | 437 |
 | Forêt de Mosset (21) ⚠️ | Mosset › Conflent-Canigó | 416 |
 | Forêt de Corsavy ⚠️ | Corsavy › Haut-Vallespir | 407 |
 | Forêt de Fenouillet (24) ⚠️ | Fenouillet › Agly Fenouillèdes | 385 |
 | Forêt de Prats-de-Mollo-la-Preste (24) ⚠️ | Prats-de-Mollo-la-Preste › Haut-Vallespir | 381 |
-| Forêt de Rabouillet (4) ⚠️ | Rabouillet › Agly Fenouillèdes | 363 |
-| Forêt de Finestret (2) ⚠️ | Finestret › Conflent-Canigó | 350 |
+| Forêt de Rabouillet (4) ⚠️ | Rabouillet › Agly Fenouillèdes | 366 |
+| Forêt de Finestret (2) ⚠️ | Finestret › Conflent-Canigó | 349 |
 | Forêt de Fontrabiouse (11) ⚠️ | Fontrabiouse › Pyrénées catalanes | 340 |
+| Forêt de Taurinya (5) ⚠️ | Taurinya › Conflent-Canigó | 338 |
 | Forêt de Mosset ⚠️ | Mosset › Conflent-Canigó | 337 |
-| Forêt de Taurinya (5) ⚠️ | Taurinya › Conflent-Canigó | 337 |
-| Forêt de Pézilla-de-Conflent ⚠️ | Pézilla-de-Conflent › Agly Fenouillèdes | 335 |
-| Forêt de Thuès-Entre-Valls (3) ⚠️ | Thuès-Entre-Valls › Conflent-Canigó | 334 |
+| Forêt de Pézilla-de-Conflent ⚠️ | Pézilla-de-Conflent › Agly Fenouillèdes | 336 |
+| Forêt de Thuès-Entre-Valls (3) ⚠️ | Thuès-Entre-Valls › Conflent-Canigó | 335 |
 | Forêt de Font-Romeu-Odeillo-Via (216) ⚠️ | Font-Romeu-Odeillo-Via › Pyrénées catalanes | 304 |
 | Forêt de Caixas ⚠️ | Caixas › Roussillon Conflent | 303 |
 | Forêt de Valmanya (6) ⚠️ | Valmanya › Conflent-Canigó | 287 |
@@ -344,9 +344,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Ansignan (2) ⚠️ | Ansignan › Agly Fenouillèdes | 276 |
 | Forêt de Mosset (7) ⚠️ | Mosset › Conflent-Canigó | 273 |
 | Forêt de Prugnanes (2) ⚠️ | Prugnanes › Agly Fenouillèdes | 271 |
-| Forêt de Prugnanes (5) ⚠️ | Prugnanes › Agly Fenouillèdes | 263 |
+| Forêt de Prugnanes (5) ⚠️ | Prugnanes › Agly Fenouillèdes | 264 |
 | Forêt de Mantet (3) ⚠️ | Mantet › Conflent-Canigó | 262 |
-| Forêt de Clara-Villerach (3) ⚠️ | Clara-Villerach › Conflent-Canigó | 255 |
+| Forêt de Clara-Villerach (3) ⚠️ | Clara-Villerach › Conflent-Canigó | 254 |
 | Forêt de Eyne ⚠️ | Eyne › Pyrénées catalanes | 248 |
 | Forêt de Prats-de-Mollo-la-Preste (9) ⚠️ | Prats-de-Mollo-la-Preste › Haut-Vallespir | 246 |
 | Forêt de Caudiès-de-Fenouillèdes (17) ⚠️ | Caudiès-de-Fenouillèdes › Agly Fenouillèdes | 224 |
@@ -354,7 +354,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Porta (4) ⚠️ | Porta › Pyrénées Cerdagne | 218 |
 | Forêt de Vira ⚠️ | Vira › Agly Fenouillèdes | 213 |
 | Forêt de Matemale (38) ⚠️ | Matemale › Pyrénées catalanes | 208 |
-| Forêt de Ayguatébia-Talau ⚠️ | Ayguatébia-Talau › Pyrénées catalanes | 207 |
+| Forêt de Ayguatébia-Talau ⚠️ | Ayguatébia-Talau › Pyrénées catalanes | 206 |
 | Forêt de Bélesta (8) ⚠️ | Bélesta › Roussillon Conflent | 204 |
 | Forêt de Formiguères ⚠️ | Formiguères › Pyrénées catalanes | 198 |
 | Forêt de Vira (2) ⚠️ | Vira › Agly Fenouillèdes | 197 |
@@ -365,7 +365,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Maureillas-las-Illas (4) ⚠️ | Maureillas-las-Illas › Vallespir | 182 |
 | Forêt de Prugnanes (6) ⚠️ | Prugnanes › Agly Fenouillèdes | 180 |
 | Forêt de Casteil (5) ⚠️ | Casteil › Conflent-Canigó | 175 |
-| Forêt de Thuès-Entre-Valls (4) ⚠️ | Thuès-Entre-Valls › Conflent-Canigó | 171 |
+| Forêt de Thuès-Entre-Valls (4) ⚠️ | Thuès-Entre-Valls › Conflent-Canigó | 170 |
 | Forêt de Puyvalador (97) ⚠️ | Puyvalador › Pyrénées catalanes | 164 |
 | Forêt du Perthus (3) ⚠️ | Le Perthus › Vallespir | 164 |
 | Forêt de Py (3) ⚠️ | Py › Conflent-Canigó | 162 |
@@ -385,19 +385,19 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Corneilla-de-Conflent (19) ⚠️ | Corneilla-de-Conflent › Conflent-Canigó | 130 |
 | Forêt de Bélesta (7) ⚠️ | Bélesta › Roussillon Conflent | 129 |
 | Forêt de la Matte | Les Angles › Pyrénées catalanes | 124 |
-| Forêt de Oreilla | Olette › Conflent-Canigó | 122 |
-| Forêt de Py (7) | Py › Conflent-Canigó | 120 |
+| Forêt de Oreilla | Olette › Conflent-Canigó | 123 |
+| Forêt de Py (7) | Py › Conflent-Canigó | 121 |
 | Forêt de Nyer (6) | Nyer › Conflent-Canigó | 119 |
 | Forêt de Taurinya | Taurinya › Conflent-Canigó | 117 |
 | Forêt de Souanyas (2) | Souanyas › Conflent-Canigó | 116 |
 | Forêt de Nohèdes (3) | Nohèdes › Conflent-Canigó | 115 |
 | Forêt de Latour-de-Carol (3) | Latour-de-Carol › Pyrénées Cerdagne | 115 |
 | Forêt de Porta (6) | Porta › Pyrénées Cerdagne | 113 |
-| Bois de Angoustrine-Villeneuve-des-Escaldes | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 112 |
+| Bois de Angoustrine-Villeneuve-des-Escaldes | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 113 |
 | Forêt de Nohèdes (6) | Nohèdes › Conflent-Canigó | 112 |
 | Forêt de Rasiguères (2) | Rasiguères › Agly Fenouillèdes | 111 |
-| Forêt de Vivès | Vivès › Vallespir | 110 |
 | Forêt de Mosset (3) | Mosset › Conflent-Canigó | 109 |
+| Forêt de Vivès | Vivès › Vallespir | 109 |
 | Forêt de Rasiguères | Rasiguères › Agly Fenouillèdes | 109 |
 | Forêt de Céret | Céret › Vallespir | 108 |
 | Forêt de Puyvalador (99) | Puyvalador › Pyrénées catalanes | 108 |
@@ -407,39 +407,39 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Mosset (6) | Mosset › Conflent-Canigó | 98 |
 | Forêt de Serdinya (2) | Serdinya › Conflent-Canigó | 97 |
 | Forêt de Bélesta (5) | Bélesta › Roussillon Conflent | 96 |
-| Forêt de Py (2) | Py › Conflent-Canigó | 95 |
 | Forêt de Coustouges | Coustouges › Haut-Vallespir | 95 |
+| Forêt de Prats-de-Mollo-la-Preste (12) | Prats-de-Mollo-la-Preste › Haut-Vallespir | 95 |
 | Forêt de Saint-Paul-de-Fenouillet (15) | Saint-Paul-de-Fenouillet › Agly Fenouillèdes | 95 |
-| Forêt de Prats-de-Mollo-la-Preste (12) | Prats-de-Mollo-la-Preste › Haut-Vallespir | 94 |
+| Forêt de Py (2) | Py › Conflent-Canigó | 94 |
 | Forêt de Porta (2) | Porta › Pyrénées Cerdagne | 92 |
 | Forêt de Fontpédrouse (6) | Fontpédrouse › Conflent-Canigó | 92 |
 | Forêt de Camélas (2) | Camélas › Aspres | 90 |
 | Forêt de Eus (2) | Eus › Conflent-Canigó | 88 |
 | Forêt de Prats-de-Mollo-la-Preste (8) | Prats-de-Mollo-la-Preste › Haut-Vallespir | 87 |
-| Forêt de Camélas (11) | Camélas › Aspres | 86 |
+| Forêt de Camélas (11) | Camélas › Aspres | 85 |
 | Forêt de Prats-de-Mollo-la-Preste (3) | Prats-de-Mollo-la-Preste › Haut-Vallespir | 84 |
 | Forêt de Urbanya | Urbanya › Conflent-Canigó | 83 |
-| Forêt de Montalba-le-Château | Montalba-le-Château › Roussillon Conflent | 82 |
+| Forêt de Montalba-le-Château | Montalba-le-Château › Roussillon Conflent | 83 |
 | Forêt de Urbanya (3) | Urbanya › Conflent-Canigó | 81 |
 | Forêt de Prats-de-Mollo-la-Preste (14) | Prats-de-Mollo-la-Preste › Haut-Vallespir | 80 |
 | Forêt de Souanyas | Souanyas › Conflent-Canigó | 80 |
+| Forêt de Tautavel | Tautavel › Perpignan Méditerranée Métropole | 79 |
 | Forêt de Urbanya (2) | Urbanya › Conflent-Canigó | 79 |
 | Forêt de Conat | Conat › Conflent-Canigó | 78 |
-| Forêt de Tautavel | Tautavel › Perpignan Méditerranée Métropole | 78 |
 | Forêt de Nohèdes (2) | Nohèdes › Conflent-Canigó | 78 |
+| Forêt de Montesquieu-des-Albères (3) | Montesquieu-des-Albères › Albères – Côte Vermeille – Illibéris | 78 |
 | Forêt de Sournia (6) | Sournia › Agly Fenouillèdes | 78 |
-| Forêt de Montesquieu-des-Albères (3) | Montesquieu-des-Albères › Albères – Côte Vermeille – Illibéris | 77 |
-| Forêt de Sournia (5) | Sournia › Agly Fenouillèdes | 77 |
 | Forêt de Mosset (22) | Mosset › Conflent-Canigó | 77 |
+| Forêt de Sournia (5) | Sournia › Agly Fenouillèdes | 76 |
 | Forêt de Maureillas-las-Illas (3) | Maureillas-las-Illas › Vallespir | 75 |
 | Forêt de Banyuls-sur-Mer (39) | Banyuls-sur-Mer › Albères – Côte Vermeille – Illibéris | 75 |
 | Forêt de Marquixanes | Marquixanes › Conflent-Canigó | 74 |
 | Forêt de Fenouillet (30) | Fenouillet › Agly Fenouillèdes | 74 |
 | Forêt de Arboussols (2) | Eus › Conflent-Canigó | 71 |
 | Forêt de Py (4) | Py › Conflent-Canigó | 70 |
-| Forêt de Eus | Eus › Conflent-Canigó | 70 |
 | Forêt de Caramany | Caramany › Agly Fenouillèdes | 69 |
 | Forêt domaniale de Fontpédrouse | Planès › Pyrénées catalanes | 69 |
+| Forêt de Eus | Eus › Conflent-Canigó | 69 |
 | Forêt de Porté-Puymorens (3) | Porté-Puymorens › Pyrénées Cerdagne | 69 |
 | Forêt de La Bastide | La Bastide › Haut-Vallespir | 69 |
 | Forêt de Sournia (3) | Sournia › Agly Fenouillèdes | 68 |
@@ -448,7 +448,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Py (6) | Py › Conflent-Canigó | 67 |
 | Forêt de Sournia (8) | Sournia › Agly Fenouillèdes | 67 |
 | Bois de Opoul-Périllos (2) | Opoul-Périllos › Perpignan Méditerranée Métropole | 66 |
-| Forêt de Maury (2) | Maury › Agly Fenouillèdes | 65 |
+| Forêt de Maury (2) | Maury › Agly Fenouillèdes | 66 |
 | Forêt de Puyvalador | Puyvalador › Pyrénées catalanes | 64 |
 | Forêt de Salses-le-Château (2) | Salses-le-Château › Corbières Salanque Méditerranée | 64 |
 | Forêt de Sansa (2) | Sansa › Pyrénées catalanes | 64 |
@@ -471,12 +471,12 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Taurinya (2) | Taurinya › Conflent-Canigó | 53 |
 | Forêt de Fontpédrouse (5) | Fontpédrouse › Conflent-Canigó | 53 |
 | Forêt de Valmanya (5) | Valmanya › Conflent-Canigó | 53 |
+| Forêt de Sahorre (6) | Sahorre › Conflent-Canigó | 53 |
 | Forêt de Cassagnes (5) | Cassagnes › Perpignan Méditerranée Métropole | 53 |
 | Forêt de Saint-Pierre-dels-Forcats (45) | Saint-Pierre-dels-Forcats › Pyrénées catalanes | 53 |
 | Forêt de Mosset (4) | Mosset › Conflent-Canigó | 52 |
 | Forêt de Bélesta | Bélesta › Roussillon Conflent | 52 |
 | Forêt de Escaro (4) | Escaro › Conflent-Canigó | 52 |
-| Forêt de Sahorre (6) | Sahorre › Conflent-Canigó | 52 |
 | Forêt de Caudiès-de-Fenouillèdes (28) | Caudiès-de-Fenouillèdes › Agly Fenouillèdes | 52 |
 | Forêt de Fenouillet | Fenouillet › Agly Fenouillèdes | 51 |
 | Forêt de Escaro (2) | Escaro › Conflent-Canigó | 51 |
@@ -488,9 +488,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Opoul-Périllos | Opoul-Périllos › Perpignan Méditerranée Métropole | 49 |
 | Forêt de Saint-Martin-de-Fenouillet (2) | Saint-Martin-de-Fenouillet › Agly Fenouillèdes | 49 |
 | Forêt de Campoussy | Campoussy › Agly Fenouillèdes | 48 |
-| Forêt de Mosset (9) | Mosset › Conflent-Canigó | 48 |
 | Forêt de Mosset (14) | Mosset › Conflent-Canigó | 48 |
 | Forêt de Sahorre (2) | Sahorre › Conflent-Canigó | 47 |
+| Forêt de Mosset (9) | Mosset › Conflent-Canigó | 47 |
 | Forêt de Fuilla (17) | Fuilla › Conflent-Canigó | 46 |
 | Forêt de Rabouillet (2) | Rabouillet › Agly Fenouillèdes | 45 |
 | Forêt de Urbanya (4) | Urbanya › Conflent-Canigó | 45 |
@@ -504,22 +504,22 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Opoul-Périllos | Opoul-Périllos › Perpignan Méditerranée Métropole | 41 |
 | Forêt de Sournia (2) | Sournia › Agly Fenouillèdes | 41 |
 | Forêt de Railleu | Railleu › Pyrénées catalanes | 41 |
-| Forêt de Tordères | Tordères › Aspres | 41 |
 | Forêt de Vernet-les-Bains | Vernet-les-Bains › Conflent-Canigó | 41 |
 | Forêt de Rasiguères (3) | Rasiguères › Agly Fenouillèdes | 41 |
 | Forêt de Font-Romeu-Odeillo-Via | Font-Romeu-Odeillo-Via › Pyrénées catalanes | 40 |
 | Forêt de Jujols | Jujols › Conflent-Canigó | 40 |
+| Forêt de Tordères | Tordères › Aspres | 40 |
 | Forêt de Prats-de-Mollo-la-Preste (2) | Prats-de-Mollo-la-Preste › Haut-Vallespir | 40 |
 | Forêt de Dorres (2) | Dorres › Pyrénées Cerdagne | 39 |
 | Forêt de Prades (16) | Prades › Conflent-Canigó | 39 |
 | Forêt de Palau-de-Cerdagne (6) | Palau-de-Cerdagne › Pyrénées Cerdagne | 39 |
-| Forêt de Nyer (3) | Nyer › Conflent-Canigó | 38 |
 | Forêt de Cases-de-Pène | Cases-de-Pène › Perpignan Méditerranée Métropole | 38 |
 | Forêt de Mosset (12) | Mosset › Conflent-Canigó | 38 |
 | Forêt de Mosset (13) | Mosset › Conflent-Canigó | 38 |
 | Forêt de Eyne (2) | Eyne › Pyrénées catalanes | 38 |
 | Forêt de Escaro (5) | Escaro › Conflent-Canigó | 38 |
 | Forêt de Caudiès-de-Fenouillèdes (12) | Caudiès-de-Fenouillèdes › Agly Fenouillèdes | 38 |
+| Forêt de Nyer (3) | Nyer › Conflent-Canigó | 37 |
 | Forêt de Glorianes | Glorianes › Roussillon Conflent | 37 |
 | Forêt de Font-Romeu-Odeillo-Via (4) | Font-Romeu-Odeillo-Via › Pyrénées catalanes | 37 |
 | Forêt de Fosse | Fosse › Agly Fenouillèdes | 37 |
@@ -533,6 +533,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Casefabre (2) | Casefabre › Roussillon Conflent | 35 |
 | Forêt de Vernet-les-Bains (9) | Vernet-les-Bains › Conflent-Canigó | 35 |
 | Forêt de Camélas | Camélas › Aspres | 34 |
+| Forêt de Montauriol | Montauriol › Aspres | 34 |
 | Forêt de Thuès-Entre-Valls (2) | Thuès-Entre-Valls › Conflent-Canigó | 34 |
 | Forêt de Salses-le-Château (4) | Salses-le-Château › Corbières Salanque Méditerranée | 34 |
 | Forêt de Villefranche-de-Conflent (2) | Villefranche-de-Conflent › Conflent-Canigó | 34 |
@@ -541,7 +542,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Caudiès-de-Fenouillèdes (20) | Caudiès-de-Fenouillèdes › Agly Fenouillèdes | 34 |
 | Forêt de Saint-Laurent-de-Cerdans (5) | Saint-Laurent-de-Cerdans › Haut-Vallespir | 34 |
 | Forêt de Maureillas-las-Illas (7) | Maureillas-las-Illas › Vallespir | 34 |
-| Forêt de Montauriol | Montauriol › Aspres | 33 |
 | Forêt de Saint-Arnac | Saint-Arnac › Agly Fenouillèdes | 33 |
 | Forêt de Cassagnes | Cassagnes › Perpignan Méditerranée Métropole | 32 |
 | Forêt de Sansa | Sansa › Pyrénées catalanes | 32 |
@@ -566,6 +566,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Serdinya | Serdinya › Conflent-Canigó | 28 |
 | Forêt de Enveitg (3) | Enveitg › Pyrénées Cerdagne | 28 |
 | Forêt de Nyer (2) | Nyer › Conflent-Canigó | 28 |
+| Forêt de Ria-Sirach (7) | Ria-Sirach › Conflent-Canigó | 28 |
 | Forêt de Puyvalador (96) | Puyvalador › Pyrénées catalanes | 28 |
 | Chemin de l'Église Saint-Étienne | Sahorre › Conflent-Canigó | 28 |
 | Forêt des Angles (177) | Les Angles › Pyrénées catalanes | 28 |
@@ -573,10 +574,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt du Perthus | Le Perthus › Vallespir | 27 |
 | Forêt de Nohèdes | Nohèdes › Conflent-Canigó | 27 |
 | Forêt de Sansa (3) | Sansa › Pyrénées catalanes | 27 |
-| Forêt de Ria-Sirach (7) | Ria-Sirach › Conflent-Canigó | 27 |
 | Forêt de Taurinya (3) | Taurinya › Conflent-Canigó | 27 |
 | Forêt de Sournia (7) | Sournia › Agly Fenouillèdes | 27 |
 | Forêt de Ille-sur-Têt | Ille-sur-Têt › Roussillon Conflent | 27 |
+| Bois de Caramany (6) | Caramany › Agly Fenouillèdes | 27 |
 | Forêt de Rabouillet | Rabouillet › Agly Fenouillèdes | 26 |
 | Forêt de Villefranche-de-Conflent | Villefranche-de-Conflent › Conflent-Canigó | 26 |
 | Forêt de Fillols | Fillols › Conflent-Canigó | 26 |
@@ -585,7 +586,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Latour-de-France | Latour-de-France › Agly Fenouillèdes | 26 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (148) | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 26 |
 | Forêt de Baillestavy | Baillestavy › Conflent-Canigó | 26 |
-| Bois de Caramany (6) | Caramany › Agly Fenouillèdes | 26 |
 | Forêt de Campôme | Campôme › Conflent-Canigó | 25 |
 | Forêt de Porta (5) | Porta › Pyrénées Cerdagne | 25 |
 | Forêt de Prats-de-Mollo-la-Preste (17) | Prats-de-Mollo-la-Preste › Haut-Vallespir | 25 |
@@ -602,22 +602,22 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Porta | Porta › Pyrénées Cerdagne | 23 |
 | Forêt de Prats-de-Mollo-la-Preste | Prats-de-Mollo-la-Preste › Haut-Vallespir | 23 |
 | Forêt de Nyer (7) | Nyer › Conflent-Canigó | 23 |
+| Forêt de Catllar (5) | Catllar › Conflent-Canigó | 23 |
 | Forêt de Clara-Villerach (2) | Clara-Villerach › Conflent-Canigó | 23 |
 | Forêt de Maury | Maury › Agly Fenouillèdes | 23 |
 | Forêt de Puyvalador (98) | Puyvalador › Pyrénées catalanes | 23 |
 | Forêt de Maureillas-las-Illas (6) | Maureillas-las-Illas › Vallespir | 23 |
 | Forêt de Saint-Laurent-de-Cerdans (7) | Saint-Laurent-de-Cerdans › Haut-Vallespir | 23 |
-| Forêt de Vernet-les-Bains (13) | Vernet-les-Bains › Conflent-Canigó | 23 |
 | Forêt de Arboussols | Arboussols › Conflent-Canigó | 22 |
+| Forêt de Puyvalador (2) | Puyvalador › Pyrénées catalanes | 22 |
 | Forêt de Serdinya (3) | Serdinya › Conflent-Canigó | 22 |
 | Forêt de Fillols (2) | Fillols › Conflent-Canigó | 22 |
 | Forêt de Montbolo | Montbolo › Haut-Vallespir | 22 |
 | Forêt de Mantet | Mantet › Conflent-Canigó | 22 |
 | Forêt de Nohèdes (5) | Nohèdes › Conflent-Canigó | 22 |
-| Forêt de Catllar (5) | Catllar › Conflent-Canigó | 22 |
 | Forêt de Corneilla-de-Conflent (14) | Corneilla-de-Conflent › Conflent-Canigó | 22 |
 | Bois de Montalba-le-Château | Montalba-le-Château › Roussillon Conflent | 22 |
-| Forêt de Puyvalador (2) | Puyvalador › Pyrénées catalanes | 21 |
+| Forêt de Vernet-les-Bains (13) | Vernet-les-Bains › Conflent-Canigó | 22 |
 | Forêt de Laroque-des-Albères (2) | Laroque-des-Albères › Albères – Côte Vermeille – Illibéris | 21 |
 | Forêt de Maureillas-las-Illas | Maureillas-las-Illas › Vallespir | 21 |
 | Forêt de Prats-de-Mollo-la-Preste (5) | Prats-de-Mollo-la-Preste › Haut-Vallespir | 21 |
@@ -647,6 +647,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Amélie-les-Bains-Palalda | Amélie-les-Bains-Palalda › Haut-Vallespir | 19 |
 | Forêt de Mosset (5) | Mosset › Conflent-Canigó | 18 |
 | Forêt de Fillols (4) | Fillols › Conflent-Canigó | 18 |
+| Forêt de Sorède | Sorède › Albères – Côte Vermeille – Illibéris | 18 |
 | Forêt des Angles (6) | Les Angles › Pyrénées catalanes | 18 |
 | Bois de Mantet (6) | Mantet › Conflent-Canigó | 18 |
 | Forêt de Saillagouse (6) | Saillagouse › Pyrénées Cerdagne | 18 |
@@ -657,7 +658,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Salses-le-Château (5) | Salses-le-Château › Corbières Salanque Méditerranée | 17 |
 | Forêt de Tordères (2) | Tordères › Aspres | 17 |
 | Forêt de Py (9) | Py › Conflent-Canigó | 17 |
-| Forêt de Sorède | Sorède › Albères – Côte Vermeille – Illibéris | 17 |
 | Forêt de Enveitg | Enveitg › Pyrénées Cerdagne | 16 |
 | Forêt de Corneilla-de-Conflent | Corneilla-de-Conflent › Conflent-Canigó | 16 |
 | Forêt de Estavar | Estavar › Pyrénées Cerdagne | 16 |
@@ -689,11 +689,11 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Nyer (4) | Nyer › Conflent-Canigó | 14 |
 | Forêt de Prats-de-Mollo-la-Preste (7) | Prats-de-Mollo-la-Preste › Haut-Vallespir | 14 |
 | Forêt de Font-Romeu-Odeillo-Via (2) | Font-Romeu-Odeillo-Via › Pyrénées catalanes | 14 |
-| Forêt de Llo | Llo › Pyrénées Cerdagne | 14 |
 | Forêt de Ria-Sirach | Ria-Sirach › Conflent-Canigó | 14 |
 | Forêt de Nyer (9) | Nyer › Conflent-Canigó | 14 |
 | Bois de Banyuls-sur-Mer | Banyuls-sur-Mer › Albères – Côte Vermeille – Illibéris | 14 |
 | Forêt de Ortaffa | Ortaffa › Albères – Côte Vermeille – Illibéris | 14 |
+| Forêt de Cassagnes (2) | Cassagnes › Perpignan Méditerranée Métropole | 14 |
 | Forêt de Corneilla-de-Conflent (13) | Corneilla-de-Conflent › Conflent-Canigó | 14 |
 | Forêt de Peyrestortes | Peyrestortes › Perpignan Méditerranée Métropole | 14 |
 | Bois de Pézilla-la-Rivière | Pézilla-la-Rivière › Perpignan Méditerranée Métropole | 14 |
@@ -702,23 +702,24 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Brouilla | Brouilla › Aspres | 13 |
 | Forêt de Fontpédrouse (4) | Fontpédrouse › Conflent-Canigó | 13 |
 | Forêt de Valcebollère | Valcebollère › Pyrénées Cerdagne | 13 |
+| Forêt de Llo | Llo › Pyrénées Cerdagne | 13 |
 | Forêt de Mosset (11) | Mosset › Conflent-Canigó | 13 |
 | Forêt de Mantet (5) | Mantet › Conflent-Canigó | 13 |
 | Forêt de Prats-de-Mollo-la-Preste (15) | Prats-de-Mollo-la-Preste › Haut-Vallespir | 13 |
 | Forêt de Llo (2) | Llo › Pyrénées Cerdagne | 13 |
 | Forêt de Prats-de-Mollo-la-Preste (18) | Prats-de-Mollo-la-Preste › Haut-Vallespir | 13 |
 | Forêt de Espira-de-l'Agly (3) | Espira-de-l'Agly › Perpignan Méditerranée Métropole | 13 |
-| Forêt de Cassagnes (2) | Cassagnes › Perpignan Méditerranée Métropole | 13 |
 | Forêt de Ria-Sirach (5) | Ria-Sirach › Conflent-Canigó | 13 |
 | Forêt de Saint-Pierre-dels-Forcats (16) | Saint-Pierre-dels-Forcats › Pyrénées catalanes | 13 |
 | Forêt de Camélas (3) | Camélas › Aspres | 13 |
 | Forêt de Corneilla-de-Conflent (20) | Vernet-les-Bains › Conflent-Canigó | 13 |
 | Forêt de Coustouges (5) | Coustouges › Haut-Vallespir | 13 |
-| Forêt de l'Albère (3) | L'Albère › Vallespir | 13 |
 | Forêt de Corsavy (2) | Corsavy › Haut-Vallespir | 12 |
 | Forêt de La Cabanasse | La Cabanasse › Pyrénées catalanes | 12 |
+| Forêt du Tech | Le Tech › Haut-Vallespir | 12 |
 | Forêt de Prats-de-Mollo-la-Preste (20) | Prats-de-Mollo-la-Preste › Haut-Vallespir | 12 |
 | Forêt de Espira-de-l'Agly (5) | Espira-de-l'Agly › Perpignan Méditerranée Métropole | 12 |
+| Forêt des Angles (18) | Les Angles › Pyrénées catalanes | 12 |
 | Forêt de Fenouillet (9) | Fenouillet › Agly Fenouillèdes | 12 |
 | Forêt de Caudiès-de-Fenouillèdes (6) | Caudiès-de-Fenouillèdes › Agly Fenouillèdes | 12 |
 | Forêt de Montesquieu-des-Albères (2) | Montesquieu-des-Albères › Albères – Côte Vermeille – Illibéris | 12 |
@@ -726,10 +727,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Caudiès-de-Fenouillèdes (29) | Caudiès-de-Fenouillèdes › Agly Fenouillèdes | 12 |
 | Bois de Mantet (3) | Mantet › Conflent-Canigó | 12 |
 | Forêt des Angles (183) | Les Angles › Pyrénées catalanes | 12 |
-| Forêt du Tech | Le Tech › Haut-Vallespir | 11 |
+| Forêt de l'Albère (3) | L'Albère › Vallespir | 12 |
 | Forêt de Prats-de-Mollo-la-Preste (19) | Prats-de-Mollo-la-Preste › Haut-Vallespir | 11 |
 | Forêt de Argelès-sur-Mer | Argelès-sur-Mer › Albères – Côte Vermeille – Illibéris | 11 |
-| Forêt des Angles (18) | Les Angles › Pyrénées catalanes | 11 |
 | Forêt de Formiguères (27) | Formiguères › Pyrénées catalanes | 11 |
 | Bois de Saint-Jean-Pla-de-Corts | Saint-Jean-Pla-de-Corts › Vallespir | 11 |
 | Forêt de Tautavel (3) | Tautavel › Perpignan Méditerranée Métropole | 11 |
@@ -768,6 +768,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Argelès-sur-Mer (4) ⚠️ | Argelès-sur-Mer › Albères – Côte Vermeille – Illibéris | 8 |
 | Forêt Noire ⚠️ | Caudiès-de-Fenouillèdes › Agly Fenouillèdes | 8 |
 | Forêt de Castelnou ⚠️ | Castelnou › Aspres | 8 |
+| Forêt de Caudiès-de-Fenouillèdes (10) ⚠️ | Caudiès-de-Fenouillèdes › Agly Fenouillèdes | 8 |
 | Forêt de Fenouillet (25) ⚠️ | Fenouillet › Agly Fenouillèdes | 8 |
 | Forêt du Vivier (4) ⚠️ | Le Vivier › Agly Fenouillèdes | 8 |
 | Bois de Porté-Puymorens ⚠️ | Porté-Puymorens › Pyrénées Cerdagne | 8 |
@@ -777,9 +778,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Marquixanes (2) ⚠️ | Marquixanes › Conflent-Canigó | 8 |
 | Forêt de Porté-Puymorens ⚠️ | Porté-Puymorens › Pyrénées Cerdagne | 7 |
 | Forêt de Err (20) ⚠️ | Err › Pyrénées Cerdagne | 7 |
+| Forêt de Porta (15) ⚠️ | Porta › Pyrénées Cerdagne | 7 |
+| Forêt de Argelès-sur-Mer (6) ⚠️ | Argelès-sur-Mer › Albères – Côte Vermeille – Illibéris | 7 |
 | Forêt de Laroque-des-Albères (6) ⚠️ | Laroque-des-Albères › Albères – Côte Vermeille – Illibéris | 7 |
 | Bois de Oms (30) ⚠️ | Oms › Aspres | 7 |
-| Forêt de Caudiès-de-Fenouillèdes (10) ⚠️ | Caudiès-de-Fenouillèdes › Agly Fenouillèdes | 7 |
 | Forêt de Saint-Paul-de-Fenouillet (5) ⚠️ | Saint-Paul-de-Fenouillet › Agly Fenouillèdes | 7 |
 | Forêt d'Aiguebonnes ⚠️ | Fenouillet › Agly Fenouillèdes | 7 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (150) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 7 |
@@ -800,12 +802,11 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Saint-Pierre-dels-Forcats (32) ⚠️ | Saint-Pierre-dels-Forcats › Pyrénées catalanes | 6 |
 | Forêt de Puyvalador (18) ⚠️ | Puyvalador › Pyrénées catalanes | 6 |
 | Forêt de Err (15) ⚠️ | Err › Pyrénées Cerdagne | 6 |
-| Forêt de Porta (15) ⚠️ | Porta › Pyrénées Cerdagne | 6 |
 | Forêt de Porté-Puymorens (20) ⚠️ | Porté-Puymorens › Pyrénées Cerdagne | 6 |
-| Forêt de Argelès-sur-Mer (6) ⚠️ | Argelès-sur-Mer › Albères – Côte Vermeille – Illibéris | 6 |
 | Bois de Saint-Jean-Pla-de-Corts (6) ⚠️ | Saint-Jean-Pla-de-Corts › Vallespir | 6 |
 | Bois de Céret (8) ⚠️ | Céret › Vallespir | 6 |
 | Bois de Oms (21) ⚠️ | Oms › Aspres | 6 |
+| Bois de Calmeilles (4) ⚠️ | Calmeilles › Aspres | 6 |
 | Forêt de Camélas (6) ⚠️ | Camélas › Aspres | 6 |
 | Bois de Néfiach ⚠️ | Néfiach › Roussillon Conflent | 6 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (183) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 6 |
@@ -815,6 +816,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Rigarda (2) ⚠️ | Rigarda › Conflent-Canigó | 6 |
 | Forêt de Matemale (37) ⚠️ | Matemale › Pyrénées catalanes | 6 |
 | Forêt du Perthus (4) ⚠️ | Le Perthus › Vallespir | 6 |
+| Forêt de Mosset (8) ⚠️ | Mosset › Conflent-Canigó | 5 |
 | Bois des chênes ⚠️ | Perpignan › Perpignan Méditerranée Métropole | 5 |
 | Parcours Sportif Paysager de Sainte-Camille ⚠️ | Cabestany › Perpignan Méditerranée Métropole | 5 |
 | Forêt de Ria-Sirach (4) ⚠️ | Ria-Sirach › Conflent-Canigó | 5 |
@@ -829,7 +831,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc de Port-Vendres ⚠️ | Port-Vendres › Albères – Côte Vermeille – Illibéris | 5 |
 | Bois de Céret ⚠️ | Céret › Vallespir | 5 |
 | Forêt de Taurinya (4) ⚠️ | Taurinya › Conflent-Canigó | 5 |
-| Bois de Calmeilles (4) ⚠️ | Calmeilles › Aspres | 5 |
 | Bois de Calmeilles (6) ⚠️ | Calmeilles › Aspres | 5 |
 | Forêt de Casefabre ⚠️ | Casefabre › Roussillon Conflent | 5 |
 | Forêt de Néfiach ⚠️ | Néfiach › Roussillon Conflent | 5 |
@@ -837,7 +838,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Fenouillet (21) ⚠️ | Fenouillet › Agly Fenouillèdes | 5 |
 | Forêt de Fenouillet (22) ⚠️ | Fenouillet › Agly Fenouillèdes | 5 |
 | Forêt de Fenouillet (26) ⚠️ | Fenouillet › Agly Fenouillèdes | 5 |
-| Forêt de Fenouillet (27) ⚠️ | Fenouillet › Agly Fenouillèdes | 5 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (189) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 5 |
 | Bois de Fontpédrouse ⚠️ | Fontpédrouse › Conflent-Canigó | 5 |
 | Bois de Bélesta (3) ⚠️ | Bélesta › Roussillon Conflent | 5 |
@@ -849,7 +849,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Latour-de-Carol (2) ⚠️ | Latour-de-Carol › Pyrénées Cerdagne | 5 |
 | Forêt de Corbère-les-Cabanes ⚠️ | Corbère-les-Cabanes › Roussillon Conflent | 4 |
 | Forêt de Salses-le-Château (3) ⚠️ | Salses-le-Château › Corbières Salanque Méditerranée | 4 |
-| Forêt de Mosset (8) ⚠️ | Mosset › Conflent-Canigó | 4 |
 | Forêt des Angles ⚠️ | Les Angles › Pyrénées catalanes | 4 |
 | Le Bois des Pins ⚠️ | Argelès-sur-Mer › Albères – Côte Vermeille – Illibéris | 4 |
 | Forêt de Trouillas ⚠️ | Trouillas › Aspres | 4 |
@@ -880,13 +879,14 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Caudiès-de-Fenouillèdes (25) ⚠️ | Caudiès-de-Fenouillèdes › Agly Fenouillèdes | 4 |
 | Forêt de Caudiès-de-Fenouillèdes (27) ⚠️ | Caudiès-de-Fenouillèdes › Agly Fenouillèdes | 4 |
 | Forêt de Saint-Paul-de-Fenouillet (7) ⚠️ | Saint-Paul-de-Fenouillet › Agly Fenouillèdes | 4 |
+| Forêt de Fenouillet (27) ⚠️ | Fenouillet › Agly Fenouillèdes | 4 |
 | Forêt du Vivier (2) ⚠️ | Le Vivier › Agly Fenouillèdes | 4 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (376) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 4 |
-| Bois de Taurinya (2) ⚠️ | Taurinya › Conflent-Canigó | 4 |
 | Parc de Néfiach (2) ⚠️ | Néfiach › Roussillon Conflent | 4 |
 | Bois de Porta (3) ⚠️ | Porta › Pyrénées Cerdagne | 4 |
 | Bois de Cases-de-Pène (2) ⚠️ | Cases-de-Pène › Perpignan Méditerranée Métropole | 4 |
 | Forêt de Rodès (7) ⚠️ | Rodès › Roussillon Conflent | 4 |
+| Forêt de l'Albère (4) ⚠️ | L'Albère › Vallespir | 4 |
 | Bois du Barcarès ⚠️ | Le Barcarès › Perpignan Méditerranée Métropole | 3 |
 | Parc Sant Vicens ⚠️ | Perpignan › Perpignan Méditerranée Métropole | 3 |
 | Parc Palauda ⚠️ | Thuir › Aspres | 3 |
@@ -959,10 +959,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Porté-Puymorens (16) ⚠️ | Porté-Puymorens › Pyrénées Cerdagne | 3 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (201) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 3 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (206) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 3 |
-| Bois de Angoustrine-Villeneuve-des-Escaldes (229) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 3 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (233) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 3 |
 | Bois de Mantet ⚠️ | Mantet › Conflent-Canigó | 3 |
 | Bois de Mantet (4) ⚠️ | Mantet › Conflent-Canigó | 3 |
+| Bois de Taurinya (2) ⚠️ | Taurinya › Conflent-Canigó | 3 |
 | Bois de Ille-sur-Têt (3) ⚠️ | Ille-sur-Têt › Roussillon Conflent | 3 |
 | Bois de Nyer ⚠️ | Nyer › Conflent-Canigó | 3 |
 | Bois de Argelès-sur-Mer (5) ⚠️ | Argelès-sur-Mer › Albères – Côte Vermeille – Illibéris | 3 |
@@ -978,7 +978,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Trouillas (7) ⚠️ | Trouillas › Aspres | 3 |
 | Forêt de Saint-Laurent-de-Cerdans (4) ⚠️ | Saint-Laurent-de-Cerdans › Haut-Vallespir | 3 |
 | Forêt de Maureillas-las-Illas (11) ⚠️ | Maureillas-las-Illas › Vallespir | 3 |
-| Forêt de l'Albère (4) ⚠️ | L'Albère › Vallespir | 3 |
 | Parc de Saint-Estève ⚠️ | Saint-Estève › Perpignan Méditerranée Métropole | 2 |
 | Forêt de Salses-le-Château (7) ⚠️ | Salses-le-Château › Corbières Salanque Méditerranée | 2 |
 | Forêt de Conat (4) ⚠️ | Conat › Conflent-Canigó | 2 |
@@ -1000,6 +999,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt des Angles (112) ⚠️ | Les Angles › Pyrénées catalanes | 2 |
 | Forêt des Angles (118) ⚠️ | Les Angles › Pyrénées catalanes | 2 |
 | Forêt des Angles (136) ⚠️ | Les Angles › Pyrénées catalanes | 2 |
+| Forêt de Font-Romeu-Odeillo-Via (34) ⚠️ | Font-Romeu-Odeillo-Via › Pyrénées catalanes | 2 |
 | Forêt de Font-Romeu-Odeillo-Via (36) ⚠️ | Font-Romeu-Odeillo-Via › Pyrénées catalanes | 2 |
 | Forêt de Font-Romeu-Odeillo-Via (115) ⚠️ | Font-Romeu-Odeillo-Via › Pyrénées catalanes | 2 |
 | Forêt de Font-Romeu-Odeillo-Via (118) ⚠️ | Font-Romeu-Odeillo-Via › Pyrénées catalanes | 2 |
@@ -1086,6 +1086,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Angoustrine-Villeneuve-des-Escaldes (167) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 2 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (220) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 2 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (224) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 2 |
+| Bois de Angoustrine-Villeneuve-des-Escaldes (229) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 2 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (257) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 2 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (289) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 2 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (375) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 2 |
@@ -1096,6 +1097,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Nyer (4) ⚠️ | Nyer › Conflent-Canigó | 2 |
 | Forêt de Cabestany (5) ⚠️ | Cabestany › Perpignan Méditerranée Métropole | 2 |
 | Bois du Tamariguer ⚠️ | Argelès-sur-Mer › Albères – Côte Vermeille – Illibéris | 2 |
+| Bois de Caramany (2) ⚠️ | Caramany › Agly Fenouillèdes | 2 |
 | Forêt de Rivesaltes (6) ⚠️ | Pia › Corbières Salanque Méditerranée | 2 |
 | Bois de Argelès-sur-Mer (3) ⚠️ | Argelès-sur-Mer › Albères – Côte Vermeille – Illibéris | 2 |
 | Forêt de Angoustrine-Villeneuve-des-Escaldes (4) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 2 |
@@ -1211,7 +1213,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Font-Romeu-Odeillo-Via (29) ⚠️ | Font-Romeu-Odeillo-Via › Pyrénées catalanes | 1 |
 | Forêt de Font-Romeu-Odeillo-Via (31) ⚠️ | Font-Romeu-Odeillo-Via › Pyrénées catalanes | 1 |
 | Forêt de Font-Romeu-Odeillo-Via (32) ⚠️ | Font-Romeu-Odeillo-Via › Pyrénées catalanes | 1 |
-| Forêt de Font-Romeu-Odeillo-Via (34) ⚠️ | Font-Romeu-Odeillo-Via › Pyrénées catalanes | 1 |
 | Forêt de Bolquère (10) ⚠️ | Bolquère › Pyrénées catalanes | 1 |
 | Forêt de Font-Romeu-Odeillo-Via (35) ⚠️ | Font-Romeu-Odeillo-Via › Pyrénées catalanes | 1 |
 | Forêt de Font-Romeu-Odeillo-Via (37) ⚠️ | Bolquère › Pyrénées catalanes | 1 |
@@ -1339,7 +1340,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Puyvalador (69) ⚠️ | Puyvalador › Pyrénées catalanes | 1 |
 | Forêt de Puyvalador (88) ⚠️ | Puyvalador › Pyrénées catalanes | 1 |
 | Forêt de Réal (2) ⚠️ | Réal › Pyrénées catalanes | 1 |
-| Forêt de Puyvalador (92) ⚠️ | Puyvalador › Pyrénées catalanes | 1 |
 | Forêt de Réal (8) ⚠️ | Réal › Pyrénées catalanes | 1 |
 | Forêt de Réal (13) ⚠️ | Réal › Pyrénées catalanes | 1 |
 | Forêt de Réal (15) ⚠️ | Réal › Pyrénées catalanes | 1 |
@@ -1381,7 +1381,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Angoustrine-Villeneuve-des-Escaldes (10) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 1 |
 | Bois de Pézilla-la-Rivière (2) ⚠️ | Pézilla-la-Rivière › Perpignan Méditerranée Métropole | 1 |
 | Bois de Saint-Jean-Pla-de-Corts (4) ⚠️ | Saint-Jean-Pla-de-Corts › Vallespir | 1 |
-| Bois de Saint-Jean-Pla-de-Corts (5) ⚠️ | Céret › Vallespir | 1 |
 | Bois de Saint-Jean-Pla-de-Corts (7) ⚠️ | Saint-Jean-Pla-de-Corts › Vallespir | 1 |
 | Bois de Saint-Jean-Pla-de-Corts (9) ⚠️ | Saint-Jean-Pla-de-Corts › Vallespir | 1 |
 | Bois de Céret (5) ⚠️ | Céret › Vallespir | 1 |
@@ -1412,7 +1411,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc d'activités Le Clos d'en Cante ⚠️ | Espira-de-l'Agly › Perpignan Méditerranée Métropole | 1 |
 | Bois de Valmanya (2) ⚠️ | Valmanya › Conflent-Canigó | 1 |
 | Bois de Valmanya (3) ⚠️ | Valmanya › Conflent-Canigó | 1 |
-| Bois des Angles ⚠️ | Les Angles › Pyrénées catalanes | 1 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (15) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 1 |
 | Le Jardin des Feuillages ⚠️ | Perpignan › Perpignan Méditerranée Métropole | 1 |
 | Forêt de Cabestany ⚠️ | Cabestany › Perpignan Méditerranée Métropole | 1 |
@@ -1515,7 +1513,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Angoustrine-Villeneuve-des-Escaldes (293) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 1 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (298) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 1 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (301) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 1 |
-| Bois de Angoustrine-Villeneuve-des-Escaldes (349) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 1 |
 | Bois des Angles (8) ⚠️ | Les Angles › Pyrénées catalanes | 1 |
 | Bois des Angles (9) ⚠️ | Les Angles › Pyrénées catalanes | 1 |
 | Bois des Angles (13) ⚠️ | Les Angles › Pyrénées catalanes | 1 |
@@ -1542,7 +1539,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Mas Pams ⚠️ | Bompas › Perpignan Méditerranée Métropole | 1 |
 | Forêt de Corneilla-de-Conflent (17) ⚠️ | Corneilla-de-Conflent › Conflent-Canigó | 1 |
 | Forêt de Elne (2) ⚠️ | Elne › Albères – Côte Vermeille – Illibéris | 1 |
-| Bois de Caramany (2) ⚠️ | Caramany › Agly Fenouillèdes | 1 |
 | Bois de Cassagnes ⚠️ | Cassagnes › Perpignan Méditerranée Métropole | 1 |
 | Bois de Cassagnes (2) ⚠️ | Cassagnes › Perpignan Méditerranée Métropole | 1 |
 | Bois de Latour-de-France (3) ⚠️ | Latour-de-France › Agly Fenouillèdes | 1 |
@@ -1614,6 +1610,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Eyne (7) ⚠️ | Eyne › Pyrénées catalanes | 1 |
 | Forêt de Ur (2) ⚠️ | Ur › Pyrénées Cerdagne | 1 |
 | Forêt de Lamanère (3) ⚠️ | Lamanère › Haut-Vallespir | 1 |
+| Forêt de Prats-de-Mollo-la-Preste (25) ⚠️ | Prats-de-Mollo-la-Preste › Haut-Vallespir | 1 |
 | Parc de Elne (7) ⚠️ | Elne › Albères – Côte Vermeille – Illibéris | 1 |
 | Bois de Angoustrine-Villeneuve-des-Escaldes (478) ⚠️ | Angoustrine-Villeneuve-des-Escaldes › Pyrénées Cerdagne | 1 |
 | Bois de Enveitg (29) ⚠️ | Enveitg › Pyrénées Cerdagne | 1 |
@@ -1622,7 +1619,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Port-Vendres (17) ⚠️ | Port-Vendres › Albères – Côte Vermeille – Illibéris | 1 |
 | Forêt de Port-Vendres (18) ⚠️ | Port-Vendres › Albères – Côte Vermeille – Illibéris | 1 |
 
-2 121 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
+2 124 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
 
 ⚠️ 3083 parc(s) hors de la fenêtre 10–125 cellules (2993 trop petit(s), 90 trop grand(s)) : affichés sur la carte, mais ils ne peuvent pas servir de cible à un défi.
 

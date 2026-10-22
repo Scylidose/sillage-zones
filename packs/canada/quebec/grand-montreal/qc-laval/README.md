@@ -1,6 +1,6 @@
 # Laval
 
-Pack `qc-laval` · version 1.2.2 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-laval` · version 1.2.4 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -69,7 +69,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 
 | Parc | Zone | Cellules |
 |---|---|---:|
-| Bois Duvernay ⚠️ | Laval › Duvernay | 152 |
+| Bois Duvernay ⚠️ | Laval › Duvernay | 153 |
 | Le Boisé Sainte-Dorothée ⚠️ | Laval › Sainte-Dorothée | 143 |
 | Bois de l'Équerre | Laval › Sainte-Rose | 111 |
 | Bois Papineau | Laval › Duvernay | 53 |
@@ -77,9 +77,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Centre de la nature | Laval › Saint-Vincent-de-Paul | 20 |
 | Parc Bernard-Landry | Laval › Laval-des-Rapides | 15 |
 | Parc de Lausanne | Laval › Vimont | 10 |
+| Le Boutillier Park ⚠️ | Laval › Chomedey | 6 |
 | Réserve naturelle de l'Île Locas ⚠️ | Laval › Fabreville | 6 |
 | Berge des Baigneurs ⚠️ | Laval › Sainte-Rose | 5 |
-| Le Boutillier Park ⚠️ | Laval › Chomedey | 5 |
 | Parc Marc-Aurèle-Fortin (2) ⚠️ | Laval › Fabreville | 5 |
 | Parc Olier-Payette ⚠️ | Laval › Sainte-Rose | 5 |
 | Berge de la Plage-Idéale ⚠️ | Laval › Auteuil | 5 |
@@ -116,7 +116,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Paul-Marcel-Maheu ⚠️ | Laval › Laval-des-Rapides | 2 |
 | Parc Madeleine ⚠️ | Laval › Fabreville | 2 |
 | Parc Chénier (2) ⚠️ | Laval › Pont-Viau | 2 |
-| Parc Val Des Arbres ⚠️ | Laval › Duvernay | 2 |
 | Parc Raymond-Millar ⚠️ | Laval › Sainte-Rose | 2 |
 | Parc de la Renaissance ⚠️ | Laval › Sainte-Rose | 2 |
 | Parc Légaré ⚠️ | Laval › Chomedey | 2 |
@@ -161,6 +160,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc d'Argenson ⚠️ | Laval › Duvernay | 1 |
 | Parc Robert-L'Herbier ⚠️ | Laval › Duvernay | 1 |
 | Parc St-Maurice ⚠️ | Laval › Duvernay | 1 |
+| Parc Val Des Arbres ⚠️ | Laval › Duvernay | 1 |
 | Parc du Bon-Pasteur ⚠️ | Laval › Laval-des-Rapides | 1 |
 | Parc Raymond-Millar (2) ⚠️ | Laval › Sainte-Rose | 1 |
 | Parc de la Terrasse-Germaine ⚠️ | Laval › Sainte-Dorothée | 1 |

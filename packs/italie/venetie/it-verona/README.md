@@ -1,6 +1,6 @@
 # Province de Vérone
 
-Pack `it-verona` · version 1.0.2 · grille 200 m · Italie › Vénétie
+Pack `it-verona` · version 1.0.4 · grille 200 m · Italie › Vénétie
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -49,8 +49,8 @@ Les cellules boisées et celles que traverse un cours d'eau forment deux autres 
 | Villafranca di Verona | 2 897 | 4 | 2 893 | 62 | **2 831** | 280 (10 %) | 64 |
 | Gazzo Veronese | 2 843 | 1 | 2 842 | 0 | **2 842** | 1 087 (38 %) | 10 |
 | Zevio | 2 789 | 59 | 2 730 | 0 | **2 730** | 756 (28 %) | 21 |
-| Villa Bartolomea | 2 696 | 51 | 2 645 | 0 | **2 645** | 906 (34 %) | 25 |
-| Grezzana | 2 529 | 1 | 2 528 | 0 | **2 528** | 78 (3 %) | 185 |
+| Villa Bartolomea | 2 696 | 51 | 2 645 | 0 | **2 645** | 906 (34 %) | 26 |
+| Grezzana | 2 529 | 1 | 2 528 | 0 | **2 528** | 78 (3 %) | 184 |
 | Malcesine | 3 593 | 1 071 | 2 522 | 0 | **2 522** | 360 (14 %) | 178 |
 | Caprino Veronese | 2 419 | 0 | 2 419 | 0 | **2 419** | 109 (5 %) | 373 |
 | Oppeano | 2 360 | 10 | 2 350 | 0 | **2 350** | 710 (30 %) | 10 |
@@ -64,22 +64,22 @@ Les cellules boisées et celles que traverse un cours d'eau forment deux autres 
 | Ronco all'Adige | 2 160 | 161 | 1 999 | 0 | **1 999** | 749 (37 %) | 28 |
 | Nogara | 1 958 | 0 | 1 958 | 0 | **1 958** | 807 (41 %) | 13 |
 | Casaleone | 1 917 | 0 | 1 917 | 0 | **1 917** | 852 (44 %) | 22 |
-| Tregnago | 1 907 | 20 | 1 887 | 0 | **1 887** | 82 (4 %) | 208 |
+| Tregnago | 1 907 | 20 | 1 887 | 0 | **1 887** | 82 (4 %) | 209 |
 | Roverè Veronese | 1 869 | 2 | 1 867 | 0 | **1 867** | 110 (6 %) | 198 |
 | Fumane | 1 750 | 0 | 1 750 | 0 | **1 750** | 35 (2 %) | 220 |
 | Castagnaro | 1 743 | 4 | 1 739 | 0 | **1 739** | 641 (37 %) | 3 |
 | San Martino Buon Albergo | 1 752 | 16 | 1 736 | 0 | **1 736** | 244 (14 %) | 65 |
 | San Bonifacio | 1 715 | 10 | 1 705 | 0 | **1 705** | 395 (23 %) | 13 |
-| Erbezzo | 1 633 | 1 | 1 632 | 0 | **1 632** | 134 (8 %) | 210 |
+| Erbezzo | 1 633 | 1 | 1 632 | 0 | **1 632** | 134 (8 %) | 211 |
 | Sorgà | 1 594 | 0 | 1 594 | 0 | **1 594** | 708 (44 %) | 13 |
 | Vigasio | 1 572 | 1 | 1 571 | 0 | **1 571** | 542 (35 %) | 14 |
-| Brenzone sul Garda | 2 672 | 1 104 | 1 568 | 0 | **1 568** | 125 (8 %) | 86 |
+| Brenzone sul Garda | 2 672 | 1 104 | 1 568 | 0 | **1 568** | 125 (8 %) | 87 |
 | Salizzole | 1 541 | 1 | 1 540 | 0 | **1 540** | 696 (45 %) | 1 |
 | Dolcè | 1 580 | 46 | 1 534 | 0 | **1 534** | 37 (2 %) | 82 |
 | Minerbe | 1 500 | 1 | 1 499 | 0 | **1 499** | 661 (44 %) | 6 |
 | Castelnuovo del Garda | 1 759 | 263 | 1 496 | 0 | **1 496** | 130 (9 %) | 38 |
 | Nogarole Rocca | 1 471 | 16 | 1 455 | 0 | **1 455** | 596 (41 %) | 6 |
-| San Zeno di Montagna | 1 444 | 0 | 1 444 | 0 | **1 444** | 84 (6 %) | 231 |
+| San Zeno di Montagna | 1 444 | 0 | 1 444 | 0 | **1 444** | 84 (6 %) | 230 |
 | Lazise | 3 211 | 1 818 | 1 393 | 0 | **1 393** | 47 (3 %) | 163 |
 | Albaredo d'Adige | 1 417 | 31 | 1 386 | 0 | **1 386** | 447 (32 %) | 51 |
 | Ferrara di Monte Baldo | 1 378 | 0 | 1 378 | 0 | **1 378** | 233 (17 %) | 159 |
@@ -90,7 +90,7 @@ Les cellules boisées et celles que traverse un cours d'eau forment deux autres 
 | Brentino Belluno | 1 329 | 31 | 1 298 | 0 | **1 298** | 11 (1 %) | 90 |
 | Illasi | 1 262 | 0 | 1 262 | 0 | **1 262** | 194 (15 %) | 31 |
 | Mozzecane | 1 243 | 2 | 1 241 | 0 | **1 241** | 365 (29 %) | 26 |
-| Vestenanova | 1 223 | 0 | 1 223 | 0 | **1 223** | 60 (5 %) | 225 |
+| Vestenanova | 1 223 | 0 | 1 223 | 0 | **1 223** | 60 (5 %) | 226 |
 | Bussolengo | 1 235 | 22 | 1 213 | 0 | **1 213** | 61 (5 %) | 49 |
 | Sant'Ambrogio di Valpolicella | 1 196 | 3 | 1 193 | 0 | **1 193** | 52 (4 %) | 47 |
 | Soave | 1 159 | 0 | 1 159 | 0 | **1 159** | 116 (10 %) | 37 |
@@ -109,7 +109,7 @@ Les cellules boisées et celles que traverse un cours d'eau forment deux autres 
 | Marano di Valpolicella | 949 | 0 | 949 | 0 | **949** | 8 (1 %) | 40 |
 | Povegliano Veronese | 946 | 0 | 946 | 6 | **940** | 299 (32 %) | 19 |
 | San Giovanni Lupatoto | 962 | 18 | 944 | 0 | **944** | 207 (22 %) | 31 |
-| Roncà | 924 | 0 | 924 | 0 | **924** | 54 (6 %) | 139 |
+| Roncà | 924 | 0 | 924 | 0 | **924** | 54 (6 %) | 138 |
 | Rivoli Veronese | 944 | 28 | 916 | 0 | **916** | 50 (5 %) | 39 |
 | Pressana | 891 | 0 | 891 | 0 | **891** | 352 (40 %) | 5 |
 | Bonavigo | 900 | 24 | 876 | 0 | **876** | 316 (36 %) | 6 |
@@ -124,7 +124,7 @@ Les cellules boisées et celles que traverse un cours d'eau forment deux autres 
 | Sanguinetto | 691 | 0 | 691 | 0 | **691** | 302 (44 %) | 3 |
 | Palù | 682 | 0 | 682 | 0 | **682** | 197 (29 %) | 1 |
 | Torri del Benaco | 2 312 | 1 635 | 677 | 0 | **677** | 1 (0 %) | 37 |
-| Angiari | 681 | 19 | 662 | 0 | **662** | 128 (19 %) | 5 |
+| Angiari | 681 | 19 | 662 | 0 | **662** | 128 (19 %) | 6 |
 | Cavaion Veronese | 653 | 6 | 647 | 0 | **647** | 47 (7 %) | 16 |
 | Cazzano di Tramigna | 627 | 0 | 627 | 0 | **627** | 67 (11 %) | 27 |
 | Bevilacqua | 613 | 0 | 613 | 0 | **613** | 273 (45 %) |  |
@@ -148,12 +148,12 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc | Zone | Cellules |
 |---|---|---:|
 | Forêt de Dolcè (85) ⚠️ | Dolcè | 823 |
-| Forêt de Brentino Belluno (94) ⚠️ | Brentino Belluno | 767 |
+| Forêt de Brentino Belluno (94) ⚠️ | Brentino Belluno | 766 |
 | Forêt de Costermano sul Garda (50) ⚠️ | Costermano sul Garda | 383 |
 | Forêt de Brenzone sul Garda (73) ⚠️ | Brenzone sul Garda | 380 |
 | Forêt de Malcesine (145) ⚠️ | Malcesine | 378 |
-| Forêt de Malcesine (153) ⚠️ | Malcesine | 333 |
-| Forêt de Selva di Progno (224) ⚠️ | Selva di Progno | 319 |
+| Forêt de Malcesine (153) ⚠️ | Malcesine | 334 |
+| Forêt de Selva di Progno (224) ⚠️ | Selva di Progno | 317 |
 | Forêt de Fumane (210) ⚠️ | Fumane | 302 |
 | Forêt de Verona (471) ⚠️ | Verona | 244 |
 | Forêt de Dolcè (83) ⚠️ | Dolcè | 234 |
@@ -162,58 +162,58 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant'Ambrogio di Valpolicella (30) ⚠️ | Sant'Ambrogio di Valpolicella | 204 |
 | Forêt de Fumane (208) ⚠️ | Fumane | 189 |
 | Forêt de Selva di Progno (229) ⚠️ | Selva di Progno | 182 |
-| Forêt de San Zeno di Montagna (230) ⚠️ | San Zeno di Montagna | 181 |
+| Forêt de San Zeno di Montagna (230) ⚠️ | San Zeno di Montagna | 180 |
 | Forêt de Verona (472) ⚠️ | Verona | 177 |
 | Forêt de Sant'Anna d'Alfaedo (271) ⚠️ | Sant'Anna d'Alfaedo | 175 |
-| Forêt de Badia Calavena (222) ⚠️ | Badia Calavena | 158 |
+| Forêt de Badia Calavena (222) ⚠️ | Badia Calavena | 159 |
 | Foresta dei Folignani ⚠️ | Bosco Chiesanuova | 150 |
 | Forêt de Brenzone sul Garda (70) ⚠️ | Brenzone sul Garda | 143 |
-| Forêt de Erbezzo (209) ⚠️ | Erbezzo | 133 |
+| Forêt de Erbezzo (209) ⚠️ | Erbezzo | 132 |
 | Forêt de Brenzone sul Garda (78) ⚠️ | Brenzone sul Garda | 127 |
-| Forêt de Sant'Anna d'Alfaedo (277) | Sant'Anna d'Alfaedo | 119 |
+| Forêt de Sant'Anna d'Alfaedo (277) | Sant'Anna d'Alfaedo | 118 |
 | Forêt de Torri del Benaco (35) | Torri del Benaco | 114 |
 | Forêt de Marano di Valpolicella (24) | Marano di Valpolicella | 112 |
-| Forêt de Caprino Veronese (352) | Caprino Veronese | 103 |
-| Forêt de Fumane (206) | Fumane | 100 |
+| Forêt de Caprino Veronese (352) | Caprino Veronese | 102 |
+| Forêt de Fumane (206) | Fumane | 99 |
 | Forêt de Bosco Chiesanuova (386) | Bosco Chiesanuova | 95 |
-| Forêt de Verona (456) | Verona | 94 |
+| Forêt de Verona (456) | Verona | 95 |
 | Forêt de Ferrara di Monte Baldo (154) | Ferrara di Monte Baldo | 94 |
 | Forêt de Torri del Benaco (36) | Torri del Benaco | 93 |
 | Forêt de Selva di Progno (228) | Selva di Progno | 92 |
 | Forêt de Malcesine (148) | Malcesine | 91 |
-| Forêt de Selva di Progno (223) | Selva di Progno | 90 |
+| Forêt de Selva di Progno (223) | Selva di Progno | 89 |
 | Forêt de Tregnago (190) | Tregnago | 85 |
 | Forêt de Affi | Affi | 84 |
-| Forêt de Bosco Chiesanuova (372) | Bosco Chiesanuova | 83 |
 | Forêt de Badia Calavena (227) | Badia Calavena | 83 |
 | Forêt de Erbezzo (210) | Erbezzo | 82 |
+| Forêt de Bosco Chiesanuova (372) | Bosco Chiesanuova | 82 |
 | Forêt de Rivoli Veronese (31) | Rivoli Veronese | 81 |
 | Forêt de Verona (459) | Verona | 80 |
 | Forêt de Caprino Veronese (350) | Caprino Veronese | 76 |
 | Forêt de Roverè Veronese (74) | Roverè Veronese | 75 |
 | Forêt de Caprino Veronese (354) | Caprino Veronese | 75 |
 | Forêt de Vestenanova (227) | Vestenanova | 75 |
-| Bois de San Mauro di Saline (23) | San Mauro di Saline | 73 |
 | Forêt de Garda (9) | Garda | 73 |
+| Bois de San Mauro di Saline (23) | San Mauro di Saline | 72 |
 | Forêt de San Zeno di Montagna (62) | San Zeno di Montagna | 69 |
-| Forêt de Vestenanova (224) | Vestenanova | 68 |
-| Forêt de Tregnago (184) | Tregnago | 68 |
-| Forêt de Malcesine (150) | Malcesine | 67 |
+| Forêt de Tregnago (184) | Tregnago | 69 |
+| Forêt de Malcesine (150) | Malcesine | 68 |
+| Forêt de Vestenanova (224) | Vestenanova | 67 |
 | Forêt de Malcesine (149) | Malcesine | 65 |
 | Forêt de Erbezzo (204) | Erbezzo | 64 |
 | Forêt de Tregnago (189) | Tregnago | 63 |
 | Forêt de Grezzana (75) | Grezzana | 62 |
 | Forêt de Roverè Veronese (53) | Roverè Veronese | 61 |
+| Forêt de Tregnago (193) | Tregnago | 60 |
 | Forêt de Verona (458) | Verona | 59 |
-| Forêt de Tregnago (193) | Tregnago | 59 |
 | Forêt de San Zeno di Montagna (229) | San Zeno di Montagna | 58 |
 | Forêt de Negrar di Valpolicella (13) | Negrar di Valpolicella | 56 |
 | Forêt de Sant'Anna d'Alfaedo (226) | Sant'Anna d'Alfaedo | 56 |
 | Forêt de Badia Calavena (18) | Badia Calavena | 56 |
 | Forêt de Bosco Chiesanuova (385) | Bosco Chiesanuova | 56 |
+| Forêt de Rivoli Veronese (30) | Rivoli Veronese | 56 |
 | Forêt de Selva di Progno (222) | Selva di Progno | 56 |
-| Forêt de Grezzana (111) | Grezzana | 56 |
-| Forêt de Rivoli Veronese (30) | Rivoli Veronese | 55 |
+| Forêt de Grezzana (111) | Grezzana | 55 |
 | Forêt de Sant'Ambrogio di Valpolicella (26) | Sant'Ambrogio di Valpolicella | 54 |
 | Forêt de San Giovanni Ilarione (164) | San Giovanni Ilarione | 54 |
 | Forêt de Tregnago (182) | Tregnago | 53 |
@@ -257,22 +257,22 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Bosco Chiesanuova (359) | Bosco Chiesanuova | 37 |
 | Forêt de Grezzana (94) | Grezzana | 37 |
 | Forêt de Selva di Progno (130) | Selva di Progno | 37 |
-| Forêt de Malcesine (147) | Malcesine | 37 |
+| Forêt de San Zeno di Montagna (223) | San Zeno di Montagna | 37 |
 | Forêt de Selva di Progno (230) | Selva di Progno | 37 |
 | Forêt de Tregnago (183) | Tregnago | 37 |
 | Bois de Badia Calavena | Badia Calavena | 36 |
 | Forêt de Brenzone sul Garda (50) | Brenzone sul Garda | 36 |
 | Bois de Grezzana (32) | Grezzana | 36 |
-| Forêt de San Zeno di Montagna (223) | San Zeno di Montagna | 36 |
 | Forêt de Ferrara di Monte Baldo (158) | Ferrara di Monte Baldo | 36 |
+| Forêt de Malcesine (147) | Malcesine | 36 |
 | Forêt de Erbezzo (205) | Erbezzo | 35 |
-| Forêt de Erbezzo (208) | Erbezzo | 35 |
 | Forêt de Sant'Anna d'Alfaedo (266) | Sant'Anna d'Alfaedo | 35 |
-| Forêt de Bosco Chiesanuova (355) | Bosco Chiesanuova | 34 |
 | Forêt de Tregnago (40) | Tregnago | 34 |
+| Forêt de Erbezzo (208) | Erbezzo | 34 |
 | Forêt de Bosco Chiesanuova (379) | Bosco Chiesanuova | 34 |
 | Forêt de Verona (475) | Verona | 34 |
 | Forêt de Grezzana (12) | Grezzana | 33 |
+| Forêt de Bosco Chiesanuova (355) | Bosco Chiesanuova | 33 |
 | Forêt de Cavaion Veronese (8) | Cavaion Veronese | 33 |
 | Forêt de Selva di Progno (84) | Selva di Progno | 33 |
 | Forêt de Verona (465) | Verona | 33 |
@@ -285,53 +285,53 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Badia Calavena (226) | Badia Calavena | 31 |
 | Forêt de Vestenanova (99) | Vestenanova | 30 |
 | Bois de San Mauro di Saline (18) | Roverè Veronese | 30 |
-| Forêt de Caprino Veronese (353) | Caprino Veronese | 30 |
 | Forêt de Erbezzo (168) | Erbezzo | 29 |
 | Oasi Palude di Ostiglia | Gazzo Veronese | 29 |
 | Forêt de Erbezzo (207) | Erbezzo | 29 |
+| Forêt de Caprino Veronese (353) | Caprino Veronese | 29 |
 | Forêt de Cazzano di Tramigna (6) | Cazzano di Tramigna | 28 |
 | Forêt de Selva di Progno (15) | Selva di Progno | 28 |
 | Palude del Busatello VR | Gazzo Veronese | 28 |
 | Forêt de Tregnago (52) | Tregnago | 28 |
 | Forêt de San Zeno di Montagna (222) | San Zeno di Montagna | 28 |
 | Forêt de Badia Calavena (224) | Badia Calavena | 28 |
+| Forêt de Caprino Veronese (360) | Caprino Veronese | 28 |
 | Forêt de Grezzana (66) | Grezzana | 27 |
 | Forêt de Bosco Chiesanuova (280) | Bosco Chiesanuova | 27 |
 | Forêt de San Zeno di Montagna (55) | San Zeno di Montagna | 27 |
 | Forêt de Caprino Veronese (216) | Caprino Veronese | 27 |
 | Forêt de Marano di Valpolicella (40) | Marano di Valpolicella | 27 |
-| Forêt de Caprino Veronese (360) | Caprino Veronese | 27 |
 | Forêt de Cerro Veronese (15) | Cerro Veronese | 26 |
 | Forêt de Brenzone sul Garda (75) | Brenzone sul Garda | 26 |
 | Forêt de Ferrara di Monte Baldo | Ferrara di Monte Baldo | 25 |
-| Forêt de Ferrara di Monte Baldo (6) | Ferrara di Monte Baldo | 25 |
 | Forêt de Fumane (125) | Fumane | 25 |
 | Forêt de Grezzana (87) | Grezzana | 25 |
 | Forêt de Badia Calavena (17) | Badia Calavena | 25 |
-| Forêt de Roncà (139) | Roncà | 25 |
 | Forêt de Grezzana (110) | Grezzana | 25 |
 | Forêt de Grezzana (83) | Grezzana | 24 |
+| Forêt de Ferrara di Monte Baldo (6) | Ferrara di Monte Baldo | 24 |
 | Forêt de Tregnago (82) | Tregnago | 24 |
 | Forêt de Bosco Chiesanuova (382) | Bosco Chiesanuova | 24 |
+| Forêt de Roncà (139) | Roncà | 24 |
 | Forêt de Caprino Veronese (277) | Caprino Veronese | 23 |
 | Forêt de Grezzana (97) | Grezzana | 23 |
+| Forêt de Selva di Progno (98) | Selva di Progno | 23 |
 | Forêt de Roverè Veronese (107) | Roverè Veronese | 23 |
 | Bois de Negrar di Valpolicella (32) | Negrar di Valpolicella | 23 |
 | Forêt de Sant'Anna d'Alfaedo (274) | Sant'Anna d'Alfaedo | 23 |
 | Forêt de San Zeno di Montagna (227) | San Zeno di Montagna | 23 |
 | Forêt de San Zeno di Montagna (231) | San Zeno di Montagna | 23 |
 | Forêt de Grezzana (27) | Grezzana | 22 |
+| Forêt de Roverè Veronese (48) | Roverè Veronese | 22 |
 | Forêt de Sant'Anna d'Alfaedo (82) | Sant'Anna d'Alfaedo | 22 |
 | Forêt de Bosco Chiesanuova (297) | Bosco Chiesanuova | 22 |
 | Forêt de Caprino Veronese (159) | Caprino Veronese | 22 |
 | Forêt de Malcesine (103) | Malcesine | 22 |
 | Forêt de San Zeno di Montagna (134) | San Zeno di Montagna | 22 |
-| Forêt de Selva di Progno (98) | Selva di Progno | 22 |
 | Forêt de Negrar di Valpolicella (70) | Negrar di Valpolicella | 22 |
 | Forêt de Badia Calavena (223) | Badia Calavena | 22 |
 | Forêt de Lavagno (2) | San Martino Buon Albergo | 21 |
 | Forêt de Velo Veronese (2) | Velo Veronese | 21 |
-| Forêt de Roverè Veronese (48) | Roverè Veronese | 21 |
 | Forêt de Brentino Belluno (54) | Brentino Belluno | 21 |
 | Forêt de Rivoli Veronese (17) | Rivoli Veronese | 21 |
 | Forêt de Roverè Veronese (105) | Roverè Veronese | 21 |
@@ -339,6 +339,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Ferrara di Monte Baldo (153) | Ferrara di Monte Baldo | 21 |
 | Forêt de Fumane (212) | Fumane | 21 |
 | Forêt de Grezzana (108) | Grezzana | 21 |
+| Forêt de San Giovanni Ilarione (170) | San Giovanni Ilarione | 21 |
 | Forêt de San Giovanni Ilarione (179) | San Giovanni Ilarione | 21 |
 | Forêt de Selva di Progno (233) | Selva di Progno | 21 |
 | Forêt de San Zeno di Montagna (66) | San Zeno di Montagna | 20 |
@@ -346,8 +347,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Malcesine (55) | Malcesine | 20 |
 | Forêt de Grezzana (96) | Grezzana | 20 |
 | Bois de Mezzane di Sotto (2) | Mezzane di Sotto | 20 |
+| Bois de Roverè Veronese (18) | Roverè Veronese | 20 |
 | Forêt de Brenzone sul Garda (77) | Brenzone sul Garda | 20 |
-| Forêt de San Giovanni Ilarione (170) | San Giovanni Ilarione | 20 |
 | Forêt de Velo Veronese | Velo Veronese | 19 |
 | Forêt de Malcesine (15) | Malcesine | 19 |
 | Forêt de Brenzone sul Garda (30) | Brenzone sul Garda | 19 |
@@ -362,12 +363,12 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Badia Calavena (42) | Badia Calavena | 19 |
 | Bois de Mezzane di Sotto (8) | Mezzane di Sotto | 19 |
 | Bois de Grezzana (30) | Grezzana | 19 |
-| Bois de Roverè Veronese (18) | Roverè Veronese | 19 |
 | Forêt de Verona (469) | Verona | 19 |
 | Forêt de San Giovanni Ilarione (169) | San Giovanni Ilarione | 19 |
 | Forêt de Badia Calavena (221) | Badia Calavena | 19 |
 | Forêt de Negrar di Valpolicella (37) | Negrar di Valpolicella | 18 |
 | Forêt de San Martino Buon Albergo (30) | San Martino Buon Albergo | 18 |
+| Forêt de Bosco Chiesanuova (175) | Bosco Chiesanuova | 18 |
 | Forêt de San Zeno di Montagna (5) | San Zeno di Montagna | 18 |
 | Forêt de Brenzone sul Garda (55) | Brenzone sul Garda | 18 |
 | Forêt de Ferrara di Monte Baldo (75) | Ferrara di Monte Baldo | 18 |
@@ -385,7 +386,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Grezzana (15) | Grezzana | 17 |
 | Forêt de Sant'Anna d'Alfaedo (105) | Sant'Anna d'Alfaedo | 17 |
 | Forêt de Sant'Anna d'Alfaedo (164) | Sant'Anna d'Alfaedo | 17 |
-| Forêt de Bosco Chiesanuova (175) | Bosco Chiesanuova | 17 |
 | Forêt de Bosco Chiesanuova (352) | Bosco Chiesanuova | 17 |
 | Forêt de Caprino Veronese (6) | Caprino Veronese | 17 |
 | Forêt de Malcesine (33) | Malcesine | 17 |
@@ -399,12 +399,14 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Tregnago (188) | Tregnago | 17 |
 | Forêt de Roverè Veronese (9) | Roverè Veronese | 16 |
 | Forêt de Cerro Veronese (7) | Cerro Veronese | 16 |
-| Forêt de Roverè Veronese (72) | Roverè Veronese | 16 |
+| Forêt de Selva di Progno (139) | Selva di Progno | 16 |
+| Forêt de Roverè Veronese (104) | Roverè Veronese | 16 |
 | Forêt de Grezzana (107) | Grezzana | 16 |
 | Forêt de Sant'Anna d'Alfaedo (267) | Sant'Anna d'Alfaedo | 16 |
 | Forêt de Caprino Veronese (343) | Caprino Veronese | 16 |
 | Forêt de Roncà (138) | Roncà | 16 |
 | Forêt de Montecchia di Crosara (92) | Montecchia di Crosara | 16 |
+| Forêt de Roverè Veronese (72) | Roverè Veronese | 15 |
 | Forêt de Sant'Anna d'Alfaedo (58) | Sant'Anna d'Alfaedo | 15 |
 | Forêt de Sant'Anna d'Alfaedo (122) | Sant'Anna d'Alfaedo | 15 |
 | Forêt de Bosco Chiesanuova (202) | Bosco Chiesanuova | 15 |
@@ -412,8 +414,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Ferrara di Monte Baldo (2) | Ferrara di Monte Baldo | 15 |
 | Forêt de Ferrara di Monte Baldo (23) | Ferrara di Monte Baldo | 15 |
 | Forêt de Malcesine (66) | Malcesine | 15 |
-| Forêt de Selva di Progno (139) | Selva di Progno | 15 |
-| Forêt de Roverè Veronese (104) | Roverè Veronese | 15 |
 | Forêt de Roverè Veronese (106) | Roverè Veronese | 15 |
 | Bois de Velo Veronese (25) | Velo Veronese | 15 |
 | Bois de San Mauro di Saline (25) | San Mauro di Saline | 15 |
@@ -431,7 +431,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Caprino Veronese (275) | Caprino Veronese | 14 |
 | Forêt de Fumane (38) | Fumane | 14 |
 | Forêt de Malcesine (126) | Malcesine | 14 |
-| Forêt de Malcesine (130) | Malcesine | 14 |
 | Bois de Grezzana (12) | Grezzana | 14 |
 | Forêt de Selva di Progno (56) | Selva di Progno | 14 |
 | Forêt de Roverè Veronese (111) | Roverè Veronese | 14 |
@@ -446,10 +445,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Erbezzo (104) | Erbezzo | 13 |
 | Forêt de Sant'Anna d'Alfaedo (80) | Sant'Anna d'Alfaedo | 13 |
 | Forêt de San Zeno di Montagna (46) | San Zeno di Montagna | 13 |
+| Forêt de Malcesine (130) | Malcesine | 13 |
 | Forêt de Fumane (145) | Fumane | 13 |
 | Forêt de Dolcè (11) | Dolcè | 13 |
 | Forêt de Dolcè (16) | Dolcè | 13 |
-| Forêt de San Zeno di Montagna (128) | San Zeno di Montagna | 13 |
 | Forêt de Marano di Valpolicella (28) | Marano di Valpolicella | 13 |
 | Forêt de Roncà (121) | Roncà | 13 |
 | Bois de Grezzana (8) | Grezzana | 13 |
@@ -470,6 +469,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Malcesine (42) | Malcesine | 12 |
 | Forêt de Malcesine (49) | Malcesine | 12 |
 | Forêt de Fumane (118) | Fumane | 12 |
+| Forêt de San Zeno di Montagna (128) | San Zeno di Montagna | 12 |
 | Forêt de Rivoli Veronese (23) | Rivoli Veronese | 12 |
 | Forêt de Roncà (36) | Roncà | 12 |
 | Forêt de Selva di Progno (80) | Selva di Progno | 12 |
@@ -522,7 +522,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Brenzone sul Garda (61) | Brenzone sul Garda | 10 |
 | Forêt de Brentino Belluno (6) | Brentino Belluno | 10 |
 | Forêt de Malcesine (84) | Malcesine | 10 |
-| Forêt de Malcesine (118) | Malcesine | 10 |
 | Forêt de Dolcè (6) | Dolcè | 10 |
 | Forêt de Dolcè (24) | Dolcè | 10 |
 | Forêt de Dolcè (50) | Dolcè | 10 |
@@ -563,6 +562,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Ferrara di Monte Baldo (37) ⚠️ | Ferrara di Monte Baldo | 9 |
 | Forêt de Brentino Belluno (13) ⚠️ | Brentino Belluno | 9 |
 | Forêt de Malcesine (31) ⚠️ | Malcesine | 9 |
+| Forêt de Malcesine (118) ⚠️ | Malcesine | 9 |
 | Forêt de Malcesine (135) ⚠️ | Malcesine | 9 |
 | Forêt de San Zeno di Montagna (205) ⚠️ | San Zeno di Montagna | 9 |
 | Parc de Roncà (2) ⚠️ | Roncà | 9 |
@@ -582,6 +582,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Fumane (204) ⚠️ | Fumane | 9 |
 | Forêt de Malcesine (151) ⚠️ | Malcesine | 9 |
 | Forêt de Malcesine (155) ⚠️ | Malcesine | 9 |
+| Forêt de Roncà (134) ⚠️ | Roncà | 9 |
 | Forêt de Vestenanova (215) ⚠️ | Vestenanova | 9 |
 | Forêt de San Mauro di Saline (2) ⚠️ | San Mauro di Saline | 8 |
 | Forêt de Negrar di Valpolicella (21) ⚠️ | Negrar di Valpolicella | 8 |
@@ -600,6 +601,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant'Anna d'Alfaedo (40) ⚠️ | Sant'Anna d'Alfaedo | 8 |
 | Forêt de Sant'Anna d'Alfaedo (84) ⚠️ | Sant'Anna d'Alfaedo | 8 |
 | Forêt de Sant'Anna d'Alfaedo (88) ⚠️ | Sant'Anna d'Alfaedo | 8 |
+| Forêt de Bosco Chiesanuova (51) ⚠️ | Bosco Chiesanuova | 8 |
 | Forêt de Bosco Chiesanuova (368) ⚠️ | Bosco Chiesanuova | 8 |
 | Forêt de Verona (267) ⚠️ | Verona | 8 |
 | Forêt de Verona (391) ⚠️ | Verona | 8 |
@@ -629,7 +631,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Negrar di Valpolicella (37) ⚠️ | Negrar di Valpolicella | 8 |
 | Forêt de Roverè Veronese (137) ⚠️ | Velo Veronese | 8 |
 | Forêt de Brenzone sul Garda (72) ⚠️ | Brenzone sul Garda | 8 |
-| Forêt de Roncà (134) ⚠️ | Roncà | 8 |
 | Forêt de Roncà (135) ⚠️ | Roncà | 8 |
 | Forêt de Vestenanova (217) ⚠️ | Vestenanova | 8 |
 | Forêt de Vestenanova (221) ⚠️ | Vestenanova | 8 |
@@ -648,13 +649,12 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant'Anna d'Alfaedo (78) ⚠️ | Sant'Anna d'Alfaedo | 7 |
 | Forêt de Sant'Anna d'Alfaedo (99) ⚠️ | Sant'Anna d'Alfaedo | 7 |
 | Forêt de Bosco Chiesanuova (49) ⚠️ | Bosco Chiesanuova | 7 |
-| Forêt de Bosco Chiesanuova (51) ⚠️ | Bosco Chiesanuova | 7 |
 | Forêt de Bosco Chiesanuova (63) ⚠️ | Bosco Chiesanuova | 7 |
 | Forêt de Bosco Chiesanuova (217) ⚠️ | Bosco Chiesanuova | 7 |
-| Forêt de Bosco Chiesanuova (222) ⚠️ | Bosco Chiesanuova | 7 |
 | Forêt de Verona (383) ⚠️ | Verona | 7 |
 | Forêt de San Zeno di Montagna (26) ⚠️ | San Zeno di Montagna | 7 |
 | Forêt de San Zeno di Montagna (115) ⚠️ | San Zeno di Montagna | 7 |
+| Forêt de Brenzone sul Garda (9) ⚠️ | Brenzone sul Garda | 7 |
 | Forêt de Brenzone sul Garda (20) ⚠️ | Brenzone sul Garda | 7 |
 | Forêt de Brenzone sul Garda (28) ⚠️ | Brenzone sul Garda | 7 |
 | Forêt de Ferrara di Monte Baldo (57) ⚠️ | Ferrara di Monte Baldo | 7 |
@@ -711,9 +711,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Bosco Chiesanuova (105) ⚠️ | Bosco Chiesanuova | 6 |
 | Forêt de Bosco Chiesanuova (122) ⚠️ | Bosco Chiesanuova | 6 |
 | Forêt de Bosco Chiesanuova (208) ⚠️ | Bosco Chiesanuova | 6 |
+| Forêt de Bosco Chiesanuova (222) ⚠️ | Bosco Chiesanuova | 6 |
 | Forêt de Verona (16) ⚠️ | Verona | 6 |
 | Forêt de Grezzana (84) ⚠️ | Grezzana | 6 |
-| Forêt de Verona (158) ⚠️ | Verona | 6 |
 | Forêt de Verona (160) ⚠️ | Verona | 6 |
 | Forêt de San Zeno di Montagna (19) ⚠️ | San Zeno di Montagna | 6 |
 | Forêt de San Zeno di Montagna (93) ⚠️ | San Zeno di Montagna | 6 |
@@ -721,7 +721,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Caprino Veronese (80) ⚠️ | Caprino Veronese | 6 |
 | Forêt de Caprino Veronese (181) ⚠️ | Caprino Veronese | 6 |
 | Forêt de Caprino Veronese (221) ⚠️ | Caprino Veronese | 6 |
-| Forêt de Brenzone sul Garda (9) ⚠️ | Brenzone sul Garda | 6 |
 | Forêt de Brenzone sul Garda (13) ⚠️ | Brenzone sul Garda | 6 |
 | Forêt de Brenzone sul Garda (29) ⚠️ | Brenzone sul Garda | 6 |
 | Forêt de Brenzone sul Garda (44) ⚠️ | Brenzone sul Garda | 6 |
@@ -759,8 +758,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Montecchia di Crosara (89) ⚠️ | Montecchia di Crosara | 6 |
 | Forêt de Badia Calavena (50) ⚠️ | Badia Calavena | 6 |
 | Forêt de Tregnago (33) ⚠️ | Tregnago | 6 |
+| Forêt de Tregnago (55) ⚠️ | Tregnago | 6 |
 | Bois de Grezzana (49) ⚠️ | Grezzana | 6 |
-| Bois de Mezzane di Sotto (41) ⚠️ | Mezzane di Sotto | 6 |
 | Forêt de Sant'Anna d'Alfaedo (272) ⚠️ | Sant'Anna d'Alfaedo | 6 |
 | Forêt de Bosco Chiesanuova (374) ⚠️ | Bosco Chiesanuova | 6 |
 | Forêt de Verona (452) ⚠️ | Verona | 6 |
@@ -789,6 +788,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Erbezzo (17) ⚠️ | Erbezzo | 5 |
 | Forêt de Erbezzo (54) ⚠️ | Erbezzo | 5 |
 | Forêt de Sant'Anna d'Alfaedo (18) ⚠️ | Sant'Anna d'Alfaedo | 5 |
+| Forêt de Sant'Anna d'Alfaedo (37) ⚠️ | Sant'Anna d'Alfaedo | 5 |
 | Forêt de Sant'Anna d'Alfaedo (45) ⚠️ | Sant'Anna d'Alfaedo | 5 |
 | Forêt de Sant'Anna d'Alfaedo (47) ⚠️ | Sant'Anna d'Alfaedo | 5 |
 | Forêt de Sant'Anna d'Alfaedo (59) ⚠️ | Sant'Anna d'Alfaedo | 5 |
@@ -806,8 +806,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Bosco Chiesanuova (121) ⚠️ | Bosco Chiesanuova | 5 |
 | Forêt de Bosco Chiesanuova (293) ⚠️ | Bosco Chiesanuova | 5 |
 | Forêt de Bosco Chiesanuova (348) ⚠️ | Bosco Chiesanuova | 5 |
-| Forêt de Verona (120) ⚠️ | Verona | 5 |
 | Forêt de Verona (144) ⚠️ | Verona | 5 |
+| Forêt de Verona (158) ⚠️ | Verona | 5 |
 | Parco Le Sorgenti del Castello ⚠️ | Castel d'Azzano | 5 |
 | Forêt de Verona (310) ⚠️ | Verona | 5 |
 | Forêt de Verona (388) ⚠️ | Verona | 5 |
@@ -841,7 +841,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Vestenanova (128) ⚠️ | Vestenanova | 5 |
 | Forêt de Vestenanova (131) ⚠️ | Vestenanova | 5 |
 | Forêt de Vestenanova (169) ⚠️ | Vestenanova | 5 |
-| Forêt de Vestenanova (177) ⚠️ | Vestenanova | 5 |
 | Forêt de San Giovanni Ilarione (17) ⚠️ | San Giovanni Ilarione | 5 |
 | Forêt de San Giovanni Ilarione (125) ⚠️ | San Giovanni Ilarione | 5 |
 | Forêt de Selva di Progno (99) ⚠️ | Selva di Progno | 5 |
@@ -856,18 +855,20 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Tregnago (19) ⚠️ | Tregnago | 5 |
 | Forêt de Tregnago (24) ⚠️ | Tregnago | 5 |
 | Forêt de Tregnago (41) ⚠️ | Tregnago | 5 |
-| Forêt de Tregnago (55) ⚠️ | Tregnago | 5 |
+| Forêt de Tregnago (92) ⚠️ | Tregnago | 5 |
 | Bois de Albaredo d'Adige (6) ⚠️ | Albaredo d'Adige | 5 |
 | Bois de Ronco all'Adige (3) ⚠️ | Ronco all'Adige | 5 |
 | Bois de Ronco all'Adige (9) ⚠️ | Ronco all'Adige | 5 |
 | Forêt de San Mauro di Saline (12) ⚠️ | San Mauro di Saline | 5 |
 | Bois de San Mauro di Saline (22) ⚠️ | San Mauro di Saline | 5 |
 | Bois de San Mauro di Saline (28) ⚠️ | San Mauro di Saline | 5 |
+| Bois de Mezzane di Sotto (41) ⚠️ | Mezzane di Sotto | 5 |
 | Bois de Roverè Veronese (28) ⚠️ | Roverè Veronese | 5 |
 | Bois de Roverè Veronese (31) ⚠️ | Roverè Veronese | 5 |
 | Bois de Negrar di Valpolicella (33) ⚠️ | Negrar di Valpolicella | 5 |
 | Forêt de Affi (19) ⚠️ | Affi | 5 |
 | Forêt de Bosco Chiesanuova (378) ⚠️ | Bosco Chiesanuova | 5 |
+| Forêt de Bosco Chiesanuova (380) ⚠️ | Bosco Chiesanuova | 5 |
 | Forêt de Verona (449) ⚠️ | Verona | 5 |
 | Forêt de San Zeno di Montagna (224) ⚠️ | San Zeno di Montagna | 5 |
 | Forêt de Malcesine (152) ⚠️ | Malcesine | 5 |
@@ -893,9 +894,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Negrar di Valpolicella (31) ⚠️ | Negrar di Valpolicella | 4 |
 | Forêt de Negrar di Valpolicella (36) ⚠️ | Negrar di Valpolicella | 4 |
 | Forêt de Rivoli Veronese ⚠️ | Rivoli Veronese | 4 |
-| Forêt de Marano di Valpolicella (2) ⚠️ | Marano di Valpolicella | 4 |
 | Forêt de Negrar di Valpolicella (46) ⚠️ | Negrar di Valpolicella | 4 |
-| Forêt de Negrar di Valpolicella (58) ⚠️ | Negrar di Valpolicella | 4 |
 | Forêt de Rivoli Veronese (3) ⚠️ | Rivoli Veronese | 4 |
 | Forêt de Cavaion Veronese (4) ⚠️ | Cavaion Veronese | 4 |
 | Forêt de Affi (10) ⚠️ | Affi | 4 |
@@ -910,7 +909,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Sant'Anna d'Alfaedo (16) ⚠️ | Sant'Anna d'Alfaedo | 4 |
 | Forêt de Sant'Anna d'Alfaedo (19) ⚠️ | Sant'Anna d'Alfaedo | 4 |
 | Forêt de Sant'Anna d'Alfaedo (30) ⚠️ | Sant'Anna d'Alfaedo | 4 |
-| Forêt de Sant'Anna d'Alfaedo (37) ⚠️ | Sant'Anna d'Alfaedo | 4 |
 | Forêt de Sant'Anna d'Alfaedo (43) ⚠️ | Sant'Anna d'Alfaedo | 4 |
 | Forêt de Sant'Anna d'Alfaedo (46) ⚠️ | Sant'Anna d'Alfaedo | 4 |
 | Forêt de Sant'Anna d'Alfaedo (52) ⚠️ | Sant'Anna d'Alfaedo | 4 |
@@ -929,12 +927,14 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Verona (106) ⚠️ | Verona | 4 |
 | Forêt de Verona (107) ⚠️ | Verona | 4 |
 | Forêt de Verona (108) ⚠️ | Verona | 4 |
+| Forêt de Verona (120) ⚠️ | Verona | 4 |
 | Forêt de Verona (121) ⚠️ | Verona | 4 |
 | Forêt de Verona (221) ⚠️ | Verona | 4 |
 | Forêt de Velo Veronese (30) ⚠️ | Velo Veronese | 4 |
 | Forêt de Verona (363) ⚠️ | Verona | 4 |
 | Forêt de Verona (379) ⚠️ | Verona | 4 |
 | Forêt de Malcesine (18) ⚠️ | Malcesine | 4 |
+| Forêt de Torri del Benaco (15) ⚠️ | Torri del Benaco | 4 |
 | Forêt de San Zeno di Montagna (9) ⚠️ | San Zeno di Montagna | 4 |
 | Forêt de San Zeno di Montagna (40) ⚠️ | San Zeno di Montagna | 4 |
 | Forêt de San Zeno di Montagna (80) ⚠️ | San Zeno di Montagna | 4 |
@@ -986,7 +986,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Roncà (54) ⚠️ | Roncà | 4 |
 | Forêt de Roncà (93) ⚠️ | Roncà | 4 |
 | Forêt de Roncà (120) ⚠️ | Roncà | 4 |
+| Forêt de Vestenanova (45) ⚠️ | Vestenanova | 4 |
 | Forêt de Vestenanova (151) ⚠️ | Vestenanova | 4 |
+| Forêt de Vestenanova (177) ⚠️ | Vestenanova | 4 |
 | Forêt de Vestenanova (184) ⚠️ | Vestenanova | 4 |
 | Forêt de Vestenanova (199) ⚠️ | Vestenanova | 4 |
 | Forêt de Vestenanova (208) ⚠️ | Vestenanova | 4 |
@@ -1019,7 +1021,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Badia Calavena (87) ⚠️ | Badia Calavena | 4 |
 | Forêt de Badia Calavena (89) ⚠️ | Badia Calavena | 4 |
 | Forêt de Tregnago (46) ⚠️ | Tregnago | 4 |
-| Forêt de Tregnago (92) ⚠️ | Tregnago | 4 |
 | Forêt de Tregnago (112) ⚠️ | Tregnago | 4 |
 | Bois de Angiari (3) ⚠️ | Angiari | 4 |
 | Forêt de Sorgà (9) ⚠️ | Sorgà | 4 |
@@ -1035,7 +1036,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Erbezzo (202) ⚠️ | Erbezzo | 4 |
 | Forêt de Erbezzo (203) ⚠️ | Erbezzo | 4 |
 | Forêt de Sant'Anna d'Alfaedo (265) ⚠️ | Sant'Anna d'Alfaedo | 4 |
-| Forêt de Bosco Chiesanuova (380) ⚠️ | Bosco Chiesanuova | 4 |
 | Forêt de Verona (454) ⚠️ | Verona | 4 |
 | Forêt de Verona (455) ⚠️ | Verona | 4 |
 | Forêt de Brenzone sul Garda (76) ⚠️ | Brenzone sul Garda | 4 |
@@ -1047,7 +1047,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parco delle Mura (3) ⚠️ | Verona | 3 |
 | Parc de Verona (12) ⚠️ | Verona | 3 |
 | Parco Maggiolino ⚠️ | Verona | 3 |
-| Lazzaretto ⚠️ | Verona | 3 |
 | Forêt de Verona (2) ⚠️ | Verona | 3 |
 | Forêt de Mezzane di Sotto (3) ⚠️ | Mezzane di Sotto | 3 |
 | Forêt de Mezzane di Sotto (26) ⚠️ | Mezzane di Sotto | 3 |
@@ -1066,9 +1065,11 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de San Martino Buon Albergo (28) ⚠️ | San Martino Buon Albergo | 3 |
 | Forêt de Negrar di Valpolicella (38) ⚠️ | Negrar di Valpolicella | 3 |
 | Forêt de Sommacampagna (2) ⚠️ | Sommacampagna | 3 |
+| Forêt de Marano di Valpolicella (2) ⚠️ | Marano di Valpolicella | 3 |
 | Forêt de Negrar di Valpolicella (54) ⚠️ | Negrar di Valpolicella | 3 |
 | Forêt de Negrar di Valpolicella (56) ⚠️ | Negrar di Valpolicella | 3 |
 | Forêt de Negrar di Valpolicella (57) ⚠️ | Negrar di Valpolicella | 3 |
+| Forêt de Negrar di Valpolicella (58) ⚠️ | Negrar di Valpolicella | 3 |
 | Forêt de Velo Veronese (4) ⚠️ | Velo Veronese | 3 |
 | Forêt de Roverè Veronese (21) ⚠️ | Roverè Veronese | 3 |
 | Forêt de Rivoli Veronese (5) ⚠️ | Rivoli Veronese | 3 |
@@ -1127,6 +1128,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Bosco Chiesanuova (106) ⚠️ | Bosco Chiesanuova | 3 |
 | Forêt de Bosco Chiesanuova (276) ⚠️ | Bosco Chiesanuova | 3 |
 | Forêt de Bosco Chiesanuova (331) ⚠️ | Bosco Chiesanuova | 3 |
+| Forêt de Bosco Chiesanuova (340) ⚠️ | Bosco Chiesanuova | 3 |
 | Forêt de Bosco Chiesanuova (343) ⚠️ | Bosco Chiesanuova | 3 |
 | Forêt de Bosco Chiesanuova (349) ⚠️ | Bosco Chiesanuova | 3 |
 | Forêt de Bosco Chiesanuova (356) ⚠️ | Bosco Chiesanuova | 3 |
@@ -1144,7 +1146,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Verona (429) ⚠️ | Verona | 3 |
 | Forêt de Cerea (4) ⚠️ | Cerea | 3 |
 | Forêt de Malcesine (13) ⚠️ | Malcesine | 3 |
-| Forêt de Torri del Benaco (15) ⚠️ | Torri del Benaco | 3 |
 | Forêt de Torri del Benaco (26) ⚠️ | Torri del Benaco | 3 |
 | Forêt de San Zeno di Montagna (59) ⚠️ | San Zeno di Montagna | 3 |
 | Forêt de San Zeno di Montagna (72) ⚠️ | San Zeno di Montagna | 3 |
@@ -1218,6 +1219,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Cerro Veronese (28) ⚠️ | Cerro Veronese | 3 |
 | Forêt de Cazzano di Tramigna ⚠️ | Cazzano di Tramigna | 3 |
 | Forêt de Vestenanova (4) ⚠️ | Vestenanova | 3 |
+| Forêt de Monteforte d'Alpone (20) ⚠️ | Soave | 3 |
 | Forêt de Soave (15) ⚠️ | Soave | 3 |
 | Forêt de Villa Bartolomea (2) ⚠️ | Villa Bartolomea | 3 |
 | Forêt de Caldiero ⚠️ | Caldiero | 3 |
@@ -1229,7 +1231,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Roncà (88) ⚠️ | Roncà | 3 |
 | Forêt de Roncà (125) ⚠️ | Roncà | 3 |
 | Forêt de Vestenanova (42) ⚠️ | Vestenanova | 3 |
-| Forêt de Vestenanova (45) ⚠️ | Vestenanova | 3 |
 | Forêt de Vestenanova (49) ⚠️ | Vestenanova | 3 |
 | Forêt de Vestenanova (66) ⚠️ | Vestenanova | 3 |
 | Forêt de Vestenanova (69) ⚠️ | Vestenanova | 3 |
@@ -1309,6 +1310,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Verona (451) ⚠️ | Verona | 3 |
 | Forêt de Verona (464) ⚠️ | Verona | 3 |
 | Forêt de Verona (468) ⚠️ | Verona | 3 |
+| Forêt de Verona (473) ⚠️ | Verona | 3 |
 | Forêt de Caprino Veronese (357) ⚠️ | Caprino Veronese | 3 |
 | Forêt de Fumane (203) ⚠️ | Fumane | 3 |
 | Forêt de Dolcè (82) ⚠️ | Dolcè | 3 |
@@ -1325,6 +1327,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Lavagno ⚠️ | Lavagno | 2 |
 | Forêt de Lavagno (3) ⚠️ | Lavagno | 2 |
 | Forêt de Lavagno (4) ⚠️ | Lavagno | 2 |
+| Lazzaretto ⚠️ | Verona | 2 |
 | Parco Catullo ⚠️ | Peschiera del Garda | 2 |
 | Giardini San Marco ⚠️ | Verona | 2 |
 | Bois de Monteforte d'Alpone (2) ⚠️ | Monteforte d'Alpone | 2 |
@@ -1402,6 +1405,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Erbezzo (45) ⚠️ | Erbezzo | 2 |
 | Forêt de Erbezzo (93) ⚠️ | Erbezzo | 2 |
 | Forêt de Erbezzo (108) ⚠️ | Erbezzo | 2 |
+| Forêt de Erbezzo (114) ⚠️ | Erbezzo | 2 |
 | Forêt de Erbezzo (122) ⚠️ | Erbezzo | 2 |
 | Forêt de Erbezzo (134) ⚠️ | Erbezzo | 2 |
 | Forêt de Erbezzo (135) ⚠️ | Erbezzo | 2 |
@@ -1450,6 +1454,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Bosco Chiesanuova (15) ⚠️ | Bosco Chiesanuova | 2 |
 | Forêt de Bosco Chiesanuova (16) ⚠️ | Bosco Chiesanuova | 2 |
 | Forêt de Bosco Chiesanuova (17) ⚠️ | Bosco Chiesanuova | 2 |
+| Forêt de Bosco Chiesanuova (23) ⚠️ | Bosco Chiesanuova | 2 |
 | Forêt de Bosco Chiesanuova (33) ⚠️ | Bosco Chiesanuova | 2 |
 | Forêt de Bosco Chiesanuova (38) ⚠️ | Bosco Chiesanuova | 2 |
 | Forêt de Bosco Chiesanuova (48) ⚠️ | Bosco Chiesanuova | 2 |
@@ -1490,7 +1495,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Bosco Chiesanuova (336) ⚠️ | Bosco Chiesanuova | 2 |
 | Forêt de Bosco Chiesanuova (337) ⚠️ | Bosco Chiesanuova | 2 |
 | Forêt de Bosco Chiesanuova (338) ⚠️ | Bosco Chiesanuova | 2 |
-| Forêt de Bosco Chiesanuova (340) ⚠️ | Bosco Chiesanuova | 2 |
 | Forêt de Bosco Chiesanuova (342) ⚠️ | Bosco Chiesanuova | 2 |
 | Forêt de Bosco Chiesanuova (350) ⚠️ | Bosco Chiesanuova | 2 |
 | Forêt de Bosco Chiesanuova (353) ⚠️ | Bosco Chiesanuova | 2 |
@@ -1509,7 +1513,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Verona (84) ⚠️ | Verona | 2 |
 | Forêt de Verona (97) ⚠️ | Verona | 2 |
 | Forêt de Verona (102) ⚠️ | Verona | 2 |
-| Forêt de Verona (104) ⚠️ | Verona | 2 |
 | Forêt de Verona (118) ⚠️ | Verona | 2 |
 | Forêt de Verona (119) ⚠️ | Verona | 2 |
 | Forêt de Verona (129) ⚠️ | Verona | 2 |
@@ -1526,7 +1529,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Verona (179) ⚠️ | Verona | 2 |
 | Forêt de Verona (190) ⚠️ | Verona | 2 |
 | Parc de Verona (80) ⚠️ | Verona | 2 |
-| Forêt de Verona (223) ⚠️ | Verona | 2 |
 | Forêt de Verona (224) ⚠️ | Verona | 2 |
 | Forêt de Verona (235) ⚠️ | Verona | 2 |
 | Forêt de Verona (244) ⚠️ | Verona | 2 |
@@ -1573,6 +1575,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de San Zeno di Montagna (90) ⚠️ | San Zeno di Montagna | 2 |
 | Forêt de Caprino Veronese ⚠️ | Caprino Veronese | 2 |
 | Forêt de San Zeno di Montagna (94) ⚠️ | San Zeno di Montagna | 2 |
+| Forêt de San Zeno di Montagna (101) ⚠️ | San Zeno di Montagna | 2 |
 | Forêt de San Zeno di Montagna (106) ⚠️ | San Zeno di Montagna | 2 |
 | Forêt de San Zeno di Montagna (108) ⚠️ | San Zeno di Montagna | 2 |
 | Forêt de Brenzone sul Garda (3) ⚠️ | Brenzone sul Garda | 2 |
@@ -1638,6 +1641,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Fumane (29) ⚠️ | Fumane | 2 |
 | Forêt de Fumane (32) ⚠️ | Fumane | 2 |
 | Forêt de Fumane (35) ⚠️ | Fumane | 2 |
+| Forêt de Marano di Valpolicella (23) ⚠️ | Marano di Valpolicella | 2 |
 | Forêt de Fumane (39) ⚠️ | Fumane | 2 |
 | Forêt de Fumane (43) ⚠️ | Fumane | 2 |
 | Forêt de Fumane (49) ⚠️ | Fumane | 2 |
@@ -1657,8 +1661,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Brentino Belluno (52) ⚠️ | Brentino Belluno | 2 |
 | Forêt de Brentino Belluno (55) ⚠️ | Ferrara di Monte Baldo | 2 |
 | Forêt de Brentino Belluno (57) ⚠️ | Brentino Belluno | 2 |
+| Forêt de Brentino Belluno (60) ⚠️ | Brentino Belluno | 2 |
 | Forêt de Fumane (58) ⚠️ | Fumane | 2 |
 | Forêt de Malcesine (26) ⚠️ | Malcesine | 2 |
+| Forêt de Malcesine (27) ⚠️ | Malcesine | 2 |
 | Forêt de Malcesine (28) ⚠️ | Malcesine | 2 |
 | Forêt de Malcesine (29) ⚠️ | Malcesine | 2 |
 | Forêt de Malcesine (32) ⚠️ | Malcesine | 2 |
@@ -1714,7 +1720,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Soave (2) ⚠️ | Soave | 2 |
 | Forêt de Monteforte d'Alpone (16) ⚠️ | Monteforte d'Alpone | 2 |
 | Forêt de Monteforte d'Alpone (17) ⚠️ | Monteforte d'Alpone | 2 |
-| Forêt de Monteforte d'Alpone (20) ⚠️ | Soave | 2 |
 | Forêt de Povegliano Veronese (2) ⚠️ | Povegliano Veronese | 2 |
 | Parco Santa Teresa (2) ⚠️ | Verona | 2 |
 | Forêt de Grezzana (91) ⚠️ | Grezzana | 2 |
@@ -1746,7 +1751,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Vestenanova (16) ⚠️ | Vestenanova | 2 |
 | Forêt de Vestenanova (20) ⚠️ | Vestenanova | 2 |
 | Forêt de Vestenanova (22) ⚠️ | Vestenanova | 2 |
-| Forêt de Vestenanova (26) ⚠️ | Vestenanova | 2 |
 | Forêt de Vestenanova (35) ⚠️ | Vestenanova | 2 |
 | Forêt de Vestenanova (37) ⚠️ | Vestenanova | 2 |
 | Forêt de Vestenanova (74) ⚠️ | Vestenanova | 2 |
@@ -1756,7 +1760,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Vestenanova (125) ⚠️ | Vestenanova | 2 |
 | Forêt de Vestenanova (167) ⚠️ | Vestenanova | 2 |
 | Forêt de Vestenanova (173) ⚠️ | Vestenanova | 2 |
-| Forêt de Vestenanova (178) ⚠️ | Vestenanova | 2 |
 | Forêt de Vestenanova (185) ⚠️ | Vestenanova | 2 |
 | Forêt de Vestenanova (187) ⚠️ | Vestenanova | 2 |
 | Bois de Bardolino ⚠️ | Lazise | 2 |
@@ -1906,7 +1909,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Negrar di Valpolicella (36) ⚠️ | Negrar di Valpolicella | 2 |
 | Bois de Grezzana (66) ⚠️ | Grezzana | 2 |
 | Forêt de Verona (462) ⚠️ | Verona | 2 |
-| Forêt de Verona (473) ⚠️ | Verona | 2 |
 | Forêt de Bosco Chiesanuova (387) ⚠️ | Bosco Chiesanuova | 2 |
 | Forêt de San Giovanni Ilarione (171) ⚠️ | San Giovanni Ilarione | 2 |
 | Forêt de San Giovanni Ilarione (172) ⚠️ | San Giovanni Ilarione | 2 |
@@ -1917,7 +1919,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Ferrara di Monte Baldo (159) ⚠️ | Ferrara di Monte Baldo | 2 |
 | Forêt de Malcesine (158) ⚠️ | Malcesine | 2 |
 | Forêt de Badia Calavena (229) ⚠️ | Badia Calavena | 2 |
-| Forêt de Badia Calavena (232) ⚠️ | Badia Calavena | 2 |
 | Forêt de Tregnago (195) ⚠️ | Tregnago | 2 |
 | Forêt de San Giovanni Ilarione (182) ⚠️ | San Giovanni Ilarione | 2 |
 | Parco giochi dell'Amicizia ⚠️ | Verona | 1 |
@@ -2067,7 +2068,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Costermano sul Garda ⚠️ | Costermano sul Garda | 1 |
 | Forêt de Affi (8) ⚠️ | Affi | 1 |
 | Forêt de Lazise (3) ⚠️ | Lazise | 1 |
-| Forêt de Affi (9) ⚠️ | Affi | 1 |
 | Forêt de Pastrengo (4) ⚠️ | Pastrengo | 1 |
 | Forêt de Vigasio ⚠️ | Vigasio | 1 |
 | Forêt de Vigasio (2) ⚠️ | Vigasio | 1 |
@@ -2151,8 +2151,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Erbezzo (2) ⚠️ | Erbezzo | 1 |
 | Forêt de Erbezzo (3) ⚠️ | Erbezzo | 1 |
 | Forêt de Erbezzo (4) ⚠️ | Erbezzo | 1 |
+| Forêt de Erbezzo (9) ⚠️ | Erbezzo | 1 |
 | Forêt de Erbezzo (12) ⚠️ | Erbezzo | 1 |
-| Forêt de Erbezzo (14) ⚠️ | Erbezzo | 1 |
 | Forêt de Erbezzo (22) ⚠️ | Erbezzo | 1 |
 | Forêt de Erbezzo (32) ⚠️ | Erbezzo | 1 |
 | Forêt de Erbezzo (33) ⚠️ | Erbezzo | 1 |
@@ -2186,7 +2186,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Erbezzo (100) ⚠️ | Erbezzo | 1 |
 | Forêt de Erbezzo (102) ⚠️ | Erbezzo | 1 |
 | Forêt de Erbezzo (111) ⚠️ | Erbezzo | 1 |
-| Forêt de Erbezzo (114) ⚠️ | Erbezzo | 1 |
 | Forêt de Erbezzo (115) ⚠️ | Erbezzo | 1 |
 | Forêt de Erbezzo (117) ⚠️ | Erbezzo | 1 |
 | Forêt de Erbezzo (118) ⚠️ | Erbezzo | 1 |
@@ -2310,7 +2309,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Bosco Chiesanuova (9) ⚠️ | Bosco Chiesanuova | 1 |
 | Forêt de Bosco Chiesanuova (10) ⚠️ | Bosco Chiesanuova | 1 |
 | Forêt de Bosco Chiesanuova (20) ⚠️ | Bosco Chiesanuova | 1 |
-| Forêt de Bosco Chiesanuova (23) ⚠️ | Bosco Chiesanuova | 1 |
 | Forêt de Bosco Chiesanuova (24) ⚠️ | Bosco Chiesanuova | 1 |
 | Forêt de Bosco Chiesanuova (26) ⚠️ | Bosco Chiesanuova | 1 |
 | Forêt de Bosco Chiesanuova (27) ⚠️ | Bosco Chiesanuova | 1 |
@@ -2337,7 +2335,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Bosco Chiesanuova (86) ⚠️ | Bosco Chiesanuova | 1 |
 | Forêt de Bosco Chiesanuova (93) ⚠️ | Bosco Chiesanuova | 1 |
 | Forêt de Bosco Chiesanuova (100) ⚠️ | Bosco Chiesanuova | 1 |
-| Forêt de Bosco Chiesanuova (101) ⚠️ | Bosco Chiesanuova | 1 |
 | Forêt de Bosco Chiesanuova (107) ⚠️ | Bosco Chiesanuova | 1 |
 | Forêt de Bosco Chiesanuova (114) ⚠️ | Bosco Chiesanuova | 1 |
 | Forêt de Bosco Chiesanuova (115) ⚠️ | Bosco Chiesanuova | 1 |
@@ -2469,6 +2466,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Verona (100) ⚠️ | Verona | 1 |
 | Forêt de Verona (101) ⚠️ | Verona | 1 |
 | Forêt de Verona (103) ⚠️ | Verona | 1 |
+| Forêt de Verona (104) ⚠️ | Verona | 1 |
 | Forêt de Verona (105) ⚠️ | Verona | 1 |
 | Forêt de Verona (111) ⚠️ | Verona | 1 |
 | Forêt de Verona (113) ⚠️ | Verona | 1 |
@@ -2520,6 +2518,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc de Verona (85) ⚠️ | Verona | 1 |
 | Forêt de Verona (222) ⚠️ | Verona | 1 |
 | Bois de Verona (4) ⚠️ | Verona | 1 |
+| Forêt de Verona (223) ⚠️ | Verona | 1 |
 | Forêt de Verona (225) ⚠️ | Verona | 1 |
 | Parc de Verona (88) ⚠️ | Verona | 1 |
 | Forêt de Verona (231) ⚠️ | Verona | 1 |
@@ -2532,10 +2531,12 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Verona (252) ⚠️ | Verona | 1 |
 | Forêt de Verona (254) ⚠️ | Verona | 1 |
 | Forêt de Verona (255) ⚠️ | Verona | 1 |
+| Forêt de Verona (260) ⚠️ | Verona | 1 |
 | Forêt de Verona (261) ⚠️ | Verona | 1 |
 | Forêt de Verona (264) ⚠️ | Verona | 1 |
 | Forêt de Verona (269) ⚠️ | Verona | 1 |
 | Parc de Malcesine ⚠️ | Malcesine | 1 |
+| Forêt de Verona (273) ⚠️ | Verona | 1 |
 | Forêt de Verona (277) ⚠️ | Verona | 1 |
 | Forêt de Verona (278) ⚠️ | Verona | 1 |
 | Forêt de Verona (280) ⚠️ | Verona | 1 |
@@ -2640,7 +2641,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de San Zeno di Montagna (97) ⚠️ | San Zeno di Montagna | 1 |
 | Forêt de San Zeno di Montagna (98) ⚠️ | San Zeno di Montagna | 1 |
 | Forêt de San Zeno di Montagna (100) ⚠️ | San Zeno di Montagna | 1 |
-| Forêt de San Zeno di Montagna (101) ⚠️ | San Zeno di Montagna | 1 |
 | Forêt de San Zeno di Montagna (103) ⚠️ | San Zeno di Montagna | 1 |
 | Forêt de San Zeno di Montagna (104) ⚠️ | San Zeno di Montagna | 1 |
 | Forêt de San Zeno di Montagna (112) ⚠️ | San Zeno di Montagna | 1 |
@@ -2670,7 +2670,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Caprino Veronese (72) ⚠️ | Caprino Veronese | 1 |
 | Forêt de Caprino Veronese (86) ⚠️ | Caprino Veronese | 1 |
 | Forêt de Caprino Veronese (89) ⚠️ | Caprino Veronese | 1 |
-| Forêt de Caprino Veronese (90) ⚠️ | Caprino Veronese | 1 |
 | Forêt de Caprino Veronese (93) ⚠️ | Caprino Veronese | 1 |
 | Forêt de Caprino Veronese (94) ⚠️ | Caprino Veronese | 1 |
 | Forêt de Rivoli Veronese (13) ⚠️ | Rivoli Veronese | 1 |
@@ -2788,7 +2787,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Fumane (34) ⚠️ | Fumane | 1 |
 | Forêt de Fumane (36) ⚠️ | Fumane | 1 |
 | Forêt de Fumane (37) ⚠️ | Fumane | 1 |
-| Forêt de Marano di Valpolicella (23) ⚠️ | Marano di Valpolicella | 1 |
 | Forêt de Fumane (45) ⚠️ | Fumane | 1 |
 | Forêt de Fumane (46) ⚠️ | Fumane | 1 |
 | Forêt de Fumane (53) ⚠️ | Fumane | 1 |
@@ -2814,7 +2812,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Brentino Belluno (50) ⚠️ | Brentino Belluno | 1 |
 | Forêt de Brentino Belluno (51) ⚠️ | Brentino Belluno | 1 |
 | Forêt de Brentino Belluno (59) ⚠️ | Brentino Belluno | 1 |
-| Forêt de Brentino Belluno (60) ⚠️ | Brentino Belluno | 1 |
 | Forêt de Dolcè (4) ⚠️ | Dolcè | 1 |
 | Prà della Fiera ⚠️ | Cerea | 1 |
 | Forêt de Fumane (57) ⚠️ | Fumane | 1 |
@@ -2830,7 +2827,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Malcesine (22) ⚠️ | Malcesine | 1 |
 | Forêt de Malcesine (23) ⚠️ | Malcesine | 1 |
 | Forêt de Malcesine (25) ⚠️ | Malcesine | 1 |
-| Forêt de Malcesine (27) ⚠️ | Malcesine | 1 |
 | Forêt de Malcesine (36) ⚠️ | Malcesine | 1 |
 | Forêt de Malcesine (37) ⚠️ | Malcesine | 1 |
 | Forêt de Malcesine (38) ⚠️ | Malcesine | 1 |
@@ -2880,7 +2876,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Fumane (147) ⚠️ | Fumane | 1 |
 | Forêt de Fumane (150) ⚠️ | Fumane | 1 |
 | Forêt de Fumane (155) ⚠️ | Fumane | 1 |
-| Forêt de San Zeno di Montagna (122) ⚠️ | San Zeno di Montagna | 1 |
 | Forêt de Dolcè (20) ⚠️ | Dolcè | 1 |
 | Forêt de San Zeno di Montagna (123) ⚠️ | San Zeno di Montagna | 1 |
 | Forêt de San Zeno di Montagna (125) ⚠️ | San Zeno di Montagna | 1 |
@@ -3095,6 +3090,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Vestenanova (18) ⚠️ | Vestenanova | 1 |
 | Forêt de Vestenanova (21) ⚠️ | Vestenanova | 1 |
 | Forêt de Vestenanova (24) ⚠️ | Vestenanova | 1 |
+| Forêt de Vestenanova (26) ⚠️ | Vestenanova | 1 |
 | Forêt de Vestenanova (27) ⚠️ | Vestenanova | 1 |
 | Forêt de Vestenanova (29) ⚠️ | Vestenanova | 1 |
 | Forêt de Vestenanova (30) ⚠️ | Vestenanova | 1 |
@@ -3139,6 +3135,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Vestenanova (172) ⚠️ | Vestenanova | 1 |
 | Forêt de Vestenanova (175) ⚠️ | Vestenanova | 1 |
 | Forêt de Vestenanova (176) ⚠️ | Vestenanova | 1 |
+| Forêt de Vestenanova (178) ⚠️ | Vestenanova | 1 |
 | Forêt de Vestenanova (179) ⚠️ | Vestenanova | 1 |
 | Forêt de Vestenanova (180) ⚠️ | Vestenanova | 1 |
 | Forêt de Vestenanova (183) ⚠️ | Vestenanova | 1 |
@@ -3264,6 +3261,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Selva di Progno (116) ⚠️ | Selva di Progno | 1 |
 | Forêt de Selva di Progno (121) ⚠️ | Selva di Progno | 1 |
 | Forêt de Selva di Progno (126) ⚠️ | Selva di Progno | 1 |
+| Forêt de Selva di Progno (128) ⚠️ | Selva di Progno | 1 |
 | Forêt de Selva di Progno (129) ⚠️ | Selva di Progno | 1 |
 | Forêt de Selva di Progno (134) ⚠️ | Selva di Progno | 1 |
 | Forêt de Selva di Progno (136) ⚠️ | Selva di Progno | 1 |
@@ -3451,7 +3449,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Badia Calavena (155) ⚠️ | Badia Calavena | 1 |
 | Forêt de Badia Calavena (156) ⚠️ | Badia Calavena | 1 |
 | Forêt de Badia Calavena (158) ⚠️ | Badia Calavena | 1 |
-| Forêt de Badia Calavena (159) ⚠️ | Badia Calavena | 1 |
 | Forêt de Badia Calavena (160) ⚠️ | Badia Calavena | 1 |
 | Forêt de Badia Calavena (162) ⚠️ | Badia Calavena | 1 |
 | Forêt de Badia Calavena (164) ⚠️ | Badia Calavena | 1 |
@@ -3566,7 +3563,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Lazise (78) ⚠️ | Lazise | 1 |
 | Bois de Lazise (79) ⚠️ | Lazise | 1 |
 | Bois de Lazise (81) ⚠️ | Lazise | 1 |
-| Bois de Castelnuovo del Garda (10) ⚠️ | Castelnuovo del Garda | 1 |
 | Bois de Lazise (87) ⚠️ | Lazise | 1 |
 | Bois de Lazise (92) ⚠️ | Lazise | 1 |
 | Bois de Lazise (99) ⚠️ | Lazise | 1 |
@@ -3600,7 +3596,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de San Mauro di Saline (11) ⚠️ | San Mauro di Saline | 1 |
 | Forêt de Legnago (7) ⚠️ | Legnago | 1 |
 | Bois de Grezzana (33) ⚠️ | Grezzana | 1 |
-| Bois de San Mauro di Saline (24) ⚠️ | San Mauro di Saline | 1 |
 | Bois de San Mauro di Saline (30) ⚠️ | San Mauro di Saline | 1 |
 | Bois de Illasi (2) ⚠️ | Illasi | 1 |
 | Bois de Negrar di Valpolicella (16) ⚠️ | Negrar di Valpolicella | 1 |
@@ -3661,12 +3656,13 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de San Giovanni Ilarione (180) ⚠️ | San Giovanni Ilarione | 1 |
 | Forêt de Montecchia di Crosara (96) ⚠️ | Montecchia di Crosara | 1 |
 | Forêt de Caprino Veronese (358) ⚠️ | Caprino Veronese | 1 |
+| Forêt de Badia Calavena (232) ⚠️ | Badia Calavena | 1 |
 | Bois de Mezzane di Sotto (42) ⚠️ | Mezzane di Sotto | 1 |
 | Bois de Lazise (128) ⚠️ | Lazise | 1 |
 
-3 350 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
+3 354 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
 
-⚠️ 6492 parc(s) hors de la fenêtre 10–125 cellules (6469 trop petit(s), 23 trop grand(s)) : affichés sur la carte, mais ils ne peuvent pas servir de cible à un défi.
+⚠️ 6493 parc(s) hors de la fenêtre 10–125 cellules (6470 trop petit(s), 23 trop grand(s)) : affichés sur la carte, mais ils ne peuvent pas servir de cible à un défi.
 
 ## Zones restreintes
 

@@ -1,6 +1,6 @@
 # Memphrémagog (Estrie)
 
-Pack `qc-memphremagog` · version 1.0.0 · grille 200 m · Canada › Québec › Estrie
+Pack `qc-memphremagog` · version 1.0.1 · grille 200 m · Canada › Québec › Estrie
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -66,10 +66,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 
 | Parc | Zone | Cellules |
 |---|---|---:|
-| Parc national du Mont-Orford ⚠️ | Orford | 3 400 |
-| Réserve naturelle des Montagnes-Vertes ⚠️ | Potton | 1 889 |
+| Parc national du Mont-Orford ⚠️ | Orford | 3 399 |
+| Réserve naturelle des Montagnes-Vertes ⚠️ | Potton | 1 890 |
 | Réserve naturelle du Mont-Éléphant | Potton | 122 |
-| Réserve naturelle des Collines-de-Bolton-Est | Bolton-Est | 91 |
+| Réserve naturelle des Collines-de-Bolton-Est | Bolton-Est | 92 |
 | Marais de la Rivière aux Cerises | Magog | 66 |
 | Réserve écologique de la Vallée-du-Ruiter | Potton | 64 |
 | Réserve naturelle Maurice-Bessette | Orford | 23 |
@@ -94,6 +94,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Honoré-Langlois ⚠️ | Sainte-Catherine-de-Hatley | 1 |
 | Parc no 2 ⚠️ | Magog | 1 |
 | Marina no 1 ⚠️ | Magog | 1 |
+| Parc de l’Aiglon ⚠️ | Sainte-Catherine-de-Hatley | 1 |
 | Parc de Stanstead (Canton) (2) ⚠️ | Stanstead (Canton) | 1 |
 | Parc Gaston-Giguère ⚠️ | Hatley | 1 |
 | Parc des pionniers ⚠️ | Ayer's Cliff | 1 |
@@ -124,7 +125,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | APS (3) ⚠️ | Magog | 1 |
 | Parc Municipal ⚠️ | Saint-Étienne-de-Bolton | 1 |
 
-49 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
+48 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
 
 ⚠️ 101 parc(s) hors de la fenêtre 10–125 cellules (99 trop petit(s), 2 trop grand(s)) : affichés sur la carte, mais ils ne peuvent pas servir de cible à un défi.
 

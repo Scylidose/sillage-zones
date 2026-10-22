@@ -1,6 +1,6 @@
 # Province de Málaga
 
-Pack `es-malaga` · version 1.1.2 · grille 200 m · Espagne › Andalousie
+Pack `es-malaga` · version 1.1.4 · grille 200 m · Espagne › Andalousie
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -58,7 +58,7 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 |---|---:|---:|---:|---:|---:|---:|---:|
 | Antequera | 29 467 | 170 | 29 297 | 4 | **29 293** | 14 285 (49 %) | 123 |
 | Ronda | 15 527 | 1 | 15 526 | 474 | **15 052** | 3 552 (24 %) | 64 |
-| Málaga | 15 439 | 163 | 15 276 | 212 | **15 064** | 654 (4 %) | 1090 |
+| Málaga | 15 439 | 163 | 15 276 | 212 | **15 064** | 654 (4 %) | 1091 |
 | Archidona | 7 307 | 3 | 7 304 | 9 | **7 295** | 3 423 (47 %) | 14 |
 | Campillos | 7 377 | 366 | 7 011 | 0 | **7 011** | 3 139 (45 %) | 4 |
 | Cortes de la Frontera | 6 828 | 1 | 6 827 | 0 | **6 827** | 2 421 (35 %) | 2 |
@@ -81,7 +81,7 @@ Une île *composite* n'a pas de cellules à elle : sa progression est la somme d
 | Istán | 3 861 | 79 | 3 782 | 0 | **3 782** | 879 (23 %) | 57 |
 | Tolox | 3 672 | 0 | 3 672 | 0 | **3 672** | 422 (11 %) | 187 |
 | Sierra de Yeguas | 3 378 | 0 | 3 378 | 0 | **3 378** | 1 617 (48 %) | 1 |
-| Ojén | 3 341 | 0 | 3 341 | 0 | **3 341** | 931 (28 %) | 104 |
+| Ojén | 3 341 | 0 | 3 341 | 0 | **3 341** | 931 (28 %) | 103 |
 | Nerja | 3 322 | 0 | 3 322 | 0 | **3 322** | 732 (22 %) | 51 |
 | Alhaurín de la Torre | 3 210 | 3 | 3 207 | 4 | **3 203** | 660 (21 %) | 48 |
 | Fuente de Piedra | 3 573 | 481 | 3 092 | 0 | **3 092** | 1 504 (49 %) | 1 |
@@ -174,33 +174,33 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Mollina ⚠️ | Mollina › Antequera | 297 |
 | Forêt de Coín (23) ⚠️ | Coín › Valle del Guadalhorce | 210 |
 | Forêt de Antequera (3) ⚠️ | Antequera › Antequera | 209 |
-| Forêt de Nerja (2) ⚠️ | Nerja › La Axarquía | 191 |
-| Forêt de Tolox ⚠️ | Tolox › Sierra de las Nieves | 179 |
+| Forêt de Nerja (2) ⚠️ | Nerja › La Axarquía | 190 |
+| Forêt de Tolox ⚠️ | Tolox › Sierra de las Nieves | 178 |
 | Forêt de Periana ⚠️ | Periana › La Axarquía | 154 |
-| Forêt de Tolox (86) ⚠️ | Tolox › Sierra de las Nieves | 153 |
+| Forêt de Tolox (86) ⚠️ | Tolox › Sierra de las Nieves | 152 |
 | Parque Forestal Ciudad de Málaga ⚠️ | Málaga › Málaga-Costa del Sol | 137 |
 | Forêt de Alfarnatejo | Alfarnatejo › La Axarquía | 121 |
 | Forêt de Antequera (5) | Antequera › Antequera | 118 |
 | Forêt de Alfarnate (2) | Alfarnate › La Axarquía | 116 |
 | Forêt de Antequera (14) | Antequera › Antequera | 115 |
 | Forêt de El Burgo | El Burgo › Sierra de las Nieves | 112 |
-| Bois de Benahavís | Benahavís › Costa del Sol Occidental | 110 |
+| Bois de Benahavís | Benahavís › Costa del Sol Occidental | 109 |
 | Bois de Ardales (14) | Ardales › Guadalteba | 108 |
 | Forêt de Ronda (10) | Ronda › Serranía de Ronda | 104 |
-| Forêt de Ronda (6) | Ronda › Serranía de Ronda | 98 |
+| Forêt de Ronda (6) | Ronda › Serranía de Ronda | 99 |
 | Forêt de Humilladero (5) | Humilladero › Antequera | 97 |
 | Forêt de Nerja | Nerja › La Axarquía | 92 |
 | Forêt de Yunquera | Yunquera › Sierra de las Nieves | 90 |
 | Forêt de Tolox (2) | Tolox › Sierra de las Nieves | 88 |
 | Bois de Istán (9) | Istán › Sierra de las Nieves | 88 |
 | Forêt de Alhaurín el Grande (40) | Alhaurín el Grande › Valle del Guadalhorce | 82 |
+| Forêt de Marbella (13) | Marbella › Costa del Sol Occidental | 79 |
 | Forêt de Antequera (2) | Antequera › Antequera | 78 |
-| Forêt de Marbella (13) | Marbella › Costa del Sol Occidental | 78 |
 | Bois de Istán (30) | Istán › Sierra de las Nieves | 76 |
 | Forêt de Benalmádena (3) | Benalmádena › Costa del Sol Occidental | 76 |
 | Forêt de Antequera (24) | Antequera › Antequera | 74 |
 | Pinar de los Almendrales | Málaga › Málaga-Costa del Sol | 73 |
-| Forêt de Alfarnate (3) | Alfarnate › La Axarquía | 71 |
+| Forêt de Alfarnate (3) | Alfarnate › La Axarquía | 72 |
 | Forêt de Monda (23) | Monda › Sierra de las Nieves | 68 |
 | Forêt de Nerja (13) | Nerja › La Axarquía | 66 |
 | Forêt de Villanueva del Trabuco (5) | Villanueva del Trabuco › Nororma | 65 |
@@ -211,8 +211,8 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Ojén (50) | Ojén › Sierra de las Nieves | 61 |
 | Forêt de Salares (14) | Salares › La Axarquía | 60 |
 | Bois de Istán (29) | Istán › Sierra de las Nieves | 60 |
+| Forêt de Tolox (10) | Tolox › Sierra de las Nieves | 58 |
 | Forêt de Alhaurín el Grande (3) | Alhaurín el Grande › Valle del Guadalhorce | 57 |
-| Forêt de Tolox (10) | Tolox › Sierra de las Nieves | 57 |
 | Forêt de Coín (4) | Coín › Valle del Guadalhorce | 56 |
 | Bois de Istán (13) | Istán › Sierra de las Nieves | 56 |
 | Forêt de Sedella (17) | Sedella › La Axarquía | 55 |
@@ -225,16 +225,16 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Alhaurín el Grande (10) | Alhaurín el Grande › Valle del Guadalhorce | 46 |
 | Forêt de Canillas de Albaida (24) | Canillas de Albaida › La Axarquía | 45 |
 | Forêt de Yunquera (13) | Yunquera › Sierra de las Nieves | 44 |
-| Forêt de Tolox (5) | Tolox › Sierra de las Nieves | 43 |
+| Forêt de Tolox (5) | Tolox › Sierra de las Nieves | 42 |
 | Bois de Nerja (16) | Nerja › La Axarquía | 41 |
 | Forêt de Alcaucín (9) | Alcaucín › La Axarquía | 39 |
 | Forêt de Coín (7) | Coín › Valle del Guadalhorce | 39 |
 | Forêt de Monda (10) | Monda › Sierra de las Nieves | 38 |
+| Bois de Frigiliana (11) | Frigiliana › La Axarquía | 38 |
 | Forêt de Álora (3) | Álora › Valle del Guadalhorce | 38 |
 | Forêt de Marbella (12) | Marbella › Costa del Sol Occidental | 37 |
 | Forêt de Tolox (8) | Tolox › Sierra de las Nieves | 37 |
 | Bois de Alfarnatejo (2) | Alfarnatejo › La Axarquía | 37 |
-| Bois de Frigiliana (11) | Frigiliana › La Axarquía | 37 |
 | Forêt de Alfarnate | Alfarnate › La Axarquía | 36 |
 | Forêt de Alcaucín (16) | Alcaucín › La Axarquía | 36 |
 | Parque Periurbano Pinar del Hacho | Antequera › Antequera | 35 |
@@ -256,9 +256,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Canillas de Albaida (20) | Canillas de Albaida › La Axarquía | 31 |
 | Bois de Frigiliana (14) | Frigiliana › La Axarquía | 31 |
 | Pinar de Nagüeles | Marbella › Costa del Sol Occidental | 30 |
-| Forêt de Canillas de Albaida (4) | Canillas de Albaida › La Axarquía | 30 |
 | Forêt de Marbella | Marbella › Costa del Sol Occidental | 29 |
 | Forêt de Tolox (16) | Tolox › Sierra de las Nieves | 29 |
+| Forêt de Canillas de Albaida (4) | Canillas de Albaida › La Axarquía | 29 |
 | Forêt de Antequera (4) | Antequera › Antequera | 28 |
 | Bois de Alfarnate (3) | Alfarnate › La Axarquía | 28 |
 | Forêt de Alfarnatejo (2) | Alfarnatejo › La Axarquía | 28 |
@@ -282,19 +282,19 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Ronda (27) | Ronda › Serranía de Ronda | 22 |
 | Bois de Igualeja | Igualeja › Serranía de Ronda | 21 |
 | Bois de Antequera (35) | Antequera › Antequera | 21 |
-| Bois de Frigiliana (6) | Frigiliana › La Axarquía | 21 |
 | Forêt de Antequera | Antequera › Antequera | 20 |
 | Forêt de Cuevas de San Marcos | Cuevas de San Marcos › Nororma | 20 |
 | Bois de Málaga (2) | Málaga › Málaga-Costa del Sol | 20 |
+| Forêt de Montecorto | Montecorto › Serranía de Ronda | 20 |
 | Bois de Marbella (17) | Marbella › Costa del Sol Occidental | 20 |
 | Bois de El Burgo (16) | El Burgo › Sierra de las Nieves | 20 |
 | Forêt de Monda (14) | Monda › Sierra de las Nieves | 20 |
 | Bois de Antequera (29) | Antequera › Antequera | 20 |
+| Bois de Frigiliana (6) | Frigiliana › La Axarquía | 20 |
 | Forêt de Benalmádena (2) | Benalmádena › Costa del Sol Occidental | 20 |
 | Forêt de Coín | Coín › Valle del Guadalhorce | 19 |
 | Forêt de Canillas de Albaida | Canillas de Albaida › La Axarquía | 19 |
 | Forêt de Canillas de Albaida (2) | Canillas de Albaida › La Axarquía | 19 |
-| Forêt de Montecorto | Montecorto › Serranía de Ronda | 19 |
 | Bois de Villanueva del Trabuco | Villanueva del Trabuco › Nororma | 19 |
 | Forêt de Yunquera (2) | Yunquera › Sierra de las Nieves | 19 |
 | Forêt de Tolox (4) | Tolox › Sierra de las Nieves | 19 |
@@ -363,7 +363,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Parauta (10) | Parauta › Serranía de Ronda | 12 |
 | Bois de Alfarnate (4) | Alfarnate › La Axarquía | 12 |
 | Parque Forestal Monte San Antón | Málaga › Málaga-Costa del Sol | 12 |
-| Forêt de Antequera (21) | Antequera › Antequera | 12 |
 | Forêt de Antequera (22) | Antequera › Antequera | 12 |
 | Forêt de Villanueva de la Concepción (3) | Villanueva de la Concepción › Antequera | 12 |
 | Bois de Colmenar (2) | Colmenar › La Axarquía | 12 |
@@ -374,6 +373,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Salares (4) | Salares › La Axarquía | 11 |
 | Bois de Yunquera (28) | Yunquera › Sierra de las Nieves | 11 |
 | Bois de Casarabonela | Casarabonela › Sierra de las Nieves | 11 |
+| Forêt de Antequera (21) | Antequera › Antequera | 11 |
 | Forêt de Málaga (2) | Málaga › Málaga-Costa del Sol | 11 |
 | Forêt de Benamargosa (12) | Benamargosa › La Axarquía | 11 |
 | Bois de Málaga (664) | Málaga › Málaga-Costa del Sol | 11 |
@@ -432,6 +432,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Salares ⚠️ | Salares › La Axarquía | 8 |
 | Bois de El Burgo ⚠️ | El Burgo › Sierra de las Nieves | 8 |
 | Bois de El Burgo (4) ⚠️ | El Burgo › Sierra de las Nieves | 8 |
+| Bois de Yunquera (5) ⚠️ | Yunquera › Sierra de las Nieves | 8 |
 | Bois de Istán (12) ⚠️ | Istán › Sierra de las Nieves | 8 |
 | Bois de Ronda (16) ⚠️ | Ronda › Serranía de Ronda | 8 |
 | Parque Forestal El Lagarillo Blanco ⚠️ | Málaga › Málaga-Costa del Sol | 8 |
@@ -448,8 +449,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Alozaina (4) ⚠️ | Alozaina › Sierra de las Nieves | 7 |
 | Bois de Villanueva del Trabuco (9) ⚠️ | Villanueva del Trabuco › Nororma | 7 |
 | Forêt de Salares (13) ⚠️ | Salares › La Axarquía | 7 |
-| Forêt de Tolox (82) ⚠️ | Tolox › Sierra de las Nieves | 7 |
-| Bois de Yunquera (5) ⚠️ | Yunquera › Sierra de las Nieves | 7 |
 | Bois de Tolox (84) ⚠️ | Tolox › Sierra de las Nieves | 7 |
 | Bois de Yunquera (27) ⚠️ | Yunquera › Sierra de las Nieves | 7 |
 | Bois de El Burgo (10) ⚠️ | El Burgo › Sierra de las Nieves | 7 |
@@ -479,6 +478,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Tolox (58) ⚠️ | Tolox › Sierra de las Nieves | 6 |
 | Forêt de Tolox (76) ⚠️ | Tolox › Sierra de las Nieves | 6 |
 | Forêt de Tolox (81) ⚠️ | Tolox › Sierra de las Nieves | 6 |
+| Forêt de Tolox (82) ⚠️ | Tolox › Sierra de las Nieves | 6 |
 | Bois de Istán (8) ⚠️ | Istán › Sierra de las Nieves | 6 |
 | Bois de Tolox (35) ⚠️ | Tolox › Sierra de las Nieves | 6 |
 | Bois de Tolox (55) ⚠️ | Tolox › Sierra de las Nieves | 6 |
@@ -576,12 +576,13 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Tolox (28) ⚠️ | Tolox › Sierra de las Nieves | 4 |
 | Bois de Ojén (2) ⚠️ | Ojén › Sierra de las Nieves | 4 |
 | Bois de Ojén (3) ⚠️ | Ojén › Sierra de las Nieves | 4 |
-| Bois de Ronda (8) ⚠️ | Ronda › Serranía de Ronda | 4 |
+| Bois de Istán (4) ⚠️ | Istán › Sierra de las Nieves | 4 |
 | Bois de El Burgo (2) ⚠️ | El Burgo › Sierra de las Nieves | 4 |
 | Bois de Málaga (120) ⚠️ | Málaga › Málaga-Costa del Sol | 4 |
 | Bois de Málaga (121) ⚠️ | Málaga › Málaga-Costa del Sol | 4 |
 | Bois de Tolox (47) ⚠️ | Tolox › Sierra de las Nieves | 4 |
 | Bois de Alozaina ⚠️ | Tolox › Sierra de las Nieves | 4 |
+| Bois de Ronda (12) ⚠️ | Ronda › Serranía de Ronda | 4 |
 | Bois de Yunquera (15) ⚠️ | Yunquera › Sierra de las Nieves | 4 |
 | Bois de Monda (17) ⚠️ | Monda › Sierra de las Nieves | 4 |
 | Bois de Yunquera (18) ⚠️ | Yunquera › Sierra de las Nieves | 4 |
@@ -646,6 +647,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de El Borge (3) ⚠️ | El Borge › La Axarquía | 3 |
 | Forêt de Vélez-Málaga (223) ⚠️ | Vélez-Málaga › La Axarquía | 3 |
 | Bois de Marbella (25) ⚠️ | Marbella › Costa del Sol Occidental | 3 |
+| Bois de Marbella (48) ⚠️ | Marbella › Costa del Sol Occidental | 3 |
 | Bois de Marbella (51) ⚠️ | Marbella › Costa del Sol Occidental | 3 |
 | Bois de Marbella (73) ⚠️ | Marbella › Costa del Sol Occidental | 3 |
 | Bois de Mijas (34) ⚠️ | Mijas › Costa del Sol Occidental | 3 |
@@ -660,13 +662,13 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Salares (10) ⚠️ | Salares › La Axarquía | 3 |
 | Forêt de Sedella (10) ⚠️ | Sedella › La Axarquía | 3 |
 | Forêt de Ojén (53) ⚠️ | Ojén › Sierra de las Nieves | 3 |
+| Bois de Tolox (4) ⚠️ | Tolox › Sierra de las Nieves | 3 |
 | Forêt de Tolox (61) ⚠️ | Tolox › Sierra de las Nieves | 3 |
 | Bois de Tolox (10) ⚠️ | Tolox › Sierra de las Nieves | 3 |
-| Bois de Istán (4) ⚠️ | Istán › Sierra de las Nieves | 3 |
+| Bois de Ronda (8) ⚠️ | Ronda › Serranía de Ronda | 3 |
 | Bois de El Burgo (3) ⚠️ | El Burgo › Sierra de las Nieves | 3 |
 | Bois de Tolox (36) ⚠️ | Tolox › Sierra de las Nieves | 3 |
 | Bois de Yunquera ⚠️ | Yunquera › Sierra de las Nieves | 3 |
-| Bois de Ronda (12) ⚠️ | Ronda › Serranía de Ronda | 3 |
 | Bois de Tolox (69) ⚠️ | Tolox › Sierra de las Nieves | 3 |
 | Bois de Yunquera (9) ⚠️ | Yunquera › Sierra de las Nieves | 3 |
 | Bois de Istán (14) ⚠️ | Istán › Sierra de las Nieves | 3 |
@@ -722,7 +724,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Benahavís (25) ⚠️ | Benahavís › Costa del Sol Occidental | 3 |
 | Bois de Montejaque (4) ⚠️ | Montejaque › Serranía de Ronda | 3 |
 | Bois de Ojén (9) ⚠️ | Ojén › Sierra de las Nieves | 3 |
-| Parc de Málaga (255) ⚠️ | Málaga › Málaga-Costa del Sol | 3 |
 | Parque de Huelin ⚠️ | Málaga › Málaga-Costa del Sol | 2 |
 | Parc de Vélez-Málaga ⚠️ | Vélez-Málaga › La Axarquía | 2 |
 | Pinar Molino del Moro ⚠️ | Torremolinos › Costa del Sol Occidental | 2 |
@@ -766,6 +767,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Viñuela (44) ⚠️ | Viñuela › La Axarquía | 2 |
 | Forêt de Vélez-Málaga (89) ⚠️ | Vélez-Málaga › La Axarquía | 2 |
 | Forêt de Vélez-Málaga (112) ⚠️ | Vélez-Málaga › La Axarquía | 2 |
+| Forêt de Vélez-Málaga (133) ⚠️ | Vélez-Málaga › La Axarquía | 2 |
 | Forêt de Rincón de la Victoria (2) ⚠️ | Rincón de la Victoria › La Axarquía | 2 |
 | Forêt de Vélez-Málaga (150) ⚠️ | Vélez-Málaga › La Axarquía | 2 |
 | Forêt de Almáchar (3) ⚠️ | Almáchar › La Axarquía | 2 |
@@ -778,9 +780,9 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Rincón de la Victoria (38) ⚠️ | Rincón de la Victoria › La Axarquía | 2 |
 | Bois de Marbella (18) ⚠️ | Marbella › Costa del Sol Occidental | 2 |
 | Bois de Marbella (30) ⚠️ | Marbella › Costa del Sol Occidental | 2 |
+| Bois de Marbella (31) ⚠️ | Marbella › Costa del Sol Occidental | 2 |
 | Bois de Ojén ⚠️ | Ojén › Sierra de las Nieves | 2 |
 | Parc de Marbella (57) ⚠️ | Marbella › Costa del Sol Occidental | 2 |
-| Bois de Marbella (48) ⚠️ | Marbella › Costa del Sol Occidental | 2 |
 | Forêt de Marbella (18) ⚠️ | Marbella › Costa del Sol Occidental | 2 |
 | Parque de los Niños ⚠️ | Estepona › Costa del Sol Occidental | 2 |
 | Bois de Cártama (3) ⚠️ | Cártama › Valle del Guadalhorce | 2 |
@@ -817,13 +819,13 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Málaga (97) ⚠️ | Málaga › Málaga-Costa del Sol | 2 |
 | Bois de Ronda (3) ⚠️ | Ronda › Serranía de Ronda | 2 |
 | Bois de Tolox (3) ⚠️ | Tolox › Sierra de las Nieves | 2 |
-| Bois de Tolox (4) ⚠️ | Tolox › Sierra de las Nieves | 2 |
 | Forêt de Tolox (41) ⚠️ | Tolox › Sierra de las Nieves | 2 |
 | Forêt de Tolox (42) ⚠️ | Tolox › Sierra de las Nieves | 2 |
 | Forêt de Tolox (51) ⚠️ | Tolox › Sierra de las Nieves | 2 |
 | Forêt de Tolox (59) ⚠️ | Tolox › Sierra de las Nieves | 2 |
 | Forêt de Tolox (63) ⚠️ | Tolox › Sierra de las Nieves | 2 |
 | Forêt de Tolox (65) ⚠️ | Tolox › Sierra de las Nieves | 2 |
+| Forêt de Tolox (79) ⚠️ | Tolox › Sierra de las Nieves | 2 |
 | Forêt de Monda (7) ⚠️ | Monda › Sierra de las Nieves | 2 |
 | Forêt de Monda (9) ⚠️ | Monda › Sierra de las Nieves | 2 |
 | Bois de Tolox (21) ⚠️ | Tolox › Sierra de las Nieves | 2 |
@@ -868,7 +870,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Málaga (176) ⚠️ | Málaga › Málaga-Costa del Sol | 2 |
 | Bois de Tolox (97) ⚠️ | Tolox › Sierra de las Nieves | 2 |
 | Forêt de Cómpeta ⚠️ | Cómpeta › La Axarquía | 2 |
-| Bois de Canillas de Albaida (3) ⚠️ | Canillas de Albaida › La Axarquía | 2 |
 | Parc de Málaga (157) ⚠️ | Málaga › Málaga-Costa del Sol | 2 |
 | Parque 54 ⚠️ | Rincón de la Victoria › La Axarquía | 2 |
 | Bois de Málaga (247) ⚠️ | Málaga › Málaga-Costa del Sol | 2 |
@@ -931,6 +932,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parque Virgen de Araceli ⚠️ | Málaga › Málaga-Costa del Sol | 2 |
 | Parque de Málaga ⚠️ | Málaga › Málaga-Costa del Sol | 2 |
 | Jardines Calle Pirandello ⚠️ | Málaga › Málaga-Costa del Sol | 2 |
+| Parc de Málaga (255) ⚠️ | Málaga › Málaga-Costa del Sol | 2 |
 | Parc de Málaga (261) ⚠️ | Málaga › Málaga-Costa del Sol | 2 |
 | Bois de Málaga (722) ⚠️ | Málaga › Málaga-Costa del Sol | 2 |
 | Bois de Málaga (726) ⚠️ | Málaga › Málaga-Costa del Sol | 2 |
@@ -965,7 +967,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Algarrobo ⚠️ | Algarrobo › La Axarquía | 1 |
 | Bois de Málaga (5) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Bois de Málaga (6) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
-| Parque del Carmen ⚠️ | Estepona › Costa del Sol Occidental | 1 |
 | Forêt de Mijas (13) ⚠️ | Mijas › Costa del Sol Occidental | 1 |
 | Forêt de Mijas (79) ⚠️ | Mijas › Costa del Sol Occidental | 1 |
 | Forêt de Mijas (81) ⚠️ | Mijas › Costa del Sol Occidental | 1 |
@@ -987,7 +988,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Alhaurín el Grande (2) ⚠️ | Alhaurín el Grande › Valle del Guadalhorce | 1 |
 | Forêt de Alhaurín el Grande (4) ⚠️ | Alhaurín el Grande › Valle del Guadalhorce | 1 |
 | Forêt de Alhaurín el Grande (6) ⚠️ | Alhaurín el Grande › Valle del Guadalhorce | 1 |
-| Forêt de Alhaurín el Grande (15) ⚠️ | Alhaurín el Grande › Valle del Guadalhorce | 1 |
 | Forêt de Alhaurín el Grande (17) ⚠️ | Alhaurín el Grande › Valle del Guadalhorce | 1 |
 | Forêt de Alhaurín el Grande (19) ⚠️ | Alhaurín el Grande › Valle del Guadalhorce | 1 |
 | Forêt de Alhaurín el Grande (21) ⚠️ | Alhaurín el Grande › Valle del Guadalhorce | 1 |
@@ -1092,7 +1092,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Vélez-Málaga (104) ⚠️ | Vélez-Málaga › La Axarquía | 1 |
 | Forêt de Riogordo ⚠️ | Riogordo › La Axarquía | 1 |
 | Forêt de Riogordo (2) ⚠️ | Riogordo › La Axarquía | 1 |
-| Forêt de Vélez-Málaga (133) ⚠️ | Vélez-Málaga › La Axarquía | 1 |
 | Forêt de Vélez-Málaga (135) ⚠️ | Vélez-Málaga › La Axarquía | 1 |
 | Bois de Málaga (22) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Forêt de Vélez-Málaga (138) ⚠️ | Vélez-Málaga › La Axarquía | 1 |
@@ -1120,7 +1119,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc de Villanueva del Trabuco (24) ⚠️ | Villanueva del Trabuco › Nororma | 1 |
 | Parque Martiricos ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Forêt de Algarrobo (15) ⚠️ | Algarrobo › La Axarquía | 1 |
-| Forêt de Algarrobo (24) ⚠️ | Algarrobo › La Axarquía | 1 |
 | Forêt de Algarrobo (25) ⚠️ | Algarrobo › La Axarquía | 1 |
 | Forêt de Sayalonga (2) ⚠️ | Sayalonga › La Axarquía | 1 |
 | Parc de Málaga (63) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
@@ -1145,7 +1143,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Marbella (22) ⚠️ | Marbella › Costa del Sol Occidental | 1 |
 | Bois de Marbella (23) ⚠️ | Marbella › Costa del Sol Occidental | 1 |
 | Bois de Marbella (29) ⚠️ | Marbella › Costa del Sol Occidental | 1 |
-| Bois de Marbella (31) ⚠️ | Marbella › Costa del Sol Occidental | 1 |
 | Bois de Marbella (38) ⚠️ | Marbella › Costa del Sol Occidental | 1 |
 | Bois de Marbella (88) ⚠️ | Marbella › Costa del Sol Occidental | 1 |
 | Parc de Manilva (2) ⚠️ | Manilva › Costa del Sol Occidental | 1 |
@@ -1206,6 +1203,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc de Málaga (121) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Bois de Málaga (61) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Parc de Cártama (7) ⚠️ | Cártama › Valle del Guadalhorce | 1 |
+| Forêt de Torremolinos (2) ⚠️ | Torremolinos › Costa del Sol Occidental | 1 |
 | Parque Ocio Water wheel ⚠️ | Torremolinos › Costa del Sol Occidental | 1 |
 | Parc de Málaga (125) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Bois de Málaga (63) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
@@ -1240,12 +1238,12 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Forêt de Tolox (73) ⚠️ | Tolox › Sierra de las Nieves | 1 |
 | Forêt de Tolox (75) ⚠️ | Tolox › Sierra de las Nieves | 1 |
 | Forêt de Tolox (78) ⚠️ | Tolox › Sierra de las Nieves | 1 |
-| Forêt de Tolox (79) ⚠️ | Tolox › Sierra de las Nieves | 1 |
 | Forêt de Monda (8) ⚠️ | Monda › Sierra de las Nieves | 1 |
 | Bois de Monda ⚠️ | Monda › Sierra de las Nieves | 1 |
 | Forêt de Tolox (85) ⚠️ | Tolox › Sierra de las Nieves | 1 |
 | Bois de Tolox (11) ⚠️ | Tolox › Sierra de las Nieves | 1 |
 | Bois de Tolox (14) ⚠️ | Tolox › Sierra de las Nieves | 1 |
+| Bois de Tolox (18) ⚠️ | Tolox › Sierra de las Nieves | 1 |
 | Bois de Tolox (20) ⚠️ | Tolox › Sierra de las Nieves | 1 |
 | Bois de Ronda (4) ⚠️ | Ronda › Serranía de Ronda | 1 |
 | Bois de Istán ⚠️ | Istán › Sierra de las Nieves | 1 |
@@ -1349,10 +1347,10 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Bois de Málaga (177) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Bois de Tolox (98) ⚠️ | Tolox › Sierra de las Nieves | 1 |
 | Bois de Tolox (99) ⚠️ | Tolox › Sierra de las Nieves | 1 |
-| Parque Pintor Antonio Segovia ⚠️ | Mollina › Antequera | 1 |
 | Parc de Málaga (151) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Forêt de Cómpeta (2) ⚠️ | Cómpeta › La Axarquía | 1 |
 | Bois de Canillas de Albaida (2) ⚠️ | Canillas de Albaida › La Axarquía | 1 |
+| Bois de Canillas de Albaida (3) ⚠️ | Canillas de Albaida › La Axarquía | 1 |
 | Bois de Canillas de Albaida (4) ⚠️ | Canillas de Albaida › La Axarquía | 1 |
 | Bois de Málaga (179) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Forêt de Periana (25) ⚠️ | Periana › La Axarquía | 1 |
@@ -1361,7 +1359,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc de Alhaurín el Grande (3) ⚠️ | Alhaurín el Grande › Valle del Guadalhorce | 1 |
 | Forêt de Cútar (6) ⚠️ | Cútar › La Axarquía | 1 |
 | Parc de Málaga (159) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
-| Parc de Málaga (175) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Bois de Málaga (197) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Bois de Málaga (203) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Bois de Málaga (209) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
@@ -1508,6 +1505,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parque Cruz de San Jorge ⚠️ | Ronda › Serranía de Ronda | 1 |
 | Bois de Mijas (64) ⚠️ | Mijas › Costa del Sol Occidental | 1 |
 | Forêt de Mijas (392) ⚠️ | Mijas › Costa del Sol Occidental | 1 |
+| Forêt de Mijas (403) ⚠️ | Mijas › Costa del Sol Occidental | 1 |
 | Forêt de Mijas (418) ⚠️ | Mijas › Costa del Sol Occidental | 1 |
 | Bois de Mijas (98) ⚠️ | Mijas › Costa del Sol Occidental | 1 |
 | Bois de Mijas (99) ⚠️ | Mijas › Costa del Sol Occidental | 1 |
@@ -1570,7 +1568,6 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Jardines de Picasso ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Parque de la Constitución (2) ⚠️ | Marbella › Costa del Sol Occidental | 1 |
 | Parque Santo Cristo ⚠️ | Cártama › Valle del Guadalhorce | 1 |
-| Parc de Málaga (259) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Parc de Málaga (260) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Bois de Málaga (723) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
 | Bois de Málaga (724) ⚠️ | Málaga › Málaga-Costa del Sol | 1 |
@@ -1578,7 +1575,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parque del Castillo de Papabellotas ⚠️ | Antequera › Antequera | 1 |
 | Bois de Álora (109) ⚠️ | Álora › Valle del Guadalhorce | 1 |
 
-3 180 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
+3 183 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
 
 ⚠️ 4364 parc(s) hors de la fenêtre 10–125 cellules (4353 trop petit(s), 11 trop grand(s)) : affichés sur la carte, mais ils ne peuvent pas servir de cible à un défi.
 

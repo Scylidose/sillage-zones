@@ -1,6 +1,6 @@
 # Couronne Nord (Laurentides–Lanaudière)
 
-Pack `qc-couronne-nord` · version 1.2.2 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-couronne-nord` · version 1.2.3 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
@@ -48,7 +48,7 @@ Les cellules boisées et celles que traverse un cours d'eau forment deux autres 
 | Saint-Jérôme | 4 670 | 1 | 4 669 | 0 | **4 669** | 185 (4 %) | 79 |
 | Saint-Eustache | 3 710 | 126 | 3 584 | 0 | **3 584** | 688 (19 %) | 34 |
 | Repentigny | 3 656 | 552 | 3 104 | 0 | **3 104** | 618 (20 %) | 82 |
-| Oka | 4 413 | 1 514 | 2 899 | 0 | **2 899** | 171 (6 %) | 8 |
+| Oka | 4 413 | 1 514 | 2 899 | 0 | **2 899** | 171 (6 %) | 7 |
 | Blainville | 2 842 | 35 | 2 807 | 248 | **2 559** | 82 (3 %) | 55 |
 | Saint-Joseph-du-Lac | 2 120 | 15 | 2 105 | 0 | **2 105** | 171 (8 %) | 12 |
 | Saint-Sulpice | 1 863 | 0 | 1 863 | 0 | **1 863** | 796 (43 %) | 2 |
@@ -75,7 +75,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc du Domaine Vert (2) | Mirabel | 99 |
 | Parc régional Bois de Belle-Rivière | Mirabel | 88 |
 | Parc Faunique Domaine du Parc (Ruisseau de Feu) | Terrebonne | 75 |
-| Parc du Grand-Coteau | Mascouche | 64 |
+| Parc du Grand-Coteau | Mascouche | 65 |
 | Parc régional de la Rivière-du-Nord | Saint-Jérôme | 62 |
 | Parc nature Saint-Eustache | Saint-Eustache | 61 |
 | Parc de Blainville (3) | Blainville | 30 |
@@ -215,6 +215,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | ParcThifault ⚠️ | Repentigny | 1 |
 | Parc Optimiste ⚠️ | Oka | 1 |
 | Parc Pager ⚠️ | Mirabel | 1 |
+| Parc de Mirabel ⚠️ | Mirabel | 1 |
 | Parc Lacombe ⚠️ | Mirabel | 1 |
 | Parc du Gouffre ⚠️ | Terrebonne | 1 |
 | Parc Des Artisants ⚠️ | Repentigny | 1 |
@@ -432,7 +433,7 @@ Cellules réellement offertes : dans le parc, hors eau et hors zone restreinte �
 | Parc Le Rucher ⚠️ | Mascouche | 1 |
 | Parc Jean-Baptiste-Meilleur ⚠️ | Repentigny | 1 |
 
-411 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
+410 parc(s) plus petits qu'une cellule ne sont pas listés : la carte les dessine, mais ils n'offrent aucune cellule.
 
 ⚠️ 760 parc(s) hors de la fenêtre 10–125 cellules (758 trop petit(s), 2 trop grand(s)) : affichés sur la carte, mais ils ne peuvent pas servir de cible à un défi.
 
