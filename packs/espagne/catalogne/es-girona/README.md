@@ -1,6 +1,6 @@
 # Province de Gérone
 
-Pack `es-girona` · version 1.0.2 · grille 200 m · Espagne › Catalogne
+Pack `es-girona` · version 1.0.3 · grille 200 m · Espagne › Catalogne
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 

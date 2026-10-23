@@ -1,6 +1,6 @@
 # Sherbrooke
 
-Pack `qc-sherbrooke` · version 1.0.1 · grille 200 m · Canada › Québec › Estrie
+Pack `qc-sherbrooke` · version 1.0.2 · grille 200 m · Canada › Québec › Estrie
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 

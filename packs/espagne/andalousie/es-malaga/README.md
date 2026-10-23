@@ -1,6 +1,6 @@
 # Province de Málaga
 
-Pack `es-malaga` · version 1.1.4 · grille 200 m · Espagne › Andalousie
+Pack `es-malaga` · version 1.1.5 · grille 200 m · Espagne › Andalousie
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 

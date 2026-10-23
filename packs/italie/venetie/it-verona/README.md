@@ -1,6 +1,6 @@
 # Province de Vérone
 
-Pack `it-verona` · version 1.0.4 · grille 200 m · Italie › Vénétie
+Pack `it-verona` · version 1.0.5 · grille 200 m · Italie › Vénétie
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 

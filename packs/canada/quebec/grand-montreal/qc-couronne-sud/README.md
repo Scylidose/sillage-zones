@@ -1,6 +1,6 @@
 # Couronne Sud (Montérégie)
 
-Pack `qc-couronne-sud` · version 1.2.3 · grille 200 m · Canada › Québec › Grand Montréal
+Pack `qc-couronne-sud` · version 1.2.4 · grille 200 m · Canada › Québec › Grand Montréal
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
