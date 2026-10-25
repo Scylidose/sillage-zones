@@ -2,6 +2,36 @@
   "formatVersion": 1,
   "packs": [
     {
+      "id": "es-asturias",
+      "name": "Principauté des Asturies",
+      "groups": [
+        "Espagne",
+        "Asturies"
+      ],
+      "country": "Espagne",
+      "region": "Asturies",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -7.183169,
+        42.882543,
+        -4.510707,
+        43.666532
+      ],
+      "zoneCount": 78,
+      "footprint": {
+        "cols": 96,
+        "rows": 39,
+        "cells": "AAEAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA//gAAAAAAAAAAAAA//4AAAAAAAAAAAAA//gAAA4AAAAAAAAD//8AAB4AAAAAAAAX//8AAH4AAAAAAAAP//8eYP8HgAAAAAAP//+/4P+/0AAAAAAP////////+AAAAAAB////////++AAAAAA//////////4AAAAIf/////////4AAAAcf/////////4AAAAe//////////8gAAAO///////////g8AA////////////x8AB////////////98AD/////////////8AD//////////////iD//////////////3H///////////////P//////3////////P//////////////+P/////////////////////////////////////////////+AH/////////////gAH////////////4AAB///////////4AAAB//////////8AAAAB/////////94AAAAB/////7///8AAAAAAv94e////AAAAAAAAAAAAGB/9AAAAAAAAAAAAAAP4AAAAAAAAAAAAAADwAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA"
+      },
+      "parkCount": 6396,
+      "downloadBytes": 2463034,
+      "installedBytes": 10438696,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-asturias-1.0.0/es-asturias-1.0.0.zip",
+      "sha256": "fe05ccc024b6ac8a880b7f0701e5400bd229d939ece3746b1aa6694f542de147"
+    },
+    {
       "id": "es-barcelona",
       "name": "Province de Barcelone",
       "groups": [
@@ -62,6 +92,36 @@
       "sha256": "7cb9b11fbda3ba662d0fbd502ff8d44bf97af5c0b9d6c984a1df450e62ce0ddf"
     },
     {
+      "id": "es-lleida",
+      "name": "Province de Lérida",
+      "groups": [
+        "Espagne",
+        "Catalogne"
+      ],
+      "country": "Espagne",
+      "region": "Catalogne",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        0.321128,
+        41.274125,
+        1.855058,
+        42.861442
+      ],
+      "zoneCount": 231,
+      "footprint": {
+        "cols": 69,
+        "rows": 96,
+        "cells": "GAAAAAAAAAABxHAAAAAAAAAOc/gAAAAAAAD7/+gAAAAAAAP//+wAAAAAAB////wAAAAAAf///+AAAAAAH////4AAAAAAf////wAAAAAD///v+AAAAAAP//3/4AAAAAD/////AAAAAAf///fzwAAAAAf///++AAAAADv////wAAAAAP////+AAAAAA/////8AAAAAP/////gMAAAB///////AAAAv/v////8AAAf//////+AAAD///////4AAAf///////4AAH///////+AAA////////gAAD/////9/4AAAP/v/////AAAA///////8AAAH///////gAAAP//////8EAAAf//////hwAAD//////8fAAAP///////4AAAf///////gAAD///////+AAAH/3/////wAAAf//////0AAAD///////BAAAf/7////8AAAH///////wAAB////7///AAAH/3//f//4AAAX///+///QAAA/3/////5AAAH////v//gAAA////9//8AAAD///////wAAAf9/////8AAAD/v/////wAAAf///////AAAB///////AAAAP//////2AAAB///////wAAAP///////gAAB///////8AAAP/f////+AAAA/9//7//gAAAH//////8AAAA///////wAAAD//////8AAAAf//////wAAAD///////oAAAf///////wAAB///////+AAAf///////wAAD////////AAAf///////4AAD///////8AAA////////gAAH///////8AAA/////4f8AAAP////+A/AAAB/////wA4AAAH////8AHAAAAf////4AAAAAH/////AAAAAAf+3//oAAAAAD////+AAAAAAP////wAAAAAB/v//+AAAAAAP////wAAAAAP////+AAAAAB7////gAAAAAP//v/8AAAAAD/////AAAAAA/////4AAAAAD////8AAAAAAf//8YgAAAAAD///gAAAAAAB///4AAAAAAAH//+AAAAAAAA//8AAAAAAAAD/wAAAAAAAAAf4AAAAAAAAAH0AAAAAAAAAAcAAAAAAAA"
+      },
+      "parkCount": 8301,
+      "downloadBytes": 4124558,
+      "installedBytes": 15585683,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-lleida-1.0.0/es-lleida-1.0.0.zip",
+      "sha256": "66b1447b045dda12692b3b3f09e6d0596394382baa877dad092ba2f01bd638f7"
+    },
+    {
       "id": "es-malaga",
       "name": "Province de Málaga",
       "groups": [
@@ -90,6 +150,36 @@
       "installedBytes": 7289443,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-malaga-1.1.5/es-malaga-1.1.5.zip",
       "sha256": "59ad8f6d2dfa45b66ebfd3b5d11441220e96efc9782fb7c5fc294b67708e43b7"
+    },
+    {
+      "id": "es-tarragona",
+      "name": "Province de Tarragone",
+      "groups": [
+        "Espagne",
+        "Catalogne"
+      ],
+      "country": "Espagne",
+      "region": "Catalogne",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        0.159413,
+        40.522982,
+        1.653088,
+        41.582606
+      ],
+      "zoneCount": 184,
+      "footprint": {
+        "cols": 96,
+        "rows": 90,
+        "cells": "AAAGAAAAAAAAAAAAAAAeAAAAAAAAAAAAAAA/BgAAAAAAAAAAAAA/D4AAAAAAAAAAAAA/j+AAAAAAAAAAAAB/wOAAAAAAAAAAAAD/4AAAAAAAAAAAAB//8AAAAAAAAAAAAH///AAAAAAAAAAAAP///8AAAAAAAAAAAf///3oAAAAAAAAAAf///9+AAAAAAAAAAf/////gAAAAAAAAAP/////wAAAAAAAAAP////94AAAAAAAABf//8/3wAAAAAAAAD////r/0AAAAAAAAb//////wAAAAAAAA////3/9AAAAAAAAAf///v//AAAAAAAAAH/////2AAAAAAAAAB/////EAAAAAAAAAB////+cAAAAAAAAAA//9/+AAAAAAAAAAAf///+AAAAAAAAAAAP////gAAAAAAAAAAf////wAAAAAAAAAA/////wAAAAAAAAAA/////4AAAAAAAAAA//9//+AAAAAAAAAB//////AAAAAAAAAA//7///AAAAAAAAAA//9///gAAAAAAAAA//////wAAAAAAAAAf/////wAAAAAAAAAf/////4AAAAAAAAAP/////8AAAAAAAAAP/////+AAAAAAAAAP//////AAAAAAAAAP//////wAAAAAAAAf//////wAAAAAAAAf//////4AAAAAAAAf//7///4AAAAAAAA///////+AAAAAAAB////////gAAAAAAD////////wCAAAAAD/////////nAAAAAD//////////AAAAAH//////////gAAAAH//////////0AAAAH////f//////AAAAH///////////2AAAA///////3////wAAAP///////////8AAAH////////////AAAH////////////4AAD/////////////wAD/////////////+AD//////////////AB/////////////+AAX////////////wAAO////////////gAAP////////////8AAP////////////8AAA////////////8AAA88//////////wAAA44P9////////wAAA4YAP////////gAAAQAAP////////gAAAAAAAb///////AAAAAAAAQH//////gAAAAAAAAD//////gAAAAAAAAD/////+AAAAAAAAAB/////oAAAAAAAAAA/////gAAAAAAAAAAP////gAAAAAAAAAAH////gAAAAAAAAAAH////wAAAAAAAAAAD////AAAAAAAAAAAB////gAAAAAAAAAAHv///gAAAAAAAAAAGB///gAAAAAAAAAAEB//+AAAAAAAAAAAAB//wAAAAAAAAAAAAB//wAAAAAAAAAAAAB//wAAAAAAAAAAAAB//+AAAAAAAAAAAAAP/8AAAAAAAAAAAAAP/OAAAAAAAAAAAAAAAcAA"
+      },
+      "parkCount": 5000,
+      "downloadBytes": 2024148,
+      "installedBytes": 7578754,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-tarragona-1.0.0/es-tarragona-1.0.0.zip",
+      "sha256": "c13f210832fcbce9250cd38abc88bfbd8db91d765ed21177b711203ef99c9671"
     },
     {
       "id": "fr-aude",
@@ -212,6 +302,36 @@
       "sha256": "8ea5dbfc485fddb7f09086134b5e42be608d2e090460f8a2246359f3d73d7c49"
     },
     {
+      "id": "fr-val-de-marne",
+      "name": "Val-de-Marne",
+      "groups": [
+        "France",
+        "Île-de-France"
+      ],
+      "country": "France",
+      "region": "Île-de-France",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        2.308657,
+        48.687617,
+        2.615768,
+        48.861413
+      ],
+      "zoneCount": 47,
+      "footprint": {
+        "cols": 96,
+        "rows": 82,
+        "cells": "AAAAAAAAAAAAGAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAP4AAAAAAAAAAAAAAf8AAAAAAAAAAAAAAf/gAAAAAAAAAAAABf/AAAAAAAAAAAAAH/+AAAAAAAAAAAAAH/8AAAAAAAAAAAAAH/8AAAAAAAAAAAAAH/4AAAAAAAAAAAAAf/4AAAAAAAAAAAAAf/8AAAAAAAAAAAAA//+AAAAAAAAAQAAB///AAAAAAAAAQAAB/f/AAAAAbAEAgAAB///AAAAAf8PA4AAB///gAAAAf8P5+AAB///wAAAAf////AAB///wAAAAf///fvgB/3/4AAAAf///f/4D///8AAAAf//7f/+H///+AAAAf///f//v///+AAAAf///f//////+AAAIf//6///////8AAH8f//5///////4AAH+f//9///////4AAP+f//b///////8AAf////3////////AG/////v////////g//////f////////gf////+//f//////g//////3/f//////gf/////v////////Af////8v////////+P////7v6////////P////3v5///////+P////3v////////+H//////////////+D//////5//////98D////3fz//////4YD////3/3//////4AB////7/3//////4AB////7/3//////4AB////9/v+f////8AB////9///gD///8AB///////9/9///+AH////+//7/////+AH////+/////f///AD////+/////////gD////+/////////gD////9/////////AD////7//3/////+AB////7////////+AB////3////////+AB////v//v//f///AH////v//f/////8AH////v/+//7///4AA////v/9/3////gAA////v/7+////+AAAf///vzl7////8AAAAQf/f/R3////4AAAAAH9/4A/////8AAAAAB//wAP////8AAAAAA/8AAf////4AAAAAAPgAAf////gAAAAAADAAAX////gAAAAAAAAAAd+9//AAAAAAAAAAAf///8AAAAAAAAOAAP///4AAAAAAAAGAAP///AAAAAAAAAGAAP///AAAAAAAAAGMAf///AAAAAAAAAG8B//7+AAAAAAAAAH+f///wAAAAAAAAAD////7wAAAAAAAAAAP///+AAAAAAAAAAAHf//8AAAAAAAAAAAAP//wAAAAAAAAAAAAA//wAAAAAAAAAAAAAf8AAAAAAAAAAAAAAK6AAAAAA"
+      },
+      "parkCount": 2003,
+      "downloadBytes": 364787,
+      "installedBytes": 1585029,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-val-de-marne-1.0.0/fr-val-de-marne-1.0.0.zip",
+      "sha256": "dbd0765c0cba6b226c8600c748ac4055d37906a6f4dada5b7a85a427c2809a31"
+    },
+    {
       "id": "it-verona",
       "name": "Province de Vérone",
       "groups": [
@@ -302,6 +422,37 @@
       "installedBytes": 2589778,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-couronne-sud-1.2.4/qc-couronne-sud-1.2.4.zip",
       "sha256": "38d1c1892b8353cc8637d49be141944ae7ebc8e2d7983719c8f836ceea069909"
+    },
+    {
+      "id": "qc-joliette",
+      "name": "Joliette (Lanaudière)",
+      "groups": [
+        "Canada",
+        "Québec",
+        "Lanaudière"
+      ],
+      "country": "Canada",
+      "region": "Québec",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -73.637824,
+        45.90453,
+        -73.233763,
+        46.205631
+      ],
+      "zoneCount": 10,
+      "footprint": {
+        "cols": 89,
+        "rows": 96,
+        "cells": "AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAPAAAAAAAAAAAAAA+AAAAAAAAAAAAAD+AAAAAAAAAAAAAP+AAAAAAAAAAAAA/+AAAAAAAAAAAAP/+AAAAAAAAAAAA//8AAAAAAAAAAAD//8AAAAAAAAAAAP//wAAAAAAAAAAA///gAAAAAAAAAAD///gAAAAAAAAAAH///AAAAAAAAAAAf//+AAAAAAAAAAA///8AAAAAAAAABD9//8EAAAAAAAAf////4QAAAAAAAD////vhwAAAAAAA//P///ngAAAAAAH/9/////gAAAAAAf/f/////gAAAAAA//X/////gAAAAAA////////AAAAAAA///////8AAAAAAA///////8AAAAAAA///97f/8AAAAAAAf//9///8AAAAAAB///////8AAAAAAH///////YAAAAAAf///////4AAAAAA////////wAAAAAA////////wAAAAAA///v////wAAAAAA////////wAAAAAB////////wAAAAAH////////gAAAAAf//v/////gAAAAA///f/////AAAAAB/////////AAABAH////////+AAAHBf////////+AAAfH/////////8AAB/f/////////8AAH/////f/////4AAf/////f/////+AB/////f//////8AH/////f//////8Af////vv//37//+B////////4AH//4H////////gAN//gf///////8AAaf+B////+v/+AAAU/4H////7//4AAAh8Af///////wAABAAB////3///gAAAAAB////////IAAAAAB////3///wAAAAAB///+////gAAAAAB////////AAAAAAB///////+AAAAAAB///////8AAAAAAB///////4AAAAAAB3//////gAAAAAAB///////AAAAAAAB///7//+AAAAAAAB//////8AAAAAAAA////AB4AAAAAAAA////ADgAAAAAAAA///+AAAAAAAAAAA///8KAAAAAAAAAD///8cAAAAAAAAAP///+YAAAAAAAAA/////gAAAAAAAAD///4yAAAAAAAAAP///BAAAAAAAAAA///+GAAAAAAAAAD///4IAAAAAAAAAH///wAAAAAAAAAAH3//gAAAAAAAAAAH///wAAAAAAAAAAH///gAAAAAAAAAAH///AAAAAAAAAAAH//4AAAAAAAAAAAHf/8AAAAAAAAAAAH//8AAAAAAAAAAAf//4AAAAAAAAAAA//+QAAAAAAAAAAD//wAAAAAAAAAAAP//AAAAAAAAAAAA//wAAAAAAAAAAAA//AAAAAAAAAAAAA/4AAAAAAAAAAAAA8AAAAAAAAAAAAAAwAAAAAAAAAAAAABAAAAAAAAAAAA"
+      },
+      "parkCount": 95,
+      "downloadBytes": 223990,
+      "installedBytes": 812434,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-joliette-1.0.0/qc-joliette-1.0.0.zip",
+      "sha256": "b6ef6b06150f83535e1073441d3079fd9159b205d01e0f33c45c8e36cef9d3a9"
     },
     {
       "id": "qc-laval",
