@@ -62,6 +62,36 @@
       "sha256": "0291534acfe0969ee11d1bcb1c024c1a1976e9cc6167f474ed054c734d9640e6"
     },
     {
+      "id": "es-cantabria",
+      "name": "Cantabrie",
+      "groups": [
+        "Espagne",
+        "Cantabrie"
+      ],
+      "country": "Espagne",
+      "region": "Cantabrie",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -4.851735,
+        42.75805,
+        -3.149652,
+        43.513707
+      ],
+      "zoneCount": 103,
+      "footprint": {
+        "cols": 96,
+        "rows": 58,
+        "cells": "AAAAAAAYYAAAAAAAAAAAAAAY+AAAAAAAAAAAAAE8/YAAAAAAAAAAAAHc/8AAAAAAAAAAAAHe/8AAAAAAAAAAAAH+/8AAAAAAAAAAAAB//8AAAAAAAAAAABx//YAAAAAAAAAAAB7/+cAAAAAAAAAAAB///YAAAAAAAAAAAB///AAAAAAAAAAAAB//+wAAAAAAAAAAAB//h8AAAAAAAAAAAB//g4AAAAAAAAAAAB//gwAAAAAAAAAAAD//gAAAAAAAAAAAD//7wAAAAAAAAAAAD//3QAAAAAAAAAAAH//nAAAAAAAAAAAAH///gAAAAAAAAziAP///4AAAAAAAA//Af////AAAAAAAA//5///9/4AAAAAAB////////4AAAAAAB//////+/wAAAAAAH//////9f/wAAAAAf/////////4AAAAAf/////////+AAAAA//////////+AAAAA///////////AH4AAf//////////D/wAAf//////////j/wAAP////////////wAAAf///////////wAAAf3//////////wCAAf///////////gCAAf///////////gCAAf///////////4DAAf//f////////8DAAA+//////////+AAAAef//////////gIAAAf///////////8AAAf////////////AAA/////3///////AAAf//////3/////AAA///////9/////AAA////////////4AAAf///////////wAAAf/3///////f/wAAAACAf9/9f///2AAAAAAAB//8///TAAAAAAAAAf/+///AAAAAAAAAAFv8f//wAAAAAAAAAAP+P//wAAAAAAAAAAH/n//AAAAAAAAAAAAHA/4AAAAAAAAAAAAAAPwAAAAAAAAAAAAAADwAAA"
+      },
+      "parkCount": 4384,
+      "downloadBytes": 1682899,
+      "installedBytes": 6909370,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-cantabria-1.0.0/es-cantabria-1.0.0.zip",
+      "sha256": "034a52b23b2ecdd25a6a804b9693e75157bcd464d42ecca5b4e8cf3199bab64e"
+    },
+    {
       "id": "es-girona",
       "name": "Province de Gérone",
       "groups": [
@@ -182,6 +212,36 @@
       "sha256": "c13f210832fcbce9250cd38abc88bfbd8db91d765ed21177b711203ef99c9671"
     },
     {
+      "id": "fr-ariege",
+      "name": "Ariège",
+      "groups": [
+        "France",
+        "Occitanie"
+      ],
+      "country": "France",
+      "region": "Occitanie",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        0.826751,
+        42.573242,
+        2.175813,
+        43.316225
+      ],
+      "zoneCount": 325,
+      "footprint": {
+        "cols": 96,
+        "rows": 72,
+        "cells": "AAAAAAAAAAAMAAAAAAAAAAAAAAD/4AAAAAAAAAAAAAD/8AAAAAAAAAAcAAB/9wAAAAAAAAAcABP//8AAAAAAAAA8Af3//8AAAAAAAAA8A////+AAAAAAAAA8x///++AAAAAAAAB/////++4AAAAAAAD/f/3////2AAAAAAD//////7//AAAAAAH/////////AAAAAAf////////8AAAAgAf////////4AAAB8+/////////wAAAD///////////gAAAD/////////wPAAAAD/////////gEAAAAH////////+AAAAAAf/////////AAAAAH//////////AAAAx//////////+AAAB7//////////8AAAH////////7//wAAAP///////////wAAAP///////////wAAAP///////////4AAAP////////////wAAf////////////8AAf////////////8AAf////////////8AAf////////////8AA/////////////+AA/////////////+AAD////////////8AAD////////////gAAD/7//////////gAAA////////////xAAAD/3/////////+AAAB///////////kAAAA///////////0AAAA///////////+AAAAf//////////8AAAAf//////////8AAAB///////////8AAAA///////////8AAAB/////v/////gAAAB///////3///gAAAA///////////4AAAAf//////3///wAAAA//8f///////wAAAAX/4f///////wAAAAD/4P///////wAAAAD/wD///v///AAAAADegH//////4AAAAAAMAP//////gAAAAAAAD//9///8gAAAAAAAD//////gAAAAAAAAD/////+AAAAAAAAABf////4AAAAAAAAAAA////4AAAAAAAAAAAf//v8AAAAAAAAAAAHj/v8AAAAAAAAAAADA//4AAAAAAAAAAAHA+7wAAAAAAAAAAB/g/9wAAAAAAAAAAA/B9xwAAAAAAAAAAD/B9AwAAAAAAAAAAH8BgAgAAAAAAAAAAD4AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA4AAAAAAAAA"
+      },
+      "parkCount": 5050,
+      "downloadBytes": 2316302,
+      "installedBytes": 8835371,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-ariege-1.0.0/fr-ariege-1.0.0.zip",
+      "sha256": "6214092fe17a5e2410db0f5dad6ac5fab8ec6757933493d7ee6cdb4b0430a6c4"
+    },
+    {
       "id": "fr-aude",
       "name": "Aude",
       "groups": [
@@ -242,6 +302,66 @@
       "sha256": "676ac74d587f07705d62e1736ed92025cc95cae6bdb56349ab2ef1e264e6dcc1"
     },
     {
+      "id": "fr-haute-garonne",
+      "name": "Haute-Garonne",
+      "groups": [
+        "France",
+        "Occitanie"
+      ],
+      "country": "France",
+      "region": "Occitanie",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        0.44195,
+        42.689169,
+        2.048285,
+        43.921561
+      ],
+      "zoneCount": 586,
+      "footprint": {
+        "cols": 91,
+        "rows": 96,
+        "cells": "EDgAAAAAAAAAAAAH/4AAAAAAAAAAAAD/4AAAAAAAAAAAAD/8AAAAAAAAAAAAB/+AAAAAAAAAAAAA/+AAAAAAAAAAAAAf/gAAAAAAAAAAAAP/gAAAAAAAAAAAAH/wAAAAAAAAAAAAD/8AAAAAAAAAAAAB/+AAAAAAAAAAAAA/+AuAAAAAAAAAAAf/h+AAAAAAAAAAAHv//AAAAAAAAAAACD//AAAAAAAAAAAAB//wAAAAAAAAAAAA//wAAAAAAAAAAAAP/4AAAAAAAAAAAAH//gAAAAAAAAAAAB//wAAAAAAAAAAAAf/4AAAAAAAAAAAAP//AAAAAAAAAAAAP//+AAAAAAAAAAAD///AAAAAAAAAABD///wAAAAAAAAAAx///4AAAAAAAAAAf///4AAAAAAAAAAD///8AAAAAAAAAAB///+AAAAAAAAAAA////AAAAAAAAAAA////wAAAAAAAAAB////QAGAAAAAAAB//v79ADAAAAAAAD/////gD4AAAAAAD/////4D8AAAAAAA////7/n8AAAAAAAP//////wAAAAAAAD//////4AAAAAAAA//////+AAAAAAAAf//////+AAAAAAAP///////gAAAAAAA//////98cAAAAAAf//////+fAAAAAAP//////8HgEAAAAD//////8DhMAAAAA////3/8Dw/AAAAAP////7cH9/0AAAAD//////j//+AAAAG//////z///gAAAAP/////////wAAAAD/////////4AAAAB//////////4AAAAf/9///////4AAAAL/+/f7/3//8AAAAA/8P//////+AAAAAb8P///3///hAAAAJAB/f/////wxgAAAAA///////+/4AAAAAf///////f8AAAAAH////////8AAAAAH9///////+AAAAAD/f3//////wAAAAAf///////4YAAAAAP/6v////wMAAAAAH//3////wAAAAAAB/f/////wAAAAAAAv//////4AAAAAAAD//7///4AAAAAAAAf/////8AAAAAAAAD/////wAAAAAAAAB//f//gAAAAAAAAB/////AAAAAAAAAD////+AAAAAAAAAB//v//AAAAAAAAAH/////gAAAAAAAAD/////8AAAAAAAAH/////+AAAAAAAAD//7//+AAAAAAAAB//9//4AAAAAAAAB//////AAAAAAAAB///3//gAAAAAAAD//////gAAAAAAAB///v//gAAAAAAAB//////wAAAAAAAB/7v///4AAAAAAAAv/4///4AAAAAAAADfwP//0AAAAAAAAAEwA//wAAAAAAAAAAAAP/4AAAAAAAAAAAA//8AAAAAAAAAAAAf/8AAAAAAAAAAAAB/8AAAAAAAAAAAAA5+AAAAAAAAAAAAAAXAAAAAAAAAAAAAABgAAAAAAAAAAAAAAQAAAA"
+      },
+      "parkCount": 18969,
+      "downloadBytes": 4747773,
+      "installedBytes": 19317590,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-haute-garonne-1.0.0/fr-haute-garonne-1.0.0.zip",
+      "sha256": "cf83d6aa1c27222428889f74f0d20db28d07864070a5591488107121371624b4"
+    },
+    {
+      "id": "fr-hautes-pyrenees",
+      "name": "Hautes-Pyrénées",
+      "groups": [
+        "France",
+        "Occitanie"
+      ],
+      "country": "France",
+      "region": "Occitanie",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -0.327256,
+        42.674178,
+        0.646025,
+        43.613358
+      ],
+      "zoneCount": 469,
+      "footprint": {
+        "cols": 73,
+        "rows": 96,
+        "cells": "AAAAAAACAAAAAAABwAADwAAAAAAD9gAB4PwAAAAB/4AB+H8AAAAD//4H/v8AAAAH///H//8AAAAD//////+AAAAD///////AAAAB///////gAAAB///////wAAAB///////4AAAA///////8AAAPf//////+AAAP////////AAAH////////gAAP////r///wAAP////7v//4AA///f/5///+AAf////////+AAP/////////hwH/////////z8D//////////+B//////v////B///////////w///////////4P//////////8B////3//////Af/+////////4f//////////8P///////////H//v///////+D///////////B///////////g//7////////wH/////////z4D/////////8cB/////////+EAD/////////QAA/////////4AAf////////8AAP////////+AAH////////+AAD////////8AAB////////4AAA////////4AAAH///////wAAAA///////wAAAAf//////4AAAAP//////+AAAAD///////gAAAB///////4AAAAD//////+AAAAB///////gAAAA///////wAAAAf//////4AAAAP///////wAAAB///////8AAAA///////4AAAYP//7///+AAAOD///////gAANh/f/////4AAHg///////+AABh/////9//gAA4/////+//4AAIP///////4AAHH///////wAADj///////AAABYH////hgAAAAMB7//7wAAAAAGB9//8IAAAAAGB///+AAAAAACB/fo8AAAAAAAAf3wGAAAAAAAAP/4AAAAAAAAAP/wAAAAAAAABD/wAAAAAAAAAR/4AAAAAAAAA9/8AAAAAAAAAO//gAAAAAAAAH//wAAAAAAAAD//wAAAAAAAAAP/gAAAAAAAAAP/wAAAAAAAAAPv4AAAAAAAAAH/8AAAAAAAAAD/0AAAAAAAAAB/YAAAAAAAAAA/gAAAAAAAAAA/gAAAAAAAAAB/gAAAAAAAAAA/gAAAAAAAAAAfgAAAAAAAAAAfwAAAAAAAAAAP4AAAAAAAAAAB8AAAAAAAAAAAAAAAAAAAA"
+      },
+      "parkCount": 23771,
+      "downloadBytes": 4354421,
+      "installedBytes": 19696265,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-hautes-pyrenees-1.0.0/fr-hautes-pyrenees-1.0.0.zip",
+      "sha256": "80fbfa5455ccd723f12726882b641f5ef75ac1ed6a9e8f3469e1671562c9259f"
+    },
+    {
       "id": "fr-herault",
       "name": "Hérault",
       "groups": [
@@ -270,6 +390,36 @@
       "installedBytes": 13073707,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-herault-1.0.4/fr-herault-1.0.4.zip",
       "sha256": "3033a86b9b59e56af06a3740dd33c488c78dc68e19ce28f18a7ac002f1ec4590"
+    },
+    {
+      "id": "fr-pyrenees-atlantiques",
+      "name": "Pyrénées-Atlantiques",
+      "groups": [
+        "France",
+        "Nouvelle-Aquitaine"
+      ],
+      "country": "France",
+      "region": "Nouvelle-Aquitaine",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -1.791023,
+        42.777538,
+        0.030275,
+        43.596798
+      ],
+      "zoneCount": 545,
+      "footprint": {
+        "cols": 96,
+        "rows": 59,
+        "cells": "AAAAAAAAAADAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAHn4AAAAAAAAAAAAAH/8AAAAAAAAAAAAAP/+AAAAAAAAAAAAA///AAAAAAAAAAAAB/9/AAAAAAAAAAAAF//7AAAAAAAAAAAAP///AAAAAAAAAAAAP//+AAAAAAAAAAAAP///AAAAAAAAAAAAP///wAAAAAAAAAAAf///wAAAAAAAAAf/f///gAAAAAAAAA//////gAAAAAAAAB//////gAAAAAAAAf//////wAAAAAAAC///////4AAAAAGAH///////4AAAAA+Cf////////AAAAA/H/////////AAAAB/P/////////AAAAB+P/////////gAAAA/P/////////AAAAAf//////////gAAAAP/////////+4AAAAP//////////4AAAAP//////////8AAAAP//////////8AAAAH///////////gAAAH/////////3/gAAAD///////////gAAAD///////////wAAAD//////////9wAHAH//////////84AHA///////////44APD///////////5wAH////////////8wHf////////////+YH/////////////8YP//////////////f///////////////e//////////+///++Hv/////////////8Bf/////////////+AP/////////////+AH/////////////2AD/////////////kAB/////////////gAB/////////////wAA/////////////4AAf3///////////wAAfgH48////////QAAOAB+Q////////wAACAAYAz///////gAAAAAAADP3i//3+AAAAAAAAABlAc8//AAAAAAAAABAAOAf+AAAAAAAAAAAACACAA"
+      },
+      "parkCount": 10998,
+      "downloadBytes": 4475439,
+      "installedBytes": 17370084,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-pyrenees-atlantiques-1.0.0/fr-pyrenees-atlantiques-1.0.0.zip",
+      "sha256": "13842da53555ef8ff0ec65632dd896cdc6f97a4c433db43bb91226b297f78b50"
     },
     {
       "id": "fr-pyrenees-orientales",
