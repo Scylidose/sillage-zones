@@ -1,6 +1,6 @@
 # Hérault
 
-Pack `fr-herault` · version 1.0.4 · grille 200 m · France › Occitanie
+Pack `fr-herault` · version 1.0.5 · grille 200 m · France › Occitanie
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 

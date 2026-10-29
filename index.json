@@ -40,7 +40,7 @@
       ],
       "country": "Espagne",
       "region": "Catalogne",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -56,10 +56,10 @@
         "cells": "AAAwAAAAAAAAAAAAAA9AAAAAAAAAAAAAA/wAAAAAAAAAAAAD/8AAAAAAAAAAAAP//4AAAAAAAAAAAJ//+AAAAAAAAAAAB////gAAAAAAAAAB////8AAAAAAAAAF/////AAAAAAAAAH/////wAAAAAAAAP////7wAAAAAAAAf/////4AAAAAAAAf/////8AAAAAAAAf/////4AAAAAAAAf/////+AAAAAAAA//////+AAAAAAAB///////AAAAAAAP///////AAAAAAAP///////gAAAAAAP///////wAAAAAAP///////wAAAAAAf///////4AAAAAAP///////4AAAAAAP////3//+AAAAAAf////////wAAAAA/////////8AAAAD///////+//AAAAP//////////gAAAP////3/////4AAAA//////////8AAAB///////////AAAB///////////gAAB///////////4AAH////////////AAH////////////wA/////////////8Af/////////////gN/////////////4A/////////////+D//////////////D/////////////+D/////////////+H//////////////P//////////////P/////////////+D///////////wf/D///////////wH4H///////////gAAH+////+/////AAAHof//f/////+AAADoH////////6AAACAH////////4AAAAAH///////4AAAAAAD///////wAAAAAAD///////4AAAAAAB///////wAAAAAAB///////wAAAAAAB///////gAAAAAAb///////jAAAAAAH////////IAAAAAD////////8AAAAAB////////+AAAAAAf///////+AAAAAA////////8AAAAAA////////wAAAAAA////////wAAAAAA3//////s+AAAAAAB//////z+AAAAAA5////////AAAAAAL////////AAAAAAP////////AAAAAAH////////AAAAAAH///////+AAAAAAP////////AAAAAAH///////sAAAAAAH///////AAAAAAAB///////AAAAAAAb/////++AAAAAAAD//+/f/MAAAAAAAH/9/+N/AAAAAAAAD/3/2A0AAAAAAAAD//+AAAAAAAAAAAA//9AAAAAAAAAAAA//9wAAAAAAAAAAA//x4AAAAAAAAAAH///wAAAAAAAAAAP///wAAAAAAAAAAP///AAAAAAAAAAAD///AAAAAAAAAAAH///AAAAAAAAAAAH///gAAAAAAAAAAH///gAAAAAAAAAAP///4AAAAAAAAAAAH//wAAAAAAAAAAAAfxgAAAAAAAAAAAAHgAAAAAAAA"
       },
       "parkCount": 19021,
-      "downloadBytes": 4675023,
-      "installedBytes": 19234880,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-barcelona-1.0.3/es-barcelona-1.0.3.zip",
-      "sha256": "0291534acfe0969ee11d1bcb1c024c1a1976e9cc6167f474ed054c734d9640e6"
+      "downloadBytes": 4675151,
+      "installedBytes": 19235217,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-barcelona-1.0.4/es-barcelona-1.0.4.zip",
+      "sha256": "6b3466cbb40fe8d52b029ef868cf446448d5a2c0b8025ff1c1d24f7d1ee293ed"
     },
     {
       "id": "es-cantabria",
@@ -70,7 +70,7 @@
       ],
       "country": "Espagne",
       "region": "Cantabrie",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -86,10 +86,10 @@
         "cells": "AAAAAAAYYAAAAAAAAAAAAAAY+AAAAAAAAAAAAAE8/YAAAAAAAAAAAAHc/8AAAAAAAAAAAAHe/8AAAAAAAAAAAAH+/8AAAAAAAAAAAAB//8AAAAAAAAAAABx//YAAAAAAAAAAAB7/+cAAAAAAAAAAAB///YAAAAAAAAAAAB///AAAAAAAAAAAAB//+wAAAAAAAAAAAB//h8AAAAAAAAAAAB//g4AAAAAAAAAAAB//gwAAAAAAAAAAAD//gAAAAAAAAAAAD//7wAAAAAAAAAAAD//3QAAAAAAAAAAAH//nAAAAAAAAAAAAH///gAAAAAAAAziAP///4AAAAAAAA//Af////AAAAAAAA//5///9/4AAAAAAB////////4AAAAAAB//////+/wAAAAAAH//////9f/wAAAAAf/////////4AAAAAf/////////+AAAAA//////////+AAAAA///////////AH4AAf//////////D/wAAf//////////j/wAAP////////////wAAAf///////////wAAAf3//////////wCAAf///////////gCAAf///////////gCAAf///////////4DAAf//f////////8DAAA+//////////+AAAAef//////////gIAAAf///////////8AAAf////////////AAA/////3///////AAAf//////3/////AAA///////9/////AAA////////////4AAAf///////////wAAAf/3///////f/wAAAACAf9/9f///2AAAAAAAB//8///TAAAAAAAAAf/+///AAAAAAAAAAFv8f//wAAAAAAAAAAP+P//wAAAAAAAAAAH/n//AAAAAAAAAAAAHA/4AAAAAAAAAAAAAAPwAAAAAAAAAAAAAADwAAA"
       },
       "parkCount": 4384,
-      "downloadBytes": 1682899,
-      "installedBytes": 6909370,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-cantabria-1.0.0/es-cantabria-1.0.0.zip",
-      "sha256": "034a52b23b2ecdd25a6a804b9693e75157bcd464d42ecca5b4e8cf3199bab64e"
+      "downloadBytes": 1683030,
+      "installedBytes": 6909709,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-cantabria-1.0.1/es-cantabria-1.0.1.zip",
+      "sha256": "1fd8bc103e5eb2ff609169ee8f9614b3891ab298770752032456e6bf00539867"
     },
     {
       "id": "es-girona",
@@ -190,7 +190,7 @@
       ],
       "country": "Espagne",
       "region": "Catalogne",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -206,10 +206,10 @@
         "cells": "AAAGAAAAAAAAAAAAAAAeAAAAAAAAAAAAAAA/BgAAAAAAAAAAAAA/D4AAAAAAAAAAAAA/j+AAAAAAAAAAAAB/wOAAAAAAAAAAAAD/4AAAAAAAAAAAAB//8AAAAAAAAAAAAH///AAAAAAAAAAAAP///8AAAAAAAAAAAf///3oAAAAAAAAAAf///9+AAAAAAAAAAf/////gAAAAAAAAAP/////wAAAAAAAAAP////94AAAAAAAABf//8/3wAAAAAAAAD////r/0AAAAAAAAb//////wAAAAAAAA////3/9AAAAAAAAAf///v//AAAAAAAAAH/////2AAAAAAAAAB/////EAAAAAAAAAB////+cAAAAAAAAAA//9/+AAAAAAAAAAAf///+AAAAAAAAAAAP////gAAAAAAAAAAf////wAAAAAAAAAA/////wAAAAAAAAAA/////4AAAAAAAAAA//9//+AAAAAAAAAB//////AAAAAAAAAA//7///AAAAAAAAAA//9///gAAAAAAAAA//////wAAAAAAAAAf/////wAAAAAAAAAf/////4AAAAAAAAAP/////8AAAAAAAAAP/////+AAAAAAAAAP//////AAAAAAAAAP//////wAAAAAAAAf//////wAAAAAAAAf//////4AAAAAAAAf//7///4AAAAAAAA///////+AAAAAAAB////////gAAAAAAD////////wCAAAAAD/////////nAAAAAD//////////AAAAAH//////////gAAAAH//////////0AAAAH////f//////AAAAH///////////2AAAA///////3////wAAAP///////////8AAAH////////////AAAH////////////4AAD/////////////wAD/////////////+AD//////////////AB/////////////+AAX////////////wAAO////////////gAAP////////////8AAP////////////8AAA////////////8AAA88//////////wAAA44P9////////wAAA4YAP////////gAAAQAAP////////gAAAAAAAb///////AAAAAAAAQH//////gAAAAAAAAD//////gAAAAAAAAD/////+AAAAAAAAAB/////oAAAAAAAAAA/////gAAAAAAAAAAP////gAAAAAAAAAAH////gAAAAAAAAAAH////wAAAAAAAAAAD////AAAAAAAAAAAB////gAAAAAAAAAAHv///gAAAAAAAAAAGB///gAAAAAAAAAAEB//+AAAAAAAAAAAAB//wAAAAAAAAAAAAB//wAAAAAAAAAAAAB//wAAAAAAAAAAAAB//+AAAAAAAAAAAAAP/8AAAAAAAAAAAAAP/OAAAAAAAAAAAAAAAcAA"
       },
       "parkCount": 5000,
-      "downloadBytes": 2024148,
-      "installedBytes": 7578754,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-tarragona-1.0.0/es-tarragona-1.0.0.zip",
-      "sha256": "c13f210832fcbce9250cd38abc88bfbd8db91d765ed21177b711203ef99c9671"
+      "downloadBytes": 2024257,
+      "installedBytes": 7579015,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-tarragona-1.0.1/es-tarragona-1.0.1.zip",
+      "sha256": "60aee77fe3fee0fe2656207bddd17fea7a157c61d16e2d8b0fe9e53a6e565252"
     },
     {
       "id": "fr-ariege",
@@ -250,7 +250,7 @@
       ],
       "country": "France",
       "region": "Occitanie",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -266,10 +266,10 @@
         "cells": "AAAAAgAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA+AAAAAAAAAAAAAAB/QAAAAAAAAAAAAAD/8AAAAAAAAAAAAAP/+AAAAAAAAAAADwf/+AAAAAAAAAAAH8f/+AAAAAAAAAAAP///+AAAAAAAAAAAH///+AAAAAAAAAAAP///+AAAAAAAAAAAP///8AAAAAAAAAAAf///8AAAAAAAAAAB////8AAAAAAAAAAB////4AAAQAAAAAAA////+Pgf+AABAAAAP////////AADAAAAA////////AAIAAAAA////////gB4AAAAA////////wD4AAAAA////////8P7gAAAAf3//////+f7gAAAA///////////gAAAD///////////AAAAH//////////9AAAABf/////////7AAAAA//////////7AAAAA///////////AAAAA///////////gAAAA///////////gAAAA///////////gAAAA//////////8gAAAA//////////8wAAAD//////////xQAAAD//////////0IAAAB//////////gAAAAD//////////g8AAAD//////////xYAAAD//////////xEAAAH//////////z/AAA///////////z/AAP////v//////3/gA//////////////wD/////////////f4H//////////////4f//////////////8P//////////////+P//////////////+P//////////////8f//////////9///0f//////////////A//////////+P//wAf/////////4P/9gAf////////74P/4AAf////////wYH/4AAP////////wYH/YAAPff//////wAB4AAAP////+//+AAAQAAAAP//////+AAAQAAAAf//////+AAAQAAAAf///////AAAwAAAAf///////AAAAAAAAPv//n///AAAAAAAAPr/DD///wAAAAAAADvOAHf//gAAAAAAACAGAH+HwAAAAAAAACAAADwAAAAAAAAAAAAAABAAAAAAAAAA"
       },
       "parkCount": 4526,
-      "downloadBytes": 2823272,
-      "installedBytes": 10214978,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-aude-1.0.4/fr-aude-1.0.4.zip",
-      "sha256": "356aacfa78fb23eb9f38b364b7c1ccf4076bcf26628fd4da3c91b41ede8c91cc"
+      "downloadBytes": 2823401,
+      "installedBytes": 10215297,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-aude-1.0.5/fr-aude-1.0.5.zip",
+      "sha256": "72b4e8d7496edd010074e3279663ce7936025973d9fbf80b1e27d57e98c6dbee"
     },
     {
       "id": "fr-gard",
@@ -280,7 +280,7 @@
       ],
       "country": "France",
       "region": "Occitanie",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -296,10 +296,10 @@
         "cells": "AAAAAAAAAGAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAD8AAAAAAAAAAAAAAD4AAAAAAAAAAAAAACqwAAAAAAAAAAAAAB+EAAAAAAAAAAAAAB5kAAAAAAAAAAAAACzHgAAAAAAAAAAAAF3N0AAAAAAAAAAAAH+/4AAAAAAAAAAAAG//9AAAAAAAAAAAAA///gAAAAAAAAAAAAf2/wAAAAAAAAAAAAPyOAAAAAAAAAAAAAP9eAAAAAAAAAAAAAP/+AAAAAAAAAAAAAP//AAAAAAAAAAAAAP//AAAAAAAAAAAAAf//wAAAAAAAAAAAAf//wOAAAAAAAAAAAf//+8AAAAAAAAAAAv///8AAAAAAAAAAA////8AAAAAAAAAAB////8AAAAAAAAAAH///v+AAAAAAAAAAP////8AAAAAAAAAA//////AAAAAAAAAA//////AAAAAAAAAB//////AAAAAAAAA///9///AAAAAAAAAf/////+AAAAAAAAAf//////AAAAAAAAA//////9gAAADgAAD//////9AAADDgADD//////3AAADjwAH7///////wAAD/4AH///////34AAD/4AD////////8AA///gD////////+AA///gD/////////AA///wH/////////wAf//wP/////////4Af//8P/////////8AH/3/////9/////8AH//////////////AB////////////99AB//////+//////9AB/////++//////8AD/////////////8AP/////////////4B//////////////gL///////7//////gf/////////////8gf/////////////8AD/////////////4AD/+z////v/////8AD+AB/zf///////8AD8AA/AP///////8AD4AD+AH///////8AAwAB4AD///////8AAAABQAC///////8AAAAAAAA///////4AAAAAAAB///////8AAAAAAAA///////gAAAAAAAA///////wAAAAAAAB///////wAAAAAAAAf//////gAAAAAAAAf//////AAAAAAAAB//+P///AAAAAAAAB//8P+/8AAAAAAAAD//wP4/wAAAAAAAAB//wP4/AAAAAAAAAB/eAD4/AAAAAAAAAA/KAB48AAAAAAAAAD/AAAIAAAAAAAAAAD/AAAAAAAAAAAAAAH/AAAAAAAAAAAAAAP/AAAAAAAAAAAAAAH+AAAAAAAAAAAAAAA/gAAAAAAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAAAAAAAeAAAAAAAAAAAAAAAMAAAAAAAA"
       },
       "parkCount": 3769,
-      "downloadBytes": 3175441,
-      "installedBytes": 10910822,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-gard-1.0.4/fr-gard-1.0.4.zip",
-      "sha256": "676ac74d587f07705d62e1736ed92025cc95cae6bdb56349ab2ef1e264e6dcc1"
+      "downloadBytes": 3175575,
+      "installedBytes": 10911134,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-gard-1.0.5/fr-gard-1.0.5.zip",
+      "sha256": "bf0fcf9eec7e4dd09fe322f6540ec2af53645fbe96c336d9a5f1db72965e354f"
     },
     {
       "id": "fr-haute-garonne",
@@ -310,7 +310,7 @@
       ],
       "country": "France",
       "region": "Occitanie",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -326,10 +326,10 @@
         "cells": "EDgAAAAAAAAAAAAH/4AAAAAAAAAAAAD/4AAAAAAAAAAAAD/8AAAAAAAAAAAAB/+AAAAAAAAAAAAA/+AAAAAAAAAAAAAf/gAAAAAAAAAAAAP/gAAAAAAAAAAAAH/wAAAAAAAAAAAAD/8AAAAAAAAAAAAB/+AAAAAAAAAAAAA/+AuAAAAAAAAAAAf/h+AAAAAAAAAAAHv//AAAAAAAAAAACD//AAAAAAAAAAAAB//wAAAAAAAAAAAA//wAAAAAAAAAAAAP/4AAAAAAAAAAAAH//gAAAAAAAAAAAB//wAAAAAAAAAAAAf/4AAAAAAAAAAAAP//AAAAAAAAAAAAP//+AAAAAAAAAAAD///AAAAAAAAAABD///wAAAAAAAAAAx///4AAAAAAAAAAf///4AAAAAAAAAAD///8AAAAAAAAAAB///+AAAAAAAAAAA////AAAAAAAAAAA////wAAAAAAAAAB////QAGAAAAAAAB//v79ADAAAAAAAD/////gD4AAAAAAD/////4D8AAAAAAA////7/n8AAAAAAAP//////wAAAAAAAD//////4AAAAAAAA//////+AAAAAAAAf//////+AAAAAAAP///////gAAAAAAA//////98cAAAAAAf//////+fAAAAAAP//////8HgEAAAAD//////8DhMAAAAA////3/8Dw/AAAAAP////7cH9/0AAAAD//////j//+AAAAG//////z///gAAAAP/////////wAAAAD/////////4AAAAB//////////4AAAAf/9///////4AAAAL/+/f7/3//8AAAAA/8P//////+AAAAAb8P///3///hAAAAJAB/f/////wxgAAAAA///////+/4AAAAAf///////f8AAAAAH////////8AAAAAH9///////+AAAAAD/f3//////wAAAAAf///////4YAAAAAP/6v////wMAAAAAH//3////wAAAAAAB/f/////wAAAAAAAv//////4AAAAAAAD//7///4AAAAAAAAf/////8AAAAAAAAD/////wAAAAAAAAB//f//gAAAAAAAAB/////AAAAAAAAAD////+AAAAAAAAAB//v//AAAAAAAAAH/////gAAAAAAAAD/////8AAAAAAAAH/////+AAAAAAAAD//7//+AAAAAAAAB//9//4AAAAAAAAB//////AAAAAAAAB///3//gAAAAAAAD//////gAAAAAAAB///v//gAAAAAAAB//////wAAAAAAAB/7v///4AAAAAAAAv/4///4AAAAAAAADfwP//0AAAAAAAAAEwA//wAAAAAAAAAAAAP/4AAAAAAAAAAAA//8AAAAAAAAAAAAf/8AAAAAAAAAAAAB/8AAAAAAAAAAAAA5+AAAAAAAAAAAAAAXAAAAAAAAAAAAAABgAAAAAAAAAAAAAAQAAAA"
       },
       "parkCount": 18969,
-      "downloadBytes": 4747773,
-      "installedBytes": 19317590,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-haute-garonne-1.0.0/fr-haute-garonne-1.0.0.zip",
-      "sha256": "cf83d6aa1c27222428889f74f0d20db28d07864070a5591488107121371624b4"
+      "downloadBytes": 4747916,
+      "installedBytes": 19317935,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-haute-garonne-1.0.1/fr-haute-garonne-1.0.1.zip",
+      "sha256": "0adc18fc22bdeee7a354615aa27ed9cae86e1442eac7f17b06d71659b4c7a1b0"
     },
     {
       "id": "fr-hautes-pyrenees",
@@ -340,7 +340,7 @@
       ],
       "country": "France",
       "region": "Occitanie",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -356,10 +356,10 @@
         "cells": "AAAAAAACAAAAAAABwAADwAAAAAAD9gAB4PwAAAAB/4AB+H8AAAAD//4H/v8AAAAH///H//8AAAAD//////+AAAAD///////AAAAB///////gAAAB///////wAAAB///////4AAAA///////8AAAPf//////+AAAP////////AAAH////////gAAP////r///wAAP////7v//4AA///f/5///+AAf////////+AAP/////////hwH/////////z8D//////////+B//////v////B///////////w///////////4P//////////8B////3//////Af/+////////4f//////////8P///////////H//v///////+D///////////B///////////g//7////////wH/////////z4D/////////8cB/////////+EAD/////////QAA/////////4AAf////////8AAP////////+AAH////////+AAD////////8AAB////////4AAA////////4AAAH///////wAAAA///////wAAAAf//////4AAAAP//////+AAAAD///////gAAAB///////4AAAAD//////+AAAAB///////gAAAA///////wAAAAf//////4AAAAP///////wAAAB///////8AAAA///////4AAAYP//7///+AAAOD///////gAANh/f/////4AAHg///////+AABh/////9//gAA4/////+//4AAIP///////4AAHH///////wAADj///////AAABYH////hgAAAAMB7//7wAAAAAGB9//8IAAAAAGB///+AAAAAACB/fo8AAAAAAAAf3wGAAAAAAAAP/4AAAAAAAAAP/wAAAAAAAABD/wAAAAAAAAAR/4AAAAAAAAA9/8AAAAAAAAAO//gAAAAAAAAH//wAAAAAAAAD//wAAAAAAAAAP/gAAAAAAAAAP/wAAAAAAAAAPv4AAAAAAAAAH/8AAAAAAAAAD/0AAAAAAAAAB/YAAAAAAAAAA/gAAAAAAAAAA/gAAAAAAAAAB/gAAAAAAAAAA/gAAAAAAAAAAfgAAAAAAAAAAfwAAAAAAAAAAP4AAAAAAAAAAB8AAAAAAAAAAAAAAAAAAAA"
       },
       "parkCount": 23771,
-      "downloadBytes": 4354421,
-      "installedBytes": 19696265,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-hautes-pyrenees-1.0.0/fr-hautes-pyrenees-1.0.0.zip",
-      "sha256": "80fbfa5455ccd723f12726882b641f5ef75ac1ed6a9e8f3469e1671562c9259f"
+      "downloadBytes": 4354560,
+      "installedBytes": 19696585,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-hautes-pyrenees-1.0.1/fr-hautes-pyrenees-1.0.1.zip",
+      "sha256": "e769ac2a9775a7dfa29ffcbd18283ff8911af782a89ae0ec90f5f86aa15462ad"
     },
     {
       "id": "fr-herault",
@@ -370,7 +370,7 @@
       ],
       "country": "France",
       "region": "Occitanie",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -386,10 +386,10 @@
         "cells": "AAAAAACAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAB54AAAAAAAAAAwAAf/8AAAAAAAAAHwAE///B4AAAAAACD4AG////4AAAAAAD38AH////8AAAAAAH34Bn////yAAAAAAH//v9////3AAAAAA///v/////8gAAAAA///v/////8QAAAAAf//v////98IAAAAAf////////+MAAAAAf////////+CAAAAAH////9////B4AAAAP////9////hUAAAAH/////////wcAAAAB///////7/4eAAAAA/////////+/AAAAA///////////wAAAAf//////////gAAAAf//////////yAAAAf//////////wAAAAP//////////+AAAAf///////f//+IAAA////////////gAAB///v////////2wgD////////////8HgB/////////////AAB///////////7/xYBf////////////+8B/f//////v/////+A/H////////////+A+B/////+////f//AgAP////P///////AAAD///+7////9/+AAAD///////////+AAAD///////////8AAAAY//////////8AAAAA//////////8AAAAA//////////4AAAAA//////////gAAAAA//////////AAAAAAf/////////AAAAAAv////////8AAAAAA/////////4AAAAAA////////+wAAAAAA8H//////8AAAAAAA4B//////+AAAAAAAAB//////+AAAAAAAAD//8f//4AAAAAAAAD//4///wAAAAAAAAA/84f/gQAAAAAAAAA/8IP/gAAAAAAAAAAB8AP/wAAAAAAAAAAAAAA/wAAAAAAAAAAAAAA/4AAAAAAAAAAAAAAfwAAAAAAAAAAAAAAfAAAAAAAAAAAAAAAHAAAA"
       },
       "parkCount": 11039,
-      "downloadBytes": 3356094,
-      "installedBytes": 13073707,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-herault-1.0.4/fr-herault-1.0.4.zip",
-      "sha256": "3033a86b9b59e56af06a3740dd33c488c78dc68e19ce28f18a7ac002f1ec4590"
+      "downloadBytes": 3356225,
+      "installedBytes": 13074049,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-herault-1.0.5/fr-herault-1.0.5.zip",
+      "sha256": "569e58f181f855ebf00f7242ba579dcf2dff2b23dbf09c3c0b022ed4fca549ef"
     },
     {
       "id": "fr-pyrenees-atlantiques",
@@ -400,7 +400,7 @@
       ],
       "country": "France",
       "region": "Nouvelle-Aquitaine",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -416,10 +416,10 @@
         "cells": "AAAAAAAAAADAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAHn4AAAAAAAAAAAAAH/8AAAAAAAAAAAAAP/+AAAAAAAAAAAAA///AAAAAAAAAAAAB/9/AAAAAAAAAAAAF//7AAAAAAAAAAAAP///AAAAAAAAAAAAP//+AAAAAAAAAAAAP///AAAAAAAAAAAAP///wAAAAAAAAAAAf///wAAAAAAAAAf/f///gAAAAAAAAA//////gAAAAAAAAB//////gAAAAAAAAf//////wAAAAAAAC///////4AAAAAGAH///////4AAAAA+Cf////////AAAAA/H/////////AAAAB/P/////////AAAAB+P/////////gAAAA/P/////////AAAAAf//////////gAAAAP/////////+4AAAAP//////////4AAAAP//////////8AAAAP//////////8AAAAH///////////gAAAH/////////3/gAAAD///////////gAAAD///////////wAAAD//////////9wAHAH//////////84AHA///////////44APD///////////5wAH////////////8wHf////////////+YH/////////////8YP//////////////f///////////////e//////////+///++Hv/////////////8Bf/////////////+AP/////////////+AH/////////////2AD/////////////kAB/////////////gAB/////////////wAA/////////////4AAf3///////////wAAfgH48////////QAAOAB+Q////////wAACAAYAz///////gAAAAAAADP3i//3+AAAAAAAAABlAc8//AAAAAAAAABAAOAf+AAAAAAAAAAAACACAA"
       },
       "parkCount": 10998,
-      "downloadBytes": 4475439,
-      "installedBytes": 17370084,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-pyrenees-atlantiques-1.0.0/fr-pyrenees-atlantiques-1.0.0.zip",
-      "sha256": "13842da53555ef8ff0ec65632dd896cdc6f97a4c433db43bb91226b297f78b50"
+      "downloadBytes": 4475568,
+      "installedBytes": 17370410,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-pyrenees-atlantiques-1.0.1/fr-pyrenees-atlantiques-1.0.1.zip",
+      "sha256": "87136bbba984b23dbfda789c731c76929caf8ef63bc07c946be38b07d610f3fd"
     },
     {
       "id": "fr-pyrenees-orientales",
@@ -430,7 +430,7 @@
       ],
       "country": "France",
       "region": "Occitanie",
-      "version": "1.1.4",
+      "version": "1.1.5",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -446,10 +446,10 @@
         "cells": "AAAAAAAADAAAAAAAAAAAAAAAfj4AAAAAAAA+AAAAf/4AAAAAAAB/AAAB//wAAAAAAAD/wAAB//wAAAAAAAD/wAAF//4AAAAAAAD/wAA///4AAAAAAAH/4AB///+EAAAAAAH//4X////+AAAgAAP/////////AAB/AAuf////////gAD+AD4/////////4gH+AP9//////////y38Af8////////////4v/+////////////4///////////////w/////////////+/4///////////////Af/////////////8Af/////////////8Af/////////////4AD//ff/////////4AAa9///////////4AABf///////+///4AAB////////////4AAAD///////////4AAABf////////+/4AAAB/3/////////4AAAA/3///6/////4AAAAn+f////////oAAAAAIP////////oAAAAAAD////////IAAAAAAB////e///4AAAAAAAP/////v/wAAAAAAAD///////4AAAAAAAB///////4AAAAAAAA///////4AAAAAAAA///////4AAAAAAAB///////4AAAAAAAB///////4AAAAAAAB/////f/4AAAAAAAB///////4AAAAAAAD//////+4AAAAAAAD//////8YAAAAAAAH//////8IAAAAAAAD///Qf/4YAAAAAAAAQEAAP/4QAAAAAAAAAAAAP/8AAAAAAAAAAAAAH/+AAAAAAAAAAAAAH/wAAAAAAAAAAAAAD/AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAAMAAA"
       },
       "parkCount": 3448,
-      "downloadBytes": 2438103,
-      "installedBytes": 8742734,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-pyrenees-orientales-1.1.4/fr-pyrenees-orientales-1.1.4.zip",
-      "sha256": "8ea5dbfc485fddb7f09086134b5e42be608d2e090460f8a2246359f3d73d7c49"
+      "downloadBytes": 2438240,
+      "installedBytes": 8743052,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-pyrenees-orientales-1.1.5/fr-pyrenees-orientales-1.1.5.zip",
+      "sha256": "d860ee2d40219b086ef62a2402992f046850d8976b8bb52e932e102f58323cfe"
     },
     {
       "id": "fr-val-de-marne",
@@ -460,7 +460,7 @@
       ],
       "country": "France",
       "region": "Île-de-France",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -476,10 +476,10 @@
         "cells": "AAAAAAAAAAAAGAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAP4AAAAAAAAAAAAAAf8AAAAAAAAAAAAAAf/gAAAAAAAAAAAABf/AAAAAAAAAAAAAH/+AAAAAAAAAAAAAH/8AAAAAAAAAAAAAH/8AAAAAAAAAAAAAH/4AAAAAAAAAAAAAf/4AAAAAAAAAAAAAf/8AAAAAAAAAAAAA//+AAAAAAAAAQAAB///AAAAAAAAAQAAB/f/AAAAAbAEAgAAB///AAAAAf8PA4AAB///gAAAAf8P5+AAB///wAAAAf////AAB///wAAAAf///fvgB/3/4AAAAf///f/4D///8AAAAf//7f/+H///+AAAAf///f//v///+AAAAf///f//////+AAAIf//6///////8AAH8f//5///////4AAH+f//9///////4AAP+f//b///////8AAf////3////////AG/////v////////g//////f////////gf////+//f//////g//////3/f//////gf/////v////////Af////8v////////+P////7v6////////P////3v5///////+P////3v////////+H//////////////+D//////5//////98D////3fz//////4YD////3/3//////4AB////7/3//////4AB////7/3//////4AB////9/v+f////8AB////9///gD///8AB///////9/9///+AH////+//7/////+AH////+/////f///AD////+/////////gD////+/////////gD////9/////////AD////7//3/////+AB////7////////+AB////3////////+AB////v//v//f///AH////v//f/////8AH////v/+//7///4AA////v/9/3////gAA////v/7+////+AAAf///vzl7////8AAAAQf/f/R3////4AAAAAH9/4A/////8AAAAAB//wAP////8AAAAAA/8AAf////4AAAAAAPgAAf////gAAAAAADAAAX////gAAAAAAAAAAd+9//AAAAAAAAAAAf///8AAAAAAAAOAAP///4AAAAAAAAGAAP///AAAAAAAAAGAAP///AAAAAAAAAGMAf///AAAAAAAAAG8B//7+AAAAAAAAAH+f///wAAAAAAAAAD////7wAAAAAAAAAAP///+AAAAAAAAAAAHf//8AAAAAAAAAAAAP//wAAAAAAAAAAAAA//wAAAAAAAAAAAAAf8AAAAAAAAAAAAAAK6AAAAAA"
       },
       "parkCount": 2003,
-      "downloadBytes": 364787,
-      "installedBytes": 1585029,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-val-de-marne-1.0.0/fr-val-de-marne-1.0.0.zip",
-      "sha256": "dbd0765c0cba6b226c8600c748ac4055d37906a6f4dada5b7a85a427c2809a31"
+      "downloadBytes": 364910,
+      "installedBytes": 1585311,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-val-de-marne-1.0.1/fr-val-de-marne-1.0.1.zip",
+      "sha256": "52f0540d6fab7df6d59a959b6bb58dd55ce23005bdded60d0a8e47ee04836470"
     },
     {
       "id": "it-verona",
@@ -490,7 +490,7 @@
       ],
       "country": "Italie",
       "region": "Vénétie",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -506,10 +506,10 @@
         "cells": "AAAAAAAAAABYAAAAAAAAAAAPwAAAAAAAAAABfwAAAAAAAAAAf/AAAAAAAAAMB/4AAAAAAAAA///wAAAAAAOYH//+AAAAAAB/h7//wAAAAAAP+f//+AAAAAAA/////8AAAAAAB/////wAAAAAAH////7AAAAAAG/////8AAAAAAf//7//wAAAAAB/////+AAAAAAH/////4AAAAAAf/////AAAAAAD/////8AAAAAA//////wAAAAAP//////AAAAAB//////8AAAAAH////7/wAAAAA/////v/AAAAAP//////+AAAAD///////wAAAB///////+YAAAH/////////AAAf////////8AAD/////////wBAf////////8AHD/////////AAOf//////f/4AB///////f//gAP//////33//gA//v///////4AH//////////AA//////////wAD/////v///wAAC/////////AAAf////////8AAB//////v//gAAH////9///8AAAP//9/P///wAAA///////7/gAAD/9//////+AAIf////////4AAf////z///+AAC3////////4AAe/////////wAAx////////+AAAH///f////8AAAP//f/////wAAA////////+AAAB////////8AAAH////////gAAAP///////+AAAB3///////AAAAH///////8AAAAf///////gAAAB///////8AAAAH///////gAAAA///////+AAAAD///////wAAAAP///////AAAAJ///////+AAAA//v/////wAAAB////////AAAAH///////8AAAAf///////AAAAA///////8AAAAD//////8wAAAAH//////wAAAAAf/////+AAAAAA//3///4AAAAAB//////AAAAAAH/////8AAAAAAP/////wAAAAAA//+///AAAAAAB//wf/4AAAAAAD//C/7AAAAAAAP/8B/AAAAAAAAf/AEYAAAAAAAB+AAIAAAAAAAAD4AAAAAAAAAAAPwAAAAAAAAAAAfAAAAAAAAAAAB+AAAAAAAAAAAD4AAAAAAAAAAAPwAAAAAAAAAAAfgAAAAAAAAAAB+AAAAAAAAAAADwAAAAAAAAAAAHAAAAAAAAAAAAOAAAAAAAAAAAA4AAAAAAAAAAADAAAAAAAAA"
       },
       "parkCount": 6866,
-      "downloadBytes": 2313567,
-      "installedBytes": 9819985,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/it-verona-1.0.5/it-verona-1.0.5.zip",
-      "sha256": "71f63d0cde0659a7db7e1ca33e22e7d0ae0a9e50bc0ad592fe07ed893789f7ed"
+      "downloadBytes": 2313688,
+      "installedBytes": 9820301,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/it-verona-1.0.6/it-verona-1.0.6.zip",
+      "sha256": "434daa75f0ea9b05f426854f683fdea892e67040eff4cbb070fb12a5602dc951"
     },
     {
       "id": "qc-couronne-nord",
@@ -769,7 +769,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -785,10 +785,10 @@
         "cells": "AAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAD+AAAAAAAAAAAAAAH/4AAAAAAAAAAAAAP//4AAAAAAAAAAAAf///AAAAAAAAAAAA////8/wAAAAAAAAB//////8AAAAAAAAD//////+AAAAAAAAH/////v/AAAAAAAAP///////4AAAAAAAf/////3+//gAAAAA//////7///4AAAAB//////////8AAAAD//////////+AAAAH///////////AAAAP///////////gAAAf///////////4AAA//9/////////4AAAP///////////4AAAAf//////////8AAAAA//////////+AAAAAH//////3//+AAAAAAP/////3///gAAAAAH/////////wAAAAAP/////////4AAAAAP/////////8AAAAAB/////////+AAAAAD///////f//AAAAAH//////f///AAAAAP//////////AAAAAf//////////AAAAA//////+///3AAAAB//////9//98gAAAD//////////8AAAAH/////3/////gAAAO///////////wAAAP///////////wAAAH9//z//////+AAAAP///////////AAAAf//////////+AAAA//////+/////AAAAP///////////8AAAB////////////AAAAH////3//////gAAAP///////////wAAAH///////////wAAAD///////////4AAAA///////////8AAAAT//////////4AAAAB//////////8AAAAA///////////AAAAB//////////+AAAAD//////////+AAAAD//////////+AAAAB///3//////gAAAAA//////////gAAAAAff////////AAAAAAP//v//////AAAAAAH/////7///AAAAAACf/f//////gAAAAAAP+f//////AAAAAAAD8///+//+AAAAAAAB5////v/+AAAAAAAB5//////8AAAAAAAC9/////7oAAAAAAAD9//7///oAAAAAAAH6P/B///gAAAAAAAP6H/A///gAAAAAAAPwF6AP//gAAAAAAAPwB8AH//AAAAAAAA+QBIAB/+AAAAAAAA/wAYAA/+AAAAAAAB/gAAAAf8AAAAAAAD/gAAAAH4AAAAAAAD8AAAAAD4AAAAAAAH8AAAAAAwAAAAAAAH+AAAAAAQAAAAAAAB8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAAIAAAAAAAAA"
       },
       "parkCount": 478,
-      "downloadBytes": 421291,
-      "installedBytes": 1502628,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-quebec-agglo-1.0.4/qc-quebec-agglo-1.0.4.zip",
-      "sha256": "fa41e24b99526d24652526e2fb213f5971abeaa5702eda44b4e480e70e97dedc"
+      "downloadBytes": 421417,
+      "installedBytes": 1502956,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-quebec-agglo-1.0.5/qc-quebec-agglo-1.0.5.zip",
+      "sha256": "9dedd1584dba9a2a203bc590dfd8c105d8a97e7a92a9f5de824f3883ddd084ca"
     },
     {
       "id": "qc-sherbrooke",
@@ -800,7 +800,7 @@
       ],
       "country": "Canada",
       "region": "Québec",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "formatVersion": 1,
       "cellSizeM": 200,
       "bbox": [
@@ -816,10 +816,10 @@
         "cells": "H//AAAAAAAAAAAAP//wAAAAAAAAAAAD//8AAAAAAAAAAAAv//gAB//AAAAAAAP//4H///wAAAAAAD//+A///8AAAAAAA///wP///AAAAAAAP//4D///wAAAAAAD///D///8AAAAAAw//3wf///AAAAAAcP//4D///wAAAAAHD//+A///8AAAAABw///gP///AAAAAAcP//4D///wAAAAAPD//8A///+AAAAAHw///B/9/+wAAAAB8P//5/8v/8AAAACfB////55//AAAADvwf////9f/4AAAD/8H///////+AAAA//B////////gAAAP/wf///////8AAAP/8H////////AAA///B//////3/4AAP//wf///////+AAD//8H//////7/wAB///h/////////9//7/4f//////v////+/+H//////7///////h//////+/////7vgfv/////3////994H/////////////+B3//////f////v7gf//////3//////AH//////9////6//B///////////yv/wf///f//7///5//8H///3//////////B///9/7////////4D/v//////z/////AH//////8rf9///wB////////4e///+AP/+///////v///gAH////////////4AB////////9///+AAf////////////wAP/f/////////+AAD////////P///gAA////////////4AAP///////////+AAD///////+////gAA////////////4AAP///////3///+AAD////////////gAA////////////4AAP/////v/v///+AAD/7//////////gAA///////8////4AAP//////9////+AAD////7///////gAAH/////v3////4AAAAAP4+/7////+AAAAAAAP///////AAAAAAAD//f////wAAAAAB///v////8AAAAAA/////////AAAAAAf//+//+AAAAAAAAf///z//AAAAAAAAP////f/AAAAAAAAH////3/gAAAAAAAH//////wAAAAAAAD//////4AAAAAAAB///////AAAAAAAAf////7/wAAAAAAAH////3/+AAAAAAAA////L//wAAAAAAAH///v//+AAAAAAAA//+////AAAAAAAAP//v///gAAAAAAAD//////wAAAAAAAAf/9///+AAAAAAAAD//////wAAAAAAAA/fv///+AAAAAAAAH/5////gAAAAAAAB/9////4AAAAAAAAP/f///4AAAAAAAAB/v///8AAAAAAAAAPz///+AAAAAAAAAD8////AAAAAAAAAAeH///AAAAAAAAAADg3//gAAAAAAAAAAYB//wAAAAAAAAAACAPx4AAAAAAAAAAAABweAAAAAAAAAAAAAIDgAAAAAAAAAAAAAAgAAAAA"
       },
       "parkCount": 175,
-      "downloadBytes": 315187,
-      "installedBytes": 1075595,
-      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-sherbrooke-1.0.2/qc-sherbrooke-1.0.2.zip",
-      "sha256": "f0db61330fba3679c561d93864f4287884153b16cfeb295bb98a6be7aad59ec6"
+      "downloadBytes": 315307,
+      "installedBytes": 1075832,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/qc-sherbrooke-1.0.3/qc-sherbrooke-1.0.3.zip",
+      "sha256": "1f8b320f2a6e1a4dff004f4ea0b9b925483a67b6b9aad2109134444c6f3636f2"
     },
     {
       "id": "qc-vaudreuil-soulanges",
