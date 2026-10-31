@@ -362,6 +362,36 @@
       "sha256": "e769ac2a9775a7dfa29ffcbd18283ff8911af782a89ae0ec90f5f86aa15462ad"
     },
     {
+      "id": "fr-hauts-de-seine",
+      "name": "Hauts-de-Seine",
+      "groups": [
+        "France",
+        "Île-de-France"
+      ],
+      "country": "France",
+      "region": "Île-de-France",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        2.145716,
+        48.729302,
+        2.336434,
+        48.95019
+      ],
+      "zoneCount": 36,
+      "footprint": {
+        "cols": 55,
+        "rows": 96,
+        "cells": "AAAAAAADgAAAAAAADwAAAAAADh4AAAAAAB8+AAAAAAB/+AAAAAAAf/AAAAAAAH/gAAAAAAB/4AAAAAAA/8AAAAAAA/8AAAAAAA/8AAAAAAA/8AAAAAAA//AAAAAACf/gAAAAAf//4AAAAA//+8AAAAB///+AAAAA////gAAAA////wAAAAf///8AAAAf////AAAAP////gAAAH////wAAAD////4AAAH////8AAAf////4AAAH////8AAAD////+AAAD+////gAAD/f///wAB//////4AB//////8AA///////AAf/////+AAP//////AAP//////4DH//////+D////////D////////x/f//////A////t//8A////f//wAf//+///AAP///f/PAAP///f+iAAH//3v/QAAD9//3+AAAB///7/AAAA///9/AAAAf//+/gAAAH////4AAADf///gAAAAP//9gAAAAP//6AAAAAP//8AAAAAP//+AAAAAH/+/gAAAAB///wAAAAAf//4AAAAAP//+AAAAAX///AAAAAH+//wAAAAD////AAAAA////mAAAAf////AAAAD////vwAAB///+/4AAA////v+AAAf/////gAAP///+/4AAD//////AAB////3/wAAf///9/+AAH////n/wAA////9/8AAH////v+AAA////7/AAAP////fgAAB////3gAAAf///+wAAAH////wAAAB////+AAAAf////gAAAH////4AAAB////+AAAAf////gAAAD////wAAAA////8AAAAP///+AAAAD//8/AAAAA////gAAAAHf//wAAAABlf/wAAAAAJf/wAAAAABp+AAAAAAAP4A"
+      },
+      "parkCount": 1492,
+      "downloadBytes": 299518,
+      "installedBytes": 1228897,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-hauts-de-seine-1.0.0/fr-hauts-de-seine-1.0.0.zip",
+      "sha256": "d8e3bb6770a2402b9bfce071a4944d2a07665f7ec7bad6010370d483cc5c7040"
+    },
+    {
       "id": "fr-herault",
       "name": "Hérault",
       "groups": [
@@ -390,6 +420,36 @@
       "installedBytes": 13074049,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-herault-1.0.5/fr-herault-1.0.5.zip",
       "sha256": "569e58f181f855ebf00f7242ba579dcf2dff2b23dbf09c3c0b022ed4fca549ef"
+    },
+    {
+      "id": "fr-paris",
+      "name": "Paris",
+      "groups": [
+        "France",
+        "Île-de-France"
+      ],
+      "country": "France",
+      "region": "Île-de-France",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        2.22521,
+        48.815576,
+        2.469758,
+        48.902156
+      ],
+      "zoneCount": 21,
+      "footprint": {
+        "cols": 96,
+        "rows": 52,
+        "cells": "AAAAAAAHHgAAAAAAAAAAAAA//4AAAAf4AAAAAAH//+AAAD/4AAAAAA////gAAH/8AAAAAH////wAAH/8AAAAAf////8AH//8AAAAD/////8A///8AABgf/////7h///8AABw//////3/z//8AAB7//////v/P//8AAA///////v////+AA7///////f/j//3AB7//////+//x///AB9//////9//xf/+AD+/////////x7/+AD+//////7//zx/8AD/f/////3//7B/wAB///////v//4AcAAH/v/////f//4AAAAf/3////+v//4AAAA//7////9///4AAAH//5////3///4AAA///8////73//4AAA///+f//9v///4AAA//f/f//7f///4AAA////v//z////wAAAf///3/+f////wAAAf/////7////7wAAAf/v/8fv/////wAAAP/n/////////wAAAP93//////3//wAAAH/7/////////wAAAD////////v//wAAAA///////////wAAAAf///////f//wAAAAO/f////////wAAAAAf/////////wAAAAAf3////////gAAAAAYD////////AAAAAAAD//////v8AAAAAAAD///////4AAAAAAAB/////7/wAAAAAAAA///////wAAAAAAAAf//////wAAAAAAAAH/////vwAAAAAAAAB//////wAAAAAAAAA//////wAAAAAAAAAf////+wAAAAAAAAAH/////gAAAAAAAAAB/////gAAAAAAAAAAf////AAAAAAAAAAAAB//cAAAAA"
+      },
+      "parkCount": 1805,
+      "downloadBytes": 523921,
+      "installedBytes": 1909170,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-paris-1.0.0/fr-paris-1.0.0.zip",
+      "sha256": "96b588b7f9891c42ba784e28da333826cf15628cac5c20ecd997af76a4a2baa5"
     },
     {
       "id": "fr-pyrenees-atlantiques",
@@ -450,6 +510,36 @@
       "installedBytes": 8743052,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-pyrenees-orientales-1.1.5/fr-pyrenees-orientales-1.1.5.zip",
       "sha256": "d860ee2d40219b086ef62a2402992f046850d8976b8bb52e932e102f58323cfe"
+    },
+    {
+      "id": "fr-seine-saint-denis",
+      "name": "Seine-Saint-Denis",
+      "groups": [
+        "France",
+        "Île-de-France"
+      ],
+      "country": "France",
+      "region": "Île-de-France",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        2.288278,
+        48.807251,
+        2.6033,
+        49.012332
+      ],
+      "zoneCount": 39,
+      "footprint": {
+        "cols": 96,
+        "rows": 95,
+        "cells": "AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAH8AAAAAAAAAAAAAAP8AAAAAAAAAAAAAAP4AAAAAAAAAAAAAAP4AAAAAAAAAAAAAAP4AAAAAAAAAAAAAAH4AAAAAAAAAAAAAA/4AAAAAAAAAAAAAB/gAAAAAAAAAAAAAD/gAAAAAAAAAAAAAH/gAAAAAAAAAAAAAP/gAAAAAAAAAAAAB//gAAAAAAAAAAAAD//AAAAAAAAAAAAADv/AAAAAAAAAAAAAH/+AAAAAAAAAAAAAf/+AAAAAAAAAAAAA//8AAAAAAAHgAAAD//8AAAAAAAH4AAAD//8AAAAAAAH/gAAfz94AAAAAAAH/4AC////AAAAAAAH/3AH///fAAAAAAAP//CH//5/gAAAAAAP////////gAAAAAAP///////PgAAAAAAP///////oAAAAAAAP///////wAAAAAAAP///////wAAAAAAAP///////gAAAAAAAP///////wAAAAAAAP///////wAAAAAAAf///////wAAAAAAB////////gAAAAAAD///////+AAAAAAAD///////+AAAAAAAD///////+AAAAAAAD////////gAAAAAAD////////8AAAAAAH/////////gAAAAAH//////+//gAAAAAP/////////wADwAAf/////////gAD//////9//////AAD/////////////gAH/////////////4AH//3/////3///3wAP/////////////wAH/////////////wAA/////////////wADf////////f///wAA//f//////////wAAv////////////wAAf////////////4AAP////////////8AAL/////////////AAH/////////////AAH/////////////AAH/////////////AAH//////////v/+AAH///7////////8AAL///3//////+/4AAX////////////4ABf//7/////////4AZ///9f////////4HP///////v/////wf//////////////wf///////n//////g//v///fwD9/////A/4H//8EAB/////+AfwH//4AAA/////+AOAD//wAAA/////8AEAD//gAAAP/9//4AAAAH/AAAADf/7/4AAAAH+AAAAAf///wAAAAHwAAAAAf///gAAAAAAAAAAAD///gAAAAAAAAAAAB///AAAAAAAAAAAAB///AAAAAAAAAAAAAH//8AAAAAAAAAAAAH//8AAAAAAAAAAAAP8/+AAAAAAAAAAAAD//+AAAAAAAAAAAAD//+AAAAAAAAAAAAB//+AAAAAAAAAAAAA//+AAAAAAAAAAAAA//8AAAAAAAAAAAAA//8AAAAAAAAAAAAAf3wAAAAAAAAAAAAAP/4AAAAAAAAAAAAAPfgAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAADwA"
+      },
+      "parkCount": 1589,
+      "downloadBytes": 303897,
+      "installedBytes": 1276620,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-seine-saint-denis-1.0.0/fr-seine-saint-denis-1.0.0.zip",
+      "sha256": "912a487763ec303cc59ed261502b81cedabbee6fa2d43f9580bd86cf9f22e002"
     },
     {
       "id": "fr-val-de-marne",
