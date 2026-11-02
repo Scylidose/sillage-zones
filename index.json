@@ -152,6 +152,36 @@
       "sha256": "66b1447b045dda12692b3b3f09e6d0596394382baa877dad092ba2f01bd638f7"
     },
     {
+      "id": "es-madrid",
+      "name": "Communauté de Madrid",
+      "groups": [
+        "Espagne",
+        "Communauté de Madrid"
+      ],
+      "country": "Espagne",
+      "region": "Communauté de Madrid",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -4.579006,
+        39.884626,
+        -3.052985,
+        41.165738
+      ],
+      "zoneCount": 202,
+      "footprint": {
+        "cols": 87,
+        "rows": 96,
+        "cells": "AAAAAAAQAAAAAAAAAAAAAPAAAAAAAAAAAAAB+AAAAAAAAAAAAALwAAAAAAAAAAAAAfAAAAAAAAAAAAAAfAAAAAAAAAAAAAAfAAAAAAAAAAAAAH4AAAAAAAAAAAAAfgAAAAAAAAAAAAB+AAAAAAAAAAAAAD/AAAAAAAAAAAAAP8CAAAAAAAAAAAA//4AAAAAAAAAAAD/+H4YAAAAAAAAA//9/nwAAAAAAAAB/////AAAAAAAAAf////4AAAAAAAAH////+AAAAAAAAD/////wAAAAAAAf/////8AAAAAAAH//////wAAAAAAO//////+AAAAAAB//7////gAAAAAD///////88AAAAE///9////jwAwAB////////8fwPAAP////////j+D4Hn///////88f4fgd////////jD/j/P////////8IH+f9/////+///wB/z///////5//+AN//3//////v//wBD////////////AAf///////////4AB////////+///gAP///////////4AB9/////+/////gAO///////////8AAA///////////gAAP//////////4AAB//////////+AAAH//////////gAAA//////9///8AAAH//////////gAAA//////////8AAAP//////////gAAA//////////4AAAH/////////uAAAA//3//////+AAAAH/////////wAAAAP/7//////+AAAAB////3////AAAAAP////////wAAAABD////////AAAAAIH///////wAAAAAB///7///9AAAAAgP///////AAAAAHB///////4AAAAAQP//////jAAAAAAA//////4QAAAAAAD//////gAAAAAAAf39P//+AAAAAAAB//4///wAAAAAAAH/////+AAAAAAAAf///7/wAAAAAAAD//v/f8AAAAAAAAN///f+AAAAAAAAAD////wAAAAAAAAAP///+AAAAAAAAAB////4AAAAAAAAAP////AAAAAAAAAA////4AAAAAAAAAH////AAAAAAAAAA////+AAAAAAAAAH////wAAAAAAAAA///+MAAAAAAAAAD///3wAAAAAAAAAP///+AAAAAAAAAB/f//wAAAAAAAAAH////AAAAAAAAAAP/f/4AAAAAAAAAAf/7/AAAAAAAAAAA///8AAAAAAAAAAD///gAAAAAAAAAAP//4AAAAAAAAAAB///AAAAAAAAAAAH//wAAAAAAAAAAAf//AAAAAAAAAAAB//4AAAAAAAAAAAD/4AAAAAAAAAAAAP+AAAAAAAAAAAAB/wAAAAAAAAAAAAH8AAAAAAAAAAAAAfAAAAAAAAAAAAABwAAAA"
+      },
+      "parkCount": 9118,
+      "downloadBytes": 2252141,
+      "installedBytes": 9466833,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/es-madrid-1.0.0/es-madrid-1.0.0.zip",
+      "sha256": "83110b67f2076ecca6b2c272a302da0196b72dca4d69c610468fad109310d948"
+    },
+    {
       "id": "es-malaga",
       "name": "Province de Málaga",
       "groups": [
@@ -600,6 +630,37 @@
       "installedBytes": 9820301,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/it-verona-1.0.6/it-verona-1.0.6.zip",
       "sha256": "434daa75f0ea9b05f426854f683fdea892e67040eff4cbb070fb12a5602dc951"
+    },
+    {
+      "id": "on-toronto",
+      "name": "Toronto",
+      "groups": [
+        "Canada",
+        "Ontario",
+        "Grand Toronto"
+      ],
+      "country": "Canada",
+      "region": "Ontario",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -79.639283,
+        43.579888,
+        -79.115411,
+        43.855443
+      ],
+      "zoneCount": 26,
+      "footprint": {
+        "cols": 96,
+        "rows": 70,
+        "cells": "AABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAB5AAAAAAAAAAAAAAB/gAAAAAAAAAAAAAD/wAAAAAAAAAAAAAH/wAAAAAAAAAAAAAP/4AAAAAAAAAAAAAf/8AAAAAAAAAAAAAP/+AADAAAAAAAAAAf/9AAHggAAAAAAAAf/+AAFIYAAAAAAAAP//AAOAQAAAAAAAD///ABcEEAAAAAAAD//+AfgCEAAAAAAAD//+7/4BAAAAAAAAD///v/+DgAAAAAAA///7////UAAAAAAA3//////+uAAAAAAAf///////2AAAAAAAP//////98AAAAAAAP///////+gAAAAAAH////////wAAAAAAH/+//////8AAAAAAP/////////AAAAAAP/////////gAAAAAP//f//////wAAAAAf/////////wAAAAAf/////////4AAAAA//////////8AAAAA//////////+AAAAB///////////AAAAB///////////gAAABv//////////wAAAD//f////////4AAAD////////f//8AAAH///////////8AAAH////////////AAAP//f/////////AAAP///////7////gAAP/9//////////wAAf///9////////4AAf/7//////v///8AA/////////////+AAf/////////////AAD/////////////wAAP////////////8AAB/////////////AAAP////////////gAAB////////////wAAAH///////////4AAAA///////////4AAAAH//////////8AAAAA//////////+AAAAAD/////////+AAAAAAf////////+AAAAAAD////////8AAAAAAAP///////4AAAAAAAB//////+4AAAAAAAAP/////9AAAAAAAAAB/////+AAAAAAAAAAP////+AAAAAAAAAAA////+AAAAAAAAAAAH///8AAAAAAAAAAAA///8AAAAAAAAAAAAH//8AAAAAAAAAAAAA//4AAAAAAAAAAAAAH/4AAAAAAAAAAAAAA/4AAAAAAAAAAAAAAHwAAAAAAAAAAAAAAAwA"
+      },
+      "parkCount": 1743,
+      "downloadBytes": 837048,
+      "installedBytes": 2982524,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/on-toronto-1.0.0/on-toronto-1.0.0.zip",
+      "sha256": "eb742733c9bdffd03bd9abdde44f075d977a40491797c118f91e643fe8ba2803"
     },
     {
       "id": "qc-couronne-nord",
