@@ -16,7 +16,8 @@ Two files describe rather than delimit, and come from Wikimedia:
 - `curiosities.json` — titles and coordinates of geolocated **Wikipedia**
   articles (French and English), whose text is available under
   [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); each entry
-  links back to its article.
+  links back to its article. Its `facts` (types, heritage status, state of use)
+  come from **Wikidata**, under CC0.
 
 Because these packs are a derived database of ODbL material, they are
 distributed under the **ODbL** as well: you may copy, modify and redistribute

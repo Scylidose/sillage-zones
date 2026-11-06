@@ -1,6 +1,6 @@
 # Toronto
 
-Pack `on-toronto` · version 1.0.0 · grille 200 m · Canada › Ontario › Grand Toronto
+Pack `on-toronto` · version 1.0.1 · grille 200 m · Canada › Ontario › Grand Toronto
 
 > Généré par `scripts/build_pack_readme.py`. Ne pas éditer à la main : les nombres sont recalculés depuis les frontières du pack.
 
