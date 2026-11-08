@@ -302,6 +302,36 @@
       "sha256": "e5a31cce17cd1cb9d29899eb10f4cf6cc2894c9dd7195caceba6522526bafa62"
     },
     {
+      "id": "fr-deux-sevres",
+      "name": "Deux-Sèvres",
+      "groups": [
+        "France",
+        "Nouvelle-Aquitaine"
+      ],
+      "country": "France",
+      "region": "Nouvelle-Aquitaine",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        -0.903476,
+        45.969668,
+        0.220374,
+        47.108395
+      ],
+      "zoneCount": 252,
+      "footprint": {
+        "cols": 65,
+        "rows": 96,
+        "cells": "AAAAAAACAAAAAAAAAAPAAAAAAAAAA/AAAAAAAAAD8AAAAAAAAAH+AAAAAAAAAv8AAAAAAAAF/wAAAAAAAB//6AAAAAAAD///AAAAAAB3//+AAAAAA/////GAAAAd/////8AAAB//////8AAAH//////4AAKf//////4AAf//////+wAA///////4AAH///////gAA///////+AAA///////8AAB/////f/4AAH///////4AA////////wAD////////gAH////////AAH////////gAf3///////AA////////8AAff//////8AAz//////x4AAH9v///+DwAAD/////+DAAAH/////4AAAAB/////4AAAAB/////wAAAAD/////AAAACf////8AAAAP/////wAAAAP/////wAAAAf/////AAAAA//////AAAAA///+/8AAAAD///9/wAAAAH/////gAAAAP/////AAAAA/////7AAAAB/////8AAAAA/////+AAAAB//3//+AAAAD//7//4AAAAP/////wAAAAf/////wAAAA////9/wAAAB/+////gAAAD/////8AAAAH////+IAAAA/3///uQAAAA/////+AAAAB/////8AAAAH/////8AAAAf/////4AAAAf/////4AAAA////+/wAAAD/9////wAAAP//////wAAAf3/////AAAB//////4AAAH//v///wAAAP//////gAAAP//////AAAAf////7/AAAA//////8AAAH//////wAAA/9/3/1/yAAB///////8AAH///////gAAf/3////8AAB///f///8AAB///////4AAD///////4AAP///////gAAf/////9/AAH///////8AAP///3///4AA2////7//wAAP///////gAADR3////4AAAAAH////wAAAAAD////gAAAAAD////AAAAAAP///+AAAAAAe///8AAAAAAdv/tAAAAAAAOP/4AAAAAAAAW/cAAAAAAAAAEwAAA"
+      },
+      "parkCount": 7319,
+      "downloadBytes": 5381181,
+      "installedBytes": 19665053,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-deux-sevres-1.0.0/fr-deux-sevres-1.0.0.zip",
+      "sha256": "694e832068ae32d507ae3ee758ac9aca681b8fdd3c2977fe537fd522b355502b"
+    },
+    {
       "id": "fr-gard",
       "name": "Gard",
       "groups": [
