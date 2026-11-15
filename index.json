@@ -302,6 +302,36 @@
       "sha256": "e5a31cce17cd1cb9d29899eb10f4cf6cc2894c9dd7195caceba6522526bafa62"
     },
     {
+      "id": "fr-cher",
+      "name": "Cher",
+      "groups": [
+        "France",
+        "Centre-Val de Loire"
+      ],
+      "country": "France",
+      "region": "Centre-Val de Loire",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        1.773911,
+        46.420456,
+        3.079192,
+        47.629099
+      ],
+      "zoneCount": 286,
+      "footprint": {
+        "cols": 71,
+        "rows": 96,
+        "cells": "AAAH4AAAAAAAAAAP4AAAAAAAAAAfwAAAAAAAAAAfgAAAAAAAAAAfwAAAAAAAAAA/gAAAAAAAAAB/AAAAAAAAAAH/gAAAAAAAAAP//UAAAAAAAA///+AAAAAAAB////AAAAAAAB///8AAAAAAAD///4AAAAAAAP///wAAAAAAAP///AAAAAAAAf/v+AAAAAAAA///8AAAAAAAA///8AAAAAAAH///gAAAAAAAf///8AAAAAAA////wAAAAAAA////4AAAAAAH//+/4AAAAAA/////4AAAAAB/////xgAAAAH//+//z4AAAAH/3////4AAAAH///3//4AAAAHv/////8AAAAf/+////4AAAB////////4AAH//f/////wAAf////7/7/wAAP////////gAAf//////9/AAA////////+AAA3///////8AAAf///////4AAAf/////f/gAAH////////gAA/////////AAB////////+AAD////////+AAD////////4AAH////////wAAH9///////gAAP////9///AAA/////////AAD////////+AAf////////4AA/////////gAA////////+AAB////////8AAL////////4Bwf////////wP5/3///////j///////////D//////////+D//////////8H////+/////wD//////////gH//////////AL/////////8AD/////////4AD///+f////gAP/////////AAf////9///+AAef///7///4AAQM///////wAAAB///////AAAAB//////oAAAAH///+//gAAAAf//////AAAAA//////+AAAAB//////8AAAAH//////8AAAAP//////4AAAAf//3///4AAAAOf/////wAAAAMf/////gAAAAI//////gAAAAB//////AAAAAD/////8AAAAAP/////4AAAAAe///v/gAAAAD///+HvAAAAAD///8OMAAAAAH+//gYAAAAAAf///AAAAAAAA/9/8AAAAAAAff//gAAAAAAA///zAAAAAAAB///AAAAAAAAB98MAAAAAAAAAPwAAAAAAAAAAGAAAAAAA"
+      },
+      "parkCount": 4993,
+      "downloadBytes": 4145090,
+      "installedBytes": 15057958,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-cher-1.0.0/fr-cher-1.0.0.zip",
+      "sha256": "dbe8bb4d3fc0b0a7f9b56e06b700ee1f6d639fb4d9264364f43c8b9c31fe8677"
+    },
+    {
       "id": "fr-deux-sevres",
       "name": "Deux-Sèvres",
       "groups": [
@@ -480,6 +510,36 @@
       "installedBytes": 13114478,
       "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-herault-1.0.6/fr-herault-1.0.6.zip",
       "sha256": "51c2a802137fd02330c9da6835dfd69ed48f71c9ae857ff62f6162fff8645a34"
+    },
+    {
+      "id": "fr-loir-et-cher",
+      "name": "Loir-et-Cher",
+      "groups": [
+        "France",
+        "Centre-Val de Loire"
+      ],
+      "country": "France",
+      "region": "Centre-Val de Loire",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        0.580554,
+        47.186241,
+        2.24803,
+        48.133394
+      ],
+      "zoneCount": 267,
+      "footprint": {
+        "cols": 96,
+        "rows": 81,
+        "cells": "AAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA/AAAAMAAAAAAAAAB/AgAB+AAAAAAAAAB/3gAPeAAAAAAAAAD//gAf8AAAAAAAAAH+/8I/+AAAAAAAAEP/+8a6+HAAAAAAANP3//f3/f9AAAAAAf//3//////AAAAAA//////////AAAAAA//939/////AAAAAAf////////+AAAAAAf///////v+AAAAAAf////////+AAAAAA////////f4AAAAAAf///9////4AAAAAAP/////f//8AAAAAAf/////7//8AAAAAA/////3///9HAAAAB/////77///3AAAAAf///7////v/AAAAAP////////9/AAAAAf///v//////AAAAB///3/zf/7/+AAAAB///3//e8///AAAAB/v///v////4AAAAD/3//9/9b/+8AAAAD//////////8AAAAH////2//3//8AAAAH//////////wAAAAD/////7//3+AAAAAD/////////+AAAAAD/////////+AAAABH///////v//AAACBv//////////gAADB///3////7//8AADj//////5z///7AAD////////v//3/AAH///////67z//+AAD/////9//gfv/+AAD////////gfD/MAR7//////v/AQAAAS//////////AAAAA7//////////AAAAA//////////+AAAAAP////////9+AAAAAP////////+4AAAAAD////////4gAAAAABf///////wAAAAAAAf///////wAAAAAAAP///////4AAAAAAAP///////wAAAAAAAH///////wAAAAAAAH///////gAAAAAAAB///////gAAAAAAAB///////wAAAAAAAD///////4AAAAAAAD///////8AAAAAAAD///////8AAAAAAADv//////8AAAAAAABf//v///4AAAAAAAAf/v////wAAAAAAAAf//f///AAAAAAAAAH/f////AAAAAAAAAH///v//gAAAAAAAAH///7D/wAAAAAAAAP///YCf4AAAAAAAAP//+AAeIAAAAAAAAP//+AAcAAAAAAAAAH//8AAQAAAAAAAAAH//8AAAAAAAAAAAAf//wAAAAAAAAAAAA///gAAAAAAAAAAAA///gAAAAAAAAAAAA///gAAAAAAAAAAAAH/8AAAAAAAAAAAAAP/AAAAAAAAAAAAAAGbAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA4AAAAAAAAAAA"
+      },
+      "parkCount": 8749,
+      "downloadBytes": 5906602,
+      "installedBytes": 21402983,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-loir-et-cher-1.0.0/fr-loir-et-cher-1.0.0.zip",
+      "sha256": "0075773e96b6dd0cfd68a9b45b7062bf7e8309c05e0a4e71e52776254b44effb"
     },
     {
       "id": "fr-paris",
