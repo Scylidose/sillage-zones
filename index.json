@@ -302,6 +302,36 @@
       "sha256": "e5a31cce17cd1cb9d29899eb10f4cf6cc2894c9dd7195caceba6522526bafa62"
     },
     {
+      "id": "fr-bouches-du-rhone",
+      "name": "Bouches-du-Rhône",
+      "groups": [
+        "France",
+        "Provence-Alpes-Côte d'Azur"
+      ],
+      "country": "France",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "version": "1.0.0",
+      "formatVersion": 1,
+      "cellSizeM": 200,
+      "bbox": [
+        4.230136,
+        43.157398,
+        5.813521,
+        43.923497
+      ],
+      "zoneCount": 119,
+      "footprint": {
+        "cols": 96,
+        "rows": 64,
+        "cells": "AAAAAAAAAAAAABAAAAAAAAAAAAACAHAAAAAAAAAAAAAAAPsAAAAAAAAAAAAIAP8AAAAAAAAAAAAN3/8AAAAAAAAAAAAP//8AAAAAAAAAAAAP//8AAAAAAAAAAAAH//+AAAAAAAAAAAAH///gAAAAAAAAAAAH///4AAAAAAAAAABP///4AAAAAAAAAAAH/7/wAAAAAAAAAAAH///gAAAAAAAAAAAP//8AAAAAAAAAX7gP//+AAAAAABYA//4f//+AAAABCiUA//8///+AAAAFSBSB//////+AAAAAClxB//////+AAAALAnwD//////8AAAACOXwEBX////+IAAABPvoHwB/////8AAAEfe8HwB/////4AAAAb/3/wB/////wACAY/9/vwAf////gB0qR/v/3wQ/////gJ7hjfv/+AY/////ABeAWLf/6A8////+AJ/BBn+/+A//////AHeQg/9/+A//////ABfdgfb/8Q//////AB/sAf3/+f//////AAfgAu//+f//////AAD0A9/////////+AAB//7/////////4AAA6/3/////////8AAAM/3/////////8AAAH///+f//////8AAA//r/////////8AAA/+/7////////+AAAf9///////////AAAf//////////5/gAAP/////////+A/+AAH////f////gAP+AAH8////////AAG/AAAg///////8AAAMAAAA///////wAAAMAAAB///////gAAAAAAAA/////5+AAAAAAAAA/////wAAAAAAAAAA/////AAAAAAAAAAAd///8AAAAAAAAAAAP///wAAAAAAAAAAAP///gAAAAAAAAAAAP///gAAAAAAAAAAAf///gAAAAAAAAAAAf///AAAAAAAAAAAAP//8AAAAAAAAAAAAf/v8AAAAAAAAAAAAP//4AAAAAAAAAAAAD//gAAAAAAAAAAAAB/8AAAAAAAAAAAAAA/4AAAAAAAAAAAAAAcAAAAAAAAAA"
+      },
+      "parkCount": 5038,
+      "downloadBytes": 3133700,
+      "installedBytes": 11198097,
+      "url": "https://github.com/Scylidose/sillage-zones/releases/download/fr-bouches-du-rhone-1.0.0/fr-bouches-du-rhone-1.0.0.zip",
+      "sha256": "0c9216fe638802fa31768affcefb2edc98b11ac40bef02f4f6e70ba9f2b10330"
+    },
+    {
       "id": "fr-cher",
       "name": "Cher",
       "groups": [
